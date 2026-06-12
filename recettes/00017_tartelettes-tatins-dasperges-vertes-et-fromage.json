@@ -1,0 +1,216 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tartelettes-tatins-dasperges-vertes-et-fromage",
+  "recipe_id": "00017",
+  "file": "recettes/00017_tartelettes-tatins-dasperges-vertes-et-fromage.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tartelettes-tatins-dasperges-vertes-et-fromage",
+    "title": "Tartelettes tatins d’asperges vertes et fromage",
+    "original_title": "Tartelettes tatins d’asperges vertes et fromage",
+    "source_file": "Tartelettes tatins d’asperges vertes et fromage.melarecipe",
+    "categories": [
+      "Légumes rôtis",
+      "Plats",
+      "Tarte",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Asperge verte",
+      "1 unité de Fromage",
+      "1 unité de Pâte feuilletée",
+      "1 unité de Huile d’olive",
+      "1 unité de Vinaigre balsamique",
+      "1 unité de Thym",
+      "1 unité de Miel",
+      "1 unité de Noisettes"
+    ],
+    "ingredients_raw": "1 unité de Asperge verte\n1 unité de Fromage\n1 unité de Pâte feuilletée\n1 unité de Huile d’olive\n1 unité de Vinaigre balsamique\n1 unité de Thym\n1 unité de Miel\n1 unité de Noisettes",
+    "instructions": ". Préchauffez votre four à 200°C\n. Sur une feuille de papier cuisson, déposez un filet d’huile d’olive et un filet de vinaigre balsamique.\n. Étalez et disposez quelques asperges (les miennes sont assez fines alors si vous utilisez des asperges plus grosses vous pouvez les blanchir 5 min dans l’eau bouillante avant utilisation)\n. Recouvrez d’un morceau de camembert (ou autre fromage).\n. Saupoudrez d’un peu de thym.\n. Recouvrez avec un morceau de pâte feuilletée.\n. Enfournez les tatins au four environ 20 minutes (jusqu’à ce que la pâte soit dorée et croustillante).\n. Une fois les tatins cuites, sortez-les du four et laissez-les légèrement refroidir.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C5d1SZYCaDk",
+    "source_id": "instagram.com/reel/C5d1SZYCaDk",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Asperges vertes fines",
+      "Fromage au choix",
+      "Pâte feuilletée",
+      "Huile d’olive",
+      "Vinaigre balsamique",
+      "Thym",
+      "Miel",
+      "Noisettes"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Asperge verte",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Asperge verte"
+      },
+      {
+        "raw": "Fromage au choix",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fromage"
+      },
+      {
+        "raw": "Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Vinaigre balsamique",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "raw": "Noisettes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Noisettes"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00017",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Asperges vertes fines",
+        "quantity": "",
+        "unit": "",
+        "name": "Asperges vertes fines"
+      },
+      {
+        "raw": "Fromage au choix",
+        "quantity": "",
+        "unit": "",
+        "name": "Fromage au choix"
+      },
+      {
+        "raw": "Pâte feuilletée",
+        "quantity": "",
+        "unit": "",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Vinaigre balsamique",
+        "quantity": "",
+        "unit": "",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "",
+        "unit": "",
+        "name": "Thym"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "",
+        "unit": "",
+        "name": "Miel"
+      },
+      {
+        "raw": "Noisettes",
+        "quantity": "",
+        "unit": "",
+        "name": "Noisettes"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00017_tartelettes-tatins-dasperges-vertes-et-fromage.jpg",
+    "images": [
+      "images/00017_tartelettes-tatins-dasperges-vertes-et-fromage.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Asperge verte",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Asperge verte"
+      },
+      {
+        "raw": "Fromage au choix",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fromage au choix"
+      },
+      {
+        "raw": "Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Vinaigre balsamique",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "raw": "Noisettes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Noisettes"
+      }
+    ]
+  }
+}

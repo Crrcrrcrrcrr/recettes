@@ -1,0 +1,362 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "lasagnes-aux-oignons-caramelises-et-a-la-ricotta",
+  "recipe_id": "00062",
+  "file": "recettes/00062_lasagnes-aux-oignons-caramelises-et-a-la-ricotta.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "lasagnes-aux-oignons-caramelises-et-a-la-ricotta",
+    "title": "Lasagnes aux oignons caramélisés et à la ricotta",
+    "original_title": "Lasagnes aux oignons caramélisés et à la ricotta",
+    "source_file": "Lasagnes aux oignons caramélisés et à la ricotta.melarecipe",
+    "categories": [
+      "Lasagnes",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "250 g de Feuille de lasagne",
+      "6 unité de Oignon jaune",
+      "6 gousse de Ail",
+      "80 ml de Vin rouge ou blanc",
+      "1 cuillère à café de Sauce Worcestershire",
+      "80 ml de Bouillon de légumes",
+      "4 cuillère à soupe de Beurre",
+      "1 unité de Huile d’olive",
+      "250 g de Ricotta",
+      "1/3 cup de Persil",
+      "1 unité de Œuf",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "330 g de Mozzarella râpée",
+      "40 g de Parmesan",
+      "1 unité de Thym frais"
+    ],
+    "ingredients_raw": "250 g de Feuille de lasagne\n6 unité de Oignon jaune\n6 gousse de Ail\n80 ml de Vin rouge ou blanc\n1 cuillère à café de Sauce Worcestershire\n80 ml de Bouillon de légumes\n4 cuillère à soupe de Beurre\n1 unité de Huile d’olive\n250 g de Ricotta\n1/3 cup de Persil\n1 unité de Œuf\n1 unité de Sel\n1 unité de Poivre\n330 g de Mozzarella râpée\n40 g de Parmesan\n1 unité de Thym frais",
+    "instructions": "Coupez les oignons. Dans une grande poêle, faites fondre le beurre avec un peu d’huile d’olive. Une fois que ça grésille, ajoutez les oignons et faites-les cuire à feu moyen-doux. Remuez fréquemment et patiemment pendant 20 à 30 minutes jusqu’à ce qu’ils soient magnifiquement caramélisés.\nPendant ce temps, faites chauffer une grande casserole d’eau salée et faites cuire les feuilles de lasagne selon les instructions du paquet. Égouttez-les et étalez-les à plat sur une planche à découper.\nAjoutez l’ail aux oignons et laissez-le se mélanger pendant environ 2 minutes, puis versez le vin de votre choix. Laissez mijoter brièvement pour déglacer la poêle, puis ajoutez la sauce Worcestershire et le bouillon. Continuez à laisser mijoter jusqu’à ce que le bouillon ait presque complètement évaporé.\nPréparez la garniture à base de ricotta en mélangeant le fromage ricotta, le persil frais, l’œuf et une pincée de sel et de poivre.\nPréchauffez votre four à 205°C. Dans un plat allant au four, commencez à superposer vos lasagnes. Débutez avec 3 feuilles de lasagne, puis ajoutez environ 75 % des oignons caramélisés et saupoudrez de 1/3 de la mozzarella. Ajoutez une autre couche de feuilles, étalez la majeure partie du mélange à base de ricotta, puis répétez les couches en terminant par les oignons restants, de la mozzarella et une généreuse pluie de parmesan.\nEnfournez votre chef-d’œuvre pendant 20 à 30 minutes, ou jusqu’à ce que le dessus soit doré et bouillonnant comme une source chaude.\nUne fois sorti du four, laissez-le reposer pendant environ 15 minutes. Optionnellement, décorez de thym frais et d’un supplément de parmesan !",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C_TbznXSkoE",
+    "source_id": "instagram.com/reel/C_TbznXSkoE",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "250 g de feuilles de lasagne",
+      "6 oignons jaunes, émincés",
+      "6 gousses d’ail, hachées",
+      "80 ml de vin rouge ou blanc",
+      "1 cc de sauce Worcestershire",
+      "80 ml de bouillon de bœuf ou de légumes",
+      "4 cs de beurre",
+      "Huile d’olive",
+      "250 g de ricotta",
+      "1/3 cup de persil frais, haché",
+      "1 œuf",
+      "Sel et poivre, selon votre goût",
+      "330 g de mozzarella râpée",
+      "40 g de parmesan râpé",
+      "Thym frais, pour la garniture (optionnel)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "250 g de Feuille de lasagne",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Feuille de lasagne"
+      },
+      {
+        "raw": "6 Oignon jaune",
+        "quantity": "6",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "6 gousse de Ail",
+        "quantity": "6",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "80 ml de Vin rouge ou blanc",
+        "quantity": "80",
+        "unit": "ml",
+        "name": "Vin rouge ou blanc"
+      },
+      {
+        "raw": "1 cuillère à café de Sauce Worcestershire",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sauce Worcestershire"
+      },
+      {
+        "raw": "80 ml de Bouillon de légumes",
+        "quantity": "80",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "4 cuillère à soupe de Beurre",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "250 g de Ricotta",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Ricotta"
+      },
+      {
+        "raw": "1/3 Cup de persil frais, haché",
+        "quantity": "1/3",
+        "unit": "tasse",
+        "name": "Persil"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "Sel et poivre, selon votre goût",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Sel et poivre, selon votre goût",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "330 g de Mozzarella râpée",
+        "quantity": "330",
+        "unit": "g",
+        "name": "Mozzarella râpée"
+      },
+      {
+        "raw": "40 g de Parmesan",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Thym frais, pour la garniture (optionnel)",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym frais"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00062",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "250 g de feuilles de lasagne",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Feuilles de lasagne"
+      },
+      {
+        "raw": "6 oignons jaunes, émincés",
+        "quantity": "6",
+        "unit": "",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "6 gousses d’ail, hachées",
+        "quantity": "6 gousses",
+        "unit": "gousses",
+        "name": "Ail, hachées"
+      },
+      {
+        "raw": "80 ml de vin rouge ou blanc",
+        "quantity": "80 ml",
+        "unit": "ml",
+        "name": "Vin rouge ou blanc"
+      },
+      {
+        "raw": "1 cc de sauce Worcestershire",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Sauce Worcestershire"
+      },
+      {
+        "raw": "80 ml de bouillon de bœuf ou de légumes",
+        "quantity": "80 ml",
+        "unit": "ml",
+        "name": "Bouillon de bœuf ou de légumes"
+      },
+      {
+        "raw": "4 cs de beurre",
+        "quantity": "4 cs",
+        "unit": "cs",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "250 g de ricotta",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Ricotta"
+      },
+      {
+        "raw": "1/3 cup de persil frais, haché",
+        "quantity": "1/3",
+        "unit": "",
+        "name": "Cup de persil frais, haché"
+      },
+      {
+        "raw": "1 œuf",
+        "quantity": "1",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "Sel et poivre, selon votre goût",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel et poivre, selon votre goût"
+      },
+      {
+        "raw": "330 g de mozzarella râpée",
+        "quantity": "330 g",
+        "unit": "g",
+        "name": "Mozzarella râpée"
+      },
+      {
+        "raw": "40 g de parmesan râpé",
+        "quantity": "40 g",
+        "unit": "g",
+        "name": "Parmesan râpé"
+      },
+      {
+        "raw": "Thym frais, pour la garniture (optionnel)",
+        "quantity": "",
+        "unit": "",
+        "name": "Thym frais, pour la garniture (optionnel)"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00062_lasagnes-aux-oignons-caramelises-et-a-la-ricotta.jpg",
+    "images": [
+      "images/00062_lasagnes-aux-oignons-caramelises-et-a-la-ricotta.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "250 g de Feuille de lasagne",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Feuille de lasagne"
+      },
+      {
+        "raw": "6 Oignon jaune",
+        "quantity": "6",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "6 gousse de Ail",
+        "quantity": "6",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "80 ml de Vin rouge ou blanc",
+        "quantity": "80",
+        "unit": "ml",
+        "name": "Vin rouge ou blanc"
+      },
+      {
+        "raw": "1 cuillère à café de Sauce Worcestershire",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sauce Worcestershire"
+      },
+      {
+        "raw": "80 ml de Bouillon de légumes",
+        "quantity": "80",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "4 cuillère à soupe de Beurre",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "250 g de Ricotta",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Ricotta"
+      },
+      {
+        "raw": "1/3 Cup de persil frais, haché",
+        "quantity": "1/3",
+        "unit": "unité",
+        "name": "Cup de persil frais, haché"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "Sel et poivre, selon votre goût",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel et poivre, selon votre goût"
+      },
+      {
+        "raw": "330 g de Mozzarella râpée",
+        "quantity": "330",
+        "unit": "g",
+        "name": "Mozzarella râpée"
+      },
+      {
+        "raw": "40 g de Parmesan",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Thym frais, pour la garniture (optionnel)",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym frais, pour la garniture (optionnel)"
+      }
+    ]
+  }
+}

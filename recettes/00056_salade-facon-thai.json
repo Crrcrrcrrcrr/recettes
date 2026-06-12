@@ -1,0 +1,341 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-facon-thai",
+  "recipe_id": "00056",
+  "file": "recettes/00056_salade-facon-thai.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "salade-facon-thai",
+    "title": "Salade façon thaï",
+    "original_title": "Salade façon thaï",
+    "source_file": "Salade façon thaï.melarecipe",
+    "categories": [
+      "Plats",
+      "Salade",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "3 cuillère à soupe de Beurre de cacahuète",
+      "3 cuillère à soupe de Chili oil",
+      "3 cuillère à soupe de Sauce soja",
+      "3 cuillère à soupe de Vinaigre de riz",
+      "1,5 unité de Jus de citron",
+      "3 bloc de Tofu ferme",
+      "3 portion de Nouilles de riz",
+      "1 unité de Edamame",
+      "1 unité de Carotte",
+      "1 unité de Concombre",
+      "1 unité de Coriandre",
+      "1 unité de Menthe",
+      "1 unité de Cacahuète"
+    ],
+    "ingredients_raw": "3 cuillère à soupe de Beurre de cacahuète\n3 cuillère à soupe de Chili oil\n3 cuillère à soupe de Sauce soja\n3 cuillère à soupe de Vinaigre de riz\n1,5 unité de Jus de citron\n3 bloc de Tofu ferme\n3 portion de Nouilles de riz\n1 unité de Edamame\n1 unité de Carotte\n1 unité de Concombre\n1 unité de Coriandre\n1 unité de Menthe\n1 unité de Cacahuète",
+    "instructions": "Bien mélanger le tout avant de déguster à la maison ou au bureau c’est pratique ✨",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DBEpH_KsPmB",
+    "source_id": "instagram.com/reel/DBEpH_KsPmB",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "3cs de peanut butter",
+      "3cs de chili oil",
+      "3cs de sauce soja",
+      "3cs de vinaigre de riz",
+      "1,5 jus de citron",
+      "3 blocs de tofu nature ferme (ou des crevettes, du poulet…)",
+      "3 portions de nouilles de riz ou autre",
+      "Légumes au choix, ici :",
+      "Edamame",
+      "Carotte",
+      "Concombre",
+      "Topping :",
+      "Coriandre",
+      "Menthe",
+      "Cacahuètes"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "3 Cs de peanut butter",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "3 Cs de chili oil",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Chili oil"
+      },
+      {
+        "raw": "3 Cs de sauce soja",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "3 Cs de vinaigre de riz",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1,5 Jus de citron",
+        "quantity": "1,5",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "3 Blocs de tofu nature ferme (ou des crevettes, du poulet…)",
+        "quantity": "3",
+        "unit": "bloc",
+        "name": "Tofu ferme"
+      },
+      {
+        "raw": "3 Portions de nouilles de riz ou autre",
+        "quantity": "3",
+        "unit": "portion",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "Edamame",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Edamame"
+      },
+      {
+        "raw": "Carotte",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "Concombre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Concombre"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "Menthe",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Menthe"
+      },
+      {
+        "raw": "Cacahuète",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cacahuète"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00056",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "3cs de peanut butter",
+        "quantity": "3",
+        "unit": "",
+        "name": "Cs de peanut butter"
+      },
+      {
+        "raw": "3cs de chili oil",
+        "quantity": "3",
+        "unit": "",
+        "name": "Cs de chili oil"
+      },
+      {
+        "raw": "3cs de sauce soja",
+        "quantity": "3",
+        "unit": "",
+        "name": "Cs de sauce soja"
+      },
+      {
+        "raw": "3cs de vinaigre de riz",
+        "quantity": "3",
+        "unit": "",
+        "name": "Cs de vinaigre de riz"
+      },
+      {
+        "raw": "1,5 jus de citron",
+        "quantity": "1,5",
+        "unit": "",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "3 blocs de tofu nature ferme (ou des crevettes, du poulet…)",
+        "quantity": "3",
+        "unit": "",
+        "name": "Blocs de tofu nature ferme (ou des crevettes, du poulet…)"
+      },
+      {
+        "raw": "3 portions de nouilles de riz ou autre",
+        "quantity": "3",
+        "unit": "",
+        "name": "Portions de nouilles de riz ou autre"
+      },
+      {
+        "raw": "Légumes au choix, ici :",
+        "quantity": "",
+        "unit": "",
+        "name": "Légumes au choix, ici :"
+      },
+      {
+        "raw": "Edamame",
+        "quantity": "",
+        "unit": "",
+        "name": "Edamame"
+      },
+      {
+        "raw": "Carotte",
+        "quantity": "",
+        "unit": "",
+        "name": "Carotte"
+      },
+      {
+        "raw": "Concombre",
+        "quantity": "",
+        "unit": "",
+        "name": "Concombre"
+      },
+      {
+        "raw": "Topping :",
+        "quantity": "",
+        "unit": "",
+        "name": "Topping :"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "",
+        "unit": "",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "Menthe",
+        "quantity": "",
+        "unit": "",
+        "name": "Menthe"
+      },
+      {
+        "raw": "Cacahuètes",
+        "quantity": "",
+        "unit": "",
+        "name": "Cacahuète"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00056_salade-facon-thai.jpg",
+    "images": [
+      "images/00056_salade-facon-thai.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "3 Cs de peanut butter",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Cs de peanut butter"
+      },
+      {
+        "raw": "3 Cs de chili oil",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Cs de chili oil"
+      },
+      {
+        "raw": "3 Cs de sauce soja",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Cs de sauce soja"
+      },
+      {
+        "raw": "3 Cs de vinaigre de riz",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Cs de vinaigre de riz"
+      },
+      {
+        "raw": "1,5 Jus de citron",
+        "quantity": "1,5",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "3 Blocs de tofu nature ferme (ou des crevettes, du poulet…)",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Blocs de tofu nature ferme (ou des crevettes, du poulet…)"
+      },
+      {
+        "raw": "3 Portions de nouilles de riz ou autre",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Portions de nouilles de riz ou autre"
+      },
+      {
+        "raw": "Légumes au choix, ici :",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Légumes au choix, ici :"
+      },
+      {
+        "raw": "Edamame",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Edamame"
+      },
+      {
+        "raw": "Carotte",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "Concombre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Concombre"
+      },
+      {
+        "raw": "Topping :",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Topping :"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "Menthe",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Menthe"
+      },
+      {
+        "raw": "Cacahuète",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cacahuète"
+      }
+    ]
+  }
+}

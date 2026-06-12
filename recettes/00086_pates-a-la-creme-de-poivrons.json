@@ -1,0 +1,180 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-a-la-creme-de-poivrons",
+  "recipe_id": "00086",
+  "file": "recettes/00086_pates-a-la-creme-de-poivrons.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-a-la-creme-de-poivrons",
+    "title": "Pâtes à la crème de poivrons",
+    "original_title": "Pâtes à la crème de poivrons",
+    "source_file": "Pâtes à la crème de poivrons.melarecipe",
+    "categories": [
+      "Pâtes",
+      "Plats",
+      "Sans instructions",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "4 unité de Poivron",
+      "3 unité de Tomate",
+      "2 unité de Oignon rouge",
+      "1 gousse de Ail",
+      "1 cuillère à soupe de Yaourt grec",
+      "1 unité de Basilic",
+      "1 unité de Huile d’olive",
+      "1 unité de Parmesan",
+      "1 unité de Flocons de piment"
+    ],
+    "ingredients_raw": "4 unité de Poivron\n3 unité de Tomate\n2 unité de Oignon rouge\n1 gousse de Ail\n1 cuillère à soupe de Yaourt grec\n1 unité de Basilic\n1 unité de Huile d’olive\n1 unité de Parmesan\n1 unité de Flocons de piment",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/ChzvkygsCWT",
+    "source_id": "instagram.com/reel/ChzvkygsCWT",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4 poivrons",
+      "3 tomates",
+      "2 oignons rouges",
+      "1 gousse d’ail",
+      "1 cs de yaourt grec",
+      "Basilic",
+      "Huile d’olive",
+      "Parmesan",
+      "Flocons de piment"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 Poivron",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Poivron"
+      },
+      {
+        "raw": "3 Tomate",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Tomate"
+      },
+      {
+        "raw": "2 Oignon rouge",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Yaourt grec",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Flocons de piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Flocons de piment"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00086",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "4 poivrons",
+        "quantity": "4",
+        "unit": "",
+        "name": "Poivron"
+      },
+      {
+        "raw": "3 tomates",
+        "quantity": "3",
+        "unit": "",
+        "name": "Tomate"
+      },
+      {
+        "raw": "2 oignons rouges",
+        "quantity": "2",
+        "unit": "",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1 cs de yaourt grec",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "",
+        "unit": "",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "",
+        "unit": "",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Flocons de piment",
+        "quantity": "",
+        "unit": "",
+        "name": "Flocons de piment"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00086_pates-a-la-creme-de-poivrons.jpg",
+    "images": [
+      "images/00086_pates-a-la-creme-de-poivrons.jpg"
+    ]
+  }
+}

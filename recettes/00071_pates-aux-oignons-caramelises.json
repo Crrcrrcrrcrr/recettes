@@ -1,0 +1,47 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-aux-oignons-caramelises",
+  "recipe_id": "00071",
+  "file": "recettes/00071_pates-aux-oignons-caramelises.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": false,
+    "units_validated": false,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-aux-oignons-caramelises",
+    "title": "Pâtes aux oignons caramélisés",
+    "original_title": "Pâtes aux oignons caramélisés",
+    "source_file": "Pâtes aux oignons caramélisés.melarecipe",
+    "categories": [
+      "Pâtes",
+      "Plats",
+      "Sans ingrédients",
+      "Sans instructions"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C7o3QaupdyZ",
+    "source_id": "instagram.com/reel/C7o3QaupdyZ",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_with_user",
+    "recipe_id": "00071",
+    "image": "images/00071_pates-aux-oignons-caramelises.jpg",
+    "images": [
+      "images/00071_pates-aux-oignons-caramelises.jpg"
+    ]
+  }
+}

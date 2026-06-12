@@ -1,0 +1,216 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tarte-poireaux-laques-et-feta",
+  "recipe_id": "00075",
+  "file": "recettes/00075_tarte-poireaux-laques-et-feta.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tarte-poireaux-laques-et-feta",
+    "title": "Tarte poireaux laqués et feta",
+    "original_title": "Tarte poireaux laqués et feta",
+    "source_file": "Tarte poireaux laqués et feta.melarecipe",
+    "categories": [
+      "Légumes rôtis",
+      "Plats",
+      "Tarte",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Pâte feuilletée",
+      "3 unité de Blanc de poireau",
+      "1 cuillère à soupe de Miel",
+      "2 cuillère à soupe de Sauce soja salée",
+      "2 cuillère à soupe de Moutarde à l'ancienne",
+      "100 g de Feta",
+      "1 unité de Poivre",
+      "1 quelques de Graines"
+    ],
+    "ingredients_raw": "1 unité de Pâte feuilletée\n3 unité de Blanc de poireau\n1 cuillère à soupe de Miel\n2 cuillère à soupe de Sauce soja salée\n2 cuillère à soupe de Moutarde à l'ancienne\n100 g de Feta\n1 unité de Poivre\n1 quelques de Graines",
+    "instructions": "Couper les blancs de poireaux en deux et les placer dans une poêle\nPréparer la sauce : dans un bol mélanger le miel et la sauce soja\nBadigeonner les blancs de poireaux de la sauce. Ajouter un verre d’eau dans la poêle et laisser cuire à couvert à feu doux jusqu’à ce que les poireaux soient tendres\nEn parallèle, faire cuire la pâte feuilletée. Découper 2 rectangles dans la pâte comme sur la vidéo et se servir des bords pour former la croûte des tartes\nBien piquer la pâte et enfourner à 180 degrés 15 minutes\nÀ la sortie du four, badigeonner les tartes de moutarde, y disposer les poireaux et leur sauce et enfourner à nouveau 10 minutes toujours à180 degrés\nÀ la sortie du four, émietter la fêta, un tour de poivre et les graines",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C197P3To99E",
+    "source_id": "instagram.com/reel/C197P3To99E",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 pâte feuilletée",
+      "3 blancs de poireaux",
+      "1 cs de miel",
+      "2 cs de sauce soja salée",
+      "2 cs de moutarde à l’ancienne",
+      "100g de fêta",
+      "1 tour de poivre",
+      "Quelques graines (optionnel)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "3 unité de Blanc de poireau",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Blanc de poireau"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja salée",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "2 cuillère à soupe de Moutarde à l'ancienne",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde à l'ancienne"
+      },
+      {
+        "raw": "100 g de Feta",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "Tour de poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 quelques de Graines (optionnel)",
+        "quantity": "1",
+        "unit": "quelques",
+        "name": "Graines"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00075",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 pâte feuilletée",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "3 blancs de poireaux",
+        "quantity": "3",
+        "unit": "",
+        "name": "Blancs de poireaux"
+      },
+      {
+        "raw": "1 cs de miel",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Miel"
+      },
+      {
+        "raw": "2 cs de sauce soja salée",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "2 cs de moutarde à l’ancienne",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Moutarde à l'ancienne"
+      },
+      {
+        "raw": "100g de fêta",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "1 tour de poivre",
+        "quantity": "1",
+        "unit": "",
+        "name": "Tour de poivre"
+      },
+      {
+        "raw": "Quelques graines (optionnel)",
+        "quantity": "Quelques",
+        "unit": "",
+        "name": "Graines (optionnel)"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00075_tarte-poireaux-laques-et-feta.jpg",
+    "images": [
+      "images/00075_tarte-poireaux-laques-et-feta.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "3 unité de Blanc de poireau",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Blanc de poireau"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja salée",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "2 cuillère à soupe de Moutarde à l'ancienne",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde à l'ancienne"
+      },
+      {
+        "raw": "100 g de Feta",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "Tour de poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tour de poivre"
+      },
+      {
+        "raw": "1 quelques de Graines (optionnel)",
+        "quantity": "1",
+        "unit": "quelques",
+        "name": "Graines (optionnel)"
+      }
+    ]
+  }
+}

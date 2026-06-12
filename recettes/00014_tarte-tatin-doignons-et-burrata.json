@@ -1,0 +1,152 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tarte-tatin-doignons-et-burrata",
+  "recipe_id": "00014",
+  "file": "recettes/00014_tarte-tatin-doignons-et-burrata.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tarte-tatin-doignons-et-burrata",
+    "title": "Tarte tatin d’oignons et burrata",
+    "original_title": "Tarte tatin d’oignons et burrata",
+    "source_file": "Tarte tatin d’oignons et burrata.melarecipe",
+    "categories": [
+      "Légumes rôtis",
+      "Plats",
+      "Tarte",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "5 unité de Oignon",
+      "1 unité de Burrata",
+      "1 cuillère à café de Origan",
+      "1 unité de Pâte feuilletée",
+      "1 cuillère à soupe de Miel",
+      "1 unité de Beurre",
+      "1 unité de Persil"
+    ],
+    "ingredients_raw": "5 unité de Oignon\n1 unité de Burrata\n1 cuillère à café de Origan\n1 unité de Pâte feuilletée\n1 cuillère à soupe de Miel\n1 unité de Beurre\n1 unité de Persil",
+    "instructions": "Pour commencer, épluchez et coupez en deux vos oignons.\nFaites-les revenir dans une poêle avec du beurre.\nAjoutez le miel, l’origan et le vinaigre balsamique\nFin de cuisson. Ajoutez des petits morceaux de beurre et refermez avec une pâte feuilletée que vous piquez.\nEnfournez le tout 20 minutes à 200°\nUne fois cuite, retournez là et ajoutez la burrata sur le dessus.\nDégustez",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C-22W9YMzLw",
+    "source_id": "instagram.com/reel/C-22W9YMzLw",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "5-6 oignons",
+      "1 belle burrata",
+      "1 cc d’origan",
+      "1 Pâte feuilletée",
+      "1 cs de miel",
+      "Beurre",
+      "Persil"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "5 Oignon",
+        "quantity": "5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Persil",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Persil"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00014",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "5-6 oignons",
+        "quantity": "5-6",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 belle burrata",
+        "quantity": "1",
+        "unit": "",
+        "name": "Belle burrata"
+      },
+      {
+        "raw": "1 cc d’origan",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Origan"
+      },
+      {
+        "raw": "1 Pâte feuilletée",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "1 cs de miel",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Miel"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "",
+        "unit": "",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Persil",
+        "quantity": "",
+        "unit": "",
+        "name": "Persil"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00014_tarte-tatin-doignons-et-burrata.jpg",
+    "images": [
+      "images/00014_tarte-tatin-doignons-et-burrata.jpg"
+    ]
+  }
+}

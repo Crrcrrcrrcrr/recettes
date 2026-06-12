@@ -1,0 +1,178 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tartinade-poireaux-chevre",
+  "recipe_id": "00034",
+  "file": "recettes/00034_tartinade-poireaux-chevre.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tartinade-poireaux-chevre",
+    "title": "Tartinade poireaux chèvre",
+    "original_title": "Tartinade poireaux chèvre ",
+    "source_file": "Tartinade poireaux chèvre.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Dip/Tartinade"
+    ],
+    "ingredients": [
+      "1 unité de Poireau",
+      "1 tête de Ail",
+      "200 g de Fromage de chèvre frais",
+      "70 g de Amande",
+      "1 unité de Huile d’olive",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 unité de Paprika fumé",
+      "1 cuillère à soupe de Vinaigre balsamique"
+    ],
+    "ingredients_raw": "1 unité de Poireau\n1 tête de Ail\n200 g de Fromage de chèvre frais\n70 g de Amande\n1 unité de Huile d’olive\n1 unité de Sel\n1 unité de Poivre\n1 unité de Paprika fumé\n1 cuillère à soupe de Vinaigre balsamique",
+    "instructions": "#Confire l'ail et le poireaux:\nPréchauffez votre four à 180°C.\nBien laver le poireau et garder le vert du poireau au maximum.\nCoupez le haut d'une tête d'ail pour exposer les gousses, arrosez d'un peu d'huile d'olive.\nFaites cuire au four pendant environ 40 minutes, jusqu'à ce que l'ail et le poireau soient tendres et dorés.\nLaissez refroidir.\n# 2. Préparation de la tartinade :\nConcassez les amandes grossièrement.\nPressez les gousses d'ail confites pour en extraire la chair.\nAjoutez l’ail au poireau et coupez finement ou passez au mixeur ces ingrédients.\nAjoutez le fromage de chèvre et le paprika.\nAjustez le sel et le poivre.\nTransférez la tartinade dans un joli bol et réservez au réfrigérateur pendant 30 minutes à 1 heure pour qu'elle soit bien fraîche.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DDcdoNoo9XA",
+    "source_id": "instagram.com/reel/DDcdoNoo9XA",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 poireaux",
+      "1 tête d'ail",
+      "200 g de fromage de chèvre frais",
+      "70 g d'amandes entières",
+      "Huile d'olive",
+      "Sel",
+      "Poivre",
+      "Paprika fumé",
+      "1 cs de vinaigre balsamique (optionnel)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Poireau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "200 g de Fromage de chèvre frais",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Fromage de chèvre frais"
+      },
+      {
+        "raw": "70 g de Amande",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Amande"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Paprika fumé",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre balsamique",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre balsamique"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00034",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 poireaux",
+        "quantity": "1",
+        "unit": "",
+        "name": "Poireaux"
+      },
+      {
+        "raw": "1 tête d'ail",
+        "quantity": "1 tête",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "200 g de fromage de chèvre frais",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Fromage de chèvre frais"
+      },
+      {
+        "raw": "70 g d'amandes entières",
+        "quantity": "70 g",
+        "unit": "g",
+        "name": "Amandes entières"
+      },
+      {
+        "raw": "Huile d'olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Paprika fumé",
+        "quantity": "",
+        "unit": "",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 cs de vinaigre balsamique (optionnel)",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Vinaigre balsamique"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00034_tartinade-poireaux-chevre.jpg",
+    "images": [
+      "images/00034_tartinade-poireaux-chevre.jpg"
+    ]
+  }
+}

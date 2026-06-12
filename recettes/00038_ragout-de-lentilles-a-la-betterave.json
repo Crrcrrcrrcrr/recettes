@@ -1,0 +1,334 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "ragout-de-lentilles-a-la-betterave",
+  "recipe_id": "00038",
+  "file": "recettes/00038_ragout-de-lentilles-a-la-betterave.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "ragout-de-lentilles-a-la-betterave",
+    "title": "Ragoût de lentilles à la betterave",
+    "original_title": "Ragoût de lentilles à la betterave",
+    "source_file": "Ragoût de lentilles à la betterave.melarecipe",
+    "categories": [
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "3 gousse de Ail",
+      "2 unité de Échalote",
+      "1 unité de Carotte",
+      "1 branche de Céleri",
+      "400 g de Betterave crue",
+      "1 feuille de Laurier",
+      "200 g de Lentille verte",
+      "1 l de Eau",
+      "2 cuillère à café de Bouillon de légumes",
+      "2 cuillère à soupe de Moutarde",
+      "1 cuillère à soupe de Farine",
+      "2 cuillère à soupe de Huile d’olive",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "3 gousse de Ail\n2 unité de Échalote\n1 unité de Carotte\n1 branche de Céleri\n400 g de Betterave crue\n1 feuille de Laurier\n200 g de Lentille verte\n1 l de Eau\n2 cuillère à café de Bouillon de légumes\n2 cuillère à soupe de Moutarde\n1 cuillère à soupe de Farine\n2 cuillère à soupe de Huile d’olive\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Épluchez la carotte et la betterave. Coupez grossièrement tous les légumes, puis mixez-les dans un mixeur jusqu’à obtenir de petits morceaux.\nFaites chauffer l’huile d’olive dans un faitout, puis faites revenir les légumes mixés avec la feuille de laurier pendant 10 minutes en mélangeant régulièrement.\nRincez les lentilles à l’eau claire et ajoutez-les aux légumes. Incorporez le bouillon cube et l’eau. Portez à ébullition, puis baissez le feu pour maintenir de petits bouillons. Couvrez et laissez cuire 30 minutes en remuant de temps en temps.\nDélayez la farine dans un fond d’eau froide. Ajoutez ce mélange au ragoût avec la moutarde. Salez, poivrez, puis laissez cuire encore 10 minutes à feu doux.\nServez avec une purée de pommes de terre ou un accompagnement de votre choix.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DDFV81TM-3o",
+    "source_id": "instagram.com/reel/DDFV81TM-3o",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "3 gousses d’ail",
+      "2 échalotes",
+      "1 carotte",
+      "1 branche de céleri",
+      "1 grosse betterave crue (env. 400 g)",
+      "1 feuille de laurier",
+      "200 g de lentilles",
+      "1 l d’eau",
+      "2 cc de bouillon en poudre ou 1 bouillon cube de légumes",
+      "2 cs de moutarde fine",
+      "1 cs de farine",
+      "2 cs d’huile d’olive",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Carotte",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "1 branche de Céleri",
+        "quantity": "1",
+        "unit": "branche",
+        "name": "Céleri"
+      },
+      {
+        "raw": "Grosse betterave crue (env. 400 g)",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Betterave crue"
+      },
+      {
+        "raw": "1 feuille de Laurier",
+        "quantity": "1",
+        "unit": "feuille",
+        "name": "Laurier"
+      },
+      {
+        "raw": "200 g de Lentilles",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Lentille verte"
+      },
+      {
+        "raw": "1 l de Eau",
+        "quantity": 1000,
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "2 cuillère à café de Bouillon de légumes",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "2 cuillère à soupe de Moutarde fine",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "1 cuillère à soupe de Farine",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Farine"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00038",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "3 gousses d’ail",
+        "quantity": "3 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "2 échalotes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Échalote"
+      },
+      {
+        "raw": "1 carotte",
+        "quantity": "1",
+        "unit": "",
+        "name": "Carotte"
+      },
+      {
+        "raw": "1 branche de céleri",
+        "quantity": "1 branche",
+        "unit": "branche",
+        "name": "Céleri"
+      },
+      {
+        "raw": "1 grosse betterave crue (env. 400 g)",
+        "quantity": "1",
+        "unit": "",
+        "name": "Grosse betterave crue (env. 400 g)"
+      },
+      {
+        "raw": "1 feuille de laurier",
+        "quantity": "1 feuille",
+        "unit": "feuille",
+        "name": "Laurier"
+      },
+      {
+        "raw": "200 g de lentilles",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Lentilles"
+      },
+      {
+        "raw": "1 l d’eau",
+        "quantity": "1 l",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "2 cc de bouillon en poudre ou 1 bouillon cube de légumes",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Bouillon en poudre ou 1 bouillon cube de légumes"
+      },
+      {
+        "raw": "2 cs de moutarde fine",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Moutarde fine"
+      },
+      {
+        "raw": "1 cs de farine",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Farine"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00038_ragout-de-lentilles-a-la-betterave.jpg",
+    "images": [
+      "images/00038_ragout-de-lentilles-a-la-betterave.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Carotte",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "1 branche de Céleri",
+        "quantity": "1",
+        "unit": "branche",
+        "name": "Céleri"
+      },
+      {
+        "raw": "Grosse betterave crue (env. 400 g)",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Grosse betterave crue (env. 400 g)"
+      },
+      {
+        "raw": "1 feuille de Laurier",
+        "quantity": "1",
+        "unit": "feuille",
+        "name": "Laurier"
+      },
+      {
+        "raw": "200 g de Lentilles",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Lentilles"
+      },
+      {
+        "raw": "1 l de Eau",
+        "quantity": 1000,
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "2 cuillère à café de Bouillon de légumes",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "2 cuillère à soupe de Moutarde fine",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde fine"
+      },
+      {
+        "raw": "1 cuillère à soupe de Farine",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Farine"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

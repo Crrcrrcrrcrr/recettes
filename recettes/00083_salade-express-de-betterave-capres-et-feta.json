@@ -1,0 +1,275 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-express-de-betterave-capres-et-feta",
+  "recipe_id": "00083",
+  "file": "recettes/00083_salade-express-de-betterave-capres-et-feta.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "salade-express-de-betterave-capres-et-feta",
+    "title": "Salade Express de Betterave Câpres et Feta",
+    "original_title": "Salade Express de Betterave Câpres et Feta",
+    "source_file": "Salade Express de Betterave Câpres et Feta.melarecipe",
+    "categories": [
+      "Plats",
+      "Salade",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "250 g de Betterave cuite",
+      "1 unité de Oignon rouge",
+      "60 g de Feta",
+      "2 cuillère à café de Câpre",
+      "2 unité de Cornichon",
+      "1 cuillère à café de Moutarde",
+      "3 cuillère à soupe de Huile d’olive",
+      "1 cuillère à soupe de Vinaigre de vin",
+      "0,5 cuillère à soupe de Aneth séché",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "250 g de Betterave cuite\n1 unité de Oignon rouge\n60 g de Feta\n2 cuillère à café de Câpre\n2 unité de Cornichon\n1 cuillère à café de Moutarde\n3 cuillère à soupe de Huile d’olive\n1 cuillère à soupe de Vinaigre de vin\n0,5 cuillère à soupe de Aneth séché\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Couper les betteraves en dés et émincer finement l’oignon.\nEmietter la feta.\nHacher les câpres et les cornichons et les verser dans un bol. Ajouter l’huile, le vinaigre, l’aneth. Saler, poivrer. Mélanger.\nAssembler tous les éléments de la salade et déguster !",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CjqQQz5jUL1",
+    "source_id": "instagram.com/reel/CjqQQz5jUL1",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "250g de betterave cuite (2 ou 3)",
+      "1 oignon rouge",
+      "60g de feta émiettée",
+      "2 cc de câpres",
+      "2 cornichons",
+      "1 cc de moutarde",
+      "3 cs d’huile d’olive",
+      "1 cs de vinaigre de vin",
+      "½ cs d’aneth séché",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "250 g de Betterave cuite",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Betterave cuite"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "60 g de Feta",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "2 cuillère à café de Câpre",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Câpre"
+      },
+      {
+        "raw": "2 Cornichons",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Cornichon"
+      },
+      {
+        "raw": "1 cuillère à café de Moutarde",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile d’olive",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre de vin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de vin"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Aneth séché",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Aneth séché"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00083",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "250g de betterave cuite (2 ou 3)",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Betterave cuite (2 ou 3)"
+      },
+      {
+        "raw": "1 oignon rouge",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "60g de feta émiettée",
+        "quantity": "60 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "2 cc de câpres",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Câpres"
+      },
+      {
+        "raw": "2 cornichons",
+        "quantity": "2",
+        "unit": "",
+        "name": "Cornichons"
+      },
+      {
+        "raw": "1 cc de moutarde",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "3 cs d’huile d’olive",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cs de vinaigre de vin",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Vinaigre de vin"
+      },
+      {
+        "raw": "½ cs d’aneth séché",
+        "quantity": "½ cs",
+        "unit": "cs",
+        "name": "Aneth séché"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00083_salade-express-de-betterave-capres-et-feta.jpg",
+    "images": [
+      "images/00083_salade-express-de-betterave-capres-et-feta.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "250 g de Betterave cuite",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Betterave cuite"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "60 g de Feta",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "2 cuillère à café de Câpre",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Câpre"
+      },
+      {
+        "raw": "2 Cornichons",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Cornichons"
+      },
+      {
+        "raw": "1 cuillère à café de Moutarde",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile d’olive",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre de vin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de vin"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Aneth séché",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Aneth séché"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

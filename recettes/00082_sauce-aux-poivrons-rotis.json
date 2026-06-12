@@ -1,0 +1,213 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "sauce-aux-poivrons-rotis",
+  "recipe_id": "00082",
+  "file": "recettes/00082_sauce-aux-poivrons-rotis.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "sauce-aux-poivrons-rotis",
+    "title": "Sauce aux poivrons rôtis",
+    "original_title": "Sauce aux poivrons rôtis",
+    "source_file": "Sauce aux poivrons rôtis.melarecipe",
+    "categories": [
+      "Sauce"
+    ],
+    "ingredients": [
+      "4 unité de Poivron rouge",
+      "1 unité de Oignon",
+      "4 gousse de Ail",
+      "3 branche de Thym",
+      "3 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Crème",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "4 unité de Poivron rouge\n1 unité de Oignon\n4 gousse de Ail\n3 branche de Thym\n3 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Crème\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Préchauffer le four à 190°C.\nÉmincer grossièrement les poivrons, l’oignon et l’ail.\nLes mettre dans un plat pour le four avec le thym, sel, poivre et l’huile.\nBien mélanger et enfourner 45min. Remuer à mi-cuisson.\nVerser les légumes dans un mixeur avec la crème et mixer jusqu’à obtenir une consistance crémeuse.\nServir avec les pâtes de votre choix, un peu de parmesan (animal ou végétal) et de basilic.\nCette sauce se conserve parfaitement bien dans un bocal au congélateur.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CimgJf2DmOM",
+    "source_id": "instagram.com/reel/CimgJf2DmOM",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "3-4 poivrons rouges (env 400g)",
+      "1 oignon",
+      "4 gousses d’ail",
+      "3 branches de thym",
+      "3 cs d’huile d’olive",
+      "2 cs de crème végétale ou animale",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 Poivron rouge",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "3 branche de Thym",
+        "quantity": "3",
+        "unit": "branche",
+        "name": "Thym"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile d’olive",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Crème végétale ou animale",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Crème"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00082",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "3-4 poivrons rouges (env 400g)",
+        "quantity": "3-4",
+        "unit": "",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "4 gousses d’ail",
+        "quantity": "4 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "3 branches de thym",
+        "quantity": "3 branches",
+        "unit": "branches",
+        "name": "Thym"
+      },
+      {
+        "raw": "3 cs d’huile d’olive",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cs de crème végétale ou animale",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Crème végétale ou animale"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00082_sauce-aux-poivrons-rotis.jpg",
+    "images": [
+      "images/00082_sauce-aux-poivrons-rotis.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "4 Poivron rouge",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "3 branche de Thym",
+        "quantity": "3",
+        "unit": "branche",
+        "name": "Thym"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile d’olive",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Crème végétale ou animale",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Crème végétale ou animale"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

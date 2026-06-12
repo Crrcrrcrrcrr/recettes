@@ -1,0 +1,257 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tarte-caramelisee-courgettes-tomates",
+  "recipe_id": "00005",
+  "file": "recettes/00005_tarte-caramelisee-courgettes-tomates.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tarte-caramelisee-courgettes-tomates",
+    "title": "Tarte caramélisée courgettes/tomates",
+    "original_title": "Tarte caramélisée courgettes/tomates",
+    "source_file": "Tarte caramélisée courgettes/tomates.melarecipe",
+    "categories": [
+      "Légumes rôtis",
+      "Plats",
+      "Sans instructions",
+      "Tarte",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Pâte brisée",
+      "3 cuillère à soupe de Sauce tomate",
+      "40 g de Panko",
+      "50 g de Parmesan",
+      "10 g de Origan",
+      "2 unité de Courgette",
+      "150 g de Tomate cerise",
+      "4 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Vinaigre balsamique",
+      "2 cuillère à soupe de Sirop d’érable"
+    ],
+    "ingredients_raw": "1 unité de Pâte brisée\n3 cuillère à soupe de Sauce tomate\n40 g de Panko\n50 g de Parmesan\n10 g de Origan\n2 unité de Courgette\n150 g de Tomate cerise\n4 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Vinaigre balsamique\n2 cuillère à soupe de Sirop d’érable",
+    "instructions": "Cuisson 30-35 min à 200 degrés",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C7OStsvsTPa",
+    "source_id": "instagram.com/reel/C7OStsvsTPa",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 pâte brisée",
+      "3 cs de sauce tomate",
+      "40g de chapelure (panko)",
+      "50g de parmesan",
+      "10g d’origan",
+      "1 ou 2 courgettes",
+      "150g de tomates cerises",
+      "4 cs d’huile d’olive",
+      "2 cs de vinaigre balsamique",
+      "2 cs de sirop d’érable"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Pâte brisée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte brisée"
+      },
+      {
+        "raw": "3 cuillère à soupe de Sauce tomate",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "40 g de Chapelure (panko)",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Panko"
+      },
+      {
+        "raw": "50 g de Parmesan",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "10 g de Origan",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Origan"
+      },
+      {
+        "raw": "2 unité de Courgette",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Courgette"
+      },
+      {
+        "raw": "150 g de Tomate cerise",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "4 cuillère à soupe de Huile d’olive",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Vinaigre balsamique",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sirop d’érable",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00005",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 pâte brisée",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pâte brisée"
+      },
+      {
+        "raw": "3 cs de sauce tomate",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "40g de chapelure (panko)",
+        "quantity": "40 g",
+        "unit": "g",
+        "name": "Chapelure (panko)"
+      },
+      {
+        "raw": "50g de parmesan",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "10g d’origan",
+        "quantity": "10 g",
+        "unit": "g",
+        "name": "Origan"
+      },
+      {
+        "raw": "1 ou 2 courgettes",
+        "quantity": "1",
+        "unit": "",
+        "name": "Ou 2 courgettes"
+      },
+      {
+        "raw": "150g de tomates cerises",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "4 cs d’huile d’olive",
+        "quantity": "4 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cs de vinaigre balsamique",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "2 cs de sirop d’érable",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Sirop d’érable"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00005_tarte-caramelisee-courgettes-tomates.jpg",
+    "images": [
+      "images/00005_tarte-caramelisee-courgettes-tomates.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Pâte brisée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte brisée"
+      },
+      {
+        "raw": "3 cuillère à soupe de Sauce tomate",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "40 g de Chapelure (panko)",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Chapelure (panko)"
+      },
+      {
+        "raw": "50 g de Parmesan",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "10 g de Origan",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Origan"
+      },
+      {
+        "raw": "2 unité de Courgette",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Courgette"
+      },
+      {
+        "raw": "150 g de Tomate cerise",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "4 cuillère à soupe de Huile d’olive",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Vinaigre balsamique",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sirop d’érable",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      }
+    ]
+  }
+}
