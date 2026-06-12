@@ -1,0 +1,366 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-de-pates-margaux",
+  "recipe_id": "00215",
+  "file": "recettes/00215_salade-de-pates-margaux.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "salade-de-pates-margaux",
+    "title": "Salade de pâtes Margaux",
+    "original_title": null,
+    "source_file": "Salade de pâtes Margaux.melarecipe",
+    "categories": [
+      "Salade",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "300 g de Pâtes",
+      "1 Cuillère à soupe de Huile d’olive",
+      "20 unité de Tomate cerise",
+      "1 poignée de Persil",
+      "1 poignée de Basilic",
+      "2 gousse de Ail",
+      "7 morceau de Tomate séchée",
+      "3 cuillère à soupe de Huile des tomates séchées",
+      "1 unité de Oignon rouge",
+      "2 cuillère à soupe de Vinaigre balsamique",
+      "2 cuillère à soupe de Vinaidre de vin blanc",
+      "1 cuillère à soupe de Crème de balsamique",
+      "1 cuillère à café de Miel",
+      "1 cuillère à café de Origan",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "300 g de Pâtes\n1 Cuillère à soupe de Huile d’olive\n20 unité de Tomate cerise\n1 poignée de Persil\n1 poignée de Basilic\n2 gousse de Ail\n7 morceau de Tomate séchée\n3 cuillère à soupe de Huile des tomates séchées\n1 unité de Oignon rouge\n2 cuillère à soupe de Vinaigre balsamique\n2 cuillère à soupe de Vinaidre de vin blanc\n1 cuillère à soupe de Crème de balsamique\n1 cuillère à café de Miel\n1 cuillère à café de Origan\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "",
+    "notes": "",
+    "link": "",
+    "source_id": "BB50E6B0-E969-4563-A374-87B3A8089109",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 0,
+    "ingredients_original_before_cleaning": [
+      "300 grammes de pâtes",
+      "1 cuillères à soupe d’huile d’olive",
+      "20 tomates cerises coupées en deux",
+      "Une poignée de persil frais coupé finement",
+      "Une grosse poignée de basilic",
+      "2 gousses d’ail émincé ou en purée",
+      "7 morceaux de tomates séchées",
+      "3 cuillères à soupe d’huile des tomates séchées",
+      "1 petit oignon rouge coupé en dé",
+      "2 cuillères à soupe de vinaigre balsamique",
+      "2 cuillère à soupe de vinaigre de vin blanc",
+      "1 cuillère à soupe de crème de balsamique",
+      "1 cuillère à café de miel",
+      "1 cuillère à café d’origan séché",
+      "Sel et poivre pour le goût"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "300 Grammes de pâtes",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "1 Cuillère à soupe de Huile d'olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "20 Tomate cerise",
+        "quantity": "20",
+        "unit": "unité",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "1 poignée de Persil frais",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Persil"
+      },
+      {
+        "raw": "1 poignée de Basilic",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Basilic"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "7 morceau de Tomate séchée",
+        "quantity": "7",
+        "unit": "morceau",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile des tomates séchées",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile des tomates séchées"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "2 cuillère à soupe de Vinaigre balsamique",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "2 cuillère à soupe de Vinaidre de vin blanc",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaidre de vin blanc"
+      },
+      {
+        "raw": "1 cuillère à soupe de Crème de balsamique",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Crème de balsamique"
+      },
+      {
+        "raw": "1 cuillère à café de Miel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00215",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "300 grammes de pâtes",
+        "quantity": "300",
+        "unit": "",
+        "name": "Grammes de pâtes"
+      },
+      {
+        "raw": "1 cuillères à soupe d’huile d’olive",
+        "quantity": "1",
+        "unit": "",
+        "name": "Cuillères à soupe d’huile d’olive"
+      },
+      {
+        "raw": "20 tomates cerises coupées en deux",
+        "quantity": "20",
+        "unit": "",
+        "name": "Tomates cerises coupées en deux"
+      },
+      {
+        "raw": "Une poignée de persil frais coupé finement",
+        "quantity": "Une poignée",
+        "unit": "poignée",
+        "name": "Persil frais coupé finement"
+      },
+      {
+        "raw": "Une grosse poignée de basilic",
+        "quantity": "Une grosse poignée",
+        "unit": "grosse poignée",
+        "name": "Basilic"
+      },
+      {
+        "raw": "2 gousses d’ail émincé ou en purée",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Ail émincé ou en purée"
+      },
+      {
+        "raw": "7 morceaux de tomates séchées",
+        "quantity": "7",
+        "unit": "",
+        "name": "Morceaux de tomates séchées"
+      },
+      {
+        "raw": "3 cuillères à soupe d’huile des tomates séchées",
+        "quantity": "3",
+        "unit": "",
+        "name": "Cuillères à soupe d’huile des tomates séchées"
+      },
+      {
+        "raw": "1 petit oignon rouge coupé en dé",
+        "quantity": "1",
+        "unit": "",
+        "name": "Petit oignon rouge coupé en dé"
+      },
+      {
+        "raw": "2 cuillères à soupe de vinaigre balsamique",
+        "quantity": "2",
+        "unit": "",
+        "name": "Cuillères à soupe de vinaigre balsamique"
+      },
+      {
+        "raw": "2 cuillère à soupe de vinaigre de vin blanc",
+        "quantity": "2",
+        "unit": "",
+        "name": "Cuillère à soupe de vinaigre de vin blanc"
+      },
+      {
+        "raw": "1 cuillère à soupe de crème de balsamique",
+        "quantity": "1",
+        "unit": "",
+        "name": "Cuillère à soupe de crème de balsamique"
+      },
+      {
+        "raw": "1 cuillère à café de miel",
+        "quantity": "1",
+        "unit": "",
+        "name": "Cuillère à café de miel"
+      },
+      {
+        "raw": "1 cuillère à café d’origan séché",
+        "quantity": "1",
+        "unit": "",
+        "name": "Cuillère à café d’origan séché"
+      },
+      {
+        "raw": "Sel et poivre pour le goût",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel et poivre pour le goût"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "",
+    "images": [],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "300 Grammes de pâtes",
+        "quantity": "300",
+        "unit": "unité",
+        "name": "Grammes de pâtes"
+      },
+      {
+        "raw": "1 Cuillère à soupe de Huile d'olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d'olive"
+      },
+      {
+        "raw": "20 Tomate cerise",
+        "quantity": "20",
+        "unit": "unité",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "1 poignée de Persil frais",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Persil frais"
+      },
+      {
+        "raw": "1 poignée de Basilic",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Basilic"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "7 morceau de Tomate séchée",
+        "quantity": "7",
+        "unit": "morceau",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile des tomates séchées",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile des tomates séchées"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "2 cuillère à soupe de Vinaigre balsamique",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "2 cuillère à soupe de Vinaidre de vin blanc",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaidre de vin blanc"
+      },
+      {
+        "raw": "1 cuillère à soupe de Crème de balsamique",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Crème de balsamique"
+      },
+      {
+        "raw": "1 cuillère à café de Miel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

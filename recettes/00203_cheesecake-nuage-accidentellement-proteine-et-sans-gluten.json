@@ -1,0 +1,161 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cheesecake-nuage-accidentellement-proteine-et-sans-gluten",
+  "recipe_id": "00203",
+  "file": "recettes/00203_cheesecake-nuage-accidentellement-proteine-et-sans-gluten.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "cheesecake-nuage-accidentellement-proteine-et-sans-gluten",
+    "title": "Cheesecake nuage accidentellement protéiné et sans gluten",
+    "original_title": "Cheesecake nuage accidentellement protéiné et sans gluten",
+    "source_file": "Cheesecake nuage accidentellement protéiné et sans gluten.melarecipe",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "ingredients": [
+      "3 unité de Œuf",
+      "250 g de Skyr",
+      "50 g de Maïzena",
+      "50 g de Sucrant",
+      "2 cuillère à soupe de Fleur d'oranger"
+    ],
+    "ingredients_raw": "3 unité de Œuf\n250 g de Skyr\n50 g de Maïzena\n50 g de Sucrant\n2 cuillère à soupe de Fleur d'oranger",
+    "instructions": "* Préchauffez le four à 170°c\n* Séparez les blancs d’oeufs, montez les en neige ferme\n* Dans un autre saladier fouettez les jaunes avec le sucre et la fleur d’oranger\n* Ajoutez ensuite le skyr et la maïzena fouettez à nouveau\n* C’est le moment d’incorporer le mélange aux blancs en neige en évitant de les casser\n* Versez la pâte dans un moule rond et haut recouvert de papier sulfurisé, pour la cuisson placez votre moule dans un autre plat avec un fond d’eau afin de créer un bain marie dans votre four.\n* Cuire pendant 50 min, le gâteau va sortir très haut et gonflé comme un soufflé, il perdra en hauteur au bout de quelques minutes c’est normal\n* Vous pouvez agrémenter le gâteau d’un coulis de fruit\nou du chocolat pour les gourmands 👀\n#recettefacile #mealprepmonday #petitdejeunerhealthy #japanesecheesecake #gateaufromageblanc",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DE-ckFrsQWz",
+    "source_id": "instagram.com/reel/DE-ckFrsQWz",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Cheesecake nuage accidentellement protéiné et sans gluten 👀 ouais ouais c’est aussi bon que c’est léger ☁️",
+      "3 Œufs",
+      "250gr de Skyr",
+      "50gr de maïzena",
+      "50gr de sucrant ( ici erythritol de chez Koro)",
+      "2 cuillères à soupe de fleur d’oranger"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "3 Œuf",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "250 g de Skyr",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Skyr"
+      },
+      {
+        "raw": "50 g de Maïzena",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "50 g de Sucrant",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Sucrant"
+      },
+      {
+        "raw": "2 Cuillères à soupe de fleur d’oranger",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Fleur d'oranger"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00203",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Cheesecake nuage accidentellement protéiné et sans gluten 👀 ouais ouais c’est aussi bon que c’est léger ☁️",
+        "quantity": "",
+        "unit": "",
+        "name": "Cheesecake nuage accidentellement protéiné et sans gluten 👀 ouais ouais c’est aussi bon que c’est léger ☁️"
+      },
+      {
+        "raw": "3 Œufs",
+        "quantity": "3",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "250gr de Skyr",
+        "quantity": "250",
+        "unit": "",
+        "name": "Gr de Skyr"
+      },
+      {
+        "raw": "50gr de maïzena",
+        "quantity": "50",
+        "unit": "",
+        "name": "Gr de maïzena"
+      },
+      {
+        "raw": "50gr de sucrant ( ici erythritol de chez Koro)",
+        "quantity": "50",
+        "unit": "",
+        "name": "Gr de sucrant ( ici erythritol de chez Koro)"
+      },
+      {
+        "raw": "2 cuillères à soupe de fleur d’oranger",
+        "quantity": "2",
+        "unit": "",
+        "name": "Cuillères à soupe de fleur d’oranger"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00203_cheesecake-nuage-accidentellement-proteine-et-sans-gluten.jpg",
+    "images": [
+      "images/00203_cheesecake-nuage-accidentellement-proteine-et-sans-gluten.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "3 Œuf",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "250 g de Skyr",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Skyr"
+      },
+      {
+        "raw": "50 g de Maïzena",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "50 g de Sucrant",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Sucrant"
+      },
+      {
+        "raw": "2 Cuillères à soupe de fleur d’oranger",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Cuillères à soupe de fleur d’oranger"
+      }
+    ]
+  }
+}

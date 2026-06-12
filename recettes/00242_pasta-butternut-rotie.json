@@ -1,0 +1,209 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pasta-butternut-rotie",
+  "recipe_id": "00242",
+  "file": "recettes/00242_pasta-butternut-rotie.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pasta-butternut-rotie",
+    "title": "Pasta butternut rôtie",
+    "original_title": "Pasta butternut rôtie",
+    "source_file": "Pasta butternut rôtie.melarecipe",
+    "categories": [
+      "Pâtes",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Butternut",
+      "1 tête de Ail",
+      "1 cuillère à soupe de Mascarpone",
+      "90 g de Parmesan",
+      "1 bouquet de Sauge fraiche",
+      "400 g de Pasta",
+      "1 unité de Huile d’olive",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "1 unité de Butternut\n1 tête de Ail\n1 cuillère à soupe de Mascarpone\n90 g de Parmesan\n1 bouquet de Sauge fraiche\n400 g de Pasta\n1 unité de Huile d’olive\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Cx8UTfnITG9",
+    "source_id": "instagram.com/reel/Cx8UTfnITG9",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 petite courge butternut",
+      "1 tête d’ail",
+      "1 càs de mascarpone",
+      "90g de parmesan",
+      "1 bouquet de sauge fraiche",
+      "400g de pasta",
+      "Huile d’olive, sel et poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Petite courge butternut",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Butternut"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Mascarpone",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Mascarpone"
+      },
+      {
+        "raw": "90 g de Parmesan",
+        "quantity": "90",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "1 bouquet de Sauge fraiche",
+        "quantity": "1",
+        "unit": "bouquet",
+        "name": "Sauge fraiche"
+      },
+      {
+        "raw": "400 g de Pasta",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Pasta"
+      },
+      {
+        "raw": "Huile d’olive, sel et poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Huile d’olive, sel et poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Huile d’olive, sel et poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00242",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 petite courge butternut",
+        "quantity": "1",
+        "unit": "",
+        "name": "Petite courge butternut"
+      },
+      {
+        "raw": "1 tête d’ail",
+        "quantity": "1 tête",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 càs de mascarpone",
+        "quantity": "1 càs",
+        "unit": "càs",
+        "name": "Mascarpone"
+      },
+      {
+        "raw": "90g de parmesan",
+        "quantity": "90 g",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "1 bouquet de sauge fraiche",
+        "quantity": "1 bouquet",
+        "unit": "bouquet",
+        "name": "Sauge fraiche"
+      },
+      {
+        "raw": "400g de pasta",
+        "quantity": "400 g",
+        "unit": "g",
+        "name": "Pasta"
+      },
+      {
+        "raw": "Huile d’olive, sel et poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive, sel et poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00242_pasta-butternut-rotie.jpg",
+    "images": [
+      "images/00242_pasta-butternut-rotie.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Petite courge butternut",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Petite courge butternut"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Mascarpone",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Mascarpone"
+      },
+      {
+        "raw": "90 g de Parmesan",
+        "quantity": "90",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "1 bouquet de Sauge fraiche",
+        "quantity": "1",
+        "unit": "bouquet",
+        "name": "Sauge fraiche"
+      },
+      {
+        "raw": "400 g de Pasta",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Pasta"
+      },
+      {
+        "raw": "Huile d’olive, sel et poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive, sel et poivre"
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cookies-chocolat-noix",
+  "recipe_id": "00204",
+  "file": "recettes/00204_cookies-chocolat-noix.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "cookies-chocolat-noix",
+    "title": "Cookies chocolat noix",
+    "original_title": "‍",
+    "source_file": "Cookies chocolat noix.melarecipe",
+    "categories": [
+      "Sucré",
+      "Cookies"
+    ],
+    "ingredients": [
+      "227 g de Beurre",
+      "2 unité de Œuf",
+      "100 g de Sucre",
+      "160 g de Sucre vergoise",
+      "219 g de Farine",
+      "125 g de Farine spéciale gateaux",
+      "1 cuillère à café de Maïzena",
+      "1 cuillère à café de Bicarbonate de soude",
+      "0,5 cuillère à café de Sel",
+      "300 g de Pépites de chocolat",
+      "240 g de Noix"
+    ],
+    "ingredients_raw": "227 g de Beurre\n2 unité de Œuf\n100 g de Sucre\n160 g de Sucre vergoise\n219 g de Farine\n125 g de Farine spéciale gateaux\n1 cuillère à café de Maïzena\n1 cuillère à café de Bicarbonate de soude\n0,5 cuillère à café de Sel\n300 g de Pépites de chocolat\n240 g de Noix",
+    "instructions": "# Étapes (vous pouvez le faire à la main ou au batteur électrique) :\nMélanger dans un bol votre beurre froid, sucre blanc et sucre vergoise\nIncorporer vos oeufs : 1 oeuf à la fois en mélangeant\nAjouter maizena, bicarbonate de soude, sel, vos 2 types de farine et mélanger\nAjouter vos pépites de chocolat et vos noix hachées en mélangeant\nLaisser reposer votre pâte 15min au frigo et préchauffer votre four à 210°c\nFormer vos 8 grosse boules et les cuire par 4 (2 fournées)\nLaisser reposer vos boules sur le plateau de cuisson 15min au frigo\nCuire à 210°c pendant 13 à 15min chaleur normale (surveiller selon votre four)\nLaisser reposer vos cookies après cuisson au moins 30min",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DFqDjI0M6NG",
+    "source_id": "instagram.com/reel/DFqDjI0M6NG",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "227g de beurre froid",
+      "2 gros oeufs",
+      "100g de sucre blanc",
+      "160g de sucre vergoise",
+      "219g de farine T45",
+      "125g de farine spéciale gateaux",
+      "1 cac de maizena",
+      "1 cac de bicarbonate de soude",
+      "1/2 cac de sel",
+      "300g de pépites de chocolat (ou tablette hachée)",
+      "240g de noix hachées"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "227 g de Beurre",
+        "quantity": "227",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "2 Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "100 g de Sucre blanc",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "160 g de Sucre vergoise",
+        "quantity": "160",
+        "unit": "g",
+        "name": "Sucre vergoise"
+      },
+      {
+        "raw": "219 g de Farine T45",
+        "quantity": "219",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "125 g de Farine spéciale gateaux",
+        "quantity": "125",
+        "unit": "g",
+        "name": "Farine spéciale gateaux"
+      },
+      {
+        "raw": "1 cuillère à café de Maïzena",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "1 cuillère à café de Bicarbonate de soude",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Bicarbonate de soude"
+      },
+      {
+        "raw": "0,5 cuillère à café de Sel",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "300 g de Pépites de chocolat",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Pépites de chocolat"
+      },
+      {
+        "raw": "240 g de Noix hachées",
+        "quantity": "240",
+        "unit": "g",
+        "name": "Noix"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00204",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "227g de beurre froid",
+        "quantity": "227 g",
+        "unit": "g",
+        "name": "Beurre froid"
+      },
+      {
+        "raw": "2 gros oeufs",
+        "quantity": "2",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "100g de sucre blanc",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Sucre blanc"
+      },
+      {
+        "raw": "160g de sucre vergoise",
+        "quantity": "160 g",
+        "unit": "g",
+        "name": "Sucre vergoise"
+      },
+      {
+        "raw": "219g de farine T45",
+        "quantity": "219 g",
+        "unit": "g",
+        "name": "Farine T45"
+      },
+      {
+        "raw": "125g de farine spéciale gateaux",
+        "quantity": "125 g",
+        "unit": "g",
+        "name": "Farine spéciale gateaux"
+      },
+      {
+        "raw": "1 cac de maizena",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "1 cac de bicarbonate de soude",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Bicarbonate de soude"
+      },
+      {
+        "raw": "1/2 cac de sel",
+        "quantity": "1/2 cac",
+        "unit": "cac",
+        "name": "Sel"
+      },
+      {
+        "raw": "300g de pépites de chocolat (ou tablette hachée)",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Pépites de chocolat"
+      },
+      {
+        "raw": "240g de noix hachées",
+        "quantity": "240 g",
+        "unit": "g",
+        "name": "Noix hachées"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00204_cookies-chocolat-noix.jpg",
+    "images": [
+      "images/00204_cookies-chocolat-noix.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "227 g de Beurre",
+        "quantity": "227",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "2 Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "100 g de Sucre blanc",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Sucre blanc"
+      },
+      {
+        "raw": "160 g de Sucre vergoise",
+        "quantity": "160",
+        "unit": "g",
+        "name": "Sucre vergoise"
+      },
+      {
+        "raw": "219 g de Farine T45",
+        "quantity": "219",
+        "unit": "g",
+        "name": "Farine T45"
+      },
+      {
+        "raw": "125 g de Farine spéciale gateaux",
+        "quantity": "125",
+        "unit": "g",
+        "name": "Farine spéciale gateaux"
+      },
+      {
+        "raw": "1 cuillère à café de Maïzena",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "1 cuillère à café de Bicarbonate de soude",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Bicarbonate de soude"
+      },
+      {
+        "raw": "0,5 cuillère à café de Sel",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "300 g de Pépites de chocolat",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Pépites de chocolat"
+      },
+      {
+        "raw": "240 g de Noix hachées",
+        "quantity": "240",
+        "unit": "g",
+        "name": "Noix hachées"
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "dip-pistache-feta",
+  "recipe_id": "00205",
+  "file": "recettes/00205_dip-pistache-feta.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "dip-pistache-feta",
+    "title": "Dip pistache & fêta",
+    "original_title": "Dip pistache & fêta",
+    "source_file": "Dip pistache & fêta.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Dip/Tartinade",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "70 g de Pistache",
+      "Quelques feuille de Basilic",
+      "1 gousse de Ail",
+      "0,5 unité de Jus de citron",
+      "2 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Yaourt grec",
+      "200 g de Feta"
+    ],
+    "ingredients_raw": "70 g de Pistache\nQuelques feuille de Basilic\n1 gousse de Ail\n0,5 unité de Jus de citron\n2 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Yaourt grec\n200 g de Feta",
+    "instructions": "# Instruction 👩‍🏫 :\nCommencez par mixer vos pistaches, puis ajoutez votre gousse d’ail, vos feuilles de basilic et de jus de citron.\nMixez une nouvelle fois, puis ajouter la fêta, le yaourt grecque et l’huile d’olive.\nMixez le tout jusqu’à ce que le mélange devienne homogène.\nDressez ça dans une assiette, ajoutez-y un filet d’huile d’olive, du paprika, quelques pistaches concassées et quelques feuilles de basilic.\nAccompagné ça d’un bon pain chaud ou d’un pain pita.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DFxS-ZUI0BZ",
+    "source_id": "instagram.com/reel/DFxS-ZUI0BZ",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "# Ingrédients 📜 :",
+      "70 g de pistaches",
+      "Quelques feuilles de basilic",
+      "1 gousse d’ail",
+      "1/2 jus de citron",
+      "2 CàS d’huile d’olive",
+      "2 CàS de yaourt à la grecque",
+      "200 g de fêta"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "70 g de Pistache",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Pistache"
+      },
+      {
+        "raw": "Quelques feuille de Basilic",
+        "quantity": "Quelques",
+        "unit": "feuille",
+        "name": "Basilic"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "0,5 Jus de citron",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Yaourt à la grecque",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00205",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "# Ingrédients 📜 :",
+        "type": "section"
+      },
+      {
+        "raw": "70 g de pistaches",
+        "quantity": "70 g",
+        "unit": "g",
+        "name": "Pistache"
+      },
+      {
+        "raw": "Quelques feuilles de basilic",
+        "quantity": "Quelques feuilles",
+        "unit": "feuille",
+        "name": "Basilic"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1/2 jus de citron",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 CàS d’huile d’olive",
+        "quantity": "2 CàS",
+        "unit": "CàS",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 CàS de yaourt à la grecque",
+        "quantity": "2 CàS",
+        "unit": "CàS",
+        "name": "Yaourt à la grecque"
+      },
+      {
+        "raw": "200 g de fêta",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Feta"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00205_dip-pistache-feta.jpg",
+    "images": [
+      "images/00205_dip-pistache-feta.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "70 g de Pistache",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Pistache"
+      },
+      {
+        "raw": "Quelques feuille de Basilic",
+        "quantity": "Quelques",
+        "unit": "feuille",
+        "name": "Basilic"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "0,5 Jus de citron",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Yaourt à la grecque",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt à la grecque"
+      },
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      }
+    ]
+  }
+}

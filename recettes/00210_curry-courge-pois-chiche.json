@@ -1,0 +1,387 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "curry-courge-pois-chiche",
+  "recipe_id": "00210",
+  "file": "recettes/00210_curry-courge-pois-chiche.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "curry-courge-pois-chiche",
+    "title": "Curry courge & pois chiche",
+    "original_title": "Curry courge & pois chiche ",
+    "source_file": "Curry courge & pois chiche.melarecipe",
+    "categories": [
+      "Curry/Dahl",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Oignon jaune",
+      "1 unité de Huile d’olive",
+      "1 cuillère à café de Gingembre frais",
+      "300 g de Potimarron",
+      "1 cuillère à soupe de Curry",
+      "1 cuillère à café de Cumin",
+      "1 cuillère à café de Coriandre en poudre",
+      "0,5 cuillère à café de Curcuma",
+      "400 ml de Lait de coco",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "300 g de Pois chiches cuits",
+      "1 unité de Piment",
+      "1 unité de Citron vert",
+      "1 unité de Coriandre",
+      "1 unité de Menthe",
+      "1 unité de Riz"
+    ],
+    "ingredients_raw": "1 unité de Oignon jaune\n1 unité de Huile d’olive\n1 cuillère à café de Gingembre frais\n300 g de Potimarron\n1 cuillère à soupe de Curry\n1 cuillère à café de Cumin\n1 cuillère à café de Coriandre en poudre\n0,5 cuillère à café de Curcuma\n400 ml de Lait de coco\n1 unité de Sel\n1 unité de Poivre\n300 g de Pois chiches cuits\n1 unité de Piment\n1 unité de Citron vert\n1 unité de Coriandre\n1 unité de Menthe\n1 unité de Riz",
+    "instructions": "Faites revenir l’oignon avec l’huile d’olive sur feu moyen jusqu’à ce qu’il soit tendre et sans qu’il grille. Ajoutez le potimarron pour 3-4 min. Ajoutez le gingembre râpé et les épices, sel poivre, mélangez bien. Ajoutez le lait de coco, couvrez pour environ 30min sur feu doux : mélangez quelques fois pour vérifier que ça n’accroche pas. Le potimarron doit être super tendre à la fin!\nAjoutez les pois chiches, faites cuire 5min de plus et ajustez l’assaisonnement / les épices si besoin, faites au goût. Servez avec du riz, ajoutez de la menthe, de la coriandre, de l’huile pimentée et du jus de citron vert ! Des petites touches de fraîcheur sur ce plat d’hiver. Enjoy 🫶🏻",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DGbK76qsm4T",
+    "source_id": "instagram.com/reel/DGbK76qsm4T",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 oignon jaune",
+      "Huile d’olive",
+      "1 càc de gingembre frais râpé",
+      "300g de potimarron",
+      "1 càs de curry de madras",
+      "1 càc ce cumin en poudre",
+      "1 càc de coriandre en poudre",
+      "1/2 càc de curcuma en poudre",
+      "400ml de lait de coco",
+      "Sel poivre",
+      "300g de pois chiches",
+      "Piment ou huile pimentée",
+      "Citron vert",
+      "Coriandre & menthe",
+      "Riz"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Oignon jaune",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Gingembre frais",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "300 g de Potimarron",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "1 cuillère à soupe de Curry de madras",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cuillère à café de Ce cumin en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à café de Coriandre en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Coriandre en poudre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Curcuma en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "400 ml de Lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "300 g de Pois chiches cuits",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "Piment ou huile pimentée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "Menthe",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Menthe"
+      },
+      {
+        "raw": "Riz",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Riz"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00210",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 oignon jaune",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 càc de gingembre frais râpé",
+        "quantity": "1 càc",
+        "unit": "càc",
+        "name": "Gingembre frais râpé"
+      },
+      {
+        "raw": "300g de potimarron",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "1 càs de curry de madras",
+        "quantity": "1 càs",
+        "unit": "càs",
+        "name": "Curry de madras"
+      },
+      {
+        "raw": "1 càc ce cumin en poudre",
+        "quantity": "1 càc",
+        "unit": "càc",
+        "name": "Ce cumin en poudre"
+      },
+      {
+        "raw": "1 càc de coriandre en poudre",
+        "quantity": "1 càc",
+        "unit": "càc",
+        "name": "Coriandre en poudre"
+      },
+      {
+        "raw": "1/2 càc de curcuma en poudre",
+        "quantity": "1/2 càc",
+        "unit": "càc",
+        "name": "Curcuma en poudre"
+      },
+      {
+        "raw": "400ml de lait de coco",
+        "quantity": "400 ml",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Sel poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Sel poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "300g de pois chiches",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "Piment ou huile pimentée",
+        "quantity": "",
+        "unit": "",
+        "name": "Piment ou huile pimentée"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "",
+        "unit": "",
+        "name": "Citron vert"
+      },
+      {
+        "raw": "Coriandre & menthe",
+        "quantity": "",
+        "unit": "",
+        "name": "Coriandre & menthe"
+      },
+      {
+        "raw": "Riz",
+        "quantity": "",
+        "unit": "",
+        "name": "Riz"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00210_curry-courge-pois-chiche.jpg",
+    "images": [
+      "images/00210_curry-courge-pois-chiche.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Oignon jaune",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Gingembre frais",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "300 g de Potimarron",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "1 cuillère à soupe de Curry de madras",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Curry de madras"
+      },
+      {
+        "raw": "1 cuillère à café de Ce cumin en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ce cumin en poudre"
+      },
+      {
+        "raw": "1 cuillère à café de Coriandre en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Coriandre en poudre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Curcuma en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Curcuma en poudre"
+      },
+      {
+        "raw": "400 ml de Lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "300 g de Pois chiches cuits",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "Piment ou huile pimentée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment ou huile pimentée"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "Menthe",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Menthe"
+      },
+      {
+        "raw": "Riz",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Riz"
+      }
+    ]
+  }
+}
