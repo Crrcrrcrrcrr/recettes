@@ -1,0 +1,214 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "orzotto-potimarron-cheddar-et-lard",
+  "recipe_id": "00132",
+  "file": "recettes/00132_orzotto-potimarron-cheddar-et-lard.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "orzotto-potimarron-cheddar-et-lard",
+    "title": "Orzotto potimarron, cheddar et lard",
+    "original_title": "Orzotto potimarron, cheddar et lard",
+    "source_file": "Orzotto potimarron, cheddar et lard.melarecipe",
+    "categories": [
+      "Plats",
+      "Risotto/Orzotto"
+    ],
+    "ingredients": [
+      "200 g de Orzo",
+      "400 g de Potimarron",
+      "100 g de Cheddar",
+      "4 tranche de Lard fumé",
+      "60 cl de Bouillon de légumes",
+      "2 unité de Échalote",
+      "1 unité de Thym",
+      "1 unité de Romarin frais"
+    ],
+    "ingredients_raw": "200 g de Orzo\n400 g de Potimarron\n100 g de Cheddar\n4 tranche de Lard fumé\n60 cl de Bouillon de légumes\n2 unité de Échalote\n1 unité de Thym\n1 unité de Romarin frais",
+    "instructions": "Couper et épépiner le potimarron. Le déposer sur une plaque allant au four avec un filet d’huile d’olive et quelques branches de thym et de romarin. Enfourner pour 45mn à 180 degrés.\nDéposer les morceaux de potimarron dans le bol du mixeur avec le cheddar et un peu de bouillon de légumes. Poivrer et mixer jusqu’à obtenir une purée épaisse.\nEmincer finement les échalotes et les faire suer dans une grande poêle ou un wok avec de l’huile d’olive. Ajouter les pâtes orzo et les faire nacrer quelques minutes.\nVerser la sauce au potimarron puis une louche de bouillon et remuer pour former une sauce crémeuse. Continuer à remuer pendant une dizaine de minutes en ajoutant du bouillon dès que les pâtes ont absorbé le liquide. Vous devez obtenir une texture crémeuse et fluide, comme une soupe épaisse.\nFaire dorer les tranches de lard quelques minutes et les couper en petits morceaux.\nDès que l’orzotto a atteint la bonne consistance, dresser immédiatement dans des assiettes avec les morceaux de lard sur le dessus, et terminer par un filet d’huile d’olive.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CxyEwyxPInB",
+    "source_id": "instagram.com/reel/CxyEwyxPInB",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200g de pâtes orzo",
+      "1/2 potimarron (environ 400g)",
+      "100g de cheddar",
+      "4 fines tranches de lard",
+      "60cl de bouillon de légumes",
+      "2 échalotes",
+      "Thym",
+      "Romarin frais"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de Pâtes orzo",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Orzo"
+      },
+      {
+        "raw": "400 g de Potimarron",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "100 g de Cheddar",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Cheddar"
+      },
+      {
+        "raw": "4 tranche de Lard",
+        "quantity": "4",
+        "unit": "tranche",
+        "name": "Lard fumé"
+      },
+      {
+        "raw": "60 cl de Bouillon de légumes",
+        "quantity": 600,
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "raw": "Romarin frais",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Romarin frais"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00132",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "200g de pâtes orzo",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Pâtes orzo"
+      },
+      {
+        "raw": "1/2 potimarron (environ 400g)",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Potimarron (environ 400g)"
+      },
+      {
+        "raw": "100g de cheddar",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Cheddar"
+      },
+      {
+        "raw": "4 fines tranches de lard",
+        "quantity": "4",
+        "unit": "",
+        "name": "Fines tranches de lard"
+      },
+      {
+        "raw": "60cl de bouillon de légumes",
+        "quantity": "60 cl",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "2 échalotes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "",
+        "unit": "",
+        "name": "Thym"
+      },
+      {
+        "raw": "Romarin frais",
+        "quantity": "",
+        "unit": "",
+        "name": "Romarin frais"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00132_orzotto-potimarron-cheddar-et-lard.jpg",
+    "images": [
+      "images/00132_orzotto-potimarron-cheddar-et-lard.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "200 g de Pâtes orzo",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pâtes orzo"
+      },
+      {
+        "raw": "400 g de Potimarron",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "100 g de Cheddar",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Cheddar"
+      },
+      {
+        "raw": "4 tranche de Lard",
+        "quantity": "4",
+        "unit": "tranche",
+        "name": "Lard"
+      },
+      {
+        "raw": "60 cl de Bouillon de légumes",
+        "quantity": 600,
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "raw": "Romarin frais",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Romarin frais"
+      }
+    ]
+  }
+}

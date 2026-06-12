@@ -1,0 +1,400 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pad-thai",
+  "recipe_id": "00196",
+  "file": "recettes/00196_pad-thai.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pad-thai",
+    "title": "PAD THAÏ",
+    "original_title": "PAD THAÏ",
+    "source_file": "PAD THAÏ.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Pâtes",
+      "Plats"
+    ],
+    "ingredients": [
+      "250 g de Nouilles de riz",
+      "100 g de Haricot mungo",
+      "2 tiges de Oignon vert",
+      "200 g de Tofu",
+      "2 gousse de Ail",
+      "1 unité de Échalote",
+      "1 unité de Cacahuète",
+      "1 unité de Citron vert",
+      "5 cuillère à soupe de Huile",
+      "4 cuillère à soupe de Tamarin",
+      "2 cuillère à soupe de Sucre de canne",
+      "4 cuillère à soupe de Sauce poisson",
+      "1 cuillère à café de Bouillon",
+      "4 cuillère à soupe de Eau",
+      "1 unité de Échalote",
+      "4 gousse de Ail",
+      "1 cuillère à soupe de Piment"
+    ],
+    "ingredients_raw": "250 g de Nouilles de riz\n100 g de Haricot mungo\n2 tiges de Oignon vert\n200 g de Tofu\n2 gousse de Ail\n1 unité de Échalote\n1 unité de Cacahuète\n1 unité de Citron vert\n5 cuillère à soupe de Huile\n4 cuillère à soupe de Tamarin\n2 cuillère à soupe de Sucre de canne\n4 cuillère à soupe de Sauce poisson\n1 cuillère à café de Bouillon\n4 cuillère à soupe de Eau\n1 unité de Échalote\n4 gousse de Ail\n1 cuillère à soupe de Piment",
+    "instructions": "Il est difficile de trouver une authentique recette de pad thaï de nos jours !\nMême lorsque vous dînez dans un restaurant thaïlandais, vous n’êtes pas assuré de manger une version authentique de ce savoureux plat.\nCette cuisine de rue thaïlandaise a trouvé son chemin à travers le monde, et il est surprenant de constater le nombre de mauvaises variantes qui circulent….Il existe un tas de recettes occidentalisées qui ne reposent que sur quelques ingrédients de base tels que le vinaigre, la sauce soja et le sucre ? Mais en  utilisant trop peu d’ingrédients dans votre sauce, vous ne parviendrez pas à capturer les vraies saveurs authentiques de ce plat !!!!!\nIl y a deux élément important qui définissent un bon Pad Thaï, la qualité des nouilles et de la sauce.\n( noter que c’est un pad Thai VEGAN, pour un vrai pad Thai non vegan il manquerai l’œuf, les crevettes sécher, le radis mariné fermenter, et plus de protéines )",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DEP3YY_It2q",
+    "source_id": "instagram.com/reel/DEP3YY_It2q",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "250g de nouille de riz, épaisse",
+      "100g de haricot mungo",
+      "2 tiges d’oignons vert, coupé grossièrement",
+      "200g de tofu, en cubes",
+      "2 gousse d’ails, haché",
+      "1 échalote, haché",
+      "Cacahuète ( garniture)",
+      "Citron vert ( garniture )",
+      "# Sauce pad Thai ( a conserver au frigo ) :",
+      "5 c. à s huile",
+      "4 c. à s tamarin",
+      "2 c. à s de sucre de cane",
+      "4 c. à s sauce « poisson »",
+      "1 c. à c bouillon",
+      "4 c. à s d’eau",
+      "1 échalote, hachée",
+      "4 gousse d’ails, haché",
+      "1 c. à s de piment ( facultatif )"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "250 g de Nouille de riz, épaisse",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "100 g de Haricot mungo",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Haricot mungo"
+      },
+      {
+        "raw": "2 tiges de Oignon vert",
+        "quantity": "2",
+        "unit": "tige",
+        "name": "Oignon vert"
+      },
+      {
+        "raw": "200 g de Tofu, en cubes",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Tofu"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Échalote",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Cacahuète",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      },
+      {
+        "raw": "5 cuillère à soupe de Huile",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "4 cuillère à soupe de Tamarin",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Tamarin"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sucre de cane",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sucre de canne"
+      },
+      {
+        "raw": "4 cuillère à soupe de Sauce poisson",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Sauce poisson"
+      },
+      {
+        "raw": "1 cuillère à café de Bouillon",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "4 cuillère à soupe de Eau",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      },
+      {
+        "raw": "Échalote",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Piment",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Piment"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00196",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "250g de nouille de riz, épaisse",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Nouille de riz, épaisse"
+      },
+      {
+        "raw": "100g de haricot mungo",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Haricot mungo"
+      },
+      {
+        "raw": "2 tiges d’oignons vert, coupé grossièrement",
+        "quantity": "2",
+        "unit": "",
+        "name": "Tiges d’oignons vert, coupé grossièrement"
+      },
+      {
+        "raw": "200g de tofu, en cubes",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Tofu, en cubes"
+      },
+      {
+        "raw": "2 gousse d’ails, haché",
+        "quantity": "2 gousse",
+        "unit": "gousse",
+        "name": "Ails, haché"
+      },
+      {
+        "raw": "1 échalote, haché",
+        "quantity": "1",
+        "unit": "",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Cacahuète ( garniture)",
+        "quantity": "",
+        "unit": "",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Citron vert ( garniture )",
+        "quantity": "",
+        "unit": "",
+        "name": "Citron vert"
+      },
+      {
+        "raw": "# Sauce pad Thai ( a conserver au frigo ) :",
+        "type": "section"
+      },
+      {
+        "raw": "5 c. à s huile",
+        "quantity": "5",
+        "unit": "",
+        "name": "C. à s huile"
+      },
+      {
+        "raw": "4 c. à s tamarin",
+        "quantity": "4",
+        "unit": "",
+        "name": "C. à s tamarin"
+      },
+      {
+        "raw": "2 c. à s de sucre de cane",
+        "quantity": "2",
+        "unit": "",
+        "name": "C. à s de sucre de cane"
+      },
+      {
+        "raw": "4 c. à s sauce « poisson »",
+        "quantity": "4",
+        "unit": "",
+        "name": "C. à s sauce « poisson »"
+      },
+      {
+        "raw": "1 c. à c bouillon",
+        "quantity": "1",
+        "unit": "",
+        "name": "C. à c bouillon"
+      },
+      {
+        "raw": "4 c. à s d’eau",
+        "quantity": "4",
+        "unit": "",
+        "name": "C. à s d’eau"
+      },
+      {
+        "raw": "1 échalote, hachée",
+        "quantity": "1",
+        "unit": "",
+        "name": "Échalote"
+      },
+      {
+        "raw": "4 gousse d’ails, haché",
+        "quantity": "4 gousse",
+        "unit": "gousse",
+        "name": "Ails, haché"
+      },
+      {
+        "raw": "1 c. à s de piment ( facultatif )",
+        "quantity": "1",
+        "unit": "",
+        "name": "C. à s de piment ( facultatif )"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00196_pad-thai.jpg",
+    "images": [
+      "images/00196_pad-thai.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "250 g de Nouille de riz, épaisse",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Nouille de riz, épaisse"
+      },
+      {
+        "raw": "100 g de Haricot mungo",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Haricot mungo"
+      },
+      {
+        "raw": "2 tiges de Oignon vert",
+        "quantity": "2",
+        "unit": "tige",
+        "name": "Oignon vert"
+      },
+      {
+        "raw": "200 g de Tofu, en cubes",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Tofu, en cubes"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Échalote",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Cacahuète",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      },
+      {
+        "raw": "5 cuillère à soupe de Huile",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "4 cuillère à soupe de Tamarin",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Tamarin"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sucre de cane",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sucre de cane"
+      },
+      {
+        "raw": "4 cuillère à soupe de Sauce poisson",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Sauce poisson"
+      },
+      {
+        "raw": "1 cuillère à café de Bouillon",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "4 cuillère à soupe de Eau",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      },
+      {
+        "raw": "Échalote",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Piment",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Piment"
+      }
+    ]
+  }
+}

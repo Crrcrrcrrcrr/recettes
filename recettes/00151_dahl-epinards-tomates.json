@@ -1,0 +1,155 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "dahl-epinards-tomates",
+  "recipe_id": "00151",
+  "file": "recettes/00151_dahl-epinards-tomates.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "dahl-epinards-tomates",
+    "title": "Dahl épinards tomates",
+    "original_title": "Dahl épinards tomates",
+    "source_file": "Dahl épinards tomates.melarecipe",
+    "categories": [
+      "Curry/Dahl",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 tasse de Lentille corail",
+      "2 poignée de Épinard",
+      "2 poignée de Tomate cerise",
+      "1 cube de Bouillon",
+      "1 cuillère à soupe de Curry"
+    ],
+    "ingredients_raw": "1 tasse de Lentille corail\n2 poignée de Épinard\n2 poignée de Tomate cerise\n1 cube de Bouillon\n1 cuillère à soupe de Curry",
+    "instructions": "Ajoutez tous les ingrédients dans une casserole avec 2 tasses d’eau froide.\nLaissez mijoter à feu doux pendant 20 minutes en remuant de temps en temps pour éviter que ça n’accroche.\nSi le mélange commence à sécher, ajoutez un peu d’eau froide.\nUne fois la cuisson terminée, éteignez le feu et laissez épaissir quelques minutes.\nServez dans des bols.\n#Suggestion de service :\nAjoutez un quartier de citron, des herbes fraîches et quelques flocons de piment.\nSe déguste généralement avec du pain croustillant.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CsEfCmDvfak",
+    "source_id": "instagram.com/reel/CsEfCmDvfak",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 tasse de lentilles rouges",
+      "2 poignées d’épinards frais ou 2 cubes d’épinards surgelés",
+      "2 poignées de tomates cerises",
+      "1 cube de bouillon",
+      "1 cuillère à soupe de curry en poudre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 tasse de Lentilles rouges",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Lentille corail"
+      },
+      {
+        "raw": "2 poignée de Épinard",
+        "quantity": "2",
+        "unit": "poignée",
+        "name": "Épinard"
+      },
+      {
+        "raw": "2 poignée de Tomate cerise",
+        "quantity": "2",
+        "unit": "poignée",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "1 cube de Bouillon",
+        "quantity": "1",
+        "unit": "cube",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "Cuillère à soupe de curry en poudre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Curry"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00151",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 tasse de lentilles rouges",
+        "quantity": "1 tasse",
+        "unit": "tasse",
+        "name": "Lentilles rouges"
+      },
+      {
+        "raw": "2 poignées d’épinards frais ou 2 cubes d’épinards surgelés",
+        "quantity": "2 poignées",
+        "unit": "poignées",
+        "name": "Épinards frais ou 2 cubes d’épinards surgelés"
+      },
+      {
+        "raw": "2 poignées de tomates cerises",
+        "quantity": "2 poignées",
+        "unit": "poignées",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "1 cube de bouillon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Cube de bouillon"
+      },
+      {
+        "raw": "1 cuillère à soupe de curry en poudre",
+        "quantity": "1",
+        "unit": "",
+        "name": "Cuillère à soupe de curry en poudre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00151_dahl-epinards-tomates.jpg",
+    "images": [
+      "images/00151_dahl-epinards-tomates.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "1 tasse de Lentilles rouges",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Lentilles rouges"
+      },
+      {
+        "raw": "2 poignée de Épinard",
+        "quantity": "2",
+        "unit": "poignée",
+        "name": "Épinard"
+      },
+      {
+        "raw": "2 poignée de Tomate cerise",
+        "quantity": "2",
+        "unit": "poignée",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "1 cube de Bouillon",
+        "quantity": "1",
+        "unit": "cube",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "Cuillère à soupe de curry en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cuillère à soupe de curry en poudre"
+      }
+    ]
+  }
+}

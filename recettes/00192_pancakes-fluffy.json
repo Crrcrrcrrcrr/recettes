@@ -1,0 +1,154 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pancakes-fluffy",
+  "recipe_id": "00192",
+  "file": "recettes/00192_pancakes-fluffy.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pancakes-fluffy",
+    "title": "Pancakes fluffy",
+    "original_title": "Pancakes fluffy",
+    "source_file": "Pancakes fluffy.melarecipe",
+    "categories": [
+      "Pancakes",
+      "Sucré"
+    ],
+    "ingredients": [
+      "1 unité de Banane",
+      "1 unité de Œuf",
+      "80 g de Farine",
+      "2 cuillère à café de Levure chimique",
+      "1 cuillère à café de Lait"
+    ],
+    "ingredients_raw": "1 unité de Banane\n1 unité de Œuf\n80 g de Farine\n2 cuillère à café de Levure chimique\n1 cuillère à café de Lait",
+    "instructions": "Mélangez tous les ingrédients, la pâte est épaisse c’est normal! \nLaissez reposer 5 minutes (ou pas) et faites cuire dans une poêle chaude en  déposant une louche de pâte dans la poêle, retournez dès que des petits bulles se forment et répétez l’opération.\nEn 5 minutes c’est prêt !",
+    "notes": "",
+    "link": "https://www.instagram.com/p/CN7xPHThIpW",
+    "source_id": "instagram.com/p/CN7xPHThIpW",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 banane bien mûre",
+      "1 œuf",
+      "80g de farine",
+      "2 cc de levure chimique",
+      "1 cc de lait (facultatif)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Banane",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "80 g de Farine",
+        "quantity": "80",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "2 cuillère à café de Levure chimique",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "1 cuillère à café de Lait (facultatif)",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Lait"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00192",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 banane bien mûre",
+        "quantity": "1",
+        "unit": "",
+        "name": "Banane bien mûre"
+      },
+      {
+        "raw": "1 œuf",
+        "quantity": "1",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "80g de farine",
+        "quantity": "80 g",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "2 cc de levure chimique",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "1 cc de lait (facultatif)",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Lait (facultatif)"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00192_pancakes-fluffy.jpg",
+    "images": [
+      "images/00192_pancakes-fluffy.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Banane",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "80 g de Farine",
+        "quantity": "80",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "2 cuillère à café de Levure chimique",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "1 cuillère à café de Lait (facultatif)",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Lait (facultatif)"
+      }
+    ]
+  }
+}

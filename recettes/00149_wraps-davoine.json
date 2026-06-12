@@ -1,0 +1,80 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "wraps-davoine",
+  "recipe_id": "00149",
+  "file": "recettes/00149_wraps-davoine.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "wraps-davoine",
+    "title": "Wraps d’avoine",
+    "original_title": "Wraps d’avoine",
+    "source_file": "Wraps d’avoine.melarecipe",
+    "categories": [
+      "Pains/wraps",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "220 g de Flocons d’avoine",
+      "450 ml de Eau"
+    ],
+    "ingredients_raw": "220 g de Flocons d’avoine\n450 ml de Eau",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CsoUuYuOILV",
+    "source_id": "instagram.com/reel/CsoUuYuOILV",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "220g de flocons d’avoine",
+      "450ml d’eau"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "220 g de Flocons d’avoine",
+        "quantity": "220",
+        "unit": "g",
+        "name": "Flocons d’avoine"
+      },
+      {
+        "raw": "450 ml de Eau",
+        "quantity": "450",
+        "unit": "ml",
+        "name": "Eau"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00149",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "220g de flocons d’avoine",
+        "quantity": "220 g",
+        "unit": "g",
+        "name": "Flocons d’avoine"
+      },
+      {
+        "raw": "450ml d’eau",
+        "quantity": "450 ml",
+        "unit": "ml",
+        "name": "Eau"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00149_wraps-davoine.jpg",
+    "images": [
+      "images/00149_wraps-davoine.jpg"
+    ]
+  }
+}

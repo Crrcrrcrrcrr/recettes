@@ -1,0 +1,299 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "bouillon-de-legumes-maison",
+  "recipe_id": "00129",
+  "file": "recettes/00129_bouillon-de-legumes-maison.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "bouillon-de-legumes-maison",
+    "title": "Bouillon de légumes maison",
+    "original_title": "Bouillon de légumes maison",
+    "source_file": "Bouillon de légumes maison.melarecipe",
+    "categories": [
+      "Assaisonnement"
+    ],
+    "ingredients": [
+      "100 g de Levure maltée",
+      "30 g de Sel",
+      "10 g de Oignon en poudre",
+      "1 cuillère à café de Ail en poudre",
+      "10 g de Poudre de champignon (facultatif)",
+      "10 g de Persil séché",
+      "10 g de Ciboulette séchée",
+      "1 pincée de Paprika fumé",
+      "3/4 cuillère à café de Curcuma",
+      "0,5 cuillère à café de Piment en poudre",
+      "0,5 cuillère à café de Muscade",
+      "0,5 cuillère à café de Gingembre en poudre",
+      "0,5 cuillère à café de Poivre"
+    ],
+    "ingredients_raw": "100 g de Levure maltée\n30 g de Sel\n10 g de Oignon en poudre\n1 cuillère à café de Ail en poudre\n10 g de Poudre de champignon (facultatif)\n10 g de Persil séché\n10 g de Ciboulette séchée\n1 pincée de Paprika fumé\n3/4 cuillère à café de Curcuma\n0,5 cuillère à café de Piment en poudre\n0,5 cuillère à café de Muscade\n0,5 cuillère à café de Gingembre en poudre\n0,5 cuillère à café de Poivre",
+    "instructions": "Tout mélanger \n1 cs de ce bouillon de légumes en poudre maison = 1 bouillon cube du commerce.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Cz0ha_KCPEc",
+    "source_id": "instagram.com/reel/Cz0ha_KCPEc",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "100g de levure maltée",
+      "30g de sel",
+      "10g d’oignons en poudre",
+      "1 cc bombée d’ail en poudre",
+      "10g de poudre de champignon (facultatif)",
+      "20g d’un mélange d’herbes séchées qui s’appelle « assaisonnement pour salades » OU 10g de persil séché + 10g de ciboulette séchée + 1 pincée de paprika fumé ou doux",
+      "3/4 de cc de curcuma",
+      "1/2 cc de piment en poudre",
+      "1/2 cc de muscade râpée",
+      "1/2 cc de gingembre en poudre",
+      "1/2 cc de poivre moulu noir ou blanc"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "100 g de Levure maltée",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Levure maltée"
+      },
+      {
+        "raw": "30 g de Sel",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Sel"
+      },
+      {
+        "raw": "10 g de Oignons en poudre",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Oignon en poudre"
+      },
+      {
+        "raw": "1 cuillère à café de Ail en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "10 g de Poudre de champignon (facultatif)",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Poudre de champignon (facultatif)"
+      },
+      {
+        "raw": "10 g de Persil séché",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Persil séché"
+      },
+      {
+        "raw": "10 g de Ciboulette séchée",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Ciboulette séchée"
+      },
+      {
+        "raw": "1 pincée de Paprika fumé",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "3/4 cuillère à café de Curcuma",
+        "quantity": "3/4",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "0,5 cuillère à café de Piment en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Piment en poudre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Muscade râpée",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Muscade"
+      },
+      {
+        "raw": "0,5 cuillère à café de Gingembre en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Poivre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00129",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "100g de levure maltée",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Levure maltée"
+      },
+      {
+        "raw": "30g de sel",
+        "quantity": "30 g",
+        "unit": "g",
+        "name": "Sel"
+      },
+      {
+        "raw": "10g d’oignons en poudre",
+        "quantity": "10 g",
+        "unit": "g",
+        "name": "Oignons en poudre"
+      },
+      {
+        "raw": "1 cc bombée d’ail en poudre",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Bombée d’ail en poudre"
+      },
+      {
+        "raw": "10g de poudre de champignon (facultatif)",
+        "quantity": "10 g",
+        "unit": "g",
+        "name": "Poudre de champignon (facultatif)"
+      },
+      {
+        "raw": "20g d’un mélange d’herbes séchées qui s’appelle « assaisonnement pour salades » OU 10g de persil séché + 10g de ciboulette séchée + 1 pincée de paprika fumé ou doux",
+        "quantity": "20 g",
+        "unit": "g",
+        "name": "Un mélange d’herbes séchées qui s’appelle « assaisonnement pour salades » OU 10g de persil séché + 10g de ciboulette séchée + 1 pincée de paprika fumé ou doux"
+      },
+      {
+        "raw": "3/4 de cc de curcuma",
+        "quantity": "3/4",
+        "unit": "",
+        "name": "Cc de curcuma"
+      },
+      {
+        "raw": "1/2 cc de piment en poudre",
+        "quantity": "1/2 cc",
+        "unit": "cc",
+        "name": "Piment en poudre"
+      },
+      {
+        "raw": "1/2 cc de muscade râpée",
+        "quantity": "1/2 cc",
+        "unit": "cc",
+        "name": "Muscade râpée"
+      },
+      {
+        "raw": "1/2 cc de gingembre en poudre",
+        "quantity": "1/2 cc",
+        "unit": "cc",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "1/2 cc de poivre moulu noir ou blanc",
+        "quantity": "1/2 cc",
+        "unit": "cc",
+        "name": "Poivre moulu noir ou blanc"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00129_bouillon-de-legumes-maison.jpg",
+    "images": [
+      "images/00129_bouillon-de-legumes-maison.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "100 g de Levure maltée",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Levure maltée"
+      },
+      {
+        "raw": "30 g de Sel",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Sel"
+      },
+      {
+        "raw": "10 g de Oignons en poudre",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Oignons en poudre"
+      },
+      {
+        "raw": "1 cuillère à café de Ail en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "10 g de Poudre de champignon (facultatif)",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Poudre de champignon (facultatif)"
+      },
+      {
+        "raw": "10 g de Persil séché",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Persil séché"
+      },
+      {
+        "raw": "10 g de Ciboulette séchée",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Ciboulette séchée"
+      },
+      {
+        "raw": "1 pincée de Paprika fumé",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "3/4 cuillère à café de Curcuma",
+        "quantity": "3/4",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "0,5 cuillère à café de Piment en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Piment en poudre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Muscade râpée",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Muscade râpée"
+      },
+      {
+        "raw": "0,5 cuillère à café de Gingembre en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Poivre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

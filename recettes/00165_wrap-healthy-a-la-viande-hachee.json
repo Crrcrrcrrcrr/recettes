@@ -1,0 +1,335 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "wrap-healthy-a-la-viande-hachee",
+  "recipe_id": "00165",
+  "file": "recettes/00165_wrap-healthy-a-la-viande-hachee.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "wrap-healthy-a-la-viande-hachee",
+    "title": "Wrap healthy à la viande hachée,",
+    "original_title": "Wrap healthy à la viande hachée,",
+    "source_file": "Wrap healthy à la viande hachée,.melarecipe",
+    "categories": [
+      "Plats",
+      "Sandwich",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "1 unité de Wrap",
+      "30 g de Mozzarella râpée",
+      "125 g de Viande hachée",
+      "20 g de Salade",
+      "1 unité de Carré frais",
+      "35 g de Avocat",
+      "50 g de Tomate",
+      "25 g de Oignon rouge",
+      "1 unité de Jus de citron",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 unité de Paprika",
+      "1 unité de Curry",
+      "1 unité de Piment de Cayenne"
+    ],
+    "ingredients_raw": "1 unité de Wrap\n30 g de Mozzarella râpée\n125 g de Viande hachée\n20 g de Salade\n1 unité de Carré frais\n35 g de Avocat\n50 g de Tomate\n25 g de Oignon rouge\n1 unité de Jus de citron\n1 unité de Sel\n1 unité de Poivre\n1 unité de Paprika\n1 unité de Curry\n1 unité de Piment de Cayenne",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CbkhLXJoIda",
+    "source_id": "instagram.com/reel/CbkhLXJoIda",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 wrap",
+      "30g mozzarella râpée",
+      "125g viande hachée 5%",
+      "20g salade",
+      "1 carré frais",
+      "35g avocat",
+      "50g tomates",
+      "25g oignon rouge cru",
+      "Jus de citron",
+      "Sel",
+      "Poivre",
+      "Paprika",
+      "Curry",
+      "Piment de cayenne"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Wrap",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Wrap"
+      },
+      {
+        "raw": "30 g de Mozzarella râpée",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Mozzarella râpée"
+      },
+      {
+        "raw": "125 g de Viande hachée 5%",
+        "quantity": "125",
+        "unit": "g",
+        "name": "Viande hachée"
+      },
+      {
+        "raw": "20 g de Salade",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Salade"
+      },
+      {
+        "raw": "Carré frais",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Carré frais"
+      },
+      {
+        "raw": "35 g de Avocat",
+        "quantity": "35",
+        "unit": "g",
+        "name": "Avocat"
+      },
+      {
+        "raw": "50 g de Tomate",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "25 g de Oignon rouge cru",
+        "quantity": "25",
+        "unit": "g",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "Jus de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Curry",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Curry"
+      },
+      {
+        "raw": "Piment de Cayenne",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment de Cayenne"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00165",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 wrap",
+        "quantity": "1",
+        "unit": "",
+        "name": "Wrap"
+      },
+      {
+        "raw": "30g mozzarella râpée",
+        "quantity": "30 g",
+        "unit": "g",
+        "name": "Mozzarella râpée"
+      },
+      {
+        "raw": "125g viande hachée 5%",
+        "quantity": "125 g",
+        "unit": "g",
+        "name": "Viande hachée 5%"
+      },
+      {
+        "raw": "20g salade",
+        "quantity": "20 g",
+        "unit": "g",
+        "name": "Salade"
+      },
+      {
+        "raw": "1 carré frais",
+        "quantity": "1",
+        "unit": "",
+        "name": "Carré frais"
+      },
+      {
+        "raw": "35g avocat",
+        "quantity": "35 g",
+        "unit": "g",
+        "name": "Avocat"
+      },
+      {
+        "raw": "50g tomates",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "25g oignon rouge cru",
+        "quantity": "25 g",
+        "unit": "g",
+        "name": "Oignon rouge cru"
+      },
+      {
+        "raw": "Jus de citron",
+        "quantity": "",
+        "unit": "",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "",
+        "unit": "",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Curry",
+        "quantity": "",
+        "unit": "",
+        "name": "Curry"
+      },
+      {
+        "raw": "Piment de cayenne",
+        "quantity": "",
+        "unit": "",
+        "name": "Piment de Cayenne"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00165_wrap-healthy-a-la-viande-hachee.jpg",
+    "images": [
+      "images/00165_wrap-healthy-a-la-viande-hachee.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Wrap",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Wrap"
+      },
+      {
+        "raw": "30 g de Mozzarella râpée",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Mozzarella râpée"
+      },
+      {
+        "raw": "125 g de Viande hachée 5%",
+        "quantity": "125",
+        "unit": "g",
+        "name": "Viande hachée 5%"
+      },
+      {
+        "raw": "20 g de Salade",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Salade"
+      },
+      {
+        "raw": "Carré frais",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Carré frais"
+      },
+      {
+        "raw": "35 g de Avocat",
+        "quantity": "35",
+        "unit": "g",
+        "name": "Avocat"
+      },
+      {
+        "raw": "50 g de Tomate",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "25 g de Oignon rouge cru",
+        "quantity": "25",
+        "unit": "g",
+        "name": "Oignon rouge cru"
+      },
+      {
+        "raw": "Jus de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Curry",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Curry"
+      },
+      {
+        "raw": "Piment de Cayenne",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment de Cayenne"
+      }
+    ]
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "poke-bowl-maison-sauce-cacahuete",
+  "recipe_id": "00199",
+  "file": "recettes/00199_poke-bowl-maison-sauce-cacahuete.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "poke-bowl-maison-sauce-cacahuete",
+    "title": "Poke Bowl Maison Sauce Cacahuète!",
+    "original_title": "Poke Bowl Maison Sauce Cacahuète!",
+    "source_file": "Poke Bowl Maison Sauce Cacahuète!.melarecipe",
+    "categories": [
+      "Plats",
+      "Salade"
+    ],
+    "ingredients": [
+      "250 g de Saumon",
+      "1 unité de Sésame grillé",
+      "1 unité de Œuf",
+      "1 poignée de Chou rouge",
+      "1 unité de Cébette",
+      "0,5 unité de Mangue",
+      "1 poignée de Petit pois",
+      "2 cuillère à soupe de Sauce soja",
+      "1 cuillère à soupe de Huile de sésame",
+      "1 gousse de Ail",
+      "1 unité de Citron jaune",
+      "70 g de Cacahuète",
+      "1 cuillère à soupe de Huile de sésame",
+      "1 cuillère à soupe de Sauce soja",
+      "1 cuillère à soupe de Vinaigre de riz",
+      "1 cuillère à café de Mirin",
+      "1 unité de Citron vert",
+      "1 poignée de Cacahuète"
+    ],
+    "ingredients_raw": "250 g de Saumon\n1 unité de Sésame grillé\n1 unité de Œuf\n1 poignée de Chou rouge\n1 unité de Cébette\n0,5 unité de Mangue\n1 poignée de Petit pois\n2 cuillère à soupe de Sauce soja\n1 cuillère à soupe de Huile de sésame\n1 gousse de Ail\n1 unité de Citron jaune\n70 g de Cacahuète\n1 cuillère à soupe de Huile de sésame\n1 cuillère à soupe de Sauce soja\n1 cuillère à soupe de Vinaigre de riz\n1 cuillère à café de Mirin\n1 unité de Citron vert\n1 poignée de Cacahuète",
+    "instructions": "Bonne année 2025! 🫶🏻",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DESmATPo22g",
+    "source_id": "instagram.com/reel/DESmATPo22g",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "250g de saumon",
+      "Sésame grillé",
+      "1 oeuf",
+      "Une poignée de chou rouge",
+      "1 Cébette",
+      "1/2 mangue",
+      "Une poignée de petits pois",
+      "2 càs de sauce soja",
+      "1 càs d'huile de sésame",
+      "1 gousse d'ail",
+      "1 citron jaune",
+      "70g de cacahuètes grillées",
+      "1 càs d'huile de sésame",
+      "1 càs de sauce soja",
+      "1 càs de vinaigre de riz",
+      "1 càc de mirin",
+      "1 citron vert",
+      "Une poignée de cacahuètes"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "250 g de Saumon",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Saumon"
+      },
+      {
+        "raw": "Sésame grillé",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sésame grillé"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 poignée de Chou rouge",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Chou rouge"
+      },
+      {
+        "raw": "Cébette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cébette"
+      },
+      {
+        "raw": "0,5 Mangue",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Mangue"
+      },
+      {
+        "raw": "1 poignée de Petits pois",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Petit pois"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile de sésame",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Citron jaune",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron jaune"
+      },
+      {
+        "raw": "70 g de Cacahuète",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile de sésame",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce soja",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre de riz",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 cuillère à café de Mirin",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Mirin"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      },
+      {
+        "raw": "1 poignée de Cacahuète",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Cacahuète"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00199",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "250g de saumon",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Saumon"
+      },
+      {
+        "raw": "Sésame grillé",
+        "quantity": "",
+        "unit": "",
+        "name": "Sésame grillé"
+      },
+      {
+        "raw": "1 oeuf",
+        "quantity": "1",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "Une poignée de chou rouge",
+        "quantity": "Une poignée",
+        "unit": "poignée",
+        "name": "Chou rouge"
+      },
+      {
+        "raw": "1 Cébette",
+        "quantity": "1",
+        "unit": "",
+        "name": "Cébette"
+      },
+      {
+        "raw": "1/2 mangue",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Mangue"
+      },
+      {
+        "raw": "Une poignée de petits pois",
+        "quantity": "Une poignée",
+        "unit": "poignée",
+        "name": "Petits pois"
+      },
+      {
+        "raw": "2 càs de sauce soja",
+        "quantity": "2 càs",
+        "unit": "càs",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 càs d'huile de sésame",
+        "quantity": "1 càs",
+        "unit": "càs",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 gousse d'ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1 citron jaune",
+        "quantity": "1",
+        "unit": "",
+        "name": "Citron jaune"
+      },
+      {
+        "raw": "70g de cacahuètes grillées",
+        "quantity": "70 g",
+        "unit": "g",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "1 càs d'huile de sésame",
+        "quantity": "1 càs",
+        "unit": "càs",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 càs de sauce soja",
+        "quantity": "1 càs",
+        "unit": "càs",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 càs de vinaigre de riz",
+        "quantity": "1 càs",
+        "unit": "càs",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 càc de mirin",
+        "quantity": "1 càc",
+        "unit": "càc",
+        "name": "Mirin"
+      },
+      {
+        "raw": "1 citron vert",
+        "quantity": "1",
+        "unit": "",
+        "name": "Citron vert"
+      },
+      {
+        "raw": "Une poignée de cacahuètes",
+        "quantity": "Une poignée",
+        "unit": "poignée",
+        "name": "Cacahuète"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00199_poke-bowl-maison-sauce-cacahuete.jpg",
+    "images": [
+      "images/00199_poke-bowl-maison-sauce-cacahuete.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "250 g de Saumon",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Saumon"
+      },
+      {
+        "raw": "Sésame grillé",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sésame grillé"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 poignée de Chou rouge",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Chou rouge"
+      },
+      {
+        "raw": "Cébette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cébette"
+      },
+      {
+        "raw": "0,5 Mangue",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Mangue"
+      },
+      {
+        "raw": "1 poignée de Petits pois",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Petits pois"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile de sésame",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Citron jaune",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron jaune"
+      },
+      {
+        "raw": "70 g de Cacahuète",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile de sésame",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce soja",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre de riz",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 cuillère à café de Mirin",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Mirin"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      },
+      {
+        "raw": "1 poignée de Cacahuète",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Cacahuète"
+      }
+    ]
+  }
+}

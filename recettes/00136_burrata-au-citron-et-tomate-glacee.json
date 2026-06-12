@@ -1,0 +1,153 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "burrata-au-citron-et-tomate-glacee",
+  "recipe_id": "00136",
+  "file": "recettes/00136_burrata-au-citron-et-tomate-glacee.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "burrata-au-citron-et-tomate-glacee",
+    "title": "Burrata au citron et tomate glacée",
+    "original_title": "Burrata au citron et tomate glacée ",
+    "source_file": "Burrata au citron et tomate glacée.melarecipe",
+    "categories": [
+      "Apéritif"
+    ],
+    "ingredients": [
+      "1 unité de Tomate",
+      "1 unité de Burrata",
+      "1 unité de Citron jaune",
+      "1 unité de Huile d’olive",
+      "1 unité de Vinaigre balsamique"
+    ],
+    "ingredients_raw": "1 unité de Tomate\n1 unité de Burrata\n1 unité de Citron jaune\n1 unité de Huile d’olive\n1 unité de Vinaigre balsamique",
+    "instructions": "Congeler une grosse tomate\nRâper sur une burrata\nRecouvrir d’un filet d’huile d’olive et de balsamique, de sel et de zeste de citron.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Cw2vSskMmKN",
+    "source_id": "instagram.com/reel/Cw2vSskMmKN",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 tomate",
+      "1 burrata",
+      "1 citron",
+      "Huile d'olive",
+      "Vinaigre balsamique"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Tomate",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tomate"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "Citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron jaune"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Vinaigre balsamique",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Vinaigre balsamique"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00136",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 tomate",
+        "quantity": "1",
+        "unit": "",
+        "name": "Tomate"
+      },
+      {
+        "raw": "1 burrata",
+        "quantity": "1",
+        "unit": "",
+        "name": "Burrata"
+      },
+      {
+        "raw": "1 citron",
+        "quantity": "1",
+        "unit": "",
+        "name": "Citron"
+      },
+      {
+        "raw": "Huile d'olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Vinaigre balsamique",
+        "quantity": "",
+        "unit": "",
+        "name": "Vinaigre balsamique"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00136_burrata-au-citron-et-tomate-glacee.heic",
+    "images": [
+      "images/00136_burrata-au-citron-et-tomate-glacee.heic"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Tomate",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tomate"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "Citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Vinaigre balsamique",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Vinaigre balsamique"
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "portokalopita-gateau-grec-a-lorange-et-a-la-pate-filo",
+  "recipe_id": "00176",
+  "file": "recettes/00176_portokalopita-gateau-grec-a-lorange-et-a-la-pate-filo.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "portokalopita-gateau-grec-a-lorange-et-a-la-pate-filo",
+    "title": "Portokalopita – Gâteau Grec à l’Orange et à la Pâte Filo",
+    "original_title": "Portokalopita – Gâteau Grec à l’Orange et à la Pâte Filo",
+    "source_file": "Portokalopita – Gâteau Grec à l’Orange et à la Pâte Filo.melarecipe",
+    "categories": [
+      "Gâteau",
+      "Sucré"
+    ],
+    "ingredients": [
+      "380 g de Sucre",
+      "250 ml de Eau",
+      "1 bâton de Cannelle",
+      "2 unité de Oranges bio",
+      "500 g de Pâte filo",
+      "250 ml de Huile",
+      "150 g de Sucre",
+      "0,25 cuillère à café de Vanille en poudre",
+      "2 unité de Zeste d'orange",
+      "2 unité de Jus d'orange",
+      "5 unité de Œuf",
+      "270 g de Yaourt grec",
+      "1 sachet de Levure chimique"
+    ],
+    "ingredients_raw": "380 g de Sucre\n250 ml de Eau\n1 bâton de Cannelle\n2 unité de Oranges bio\n500 g de Pâte filo\n250 ml de Huile\n150 g de Sucre\n0,25 cuillère à café de Vanille en poudre\n2 unité de Zeste d'orange\n2 unité de Jus d'orange\n5 unité de Œuf\n270 g de Yaourt grec\n1 sachet de Levure chimique",
+    "instructions": "#Sirop :\nPressez les oranges pour en extraire le jus.\nVersez tous les ingrédients dans une petite casserole ainsi que les peaux d’orange.\nPortez à ébullition, puis baissez le feu et laissez mijoter à petit bouillon pendant 10 minutes. Éteignez le feu et laissez refroidir à température ambiante.\n#Gâteau :\nPréchauffez le four à 150°C.\nCoupez la pâte filo en bandelettes et étalez-la sur une plaque de cuisson. On peut aussi simplement déchirer grossièrement la filo avec les mains.\nEnfournez 15min pour la faire sécher.\nDans un grand saladier, mélangez l’huile, le sucre, la vanille et le zeste d’orange.\nFouettez pour dissoudre le sucre.\nAjoutez les œufs, le yaourt, le jus d’orange et la levure. Mélangez.\nIncorporer toute la pâte filo cassée en petits morceaux, en veillant à bien l’imbiber de l’appareil. Il ne doit plus rester de morceaux secs.\nLa quantité de filo peut sembler importante mais il faut tout mettre. Une fois mélangée à l’appareil, elle tient le rôle de farine.\nVersez la préparation dans un moule d’environ 32 cm de diamètre (rond ou rectangulaire).\nAugmentez la température du four à 170°C et enfournez 40 min, jusqu’à ce que le gâteau soit doré.\nÀ la sortie du four, piquez le gâteau copieusement avec un cure-dent sur toute la surface.\nVersez immédiatement tout le sirop en plusieurs fois, en laissant le temps au gâteau de l’absorber. Si le sirop a du mal à pénétrer, prédécouper le gâteau en parts avant de l’arroser.\nLe sirop peut rester à la surface quelques heures avant d’être absorbé par le gâteau. Ce n’est pas grave.\nDans tous les cas, laissez refroidir le gâteau à température ambiante puis mettez le au frais quelques heures (idéalement une nuit) pour qu’il finisse d’absorber le sirop.\nAstuce : Accompagner d’une boule de glace ou d’un peu de yaourt grec pour un contraste frais et gourmand.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DF7ogawsvdY",
+    "source_id": "instagram.com/reel/DF7ogawsvdY",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "#Sirop",
+      "380 g de sucre",
+      "250 ml d’eau",
+      "1 bâton de cannelle",
+      "2 oranges bio",
+      "#Gâteau",
+      "500 g de pâte filo",
+      "250 ml d’huile végétale",
+      "150 g de sucre",
+      "¼ de càc de vanille en poudre",
+      "2 oranges bio (zeste et jus)",
+      "5 œufs",
+      "270 g de yaourt grec",
+      "1 sachet de levure chimique"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "380 g de Sucre",
+        "quantity": "380",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "250 ml de Eau",
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 bâton de Cannelle",
+        "quantity": "1",
+        "unit": "bâton",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "2 Oranges bio",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oranges bio"
+      },
+      {
+        "raw": "500 g de Pâte filo",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Pâte filo"
+      },
+      {
+        "raw": "250 ml de Huile végétale",
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Huile"
+      },
+      {
+        "raw": "150 g de Sucre",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "0,25 cuillère à café de Vanille en poudre",
+        "quantity": "0,25",
+        "unit": "cuillère à café",
+        "name": "Vanille en poudre"
+      },
+      {
+        "raw": "2 Zeste d'orange",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Zeste d'orange"
+      },
+      {
+        "raw": "2 Jus d'orange",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Jus d'orange"
+      },
+      {
+        "raw": "5 Œuf",
+        "quantity": "5",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "270 g de Yaourt grec",
+        "quantity": "270",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 sachet de Levure chimique",
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00176",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "#Sirop",
+        "type": "section"
+      },
+      {
+        "raw": "380 g de sucre",
+        "quantity": "380 g",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "250 ml d’eau",
+        "quantity": "250 ml",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 bâton de cannelle",
+        "quantity": "1",
+        "unit": "",
+        "name": "Bâton de cannelle"
+      },
+      {
+        "raw": "2 oranges bio",
+        "quantity": "2",
+        "unit": "",
+        "name": "Oranges bio"
+      },
+      {
+        "raw": "#Gâteau",
+        "type": "section"
+      },
+      {
+        "raw": "500 g de pâte filo",
+        "quantity": "500 g",
+        "unit": "g",
+        "name": "Pâte filo"
+      },
+      {
+        "raw": "250 ml d’huile végétale",
+        "quantity": "250 ml",
+        "unit": "ml",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "150 g de sucre",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "¼ de càc de vanille en poudre",
+        "quantity": "¼",
+        "unit": "",
+        "name": "Càc de vanille en poudre"
+      },
+      {
+        "raw": "2 oranges bio (zeste et jus)",
+        "quantity": "2",
+        "unit": "",
+        "name": "Oranges bio (zeste et jus)"
+      },
+      {
+        "raw": "5 œufs",
+        "quantity": "5",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "270 g de yaourt grec",
+        "quantity": "270 g",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 sachet de levure chimique",
+        "quantity": "1 sachet",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00176_portokalopita-gateau-grec-a-lorange-et-a-la-pate-filo.jpg",
+    "images": [
+      "images/00176_portokalopita-gateau-grec-a-lorange-et-a-la-pate-filo.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "380 g de Sucre",
+        "quantity": "380",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "250 ml de Eau",
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 bâton de Cannelle",
+        "quantity": "1",
+        "unit": "bâton",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "2 Oranges bio",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oranges bio"
+      },
+      {
+        "raw": "500 g de Pâte filo",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Pâte filo"
+      },
+      {
+        "raw": "250 ml de Huile végétale",
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "150 g de Sucre",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "0,25 cuillère à café de Vanille en poudre",
+        "quantity": "0,25",
+        "unit": "cuillère à café",
+        "name": "Vanille en poudre"
+      },
+      {
+        "raw": "2 Zeste d'orange",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Zeste d'orange"
+      },
+      {
+        "raw": "2 Jus d'orange",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Jus d'orange"
+      },
+      {
+        "raw": "5 Œuf",
+        "quantity": "5",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "270 g de Yaourt grec",
+        "quantity": "270",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 sachet de Levure chimique",
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      }
+    ]
+  }
+}

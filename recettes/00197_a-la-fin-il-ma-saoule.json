@@ -1,0 +1,189 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "a-la-fin-il-ma-saoule",
+  "recipe_id": "00197",
+  "file": "recettes/00197_a-la-fin-il-ma-saoule.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "a-la-fin-il-ma-saoule",
+    "title": "Tenders KFC",
+    "original_title": "À la fin il m’a saoulé",
+    "source_file": "Tenders KFC.melarecipe",
+    "categories": [
+      "Plats",
+      "Viande"
+    ],
+    "ingredients": [
+      "1 cuillère à soupe de Farine",
+      "250 g de Poulet",
+      "50 g de Corn Flakes nature"
+    ],
+    "ingredients_raw": "1 cuillère à soupe de Farine\n250 g de Poulet\n50 g de Corn Flakes nature",
+    "instructions": "FOUR🔥 : 15 min à 180 degrés",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DFVy2ISuLQr",
+    "source_id": "instagram.com/reel/DFVy2ISuLQr",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "À la fin il m’a saoulé🤬😂",
+      "TENDERS KFC🍗",
+      "MACRO (pour 1 portion) 📊",
+      "L’ORIGINAL : 421kcal - 29P - 22G - 25L",
+      "PORNFOODIET : 274kcal - 35P - 32G - 2L",
+      "INGRÉDIENTS (pour 5 tenders (2 portions))",
+      "MARINADE🥘",
+      "1 bonne c.s de farine🌾 (moi j’ai fait mix blanche/complète) + 50ml de lait écrémé🥛 + herbes de Provence🍃 + paprika🌶️ + gingembre🫚 + curcuma🍠 + ail séché🧄 + oignon séché🧅 + sel & poivre🧂",
+      "REPOS FRIGO❄️ : c’est une option donc si tu n’as pas le temps ne fais pas. Sinon, fais 20 minutes minimum et si tu peux 1 nuit c’est parfait !",
+      "AUTRES🍯",
+      "250g de poulet🍗 + 50g de corn flakes non sucrés🌽",
+      "AIR FRYER🔥 : 8 min à 200 degrés",
+      "FOUR🔥 : 15 min à 180 degrés",
+      "#KFC #poulet #fastfood #pornfoodiet #bigwill  #recette #recettefacile #viral"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 cuillère à soupe de Farine",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Farine"
+      },
+      {
+        "raw": "250 g de Poulet",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Poulet"
+      },
+      {
+        "raw": "50 g de Corn flakes non sucrés",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Corn Flakes nature"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00197",
+    "portions": "1",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "À la fin il m’a saoulé🤬😂",
+        "quantity": "",
+        "unit": "",
+        "name": "À la fin il m’a saoulé🤬😂"
+      },
+      {
+        "raw": "TENDERS KFC🍗",
+        "quantity": "",
+        "unit": "",
+        "name": "TENDERS KFC🍗"
+      },
+      {
+        "raw": "MACRO (pour 1 portion) 📊",
+        "quantity": "",
+        "unit": "",
+        "name": "MACRO (pour 1 portion) 📊"
+      },
+      {
+        "raw": "L’ORIGINAL : 421kcal - 29P - 22G - 25L",
+        "quantity": "",
+        "unit": "",
+        "name": "L’ORIGINAL : 421kcal - 29P - 22G - 25L"
+      },
+      {
+        "raw": "PORNFOODIET : 274kcal - 35P - 32G - 2L",
+        "quantity": "",
+        "unit": "",
+        "name": "PORNFOODIET : 274kcal - 35P - 32G - 2L"
+      },
+      {
+        "raw": "INGRÉDIENTS (pour 5 tenders (2 portions))",
+        "quantity": "",
+        "unit": "",
+        "name": "INGRÉDIENTS (pour 5 tenders (2 portions))"
+      },
+      {
+        "raw": "MARINADE🥘",
+        "quantity": "",
+        "unit": "",
+        "name": "MARINADE🥘"
+      },
+      {
+        "raw": "1 bonne c.s de farine🌾 (moi j’ai fait mix blanche/complète) + 50ml de lait écrémé🥛 + herbes de Provence🍃 + paprika🌶️ + gingembre🫚 + curcuma🍠 + ail séché🧄 + oignon séché🧅 + sel & poivre🧂",
+        "quantity": "1",
+        "unit": "",
+        "name": "Bonne c.s de farine🌾 (moi j’ai fait mix blanche/complète) + 50ml de lait écrémé🥛 + herbes de Provence🍃 + paprika🌶️ + gingembre🫚 + curcuma🍠 + ail séché🧄 + oignon séché🧅 + sel & poivre🧂"
+      },
+      {
+        "raw": "REPOS FRIGO❄️ : c’est une option donc si tu n’as pas le temps ne fais pas. Sinon, fais 20 minutes minimum et si tu peux 1 nuit c’est parfait !",
+        "quantity": "",
+        "unit": "",
+        "name": "REPOS FRIGO❄️ : c’est une option donc si tu n’as pas le temps ne fais pas. Sinon, fais 20 minutes minimum et si tu peux 1 nuit c’est parfait !"
+      },
+      {
+        "raw": "AUTRES🍯",
+        "quantity": "",
+        "unit": "",
+        "name": "AUTRES🍯"
+      },
+      {
+        "raw": "250g de poulet🍗 + 50g de corn flakes non sucrés🌽",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Poulet🍗 + 50g de corn flakes non sucrés🌽"
+      },
+      {
+        "raw": "AIR FRYER🔥 : 8 min à 200 degrés",
+        "quantity": "",
+        "unit": "",
+        "name": "AIR FRYER🔥 : 8 min à 200 degrés"
+      },
+      {
+        "raw": "FOUR🔥 : 15 min à 180 degrés",
+        "quantity": "",
+        "unit": "",
+        "name": "FOUR🔥 : 15 min à 180 degrés"
+      },
+      {
+        "raw": "#KFC #poulet #fastfood #pornfoodiet #bigwill  #recette #recettefacile #viral",
+        "type": "section"
+      }
+    ],
+    "yield": "1",
+    "image": "images/00197_tenders-kfc.jpg",
+    "images": [
+      "images/00197_tenders-kfc.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "1 cuillère à soupe de Farine",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Farine"
+      },
+      {
+        "raw": "250 g de Poulet",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Poulet"
+      },
+      {
+        "raw": "50 g de Corn flakes non sucrés",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Corn flakes non sucrés"
+      }
+    ]
+  }
+}

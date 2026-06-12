@@ -1,0 +1,255 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "patates-douces-hasselback",
+  "recipe_id": "00103",
+  "file": "recettes/00103_patates-douces-hasselback.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "patates-douces-hasselback",
+    "title": "Patates douces Hasselback",
+    "original_title": "Patates douces Hasselback",
+    "source_file": "Patates douces Hasselback.melarecipe",
+    "categories": [
+      "Légumes rôtis",
+      "Plats",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "4 unité de Patate douce",
+      "1 unité de Huile d’olive",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 unité de Paprika",
+      "1 unité de Romarin",
+      "1 unité de Origan",
+      "170 g de Yaourt grec",
+      "100 g de Feta",
+      "1 gousse de Ail",
+      "0,5 unité de Jus de citron",
+      "1 cuillère à soupe de Huile d’olive",
+      "0,5 cuillère à café de Paprika",
+      "1 cuillère à café de Origan"
+    ],
+    "ingredients_raw": "4 unité de Patate douce\n1 unité de Huile d’olive\n1 unité de Sel\n1 unité de Poivre\n1 unité de Paprika\n1 unité de Romarin\n1 unité de Origan\n170 g de Yaourt grec\n100 g de Feta\n1 gousse de Ail\n0,5 unité de Jus de citron\n1 cuillère à soupe de Huile d’olive\n0,5 cuillère à café de Paprika\n1 cuillère à café de Origan",
+    "instructions": "#Pour les patates douces :\nÉplucher les patates.\nCouper des tranches dans les patates douces sans les couper complètement. Pour cela, vous pouvez poser des cuillères en bois de chaque côté de la patate douce.\nPréchauffer le four à 200°C.\nDéposer les patates dans un plat et les badigeonner généreusement d’huile, en en mettant dans les interstices.\nSaler, poivrer. Ajouter les épices et badigeonner.\nIl doit y avoir un fond d’huile dans le plat.\nEnfourner pour 1h30. Sortir 2 ou 3 fois du four en cours de cuisson pour badigeonner les patates avec l’huile au fond du plat.\n#Pour la sauce :\nPlacer tous les ingrédients dans un mixeur et mixer jusqu’à obtenir une consistance lisse.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CzRVsdqskML",
+    "source_id": "instagram.com/reel/CzRVsdqskML",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "3-5 patates douces à compléter éventuellement avec des pommes de terre",
+      "Huile d’olive",
+      "Sel",
+      "Poivre",
+      "Paprika",
+      "Romarin",
+      "Origan (ou autre épice)",
+      "#Pour la sauce :",
+      "170 g de yaourt grec",
+      "100 g de feta",
+      "1 gousse d’ail",
+      "1/2 jus de citron",
+      "1 cs d’huile d’olive",
+      "½ cc de paprika",
+      "1 cc d’origan"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 unité de Patate douce",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Romarin",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Romarin"
+      },
+      {
+        "raw": "Origan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Origan"
+      },
+      {
+        "raw": "170 g de Yaourt grec",
+        "quantity": "170",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "100 g de Feta",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "0,5 Jus de citron",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "0,5 cuillère à café de Paprika",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00103",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "3-5 patates douces à compléter éventuellement avec des pommes de terre",
+        "quantity": "3-5",
+        "unit": "",
+        "name": "Patates douces à compléter éventuellement avec des pommes de terre"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "",
+        "unit": "",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Romarin",
+        "quantity": "",
+        "unit": "",
+        "name": "Romarin"
+      },
+      {
+        "raw": "Origan (ou autre épice)",
+        "quantity": "",
+        "unit": "",
+        "name": "Origan"
+      },
+      {
+        "raw": "#Pour la sauce :",
+        "type": "section"
+      },
+      {
+        "raw": "170 g de yaourt grec",
+        "quantity": "170 g",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "100 g de feta",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1/2 jus de citron",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "1 cs d’huile d’olive",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "½ cc de paprika",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cc d’origan",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Origan"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00103_patates-douces-hasselback.jpg",
+    "images": [
+      "images/00103_patates-douces-hasselback.jpg"
+    ]
+  }
+}

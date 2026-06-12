@@ -1,0 +1,535 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "butter-chicken-veganise",
+  "recipe_id": "00125",
+  "file": "recettes/00125_butter-chicken-veganise.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "butter-chicken-veganise",
+    "title": "Butter chicken veganisé",
+    "original_title": "Butter chicken veganisé",
+    "source_file": "Butter chicken veganisé.melarecipe",
+    "categories": [
+      "Plats",
+      "Vegan",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "500 g de Tofu",
+      "1 cuillère à soupe de Huile",
+      "2 cuillère à soupe de Yaourt vegan",
+      "2 cuillère à soupe de Fécule de maïs",
+      "1 cuillère à café de Gingembre frais",
+      "1 cuillère à café de Ail",
+      "1 cuillère à café de Garam masala",
+      "1 cuillère à café de Curcuma",
+      "1 cuillère à café de Cumin",
+      "1 unité de Sel",
+      "1 cuillère à soupe de Huile",
+      "2 cuillère à soupe de Beurre vegan",
+      "1 unité de Oignon",
+      "1 cuillère à café de Ail",
+      "1 cuillère à café de Gingembre frais",
+      "1 cuillère à café de Concentré de tomate",
+      "1 cuillère à café de Garam masala",
+      "1 cuillère à café de Curcuma",
+      "1 cuillère à café de Cumin",
+      "1 cuillère à café de Sucre",
+      "1 conserve de Tomates concassées",
+      "1 poignée de Noix de cajou",
+      "5 cuillère à soupe de Crème de coco"
+    ],
+    "ingredients_raw": "500 g de Tofu\n1 cuillère à soupe de Huile\n2 cuillère à soupe de Yaourt vegan\n2 cuillère à soupe de Fécule de maïs\n1 cuillère à café de Gingembre frais\n1 cuillère à café de Ail\n1 cuillère à café de Garam masala\n1 cuillère à café de Curcuma\n1 cuillère à café de Cumin\n1 unité de Sel\n1 cuillère à soupe de Huile\n2 cuillère à soupe de Beurre vegan\n1 unité de Oignon\n1 cuillère à café de Ail\n1 cuillère à café de Gingembre frais\n1 cuillère à café de Concentré de tomate\n1 cuillère à café de Garam masala\n1 cuillère à café de Curcuma\n1 cuillère à café de Cumin\n1 cuillère à café de Sucre\n1 conserve de Tomates concassées\n1 poignée de Noix de cajou\n5 cuillère à soupe de Crème de coco",
+    "instructions": "Diviser à la main le tofu en pièces de taille + ou - régulière. Faire mariner avec les ingrédients listés ci-dessus. bien mélanger et enfourner à 200 degrés pendant 20 min en retournant les morceaux à mi-cuisson.\nLa sauce : faire revenir l’oignon dans le beurre et l’huile à feu moyen. Après 5 min, ajouter l’ail, le gingembre, les épices, le sucre et le concentré de tomates. Remuer et faire cuire pendant 3 minutes. Ajouter ensuite les tomates concassées, les noix de cajou et la crème de coco.\nMélanger puis mixer le tout, pas comme le débile que je suis qui a voulu faire ça au mixeur plongeant directement dans la poêle, soyez + strat. Il ne reste plus qu’à refaire chauffer la préparation, ajouter le tofu cuit, du beurre pour + de gourmandise et de brillance. Après tout y a butter dans le blase du plat donc bon.\nPour une expérience optimale, servir avec un bon riz basmati, la blinde de coriandre, du citron vert, et naan lui même tartinée de beurre d’ail et de coriandre !",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C1jozM-IXfS",
+    "source_id": "instagram.com/reel/C1jozM-IXfS",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Pour le tofu :",
+      "500g de tofu nature",
+      "1 cas d’huile végétale",
+      "2 cas de yaourt vegan",
+      "2 cas de fécule de maïs",
+      "1 cac de gingembre râpé",
+      "1 cac d’ail haché",
+      "1 cac de garam masala",
+      "1 cac de curcuma",
+      "1 cac de cumin en poudre",
+      "Sel",
+      "Pour la sauce :",
+      "1 cas d’huile végétale",
+      "2 cas de beurre vegan",
+      "1 oignon",
+      "1 cac d’ail haché",
+      "1 cac de gingembre râpé",
+      "1 cac bombée de concentré de tomates",
+      "1 cac de garam masala",
+      "1 cac de curcuma",
+      "1 cac de cumin en poudre",
+      "1 cac de sucre",
+      "1 conserve de tomates concassées",
+      "1 poignée de noix de cajou (les laisser tremper dans de l’eau chaude pendant 1h)",
+      "5 cas de crème de coco"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "500 g de Tofu nature",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Tofu"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile végétale",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "2 cuillère à soupe de Yaourt vegan",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt vegan"
+      },
+      {
+        "raw": "2 cuillère à soupe de Fécule de maïs",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Fécule de maïs"
+      },
+      {
+        "raw": "1 cuillère à café de Gingembre râpé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Garam masala",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à café de Cumin en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile végétale",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre vegan",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre vegan"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Gingembre râpé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "1 cuillère à café de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "1 cuillère à café de Garam masala",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à café de Cumin en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à café de Sucre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sucre"
+      },
+      {
+        "raw": "1 conserve de Tomates concassées",
+        "quantity": "1",
+        "unit": "conserve",
+        "name": "Tomates concassées"
+      },
+      {
+        "raw": "1 poignée de Noix de cajou",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Noix de cajou"
+      },
+      {
+        "raw": "5 cuillère à soupe de Crème de coco",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Crème de coco"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00125",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Pour le tofu :",
+        "quantity": "",
+        "unit": "",
+        "name": "Pour le tofu :"
+      },
+      {
+        "raw": "500g de tofu nature",
+        "quantity": "500 g",
+        "unit": "g",
+        "name": "Tofu nature"
+      },
+      {
+        "raw": "1 cas d’huile végétale",
+        "quantity": "1 cas",
+        "unit": "cas",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "2 cas de yaourt vegan",
+        "quantity": "2 cas",
+        "unit": "cas",
+        "name": "Yaourt vegan"
+      },
+      {
+        "raw": "2 cas de fécule de maïs",
+        "quantity": "2 cas",
+        "unit": "cas",
+        "name": "Fécule de maïs"
+      },
+      {
+        "raw": "1 cac de gingembre râpé",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Gingembre râpé"
+      },
+      {
+        "raw": "1 cac d’ail haché",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cac de garam masala",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cac de curcuma",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cac de cumin en poudre",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Cumin en poudre"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Pour la sauce :",
+        "quantity": "",
+        "unit": "",
+        "name": "Pour la sauce :"
+      },
+      {
+        "raw": "1 cas d’huile végétale",
+        "quantity": "1 cas",
+        "unit": "cas",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "2 cas de beurre vegan",
+        "quantity": "2 cas",
+        "unit": "cas",
+        "name": "Beurre vegan"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 cac d’ail haché",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cac de gingembre râpé",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Gingembre râpé"
+      },
+      {
+        "raw": "1 cac bombée de concentré de tomates",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Bombée de concentré de tomates"
+      },
+      {
+        "raw": "1 cac de garam masala",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cac de curcuma",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cac de cumin en poudre",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Cumin en poudre"
+      },
+      {
+        "raw": "1 cac de sucre",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Sucre"
+      },
+      {
+        "raw": "1 conserve de tomates concassées",
+        "quantity": "1 conserve",
+        "unit": "conserve",
+        "name": "Tomates concassées"
+      },
+      {
+        "raw": "1 poignée de noix de cajou (les laisser tremper dans de l’eau chaude pendant 1h)",
+        "quantity": "1 poignée",
+        "unit": "poignée",
+        "name": "Noix de cajou (les laisser tremper dans de l’eau chaude pendant 1h)"
+      },
+      {
+        "raw": "5 cas de crème de coco",
+        "quantity": "5 cas",
+        "unit": "cas",
+        "name": "Crème de coco"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00125_butter-chicken-veganise.jpg",
+    "images": [
+      "images/00125_butter-chicken-veganise.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "500 g de Tofu nature",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Tofu nature"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile végétale",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "2 cuillère à soupe de Yaourt vegan",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt vegan"
+      },
+      {
+        "raw": "2 cuillère à soupe de Fécule de maïs",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Fécule de maïs"
+      },
+      {
+        "raw": "1 cuillère à café de Gingembre râpé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre râpé"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Garam masala",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à café de Cumin en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin en poudre"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Pour la sauce :",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pour la sauce :"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile végétale",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre vegan",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre vegan"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Gingembre râpé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre râpé"
+      },
+      {
+        "raw": "1 cuillère à café de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "1 cuillère à café de Garam masala",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à café de Cumin en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin en poudre"
+      },
+      {
+        "raw": "1 cuillère à café de Sucre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sucre"
+      },
+      {
+        "raw": "1 conserve de Tomates concassées",
+        "quantity": "1",
+        "unit": "conserve",
+        "name": "Tomates concassées"
+      },
+      {
+        "raw": "1 poignée de Noix de cajou",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Noix de cajou"
+      },
+      {
+        "raw": "5 cuillère à soupe de Crème de coco",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Crème de coco"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-au-butternut",
+  "recipe_id": "00173",
+  "file": "recettes/00173_pates-au-butternut.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-au-butternut",
+    "title": "Pâtes au butternut",
+    "original_title": "Pâtes au butternut",
+    "source_file": "Pâtes au butternut.melarecipe",
+    "categories": [
+      "Pâtes",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "0,5 unité de Butternut",
+      "2 gousse de Ail",
+      "2 cuillère à soupe de Ricotta",
+      "10 cl de Crème liquide entière",
+      "1 unité de Huile d’olive",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "200 g de Pâtes",
+      "1 unité de Parmesan"
+    ],
+    "ingredients_raw": "0,5 unité de Butternut\n2 gousse de Ail\n2 cuillère à soupe de Ricotta\n10 cl de Crème liquide entière\n1 unité de Huile d’olive\n1 unité de Sel\n1 unité de Poivre\n200 g de Pâtes\n1 unité de Parmesan",
+    "instructions": "Préchauffez le four à 200 °C.\nQuadrillez la chair de la demi-courge butternut à l’aide d’un couteau. Assaisonnez avec du sel, du poivre et éventuellement un peu de piment.\nPlacez les gousses d’ail dans le creux de la courge, arrosez d’un filet d’huile d’olive, puis enfournez pendant 45 minutes.\nLaissez refroidir légèrement à la sortie du four, puis récupérez la chair à l’aide d’une cuillère.\nAjoutez la ricotta et la crème liquide, puis mixez jusqu’à obtenir une texture lisse. Vous pouvez utiliser un mixeur classique ou un mixeur plongeant.\nPendant ce temps, faites cuire les pâtes selon les indications du paquet.\nVersez la sauce dans une poêle, ajoutez les pâtes et une louche d’eau de cuisson. Faites chauffer encore 2 minutes en mélangeant bien.\nServez chaud, en parsemant de parmesan râpé.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DFC3teBARvu",
+    "source_id": "instagram.com/reel/DFC3teBARvu",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "½ courge butternut",
+      "2 gousses d’ail",
+      "2 cs de ricotta",
+      "10 cl de crème liquide entière",
+      "Huile d’olive",
+      "Sel",
+      "Poivre",
+      "200 g de pâtes (selon votre choix)",
+      "Parmesan"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "0,5 unité de Butternut",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Butternut"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 cuillère à soupe de Ricotta",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Ricotta"
+      },
+      {
+        "raw": "10 cl de Crème liquide entière",
+        "quantity": 100,
+        "unit": "ml",
+        "name": "Crème liquide entière"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "200 g de Pâtes",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00173",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "½ courge butternut",
+        "quantity": "½",
+        "unit": "",
+        "name": "Courge butternut"
+      },
+      {
+        "raw": "2 gousses d’ail",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "2 cs de ricotta",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Ricotta"
+      },
+      {
+        "raw": "10 cl de crème liquide entière",
+        "quantity": "10 cl",
+        "unit": "ml",
+        "name": "Crème liquide entière"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "200 g de pâtes (selon votre choix)",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "",
+        "unit": "",
+        "name": "Parmesan"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00173_pates-au-butternut.jpg",
+    "images": [
+      "images/00173_pates-au-butternut.jpg"
+    ]
+  }
+}

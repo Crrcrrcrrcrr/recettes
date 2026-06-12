@@ -1,0 +1,222 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tarte-tatin-tomates-cerises-oignons-confits",
+  "recipe_id": "00166",
+  "file": "recettes/00166_tarte-tatin-tomates-cerises-oignons-confits.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tarte-tatin-tomates-cerises-oignons-confits",
+    "title": "Tarte tatin tomates cerises oignons confits",
+    "original_title": "Tarte tatin tomates cerises oignons confits ",
+    "source_file": "Tarte tatin tomates cerises oignons confits.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Entrée",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "1 unité de Pâte brisée",
+      "1 unité de Oignon",
+      "1 unité de Tomate cerise",
+      "1 unité de Feta",
+      "1 unité de Burrata",
+      "1 unité de Parmesan",
+      "1 unité de Miel",
+      "1 unité de Vinaigre balsamique",
+      "1 unité de Pignons"
+    ],
+    "ingredients_raw": "1 unité de Pâte brisée\n1 unité de Oignon\n1 unité de Tomate cerise\n1 unité de Feta\n1 unité de Burrata\n1 unité de Parmesan\n1 unité de Miel\n1 unité de Vinaigre balsamique\n1 unité de Pignons",
+    "instructions": "Cuisson 30min à 180 degrés",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CaZJsuLIrJO",
+    "source_id": "instagram.com/reel/CaZJsuLIrJO",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "pâte brisée",
+      "oignon",
+      "tomates cerises",
+      "feta",
+      "burrata",
+      "parmesan",
+      "miel, vinaigre balsamique",
+      "pignons"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Pâte brisée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte brisée"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Tomate cerise",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "Feta",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Feta"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Miel, vinaigre balsamique",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "raw": "Miel, vinaigre balsamique",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "Pignons",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pignons"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00166",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "pâte brisée",
+        "quantity": "",
+        "unit": "",
+        "name": "Pâte brisée"
+      },
+      {
+        "raw": "oignon",
+        "quantity": "",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "tomates cerises",
+        "quantity": "",
+        "unit": "",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "feta",
+        "quantity": "",
+        "unit": "",
+        "name": "Feta"
+      },
+      {
+        "raw": "burrata",
+        "quantity": "",
+        "unit": "",
+        "name": "Burrata"
+      },
+      {
+        "raw": "parmesan",
+        "quantity": "",
+        "unit": "",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "miel, vinaigre balsamique",
+        "quantity": "",
+        "unit": "",
+        "name": "Miel, vinaigre balsamique"
+      },
+      {
+        "raw": "pignons",
+        "quantity": "",
+        "unit": "",
+        "name": "Pignons"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00166_tarte-tatin-tomates-cerises-oignons-confits.jpg",
+    "images": [
+      "images/00166_tarte-tatin-tomates-cerises-oignons-confits.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Pâte brisée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte brisée"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Tomate cerise",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "Feta",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Feta"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Miel, vinaigre balsamique",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Miel, vinaigre balsamique"
+      },
+      {
+        "raw": "Pignons",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pignons"
+      }
+    ]
+  }
+}

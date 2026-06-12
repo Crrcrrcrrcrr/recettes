@@ -1,0 +1,235 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-aux-oignons-caramelises-et-tomates",
+  "recipe_id": "00153",
+  "file": "recettes/00153_pates-aux-oignons-caramelises-et-tomates.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-aux-oignons-caramelises-et-tomates",
+    "title": "️Pâtes aux oignons caramélisés et tomates",
+    "original_title": "️Pâtes aux oignons caramélisés et tomates",
+    "source_file": "️Pâtes aux oignons caramélisés et tomates.melarecipe",
+    "categories": [
+      "Pâtes",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "190 g de Pâtes",
+      "1 peu de Huile d’olive",
+      "2 unité de Oignon",
+      "1 cuillère à soupe de Sucre brun",
+      "0,5 poignée de Tomate séchée",
+      "200 ml de Crème fraîche",
+      "1 unité de Assaisonnement",
+      "1 peu de Jus de citron",
+      "2 cuillère à soupe de Fromage"
+    ],
+    "ingredients_raw": "190 g de Pâtes\n1 peu de Huile d’olive\n2 unité de Oignon\n1 cuillère à soupe de Sucre brun\n0,5 poignée de Tomate séchée\n200 ml de Crème fraîche\n1 unité de Assaisonnement\n1 peu de Jus de citron\n2 cuillère à soupe de Fromage",
+    "instructions": "Commencez à cuire les pâtes selon les instructions du paquet.\nFaites chauffer l’huile d’olive dans une poêle et faites dorer les oignons jusqu’à ce qu’ils soient bien colorés. Caramélisez-les ensuite avec le sucre.\nAjoutez tous les autres ingrédients comme indiqué dans la vidéo. Gardez un peu d’eau de cuisson des pâtes de côté pour ajuster la consistance de la sauce si nécessaire.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CnJpl-Tpj_u",
+    "source_id": "instagram.com/reel/CnJpl-Tpj_u",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "190 g de pâtes au choix",
+      "Un peu d’huile d’olive",
+      "2-3 oignons blancs émincés",
+      "1 cs de sucre brun",
+      "1/2 poignée de tomates séchées",
+      "200 ml de crème",
+      "Assaisonnement",
+      "un peu de jus de citron",
+      "2 cs de fromage (parmesan végétarien)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "190 g de Pâtes",
+        "quantity": "190",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "1 peu de Huile d'olive",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 Oignons blancs émincés",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sucre brun",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sucre brun"
+      },
+      {
+        "raw": "0,5 poignée de Tomate séchée",
+        "quantity": "0,5",
+        "unit": "poignée",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "200 ml de Crème fraîche",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "Assaisonnement",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Assaisonnement"
+      },
+      {
+        "raw": "1 peu de Jus de citron",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 cuillère à soupe de Fromage",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Fromage"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00153",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "190 g de pâtes au choix",
+        "quantity": "190 g",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "Un peu d’huile d’olive",
+        "quantity": "Un",
+        "unit": "",
+        "name": "Peu d’huile d’olive"
+      },
+      {
+        "raw": "2-3 oignons blancs émincés",
+        "quantity": "2-3",
+        "unit": "",
+        "name": "Oignons blancs émincés"
+      },
+      {
+        "raw": "1 cs de sucre brun",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Sucre brun"
+      },
+      {
+        "raw": "1/2 poignée de tomates séchées",
+        "quantity": "1/2 poignée",
+        "unit": "poignée",
+        "name": "Tomates séchées"
+      },
+      {
+        "raw": "200 ml de crème",
+        "quantity": "200 ml",
+        "unit": "ml",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "Assaisonnement",
+        "quantity": "",
+        "unit": "",
+        "name": "Assaisonnement"
+      },
+      {
+        "raw": "un peu de jus de citron",
+        "quantity": "un",
+        "unit": "",
+        "name": "Peu de jus de citron"
+      },
+      {
+        "raw": "2 cs de fromage (parmesan végétarien)",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Fromage"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00153_pates-aux-oignons-caramelises-et-tomates.jpg",
+    "images": [
+      "images/00153_pates-aux-oignons-caramelises-et-tomates.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "190 g de Pâtes",
+        "quantity": "190",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "1 peu de Huile d'olive",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Huile d'olive"
+      },
+      {
+        "raw": "2 Oignons blancs émincés",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignons blancs émincés"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sucre brun",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sucre brun"
+      },
+      {
+        "raw": "0,5 poignée de Tomate séchée",
+        "quantity": "0,5",
+        "unit": "poignée",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "200 ml de Crème fraîche",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "Assaisonnement",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Assaisonnement"
+      },
+      {
+        "raw": "1 peu de Jus de citron",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 cuillère à soupe de Fromage",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Fromage"
+      }
+    ]
+  }
+}

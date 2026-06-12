@@ -1,0 +1,178 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "dip-aux-oignons-caramelises",
+  "recipe_id": "00120",
+  "file": "recettes/00120_dip-aux-oignons-caramelises.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "dip-aux-oignons-caramelises",
+    "title": "Dip aux oignons caramélisés",
+    "original_title": "Dip aux oignons caramélisés",
+    "source_file": "Dip aux oignons caramélisés.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Dip/Tartinade"
+    ],
+    "ingredients": [
+      "2 unité de Oignon jaune",
+      "1 cuillère à soupe de Beurre",
+      "1 cuillère à soupe de Huile",
+      "115 g de Fromage frais",
+      "0,5 tasse de Crème fraîche",
+      "1/3 tasse de Mayonnaise",
+      "2 cuillère à soupe de Ciboulette",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "2 unité de Oignon jaune\n1 cuillère à soupe de Beurre\n1 cuillère à soupe de Huile\n115 g de Fromage frais\n0,5 tasse de Crème fraîche\n1/3 tasse de Mayonnaise\n2 cuillère à soupe de Ciboulette\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Pour caraméliser les oignons, utilisez 1 cs de beurre et 1 cs d’huile, puis faites cuire à feu doux pendant 30 à 45 minutes jusqu’à ce qu’ils soient bien caramélisés.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C0DPDQSg8MK",
+    "source_id": "instagram.com/reel/C0DPDQSg8MK",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 oignons jaunes",
+      "1 cs de beurre",
+      "1 cs d'huile",
+      "115 g de fromage frais (type cream cheese), ramolli",
+      "1/2 tasse de crème fraîche",
+      "1/3 tasse de mayonnaise",
+      "2 cs de ciboulette",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 Oignon jaune",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "1 cuillère à soupe de Beurre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Beurre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "115 g de Fromage frais",
+        "quantity": "115",
+        "unit": "g",
+        "name": "Fromage frais"
+      },
+      {
+        "raw": "0,5 tasse de Crème fraîche",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "1/3 tasse de Mayonnaise",
+        "quantity": "1/3",
+        "unit": "tasse",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "2 cuillère à soupe de Ciboulette",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00120",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 oignons jaunes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "1 cs de beurre",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Beurre"
+      },
+      {
+        "raw": "1 cs d'huile",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Huile"
+      },
+      {
+        "raw": "115 g de fromage frais (type cream cheese), ramolli",
+        "quantity": "115 g",
+        "unit": "g",
+        "name": "Fromage frais (type cream cheese), ramolli"
+      },
+      {
+        "raw": "1/2 tasse de crème fraîche",
+        "quantity": "1/2 tasse",
+        "unit": "tasse",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "1/3 tasse de mayonnaise",
+        "quantity": "1/3 tasse",
+        "unit": "tasse",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "2 cs de ciboulette",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00120_dip-aux-oignons-caramelises.jpg",
+    "images": [
+      "images/00120_dip-aux-oignons-caramelises.jpg"
+    ]
+  }
+}
