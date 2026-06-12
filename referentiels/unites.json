@@ -1,0 +1,283 @@
+{
+  "schema": "recettes_referentiel_unites",
+  "version": 1,
+  "generated_at": "2026-06-12",
+  "source": "recettes_master.json / ingredient_items_cleaned",
+  "unit_count": 44,
+  "units": [
+    {
+      "id": "barquette",
+      "name": "barquette",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "baton",
+      "name": "bâton",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "beaucoup",
+      "name": "beaucoup",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "bloc",
+      "name": "bloc",
+      "usage_count": 8,
+      "validated": true
+    },
+    {
+      "id": "bocal",
+      "name": "bocal",
+      "usage_count": 3,
+      "validated": true
+    },
+    {
+      "id": "boite",
+      "name": "boîte",
+      "usage_count": 5,
+      "validated": true
+    },
+    {
+      "id": "botte",
+      "name": "botte",
+      "usage_count": 9,
+      "validated": true
+    },
+    {
+      "id": "bouchon",
+      "name": "bouchon",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "bouquet",
+      "name": "bouquet",
+      "usage_count": 7,
+      "validated": true
+    },
+    {
+      "id": "bout",
+      "name": "bout",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "branche",
+      "name": "branche",
+      "usage_count": 12,
+      "validated": true
+    },
+    {
+      "id": "brin",
+      "name": "brin",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "brique",
+      "name": "brique",
+      "usage_count": 2,
+      "validated": true
+    },
+    {
+      "id": "cm",
+      "name": "cm",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "conserve",
+      "name": "conserve",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "cube",
+      "name": "cube",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "cuillere-a-cafe",
+      "name": "cuillère à café",
+      "usage_count": 267,
+      "validated": true
+    },
+    {
+      "id": "cuillere-a-soupe",
+      "name": "cuillère à soupe",
+      "usage_count": 400,
+      "validated": true
+    },
+    {
+      "id": "dose",
+      "name": "dose",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "feuille",
+      "name": "feuille",
+      "usage_count": 22,
+      "validated": true
+    },
+    {
+      "id": "filet",
+      "name": "filet",
+      "usage_count": 13,
+      "validated": true
+    },
+    {
+      "id": "g",
+      "name": "g",
+      "usage_count": 411,
+      "validated": true
+    },
+    {
+      "id": "gousse",
+      "name": "gousse",
+      "usage_count": 107,
+      "validated": true
+    },
+    {
+      "id": "ml",
+      "name": "ml",
+      "usage_count": 112,
+      "validated": true
+    },
+    {
+      "id": "morceau",
+      "name": "morceau",
+      "usage_count": 4,
+      "validated": true
+    },
+    {
+      "id": "noix",
+      "name": "noix",
+      "usage_count": 2,
+      "validated": true
+    },
+    {
+      "id": "paquet",
+      "name": "paquet",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "petit",
+      "name": "petit",
+      "usage_count": 2,
+      "validated": true
+    },
+    {
+      "id": "peu",
+      "name": "peu",
+      "usage_count": 11,
+      "validated": true
+    },
+    {
+      "id": "pincee",
+      "name": "pincée",
+      "usage_count": 22,
+      "validated": true
+    },
+    {
+      "id": "pintes",
+      "name": "pintes",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "poignee",
+      "name": "poignée",
+      "usage_count": 22,
+      "validated": true
+    },
+    {
+      "id": "pointe",
+      "name": "pointe",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "portion",
+      "name": "portion",
+      "usage_count": 3,
+      "validated": true
+    },
+    {
+      "id": "pot",
+      "name": "pot",
+      "usage_count": 9,
+      "validated": true
+    },
+    {
+      "id": "pouce",
+      "name": "pouce",
+      "usage_count": 4,
+      "validated": true
+    },
+    {
+      "id": "quelques",
+      "name": "quelques",
+      "usage_count": 5,
+      "validated": true
+    },
+    {
+      "id": "sachet",
+      "name": "sachet",
+      "usage_count": 7,
+      "validated": true
+    },
+    {
+      "id": "tasse",
+      "name": "tasse",
+      "usage_count": 72,
+      "validated": true
+    },
+    {
+      "id": "tete",
+      "name": "tête",
+      "usage_count": 10,
+      "validated": true
+    },
+    {
+      "id": "tige",
+      "name": "tige",
+      "usage_count": 1,
+      "validated": true
+    },
+    {
+      "id": "tranche",
+      "name": "tranche",
+      "usage_count": 8,
+      "validated": true
+    },
+    {
+      "id": "unite",
+      "name": "unité",
+      "usage_count": 903,
+      "validated": true
+    },
+    {
+      "id": "verre",
+      "name": "verre",
+      "usage_count": 3,
+      "validated": true
+    }
+  ],
+  "aliases": {
+    "cas": "cuillère à soupe",
+    "càs": "cuillère à soupe",
+    "cs": "cuillère à soupe",
+    "cac": "cuillère à café",
+    "cc": "cuillère à café",
+    "cl": "ml",
+    "kg": "g"
+  },
+  "regle": "Harmoniser les unités avec ce référentiel. Ne pas conserver cas/càs/cs/cac/cc/cl/kg si une conversion propre est possible."
+}
