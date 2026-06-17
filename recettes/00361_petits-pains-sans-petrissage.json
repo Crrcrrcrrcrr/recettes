@@ -1,0 +1,85 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "petits-pains-sans-petrissage",
+  "recipe_id": "00361",
+  "file": "recettes/00361_petits-pains-sans-petrissage.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "petits-pains-sans-petrissage",
+    "title": "Petits pains sans pétrissage",
+    "original_title": "Petits pains de la flemme - sans pétrissage!",
+    "source_file": "115-Petits pains de la flemme - sans pétrissage!.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Pains/wraps",
+      "Soupe/Velouté",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "600 g de Farine",
+      "500 ml de Eau",
+      "10 g de levure sèche active",
+      "1 unité de Graines"
+    ],
+    "ingredients_raw": "600 g de Farine\n500 ml de Eau\n10 g de levure sèche active\n1 unité de Graines",
+    "instructions": "Si tu utilises de la levure sèche active, mélange-la avec un peu d’eau prélevée sur les 500 ml, et laisse reposer 10 min jusqu’à ce que ça mousse (Si tu utilise…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DLKCKQ8I2JM",
+    "source_id": "instagram.com/reel/DLKCKQ8I2JM",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "600 g de farine T55 à pain",
+      "500 ml d’eau à température ambiante",
+      "10 g de levure sèche active",
+      "1 c. à soupe rase de sel (~10 g) Optionnel: Des graines (sésame, ni"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "600 g de farine T55 à pain",
+        "quantity": "600",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "500 ml d’eau à température ambiante",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "10 g de levure sèche active",
+        "quantity": "10",
+        "unit": "g",
+        "name": "levure sèche active"
+      },
+      {
+        "raw": "1 c. à soupe rase de sel (~10 g) Optionnel: Des graines (sésame, ni",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Graines"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00361",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00361_petits-pains-sans-petrissage.jpg",
+    "images": [
+      "images/00361_petits-pains-sans-petrissage.jpg"
+    ]
+  }
+}

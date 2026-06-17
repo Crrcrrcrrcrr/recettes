@@ -1,0 +1,106 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pate-a-pizza-maison-2",
+  "recipe_id": "00363",
+  "file": "recettes/00363_pate-a-pizza-maison-2.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pate-a-pizza-maison-2",
+    "title": "Pâte à pizza maison",
+    "original_title": "Tu as entre tes mains ma recette ULTIME, fais en bon usage",
+    "source_file": "102-Tu as entre tes mains ma recette ULTIME, fais en bon usage.melarecipe",
+    "categories": [
+      "Végétarien"
+    ],
+    "ingredients": [
+      "500 g de Farine",
+      "100 g de Huile",
+      "200 ml de Eau",
+      "100 ml de Lait",
+      "2 unité de sachets de levure boulangère",
+      "1 unité de Sucre",
+      "8 g de Sel"
+    ],
+    "ingredients_raw": "500 g de Farine\n100 g de Huile\n200 ml de Eau\n100 ml de Lait\n2 unité de sachets de levure boulangère\n1 unité de Sucre\n8 g de Sel",
+    "instructions": "Fais tiédir le lait, ajoute la levure et le sucre, et laisse reposer 5 minutes pour activer. Dans un grand saladier, verse la farine, l’eau, l’huile, le sel et …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DNtQx261HAl",
+    "source_id": "instagram.com/reel/DNtQx261HAl",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "500 g de farine",
+      "100 g d’huile",
+      "200 ml d’eau",
+      "100 ml de lait tiède",
+      "2 sachets de levure boulangère",
+      "1 c. à café de sucre",
+      "8 g de sel Pizza Prélève des pâtons, étale s"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "500 g de farine",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "100 g d’huile",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Huile"
+      },
+      {
+        "raw": "200 ml d’eau",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "100 ml de lait tiède",
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "raw": "2 sachets de levure boulangère",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "sachets de levure boulangère"
+      },
+      {
+        "raw": "1 c. à café de sucre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sucre"
+      },
+      {
+        "raw": "8 g de sel Pizza Prélève des pâtons, étale s",
+        "quantity": "8",
+        "unit": "g",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00363",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00363_pate-a-pizza-maison-2.jpg",
+    "images": [
+      "images/00363_pate-a-pizza-maison-2.jpg"
+    ]
+  }
+}

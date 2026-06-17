@@ -1,0 +1,62 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "chou-rouge-marine",
+  "recipe_id": "00365",
+  "file": "recettes/00365_chou-rouge-marine.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "chou-rouge-marine",
+    "title": "Chou rouge mariné",
+    "original_title": "le demi chou rouge moisi au fond du frigo c'est fini ok",
+    "source_file": "32-le demi chou rouge moisi au fond du frigo c'est fini ok.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Froid",
+      "Vegan",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "Chou rouge"
+    ],
+    "ingredients_raw": "Chou rouge",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQmgj3bjPSW",
+    "source_id": "instagram.com/reel/DQmgj3bjPSW",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "le demi chou rouge moisi au fond du frigo c'est fini ok ✋ La recette ➡ tu laves puis tu coupes ton demi chou rouge (ou ton chou rouge entier) en lamelles, tu"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "le demi chou rouge moisi au fond du frigo c'est fini ok ✋ La recette ➡ tu laves puis tu coupes ton demi chou rouge (ou ton chou rouge entier) en lamelles, tu",
+        "quantity": "",
+        "unit": "",
+        "name": "Chou rouge"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00365",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00365_chou-rouge-marine.jpg",
+    "images": [
+      "images/00365_chou-rouge-marine.jpg"
+    ]
+  }
+}

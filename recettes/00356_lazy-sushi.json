@@ -1,0 +1,84 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "lazy-sushi",
+  "recipe_id": "00356",
+  "file": "recettes/00356_lazy-sushi.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "lazy-sushi",
+    "title": "Lazy sushi",
+    "original_title": "POV: “Lazy Sushi”",
+    "source_file": "0-POV: “Lazy Sushi”.melarecipe",
+    "categories": [
+      "Anglais",
+      "Asiatique",
+      "Froid"
+    ],
+    "ingredients": [
+      "Cream cheese",
+      "0,5 unité de cup short-grain/sushi rice (uncooked)",
+      "100 g de Cream cheese",
+      "0,5 unité de nori sheet (or cut to size) Spr"
+    ],
+    "ingredients_raw": "Cream cheese\n0,5 unité de cup short-grain/sushi rice (uncooked)\n100 g de Cream cheese\n0,5 unité de nori sheet (or cut to size) Spr",
+    "instructions": "If you love sushi but can’t quite justify the price (or the effort of rolling 😅), then this one’s for you. While the rice cooks, prep your fillings and any vegg…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DYwXjvvR5pE",
+    "source_id": "instagram.com/reel/DYwXjvvR5pE",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Salmon & Cream Cheese Sushi",
+      "½ cup short-grain/sushi rice (uncooked)",
+      "50-100g smoked salmon, sliced ~2 tbsp cream cheese Approx.",
+      "½ nori sheet (or cut to size) Spr"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Salmon & Cream Cheese Sushi",
+        "quantity": "",
+        "unit": "",
+        "name": "Cream cheese"
+      },
+      {
+        "raw": "½ cup short-grain/sushi rice (uncooked)",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "cup short-grain/sushi rice (uncooked)"
+      },
+      {
+        "raw": "50-100g smoked salmon, sliced ~2 tbsp cream cheese Approx.",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Cream cheese"
+      },
+      {
+        "raw": "½ nori sheet (or cut to size) Spr",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "nori sheet (or cut to size) Spr"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00356",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00356_lazy-sushi.jpg",
+    "images": [
+      "images/00356_lazy-sushi.jpg"
+    ]
+  }
+}
