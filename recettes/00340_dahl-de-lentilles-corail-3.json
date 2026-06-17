@@ -1,0 +1,86 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "dahl-de-lentilles-corail-3",
+  "recipe_id": "00340",
+  "file": "recettes/00340_dahl-de-lentilles-corail-3.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "dahl-de-lentilles-corail-3",
+    "title": "Dahl de lentilles corail",
+    "original_title": "Back to Basics - Episode 3 : Dahl de lentilles corail",
+    "source_file": "88-Back to Basics - Episode 3 : Dahl de lentilles corail.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Curry/Dahl",
+      "Plats",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)",
+      "2 unité de personnes",
+      "1 unité de Oignon",
+      "1 cuillère à café de Sauce tomate"
+    ],
+    "ingredients_raw": ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)\n2 unité de personnes\n1 unité de Oignon\n1 cuillère à café de Sauce tomate",
+    "instructions": "# Etapes: Couper les oignons et les faire fondre dans une poêle Ajouter de l’ail, cumin, curry, sel Ajouter la sauce tomate Laissez cuire environ cinq minutes à…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DRKcHt1DOmr",
+    "source_id": "instagram.com/reel/DRKcHt1DOmr",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "pour",
+      "2 personnes",
+      "1 oignon Ail",
+      "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "pour",
+        "quantity": "",
+        "unit": "",
+        "name": ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)"
+      },
+      {
+        "raw": "2 personnes",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "personnes"
+      },
+      {
+        "raw": "1 oignon Ail",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sauce tomate"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00340",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00340_dahl-de-lentilles-corail-3.jpg",
+    "images": [
+      "images/00340_dahl-de-lentilles-corail-3.jpg"
+    ]
+  }
+}

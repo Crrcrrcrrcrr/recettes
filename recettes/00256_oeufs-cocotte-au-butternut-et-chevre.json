@@ -1,0 +1,91 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "oeufs-cocotte-au-butternut-et-chevre",
+  "recipe_id": "00256",
+  "file": "recettes/00256_oeufs-cocotte-au-butternut-et-chevre.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "oeufs-cocotte-au-butternut-et-chevre",
+    "title": "Œufs cocotte au butternut et chèvre",
+    "original_title": "Œufs cocottes, butternut & chèvre : une recette toute simple prête en 20 min",
+    "source_file": "99-Œufs cocottes, butternut & chèvre : une recette toute simple prête en 20 min.melarecipe",
+    "categories": [
+      "Entrée",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "500 g de Butternut",
+      "2 cuillère à soupe de Fromage frais",
+      "3 unité de Chèvre",
+      "4 unité de Œuf",
+      "200 ml de Crème légère"
+    ],
+    "ingredients_raw": "500 g de Butternut\n2 cuillère à soupe de Fromage frais\n3 unité de Chèvre\n4 unité de Œuf\n200 ml de Crème légère",
+    "instructions": "Faire cuire des morceaux de butternut à la vapeur ou dans une casserole d’eau bouillante pendant 18 min. Écraser les morceaux de butternut à la fourchette avec …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQ4jQFGjEMg",
+    "source_id": "instagram.com/reel/DQ4jQFGjEMg",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "500g de butternut",
+      "2 cas de fromage frais (St Morêt)",
+      "3 chèvres Rocamadour",
+      "4 œufs",
+      "20cl de crème légère Ciboulette Châtaignes grillées"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "500g de butternut",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Butternut"
+      },
+      {
+        "raw": "2 cas de fromage frais (St Morêt)",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Fromage frais"
+      },
+      {
+        "raw": "3 chèvres Rocamadour",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Chèvre"
+      },
+      {
+        "raw": "4 œufs",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "20cl de crème légère Ciboulette Châtaignes grillées",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Crème légère"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00256",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00256_oeufs-cocotte-au-butternut-et-chevre.jpg",
+    "images": [
+      "images/00256_oeufs-cocotte-au-butternut-et-chevre.jpg"
+    ]
+  }
+}

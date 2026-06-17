@@ -1,0 +1,48 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "avocado-pesto-pasta",
+  "recipe_id": "00261",
+  "file": "recettes/00261_avocado-pesto-pasta.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "avocado-pesto-pasta",
+    "title": "Avocado pesto pasta",
+    "original_title": "1,2, or 3 , which recipe is your favorite?",
+    "source_file": "61-1,2, or 3 , which recipe is your favorite?.melarecipe",
+    "categories": [
+      "Plats",
+      "Sans ingrédients"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Recipes in the comments👇🏻",
+    "notes": "",
+    "link": "https://www.instagram.com/p/Cz3sdMGN1II",
+    "source_id": "instagram.com/reel/Cz3sdMGN1II",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00261",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00261_avocado-pesto-pasta.jpg",
+    "images": [
+      "images/00261_avocado-pesto-pasta.jpg"
+    ]
+  }
+}

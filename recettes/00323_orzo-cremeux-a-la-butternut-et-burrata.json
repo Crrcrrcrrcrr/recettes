@@ -1,0 +1,110 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "orzo-cremeux-a-la-butternut-et-burrata",
+  "recipe_id": "00323",
+  "file": "recettes/00323_orzo-cremeux-a-la-butternut-et-burrata.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "orzo-cremeux-a-la-butternut-et-burrata",
+    "title": "Orzo crémeux à la butternut et burrata",
+    "original_title": "Orzo ultra crémeux à la Butternut et burrata",
+    "source_file": "101-Orzo ultra crémeux à la Butternut et burrata.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Plats",
+      "Risotto/Orzotto",
+      "Sauce",
+      "Viande"
+    ],
+    "ingredients": [
+      "0,8 unité de personnes",
+      "1 unité de barquette de lardon",
+      "150 g de Orzo",
+      "800 ml de Bouillon de légumes",
+      "1 unité de Oignon jaune",
+      "1 unité de Burrata",
+      "250g"
+    ],
+    "ingredients_raw": "0,8 unité de personnes\n1 unité de barquette de lardon\n150 g de Orzo\n800 ml de Bouillon de légumes\n1 unité de Oignon jaune\n1 unité de Burrata\n250g",
+    "instructions": "Quand les feuilles roussissent et que la lumière devient dorée, la butternut s’invite naturellement dans nos assiettes.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQUdO4sDIxt",
+    "source_id": "instagram.com/reel/DQUdO4sDIxt",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4/5 personnes",
+      "1 barquette de lardon",
+      "150g d’Orzo ou épis de blés",
+      "800ml de bouillon de légumes à mettre petit à petit",
+      "1 oignons jaune",
+      "1 burrata",
+      "250g"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4/5 personnes",
+        "quantity": "0,8",
+        "unit": "unité",
+        "name": "personnes"
+      },
+      {
+        "raw": "1 barquette de lardon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "barquette de lardon"
+      },
+      {
+        "raw": "150g d’Orzo ou épis de blés",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Orzo"
+      },
+      {
+        "raw": "800ml de bouillon de légumes à mettre petit à petit",
+        "quantity": "800",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "1 oignons jaune",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "1 burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "250g",
+        "quantity": "",
+        "unit": "",
+        "name": "250g"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00323",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00323_orzo-cremeux-a-la-butternut-et-burrata.jpg",
+    "images": [
+      "images/00323_orzo-cremeux-a-la-butternut-et-burrata.jpg"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-cremeuses-aux-tomates-confites-et-burrata",
+  "recipe_id": "00302",
+  "file": "recettes/00302_pates-cremeuses-aux-tomates-confites-et-burrata.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-cremeuses-aux-tomates-confites-et-burrata",
+    "title": "Pâtes crémeuses aux tomates confites et burrata",
+    "original_title": "Pâtes crémeuses aux tomates confites & burrata",
+    "source_file": "57-Pâtes crémeuses aux tomates confites & burrata.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Plats",
+      "Pâtes",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "300 g de Pâtes",
+      "260 g de Tomates cerise",
+      "10 g de Beurre",
+      "2 cuillère à café de Origan",
+      "2 cuillère à café de Thym",
+      "0,5 unité de Oignon",
+      "0,5 unité de Bouillon",
+      "1 cuillère à soupe de Thym"
+    ],
+    "ingredients_raw": "300 g de Pâtes\n260 g de Tomates cerise\n10 g de Beurre\n2 cuillère à café de Origan\n2 cuillère à café de Thym\n0,5 unité de Oignon\n0,5 unité de Bouillon\n1 cuillère à soupe de Thym",
+    "instructions": "Faire cuire les pâtes de ton choix le temps indiqué sur le paquet et réserver une louche d’eau de cuisson. Couper les tomates cerises en deux, émincé la moitié …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DIRXRZcCsDx",
+    "source_id": "instagram.com/reel/DIRXRZcCsDx",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "300g de pâtes",
+      "260g de tomates cerises",
+      "10g de beurre + filet d’huile",
+      "2 cac d’origan",
+      "2 cac de thym",
+      "1/2 oignon",
+      "1/2 bouillon émietté",
+      "1 cas de m"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "300g de pâtes",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "260g de tomates cerises",
+        "quantity": "260",
+        "unit": "g",
+        "name": "Tomates cerise"
+      },
+      {
+        "raw": "10g de beurre + filet d’huile",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "2 cac d’origan",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "2 cac de thym",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Thym"
+      },
+      {
+        "raw": "1/2 oignon",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1/2 bouillon émietté",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "1 cas de m",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Thym"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00302",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00302_pates-cremeuses-aux-tomates-confites-et-burrata.jpg",
+    "images": [
+      "images/00302_pates-cremeuses-aux-tomates-confites-et-burrata.jpg"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "marry-me-pasta",
+  "recipe_id": "00287",
+  "file": "recettes/00287_marry-me-pasta.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "marry-me-pasta",
+    "title": "Marry me pasta",
+    "original_title": "Recettes en moins de 30 minutes",
+    "source_file": "118-Recettes en moins de 30 minutes.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Plats",
+      "Pâtes",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)",
+      "2 unité de Pâtes",
+      "0,5 unité de Oignon",
+      "1 cuillère à soupe de Concentré de tomate",
+      "1 cuillère à café de Paprika",
+      "2 unité de Crème fraîche"
+    ],
+    "ingredients_raw": ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)\n2 unité de Pâtes\n0,5 unité de Oignon\n1 cuillère à soupe de Concentré de tomate\n1 cuillère à café de Paprika\n2 unité de Crème fraîche",
+    "instructions": "Faire cuire les pâtes Faire fondre l’oignon et l’ail Ajouter le concentré de tomate, paprika, maizena et mélanger Ajouter le bouillon et laisser cuire 5 min à f…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPyyG7cDAuI",
+    "source_id": "instagram.com/reel/DPyyG7cDAuI",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "pour",
+      "2 personnes: Pâtes",
+      "1/2 oignon ail",
+      "1 CAS de concentré de tomates",
+      "1 CAC maizena, paprika",
+      "2 bonnes louches de bouillon de volaille Crème fraiche"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "pour",
+        "quantity": "",
+        "unit": "",
+        "name": ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)"
+      },
+      {
+        "raw": "2 personnes: Pâtes",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "1/2 oignon ail",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 CAS de concentré de tomates",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "1 CAC maizena, paprika",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "2 bonnes louches de bouillon de volaille Crème fraiche",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Crème fraîche"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00287",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00287_marry-me-pasta.jpg",
+    "images": [
+      "images/00287_marry-me-pasta.jpg"
+    ]
+  }
+}

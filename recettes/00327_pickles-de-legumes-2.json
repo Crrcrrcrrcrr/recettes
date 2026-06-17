@@ -1,0 +1,70 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pickles-de-legumes-2",
+  "recipe_id": "00327",
+  "file": "recettes/00327_pickles-de-legumes-2.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pickles-de-legumes-2",
+    "title": "Pickles de légumes",
+    "original_title": "PICKLES DE LÉGUMES",
+    "source_file": "5-PICKLES DE LÉGUMES.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Froid",
+      "Vegan",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "Concombre",
+      "500 ml de Vinaigre"
+    ],
+    "ingredients_raw": "Concombre\n500 ml de Vinaigre",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DW4DY5YgsI4",
+    "source_id": "instagram.com/reel/DW4DY5YgsI4",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Légumes au choix, ici : concombre, carottes, oignons, oignons, chou, rouge, radis une Gousse d’ail à mettre dans chaque pot à légumes Vinaigre",
+      "50 cl de vina"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Légumes au choix, ici : concombre, carottes, oignons, oignons, chou, rouge, radis une Gousse d’ail à mettre dans chaque pot à légumes Vinaigre",
+        "quantity": "",
+        "unit": "",
+        "name": "Concombre"
+      },
+      {
+        "raw": "50 cl de vina",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Vinaigre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00327",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00327_pickles-de-legumes-2.jpg",
+    "images": [
+      "images/00327_pickles-de-legumes-2.jpg"
+    ]
+  }
+}

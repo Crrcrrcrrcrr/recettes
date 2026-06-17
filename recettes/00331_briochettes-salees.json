@@ -1,0 +1,95 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "briochettes-salees",
+  "recipe_id": "00331",
+  "file": "recettes/00331_briochettes-salees.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "briochettes-salees",
+    "title": "Briochettes salées",
+    "original_title": "Briochettes salées",
+    "source_file": "94-Briochettes salées.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Brioche",
+      "Plats",
+      "Tarte",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "Confiture d’abricots sans sucres ajoutés .",
+      "1 unité de Poivre",
+      "100 g de Yaourt nature",
+      "120 g de Farine",
+      "0,5 sachet de Levure chimique"
+    ],
+    "ingredients_raw": "Confiture d’abricots sans sucres ajoutés .\n1 unité de Poivre\n100 g de Yaourt nature\n120 g de Farine\n0,5 sachet de Levure chimique",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQ9w5RRDPoL",
+    "source_id": "instagram.com/reel/DQ9w5RRDPoL",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      ".",
+      "1 œuf Sel poivre épices au choix",
+      "100g yaourt nature ou fromage blanc",
+      "120g farine au choix",
+      "1/2 sachet levure chimique Garniture au choix : fêta, tomate séch"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": ".",
+        "quantity": "",
+        "unit": "",
+        "name": "Confiture d’abricots sans sucres ajoutés ."
+      },
+      {
+        "raw": "1 œuf Sel poivre épices au choix",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "100g yaourt nature ou fromage blanc",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "120g farine au choix",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "1/2 sachet levure chimique Garniture au choix : fêta, tomate séch",
+        "quantity": "0,5",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00331",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00331_briochettes-salees.jpg",
+    "images": [
+      "images/00331_briochettes-salees.jpg"
+    ]
+  }
+}

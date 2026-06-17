@@ -1,0 +1,101 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "spaghettis-aux-oignons-caramelises-et-a-lail-2",
+  "recipe_id": "00276",
+  "file": "recettes/00276_spaghettis-aux-oignons-caramelises-et-a-lail-2.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "spaghettis-aux-oignons-caramelises-et-a-lail-2",
+    "title": "Spaghettis aux oignons caramélisés et à l’ail",
+    "original_title": "Caramelized Onion and Garlic Spaghetti",
+    "source_file": "36-Caramelized Onion and Garlic Spaghetti.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Plats",
+      "Pâtes",
+      "Sauce"
+    ],
+    "ingredients": [
+      "1 unité de large onion, thinly sliced",
+      "4 unité de garlic cloves, minced",
+      "2 unité de tbsp chili crisp",
+      "1 unité de Coco",
+      "1 unité de tbsp soy sauce, optional",
+      "0,5 unité de cup fres"
+    ],
+    "ingredients_raw": "1 unité de large onion, thinly sliced\n4 unité de garlic cloves, minced\n2 unité de tbsp chili crisp\n1 unité de Coco\n1 unité de tbsp soy sauce, optional\n0,5 unité de cup fres",
+    "instructions": "Slice your onion like it owes you money, mince that garlic (use fresh please), and measure out all your seasoning. Bring a cup of cream or coconut milk to room …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DLQKCZ1Pdmc",
+    "source_id": "instagram.com/reel/DLQKCZ1Pdmc",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 large onion, thinly sliced",
+      "4 garlic cloves, minced",
+      "2 tbsp chili crisp",
+      "1 cup of cream or coconut milk, room temperature",
+      "1 tbsp soy sauce, optional",
+      "1/2 cup fres"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 large onion, thinly sliced",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "large onion, thinly sliced"
+      },
+      {
+        "raw": "4 garlic cloves, minced",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "garlic cloves, minced"
+      },
+      {
+        "raw": "2 tbsp chili crisp",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "tbsp chili crisp"
+      },
+      {
+        "raw": "1 cup of cream or coconut milk, room temperature",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coco"
+      },
+      {
+        "raw": "1 tbsp soy sauce, optional",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "tbsp soy sauce, optional"
+      },
+      {
+        "raw": "1/2 cup fres",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "cup fres"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00276",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00276_spaghettis-aux-oignons-caramelises-et-a-lail-2.jpg",
+    "images": [
+      "images/00276_spaghettis-aux-oignons-caramelises-et-a-lail-2.jpg"
+    ]
+  }
+}

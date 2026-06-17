@@ -1,0 +1,118 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "saumon-au-curry-rouge",
+  "recipe_id": "00294",
+  "file": "recettes/00294_saumon-au-curry-rouge.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "saumon-au-curry-rouge",
+    "title": "Saumon au curry rouge",
+    "original_title": "Saumon au curry rouge",
+    "source_file": "78-Saumon au curry rouge.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Curry/Dahl",
+      "Plats",
+      "Poisson",
+      "Sauce"
+    ],
+    "ingredients": [
+      ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)",
+      "2 unité de personnes",
+      "2 unité de Pavé de saumon",
+      "1 cuillère à café de Paprika",
+      "0,5 unité de Oignon",
+      "1 cuillère à soupe de Pâte de curry rouge",
+      "1 unité de Bouillon de légumes",
+      "1 cuillère à café de Gingembre frais"
+    ],
+    "ingredients_raw": ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)\n2 unité de personnes\n2 unité de Pavé de saumon\n1 cuillère à café de Paprika\n0,5 unité de Oignon\n1 cuillère à soupe de Pâte de curry rouge\n1 unité de Bouillon de légumes\n1 cuillère à café de Gingembre frais",
+    "instructions": "# Etapes: Assaisonner le saumon avec le curry et le paprika Le faire colorer à la poêle, 1 minute maximum par faces Retirer le saumon du feu et ajouter dans la …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DWO4RHejD-d",
+    "source_id": "instagram.com/reel/DWO4RHejD-d",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "pour",
+      "2 personnes",
+      "2 pavés de saumon",
+      "1 CAC paprika, curry",
+      "1/2 oignon Ail",
+      "1 CAS pâte de curry rouge",
+      "1 cube de bouillon de légumes",
+      "1 CAC gingembre 1"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "pour",
+        "quantity": "",
+        "unit": "",
+        "name": ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)"
+      },
+      {
+        "raw": "2 personnes",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "personnes"
+      },
+      {
+        "raw": "2 pavés de saumon",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Pavé de saumon"
+      },
+      {
+        "raw": "1 CAC paprika, curry",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1/2 oignon Ail",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 CAS pâte de curry rouge",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Pâte de curry rouge"
+      },
+      {
+        "raw": "1 cube de bouillon de légumes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "1 CAC gingembre 1",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre frais"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00294",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00294_saumon-au-curry-rouge.jpg",
+    "images": [
+      "images/00294_saumon-au-curry-rouge.jpg"
+    ]
+  }
+}

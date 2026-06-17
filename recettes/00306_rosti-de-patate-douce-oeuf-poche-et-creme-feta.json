@@ -1,0 +1,99 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "rosti-de-patate-douce-oeuf-poche-et-creme-feta",
+  "recipe_id": "00306",
+  "file": "recettes/00306_rosti-de-patate-douce-oeuf-poche-et-creme-feta.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "rosti-de-patate-douce-oeuf-poche-et-creme-feta",
+    "title": "Rösti de patate douce, œuf poché et crème feta",
+    "original_title": "Rösti de patate douce, œuf poché & crème feta",
+    "source_file": "17-Rösti de patate douce, œuf poché & crème feta.melarecipe",
+    "categories": [
+      "Entrée",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "Patate douce",
+      "2 unité de Patate douce",
+      "1 unité de Eau",
+      "1 unité de Oignon",
+      "1 unité de Œuf",
+      "1 cuillère à soupe de Paprika fumé"
+    ],
+    "ingredients_raw": "Patate douce\n2 unité de Patate douce\n1 unité de Eau\n1 unité de Oignon\n1 unité de Œuf\n1 cuillère à soupe de Paprika fumé",
+    "instructions": "Je râpe les patates douces et retire l’excédent d’eau en l’essorant entre mains. Je râpe également gingembre et oignon. Je mélange tout en ajoutant les restes d…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DVTAwEFiEdz",
+    "source_id": "instagram.com/reel/DVTAwEFiEdz",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Rösti à la patate douce",
+      "2 patates douce râpée",
+      "1 morceaux de gingembre",
+      "1 petit oignon",
+      "1 œuf",
+      "1 càs bombée de fécule Sel, poivre, paprika fumé Huile"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Rösti à la patate douce",
+        "quantity": "",
+        "unit": "",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "2 patates douce râpée",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "1 morceaux de gingembre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 petit oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 càs bombée de fécule Sel, poivre, paprika fumé Huile",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Paprika fumé"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00306",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00306_rosti-de-patate-douce-oeuf-poche-et-creme-feta.jpg",
+    "images": [
+      "images/00306_rosti-de-patate-douce-oeuf-poche-et-creme-feta.jpg"
+    ]
+  }
+}

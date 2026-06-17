@@ -1,0 +1,117 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "courgettes-curry-coco",
+  "recipe_id": "00284",
+  "file": "recettes/00284_courgettes-curry-coco.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "courgettes-curry-coco",
+    "title": "Courgettes curry coco",
+    "original_title": "Recette de Courgettes curry coco",
+    "source_file": "40-Recette de Courgettes curry coco.melarecipe",
+    "categories": [
+      "Curry/Dahl",
+      "Plats",
+      "Vegan",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Courgette",
+      "2 unité de petites)",
+      "1 unité de Poivron",
+      "3 gousse de Ail",
+      "1 cuillère à soupe de Gingembre frais",
+      "1 cuillère à soupe de Huile",
+      "1 cuillère à café de Curry",
+      "0,5 unité de Coco"
+    ],
+    "ingredients_raw": "1 unité de Courgette\n2 unité de petites)\n1 unité de Poivron\n3 gousse de Ail\n1 cuillère à soupe de Gingembre frais\n1 cuillère à soupe de Huile\n1 cuillère à café de Curry\n0,5 unité de Coco",
+    "instructions": "Détaillez les légumes en bâtonnets. Faites chauffer une poêle à bords hauts et versez-y l’huile. Faites-y revenir l’ail et le gingembre avec les épices pendant …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DONzSjJjADN",
+    "source_id": "instagram.com/reel/DONzSjJjADN",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 grosse courgette (ou",
+      "2 petites)",
+      "1 poivron",
+      "3 gousses d’ail pressées",
+      "1 càs de gingembre frais râpé",
+      "1 càs d’huile neutre (type arachide)",
+      "1 càc de curry jaune",
+      "½ c"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 grosse courgette (ou",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Courgette"
+      },
+      {
+        "raw": "2 petites)",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "petites)"
+      },
+      {
+        "raw": "1 poivron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron"
+      },
+      {
+        "raw": "3 gousses d’ail pressées",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 càs de gingembre frais râpé",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "1 càs d’huile neutre (type arachide)",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "1 càc de curry jaune",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "½ c",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Coco"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00284",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00284_courgettes-curry-coco.jpg",
+    "images": [
+      "images/00284_courgettes-curry-coco.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pains-libanais-galettes-a-shawarma",
+  "recipe_id": "00341",
+  "file": "recettes/00341_pains-libanais-galettes-a-shawarma.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pains-libanais-galettes-a-shawarma",
+    "title": "Pains libanais / galettes à shawarma",
+    "original_title": "Je te partage la recette des pains libanais / galettes à shawarma que j’ai utilisés l’autre jour pour la recette du sandwich falafel que j’ai découvert au Liban.",
+    "source_file": "73-Je te partage la recette des pains libanais _ galettes à shawarma que j’ai utilisés l’autre jour pour la recette du sandwich falafel que j’ai découvert au Liban..melarecipe",
+    "categories": [
+      "Pains/wraps",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "300 g de Farine"
+    ],
+    "ingredients_raw": "300 g de Farine",
+    "instructions": "Délayer la levure dans l’eau tiède avec le sucre. Ajoutez la farine et le sel pu pétrir jusqu’à obtenir une boule. Laisser pousser 1 heure. Puis diviser la pâte…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DV_iTPPikKw",
+    "source_id": "instagram.com/reel/DV_iTPPikKw",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "🔸300 g de farine 🔸8 g de levure sèche de boulanger 🔸185 g d’eau tiède 🔸1/2 c. à café de sel 🔸1 c. à café de sucre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "🔸300 g de farine 🔸8 g de levure sèche de boulanger 🔸185 g d’eau tiède 🔸1/2 c. à café de sel 🔸1 c. à café de sucre",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Farine"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00341",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00341_pains-libanais-galettes-a-shawarma.jpg",
+    "images": [
+      "images/00341_pains-libanais-galettes-a-shawarma.jpg"
+    ]
+  }
+}

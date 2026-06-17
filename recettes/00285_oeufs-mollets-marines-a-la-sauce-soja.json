@@ -1,0 +1,86 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "oeufs-mollets-marines-a-la-sauce-soja",
+  "recipe_id": "00285",
+  "file": "recettes/00285_oeufs-mollets-marines-a-la-sauce-soja.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "oeufs-mollets-marines-a-la-sauce-soja",
+    "title": "Œufs mollets marinés à la sauce soja",
+    "original_title": "Œufs mollets marinés",
+    "source_file": "107-Œufs mollets marinés.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Entrée",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "Œuf",
+      "4 c. à s. de Sauce soja",
+      "2 c. à c. de Huile de sésame",
+      "1 c. à s. de Sriracha"
+    ],
+    "ingredients_raw": "Œuf\n4 c. à s. de Sauce soja\n2 c. à c. de Huile de sésame\n1 c. à s. de Sriracha",
+    "instructions": "# 👉 Pour 6 œufs mollets : # Cuire les œufs dans l’eau bouillante : ⏱️ 5 min 30 pour un jaune très coulant ⏱️ 6 min pour un jaune crémeux Stopper la cuisson dans…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQE67TWDBKq",
+    "source_id": "instagram.com/reel/DQE67TWDBKq",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Œufs mollets marinés",
+      "4 c. à s. de sauce soja",
+      "2 c. à c. d’huile de sésame grillé",
+      "1 c. à s. de sriracha (optionnel — perso, ça dépend de mon humeur ) U"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Œufs mollets marinés",
+        "quantity": "",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "4 c. à s. de sauce soja",
+        "quantity": "4",
+        "unit": "c. à s.",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "2 c. à c. d’huile de sésame grillé",
+        "quantity": "2",
+        "unit": "c. à c.",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 c. à s. de sriracha (optionnel — perso, ça dépend de mon humeur ) U",
+        "quantity": "1",
+        "unit": "c. à s.",
+        "name": "Sriracha"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00285",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00285_oeufs-mollets-marines-a-la-sauce-soja.jpg",
+    "images": [
+      "images/00285_oeufs-mollets-marines-a-la-sauce-soja.jpg"
+    ]
+  }
+}

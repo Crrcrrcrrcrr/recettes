@@ -1,0 +1,83 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pain-boule-sans-robot",
+  "recipe_id": "00274",
+  "file": "recettes/00274_pain-boule-sans-robot.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pain-boule-sans-robot",
+    "title": "Pain boule sans robot",
+    "original_title": "Pain Sans Robot",
+    "source_file": "105-Pain Sans Robot.melarecipe",
+    "categories": [
+      "Pains/wraps",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "515 g de Farine de blé",
+      "340 ml de Eau",
+      "5 g de Levure de boulanger",
+      "8 g de Sel"
+    ],
+    "ingredients_raw": "515 g de Farine de blé\n340 ml de Eau\n5 g de Levure de boulanger\n8 g de Sel",
+    "instructions": "# ⚠️ Détails super importants : Le premier mélange avec un peu de farine, d'eau et de levure s'appelle une poolish : mettez 160g de la farine et 160mL de l'eau …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DOf9N9XDECX",
+    "source_id": "instagram.com/reel/DOf9N9XDECX",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "515g farine de blé T65 de préférence (rayon bio) ou T55",
+      "340mL eau",
+      "5g levure de boulanger sèche",
+      "8g sel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "515g farine de blé T65 de préférence (rayon bio) ou T55",
+        "quantity": "515",
+        "unit": "g",
+        "name": "Farine de blé"
+      },
+      {
+        "raw": "340mL eau",
+        "quantity": "340",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "5g levure de boulanger sèche",
+        "quantity": "5",
+        "unit": "g",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "8g sel",
+        "quantity": "8",
+        "unit": "g",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00274",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00274_pain-boule-sans-robot.jpg",
+    "images": [
+      "images/00274_pain-boule-sans-robot.jpg"
+    ]
+  }
+}

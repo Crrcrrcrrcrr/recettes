@@ -1,0 +1,84 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "ramen-express",
+  "recipe_id": "00329",
+  "file": "recettes/00329_ramen-express.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "ramen-express",
+    "title": "Ramen express",
+    "original_title": "5-minute Ramen Soup Bowl !!",
+    "source_file": "117-5-minute Ramen Soup Bowl !!.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Soupe/Velouté",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "1 unité de clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped",
+      "1 unité de tbsp of chopped Coriander",
+      "2 unité de tbsp of Spring onions chopped",
+      "1 unité de tsp"
+    ],
+    "ingredients_raw": "1 unité de clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped\n1 unité de tbsp of chopped Coriander\n2 unité de tbsp of Spring onions chopped\n1 unité de tsp",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DMp6Fa-oL8f",
+    "source_id": "instagram.com/reel/DMp6Fa-oL8f",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped",
+      "1 tbsp of chopped Coriander",
+      "2 tbsp of Spring onions chopped",
+      "1 tsp"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped"
+      },
+      {
+        "raw": "1 tbsp of chopped Coriander",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "tbsp of chopped Coriander"
+      },
+      {
+        "raw": "2 tbsp of Spring onions chopped",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "tbsp of Spring onions chopped"
+      },
+      {
+        "raw": "1 tsp",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "tsp"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00329",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00329_ramen-express.jpg",
+    "images": [
+      "images/00329_ramen-express.jpg"
+    ]
+  }
+}

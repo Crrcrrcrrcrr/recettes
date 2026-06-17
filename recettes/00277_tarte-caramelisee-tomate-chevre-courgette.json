@@ -1,0 +1,118 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tarte-caramelisee-tomate-chevre-courgette",
+  "recipe_id": "00277",
+  "file": "recettes/00277_tarte-caramelisee-tomate-chevre-courgette.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tarte-caramelisee-tomate-chevre-courgette",
+    "title": "Tarte caramélisée tomate, chèvre, courgette",
+    "original_title": "Quand j’ai envie d’impressionner mes invités, cette tarte fait toujours son petit effet",
+    "source_file": "76-Quand j’ai envie d’impressionner mes invités, cette tarte fait toujours son petit effet.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Plats",
+      "Sauce",
+      "Tarte",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Pâte brisée",
+      "2 cuillère à soupe de Fromage frais",
+      "2 cuillère à soupe de Sauce poisson",
+      "50 g de Chapelure",
+      "10 g de Thym",
+      "1 unité de Courgette",
+      "150 g de Tomates cerise",
+      "6 unité de rondelles de c"
+    ],
+    "ingredients_raw": "1 unité de Pâte brisée\n2 cuillère à soupe de Fromage frais\n2 cuillère à soupe de Sauce poisson\n50 g de Chapelure\n10 g de Thym\n1 unité de Courgette\n150 g de Tomates cerise\n6 unité de rondelles de c",
+    "instructions": "Étaler sur la pâte brisée le fromage frais et la sauce pesto rosso. Ajouter la chapelure et le thym. La chapelure va permettre à la pâte d’être bien croustillan…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DWgGs64jAXv",
+    "source_id": "instagram.com/reel/DWgGs64jAXv",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 pâte brisée",
+      "2 cas de fromage frais",
+      "2 cas de sauce pesto rosso",
+      "50g de chapelure (panko)",
+      "10g de thym",
+      "1 petite courgette",
+      "150g de tomates cerises",
+      "6 rondelles de c"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 pâte brisée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte brisée"
+      },
+      {
+        "raw": "2 cas de fromage frais",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Fromage frais"
+      },
+      {
+        "raw": "2 cas de sauce pesto rosso",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce poisson"
+      },
+      {
+        "raw": "50g de chapelure (panko)",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Chapelure"
+      },
+      {
+        "raw": "10g de thym",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Thym"
+      },
+      {
+        "raw": "1 petite courgette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Courgette"
+      },
+      {
+        "raw": "150g de tomates cerises",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Tomates cerise"
+      },
+      {
+        "raw": "6 rondelles de c",
+        "quantity": "6",
+        "unit": "unité",
+        "name": "rondelles de c"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00277",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00277_tarte-caramelisee-tomate-chevre-courgette.jpg",
+    "images": [
+      "images/00277_tarte-caramelisee-tomate-chevre-courgette.jpg"
+    ]
+  }
+}

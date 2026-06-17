@@ -1,0 +1,110 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pains-plats-halloumi-grille-et-sauce-cottage-cheese",
+  "recipe_id": "00325",
+  "file": "recettes/00325_pains-plats-halloumi-grille-et-sauce-cottage-cheese.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pains-plats-halloumi-grille-et-sauce-cottage-cheese",
+    "title": "Pains plats, halloumi grillé et sauce cottage cheese",
+    "original_title": "Pains plats et halloumi grillé et sa sauce au cottage cheese",
+    "source_file": "23-Pains plats et halloumi grillé et sa sauce au cottage cheese.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Froid",
+      "Pains/wraps",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)",
+      "2 unité de Pain",
+      "2 unité de Wrap",
+      "1 bloc de Halloumi",
+      "1 cuillère à soupe de Miel",
+      "1 cuillère à café de Huile d’olive",
+      "1 cuillère à café de Chili oil"
+    ],
+    "ingredients_raw": ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)\n2 unité de Pain\n2 unité de Wrap\n1 bloc de Halloumi\n1 cuillère à soupe de Miel\n1 cuillère à café de Huile d’olive\n1 cuillère à café de Chili oil",
+    "instructions": "Cuire le butternut au four avec l’assaisonnement par dessus pendant +- 20-30’min Préparer la sauce au cottage cheese en mélangeant tous les ingrédients Quand le…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DTXZcmSDPuk",
+    "source_id": "instagram.com/reel/DTXZcmSDPuk",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "pour",
+      "2 pains",
+      "2 wraps ou pains plats libanais",
+      "1 bloc d’halloumi Sauce miel /chili",
+      "1 càs de miel avec",
+      "1 càc d’huile d’olive et",
+      "1 càc de chili fl"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "pour",
+        "quantity": "",
+        "unit": "",
+        "name": ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)"
+      },
+      {
+        "raw": "2 pains",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Pain"
+      },
+      {
+        "raw": "2 wraps ou pains plats libanais",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Wrap"
+      },
+      {
+        "raw": "1 bloc d’halloumi Sauce miel /chili",
+        "quantity": "1",
+        "unit": "bloc",
+        "name": "Halloumi"
+      },
+      {
+        "raw": "1 càs de miel avec",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 càc d’huile d’olive et",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 càc de chili fl",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Chili oil"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00325",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00325_pains-plats-halloumi-grille-et-sauce-cottage-cheese.jpg",
+    "images": [
+      "images/00325_pains-plats-halloumi-grille-et-sauce-cottage-cheese.jpg"
+    ]
+  }
+}

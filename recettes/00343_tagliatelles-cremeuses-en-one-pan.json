@@ -1,0 +1,116 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tagliatelles-cremeuses-en-one-pan",
+  "recipe_id": "00343",
+  "file": "recettes/00343_tagliatelles-cremeuses-en-one-pan.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tagliatelles-cremeuses-en-one-pan",
+    "title": "Tagliatelles crémeuses en one-pan",
+    "original_title": "One-Pan Creamy Tagliatelle",
+    "source_file": "82-One-Pan Creamy Tagliatelle.melarecipe",
+    "categories": [
+      "One-pot",
+      "Plats",
+      "Pâtes"
+    ],
+    "ingredients": [
+      "200 g de Pasta",
+      "12 unité de cherry tomatoes, cubed",
+      "0,5 unité de red onion, sliced",
+      "1 unité de handful fresh spinach",
+      "2 unité de garlic cloves, diced",
+      "1 unité de tbsp tomato paste",
+      "2 unité de tbsp olive oil",
+      "1 unité de Tofu"
+    ],
+    "ingredients_raw": "200 g de Pasta\n12 unité de cherry tomatoes, cubed\n0,5 unité de red onion, sliced\n1 unité de handful fresh spinach\n2 unité de garlic cloves, diced\n1 unité de tbsp tomato paste\n2 unité de tbsp olive oil\n1 unité de Tofu",
+    "instructions": "In a large pan, layer the tagliatelle, cherry tomatoes, onion, spinach, and garlic. Drizzle with olive oil, add tomato paste, Italian herbs, cream, and vegetabl…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQZ7RmxDrE-",
+    "source_id": "instagram.com/reel/DQZ7RmxDrE-",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200 g tagliatelle pasta",
+      "10–12 cherry tomatoes, cubed",
+      "½ red onion, sliced",
+      "1 handful fresh spinach",
+      "2 garlic cloves, diced",
+      "1 tbsp tomato paste",
+      "2 tbsp olive oil",
+      "1 t"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g tagliatelle pasta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pasta"
+      },
+      {
+        "raw": "10–12 cherry tomatoes, cubed",
+        "quantity": "12",
+        "unit": "unité",
+        "name": "cherry tomatoes, cubed"
+      },
+      {
+        "raw": "½ red onion, sliced",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "red onion, sliced"
+      },
+      {
+        "raw": "1 handful fresh spinach",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "handful fresh spinach"
+      },
+      {
+        "raw": "2 garlic cloves, diced",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "garlic cloves, diced"
+      },
+      {
+        "raw": "1 tbsp tomato paste",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "tbsp tomato paste"
+      },
+      {
+        "raw": "2 tbsp olive oil",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "tbsp olive oil"
+      },
+      {
+        "raw": "1 t",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tofu"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00343",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00343_tagliatelles-cremeuses-en-one-pan.jpg",
+    "images": [
+      "images/00343_tagliatelles-cremeuses-en-one-pan.jpg"
+    ]
+  }
+}

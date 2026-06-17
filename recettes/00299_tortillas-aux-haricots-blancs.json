@@ -1,0 +1,61 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tortillas-aux-haricots-blancs",
+  "recipe_id": "00299",
+  "file": "recettes/00299_tortillas-aux-haricots-blancs.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tortillas-aux-haricots-blancs",
+    "title": "Tortillas aux haricots blancs",
+    "original_title": "Tortillas Fibres et Protéines",
+    "source_file": "12-Tortillas Fibres et Protéines.melarecipe",
+    "categories": [
+      "Froid",
+      "Pains/wraps",
+      "Vegan",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "95 g de Haricots blancs"
+    ],
+    "ingredients_raw": "95 g de Haricots blancs",
+    "instructions": "Tortillas Fibres et Protéines 🌯. Qui avait deviné sans tricher 🙋🏿‍♀️? La team tipeee le sait, j'adore vraiment ces wraps, ils sont trop bons. Les haricots donne…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DVLf9OADASB",
+    "source_id": "instagram.com/reel/DVLf9OADASB",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel ."
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel .",
+        "quantity": "95",
+        "unit": "g",
+        "name": "Haricots blancs"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00299",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00299_tortillas-aux-haricots-blancs.jpg",
+    "images": [
+      "images/00299_tortillas-aux-haricots-blancs.jpg"
+    ]
+  }
+}

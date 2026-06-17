@@ -1,0 +1,100 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "mijote-de-boeuf-effiloche",
+  "recipe_id": "00354",
+  "file": "recettes/00354_mijote-de-boeuf-effiloche.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "mijote-de-boeuf-effiloche",
+    "title": "Mijoté de bœuf effiloché",
+    "original_title": "Partie 2 : RECETTE MIJOTÉ DE BŒUF EFFILOCHÉ",
+    "source_file": "79-Partie 2 : RECETTE MIJOTÉ DE BŒUF EFFILOCHÉ.melarecipe",
+    "categories": [
+      "Plats",
+      "Soupe/Velouté",
+      "Viande"
+    ],
+    "ingredients": [
+      "❃",
+      "900 g de Eau",
+      "1000 g de Huile d’olive",
+      "2 unité de Assaisonnement",
+      "0,5 unité de Sel",
+      "0,5 unité de Poivre"
+    ],
+    "ingredients_raw": "❃\n900 g de Eau\n1000 g de Huile d’olive\n2 unité de Assaisonnement\n0,5 unité de Sel\n0,5 unité de Poivre",
+    "instructions": "Mélanger l’huile d’olive avec les épices et enrober la viande. Faire chauffer une cocotte puis saisir la viande sur toutes les faces. Retirer et réserver. Dans …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DU5iR06DO3b",
+    "source_id": "instagram.com/reel/DU5iR06DO3b",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "❃",
+      "900 g à",
+      "1 kg de paleron de bœuf ❃ Un bon filet d’huile d’olive ❃",
+      "2 c. à soupe d’assaisonnement pour steak ❃",
+      "1/2 c. à café de sel ❃",
+      "1/2 c. à café de poivre ❃ 1"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "❃",
+        "quantity": "",
+        "unit": "",
+        "name": "❃"
+      },
+      {
+        "raw": "900 g à",
+        "quantity": "900",
+        "unit": "g",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 kg de paleron de bœuf ❃ Un bon filet d’huile d’olive ❃",
+        "quantity": "1000",
+        "unit": "g",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 c. à soupe d’assaisonnement pour steak ❃",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Assaisonnement"
+      },
+      {
+        "raw": "1/2 c. à café de sel ❃",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "1/2 c. à café de poivre ❃ 1",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00354",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00354_mijote-de-boeuf-effiloche.jpg",
+    "images": [
+      "images/00354_mijote-de-boeuf-effiloche.jpg"
+    ]
+  }
+}

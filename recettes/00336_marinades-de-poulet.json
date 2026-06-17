@@ -1,0 +1,79 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "marinades-de-poulet",
+  "recipe_id": "00336",
+  "file": "recettes/00336_marinades-de-poulet.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "marinades-de-poulet",
+    "title": "Marinades de poulet",
+    "original_title": "Mes marinades de poulet (300gr par sachet) :",
+    "source_file": "26-Mes marinades de poulet (300gr par sachet) :.melarecipe",
+    "categories": [
+      "Curry/Dahl",
+      "Indien",
+      "Marinade",
+      "Plats",
+      "Viande",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "Poulet",
+      "1 unité de Crème de coco",
+      "1 cuillère à soupe de Huile d’olive"
+    ],
+    "ingredients_raw": "Poulet\n1 unité de Crème de coco\n1 cuillère à soupe de Huile d’olive",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DTFXHNBCInN",
+    "source_id": "instagram.com/reel/DTFXHNBCInN",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Mes marinades de poulet (300gr par sachet) : Indienne",
+      "1 briquette de crème de coco, sel, poivre, curry Thym miel",
+      "1 cas d’huile d’olive, sel, poivre, thym"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Mes marinades de poulet (300gr par sachet) : Indienne",
+        "quantity": "",
+        "unit": "",
+        "name": "Poulet"
+      },
+      {
+        "raw": "1 briquette de crème de coco, sel, poivre, curry Thym miel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Crème de coco"
+      },
+      {
+        "raw": "1 cas d’huile d’olive, sel, poivre, thym",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00336",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00336_marinades-de-poulet.jpg",
+    "images": [
+      "images/00336_marinades-de-poulet.jpg"
+    ]
+  }
+}

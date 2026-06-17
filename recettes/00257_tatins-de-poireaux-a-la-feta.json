@@ -1,0 +1,68 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tatins-de-poireaux-a-la-feta",
+  "recipe_id": "00257",
+  "file": "recettes/00257_tatins-de-poireaux-a-la-feta.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tatins-de-poireaux-a-la-feta",
+    "title": "Tatins de poireaux à la feta",
+    "original_title": "Tu vas tester ?",
+    "source_file": "74-Tu vas tester ?.melarecipe",
+    "categories": [
+      "Plats",
+      "Tarte",
+      "Viande"
+    ],
+    "ingredients": [
+      "quelques quelques de Pâte feuilletée",
+      "1 unité de Jaune d'œuf"
+    ],
+    "ingredients_raw": "quelques quelques de Pâte feuilletée\n1 unité de Jaune d'œuf",
+    "instructions": "Cuisson env. 30min à 180 degrés.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DWb1IlfiIJo",
+    "source_id": "instagram.com/reel/DWb1IlfiIJo",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+      "1 jaune d’oeuf optionnel : burrata, jambon cru, parmesan, thym"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+        "quantity": "quelques",
+        "unit": "quelques",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "1 jaune d’oeuf optionnel : burrata, jambon cru, parmesan, thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jaune d'œuf"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00257",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00257_tatins-de-poireaux-a-la-feta.jpg",
+    "images": [
+      "images/00257_tatins-de-poireaux-a-la-feta.jpg"
+    ]
+  }
+}

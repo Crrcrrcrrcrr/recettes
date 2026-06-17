@@ -1,0 +1,78 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "golden-curry-maison",
+  "recipe_id": "00324",
+  "file": "recettes/00324_golden-curry-maison.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "golden-curry-maison",
+    "title": "Golden curry maison",
+    "original_title": "Golden Curry fait maison",
+    "source_file": "92-Golden Curry fait maison.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Curry/Dahl",
+      "Plats",
+      "Sauce"
+    ],
+    "ingredients": [
+      "150 g de margarine",
+      "150 g de Farine",
+      "30 g de Curry japonais"
+    ],
+    "ingredients_raw": "150 g de margarine\n150 g de Farine\n30 g de Curry japonais",
+    "instructions": "*Si vous pré-découper en 16 carrés, utiliser 1 carré par portion #faitmaison #foodlover #healthyfood #japanesefood",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQ9C5DgFKDk",
+    "source_id": "instagram.com/reel/DQ9C5DgFKDk",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "150g de margarine",
+      "150g de farine (avec ou sans gluten)",
+      "30g de mélange d’épices curry japonais (curcuma, muscade, fenou"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "150g de margarine",
+        "quantity": "150",
+        "unit": "g",
+        "name": "margarine"
+      },
+      {
+        "raw": "150g de farine (avec ou sans gluten)",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "30g de mélange d’épices curry japonais (curcuma, muscade, fenou",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Curry japonais"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00324",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00324_golden-curry-maison.jpg",
+    "images": [
+      "images/00324_golden-curry-maison.jpg"
+    ]
+  }
+}

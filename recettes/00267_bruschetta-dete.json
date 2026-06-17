@@ -1,0 +1,49 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "bruschetta-dete",
+  "recipe_id": "00267",
+  "file": "recettes/00267_bruschetta-dete.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "bruschetta-dete",
+    "title": "Bruschetta d’été",
+    "original_title": "Un combo de tout ce que j’aime!! Parce que le soleil est là et qu’il va rester là !",
+    "source_file": "69-Un combo de tout ce que j’aime!! Parce que le soleil est là et qu’il va rester là !.melarecipe",
+    "categories": [
+      "Froid",
+      "Tartine/Bruscetta",
+      "Sans ingrédients"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Les bruschetta c’est vraiment la vie !🥰",
+    "notes": "",
+    "link": "https://www.instagram.com/p/Ccx7JPYINGA",
+    "source_id": "instagram.com/reel/Ccx7JPYINGA",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00267",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00267_bruschetta-dete.jpg",
+    "images": [
+      "images/00267_bruschetta-dete.jpg"
+    ]
+  }
+}

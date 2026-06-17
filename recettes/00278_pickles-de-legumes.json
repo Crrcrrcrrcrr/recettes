@@ -1,0 +1,125 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pickles-de-legumes",
+  "recipe_id": "00278",
+  "file": "recettes/00278_pickles-de-legumes.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pickles-de-legumes",
+    "title": "Pickles de légumes",
+    "original_title": "PICKELS de LÉGUMES",
+    "source_file": "81-PICKELS de LÉGUMES.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Froid",
+      "Vegan",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "3 unité de Oignon rouge",
+      "3 unité de Carotte",
+      "1 unité de Betterave",
+      "1 unité de Brocoli",
+      "500 ml de Vinaigre de cidre",
+      "500 ml de Vinaigre blanc",
+      "1000 ml de Eau",
+      "4 cuillère à soupe de Sucre",
+      "4 unité de Coco"
+    ],
+    "ingredients_raw": "3 unité de Oignon rouge\n3 unité de Carotte\n1 unité de Betterave\n1 unité de Brocoli\n500 ml de Vinaigre de cidre\n500 ml de Vinaigre blanc\n1000 ml de Eau\n4 cuillère à soupe de Sucre\n4 unité de Coco",
+    "instructions": "Couoer les légumes finement pour remplir les bocaux avec. Ajouter 3 morceaux de betterave dans le bocal des oignons pour accentuer la couleur rose. Ajouter l’an…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DV31jOqDC16",
+    "source_id": "instagram.com/reel/DV31jOqDC16",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "3 oignons rouges",
+      "3 carottes",
+      "1 grosse betterave",
+      "1 brocolis",
+      "500ml de vinaigre de cidre",
+      "500ml de vinaigre blanc",
+      "1L d’eau",
+      "4 cas de sucre",
+      "4 c"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "3 oignons rouges",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "3 carottes",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "1 grosse betterave",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Betterave"
+      },
+      {
+        "raw": "1 brocolis",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Brocoli"
+      },
+      {
+        "raw": "500ml de vinaigre de cidre",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "500ml de vinaigre blanc",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Vinaigre blanc"
+      },
+      {
+        "raw": "1L d’eau",
+        "quantity": "1000",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "4 cas de sucre",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Sucre"
+      },
+      {
+        "raw": "4 c",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Coco"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00278",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00278_pickles-de-legumes.jpg",
+    "images": [
+      "images/00278_pickles-de-legumes.jpg"
+    ]
+  }
+}

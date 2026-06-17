@@ -1,0 +1,91 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-d-ete",
+  "recipe_id": "00334",
+  "file": "recettes/00334_salade-d-ete.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "salade-d-ete",
+    "title": "Salade d'été",
+    "original_title": "La salade d’été postée trop tard...",
+    "source_file": "42-La salade d’été postée trop tard....melarecipe",
+    "categories": [
+      "Froid",
+      "Salade"
+    ],
+    "ingredients": [
+      "2 unité de Citron vert",
+      "110 ml de Huile d’olive",
+      "1 unité de Concentré de tomate",
+      "1 unité de cS d’Harissa",
+      "1 unité de Cumin"
+    ],
+    "ingredients_raw": "2 unité de Citron vert\n110 ml de Huile d’olive\n1 unité de Concentré de tomate\n1 unité de cS d’Harissa\n1 unité de Cumin",
+    "instructions": "Pour la vinaigrette avec la harissa de chez @nomie.epices et @harissa.tava",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DNdjxSsopEk",
+    "source_id": "instagram.com/reel/DNdjxSsopEk",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 citrons verts",
+      "110 mL d’huile d’olive",
+      "1 cS de concentré de tomate",
+      "1 cS d’Harissa",
+      "1 cc de cumin"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 citrons verts",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Citron vert"
+      },
+      {
+        "raw": "110 mL d’huile d’olive",
+        "quantity": "110",
+        "unit": "ml",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cS de concentré de tomate",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "1 cS d’Harissa",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "cS d’Harissa"
+      },
+      {
+        "raw": "1 cc de cumin",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cumin"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00334",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00334_salade-d-ete.jpg",
+    "images": [
+      "images/00334_salade-d-ete.jpg"
+    ]
+  }
+}

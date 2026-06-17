@@ -1,0 +1,85 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "flan-de-courgettes-a-la-feta",
+  "recipe_id": "00308",
+  "file": "recettes/00308_flan-de-courgettes-a-la-feta.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "flan-de-courgettes-a-la-feta",
+    "title": "Flan de courgettes à la feta",
+    "original_title": "Une super recette pour faire manger des courgettes aux petits comme aux grands récalcitrants",
+    "source_file": "13-Une super recette pour faire manger des courgettes aux petits comme aux grands récalcitrants.melarecipe",
+    "categories": [
+      "Plats",
+      "Tarte",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "Pour réaliser cette recette tu auras besoin de",
+      "2 unité de Courgette",
+      "4 unité de Œuf",
+      "0,5 unité de Mozzarella râpée"
+    ],
+    "ingredients_raw": "Pour réaliser cette recette tu auras besoin de\n2 unité de Courgette\n4 unité de Œuf\n0,5 unité de Mozzarella râpée",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DVZD5KpiInt",
+    "source_id": "instagram.com/reel/DVZD5KpiInt",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Pour réaliser cette recette tu auras besoin de",
+      "2 courgettes bien épaisse comme la mienne 🥒",
+      "4 œufs de poule",
+      "1/2 fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Pour réaliser cette recette tu auras besoin de",
+        "quantity": "",
+        "unit": "",
+        "name": "Pour réaliser cette recette tu auras besoin de"
+      },
+      {
+        "raw": "2 courgettes bien épaisse comme la mienne 🥒",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Courgette"
+      },
+      {
+        "raw": "4 œufs de poule",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1/2 fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Mozzarella râpée"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00308",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00308_flan-de-courgettes-a-la-feta.jpg",
+    "images": [
+      "images/00308_flan-de-courgettes-a-la-feta.jpg"
+    ]
+  }
+}

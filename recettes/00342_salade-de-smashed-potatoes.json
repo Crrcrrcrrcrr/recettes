@@ -1,0 +1,67 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-de-smashed-potatoes",
+  "recipe_id": "00342",
+  "file": "recettes/00342_salade-de-smashed-potatoes.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "salade-de-smashed-potatoes",
+    "title": "Salade de smashed potatoes",
+    "original_title": "Salade de  Smashed  Potatoes",
+    "source_file": "56-Salade de Smashed Potatoes.melarecipe",
+    "categories": [
+      "Froid",
+      "Salade"
+    ],
+    "ingredients": [
+      "500 g de Huile d’olive",
+      "200 g de Fromage blanc"
+    ],
+    "ingredients_raw": "500 g de Huile d’olive\n200 g de Fromage blanc",
+    "instructions": "Cuire les petites pommes de terre dans de l’eau salée. Écraser les pommes de terre cuites dans un plat allant au four. Badigeonner avec un peu d’huile et assais…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DIn5k2VtisA",
+    "source_id": "instagram.com/reel/DIn5k2VtisA",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+      "200g Yaourt grec ou fromage blanc 1"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "200g Yaourt grec ou fromage blanc 1",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Fromage blanc"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00342",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00342_salade-de-smashed-potatoes.jpg",
+    "images": [
+      "images/00342_salade-de-smashed-potatoes.jpg"
+    ]
+  }
+}

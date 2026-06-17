@@ -1,0 +1,87 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "soupe-udon-cremeuse-au-lait-de-coco",
+  "recipe_id": "00353",
+  "file": "recettes/00353_soupe-udon-cremeuse-au-lait-de-coco.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "soupe-udon-cremeuse-au-lait-de-coco",
+    "title": "Soupe udon crémeuse au lait de coco",
+    "original_title": "Soupe Udon crémeuse au lait de coco",
+    "source_file": "48-Soupe Udon crémeuse au lait de coco.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Plats",
+      "Sauce",
+      "Soupe/Velouté",
+      "Viande"
+    ],
+    "ingredients": [
+      "Nouilles",
+      "1 unité de Beurre de cacahuète",
+      "1 unité de Huile de sésame",
+      "1 gousse de Sauce soja"
+    ],
+    "ingredients_raw": "Nouilles\n1 unité de Beurre de cacahuète\n1 unité de Huile de sésame\n1 gousse de Sauce soja",
+    "instructions": "Dans une poêle, faire fondre le beurre de cacahuètes avec l’huile de sésame pimentée. Ajouter l’ail râpé, les deux types de sauce soja, le bouillon de poulet et…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DJ9ddkWIKqn",
+    "source_id": "instagram.com/reel/DJ9ddkWIKqn",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Nouilles udon",
+      "1 c. à soupe de beurre de cacahuètes",
+      "1 c. à soupe d’huile de sésame pimentée (+ un filet pour le dressage)",
+      "1 gousse d’ail râpée Sauce soja épaisse"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Nouilles udon",
+        "quantity": "",
+        "unit": "",
+        "name": "Nouilles"
+      },
+      {
+        "raw": "1 c. à soupe de beurre de cacahuètes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "1 c. à soupe d’huile de sésame pimentée (+ un filet pour le dressage)",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 gousse d’ail râpée Sauce soja épaisse",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Sauce soja"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00353",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00353_soupe-udon-cremeuse-au-lait-de-coco.jpg",
+    "images": [
+      "images/00353_soupe-udon-cremeuse-au-lait-de-coco.jpg"
+    ]
+  }
+}

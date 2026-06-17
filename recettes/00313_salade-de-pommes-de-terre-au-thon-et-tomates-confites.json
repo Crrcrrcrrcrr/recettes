@@ -1,0 +1,110 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-de-pommes-de-terre-au-thon-et-tomates-confites",
+  "recipe_id": "00313",
+  "file": "recettes/00313_salade-de-pommes-de-terre-au-thon-et-tomates-confites.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "salade-de-pommes-de-terre-au-thon-et-tomates-confites",
+    "title": "Salade de pommes de terre au thon et tomates confites",
+    "original_title": "SALADE de pommes de terre au THON & TOMATES confîtes",
+    "source_file": "71-SALADE de pommes de terre au THON & TOMATES confîtes.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Froid",
+      "Plats",
+      "Poisson",
+      "Salade"
+    ],
+    "ingredients": [
+      "500 g de Tomates cerise",
+      "1 unité de Oignons marinés",
+      "2 gousse de Ail",
+      "1 cuillère à soupe de Thym",
+      "3 cuillère à soupe de Sauce soja salée",
+      "4 cuillère à soupe de Huile d’olive",
+      "500 g de Pomme de terre"
+    ],
+    "ingredients_raw": "500 g de Tomates cerise\n1 unité de Oignons marinés\n2 gousse de Ail\n1 cuillère à soupe de Thym\n3 cuillère à soupe de Sauce soja salée\n4 cuillère à soupe de Huile d’olive\n500 g de Pomme de terre",
+    "instructions": "Cuisson 25 min au four, en mode grill à 200 degrés. Les faire dorer à feu vif dans une poêle pendant 15-20 min en les remuant de temps en temps pour qu’elles so…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DZVIHvjs3uo",
+    "source_id": "instagram.com/reel/DZVIHvjs3uo",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "500g de tomates cerises",
+      "1 oignon émincé",
+      "2 gousse d’ail",
+      "1 cas de thym",
+      "3 cas de soja salé",
+      "4 cas d’huile d’olive",
+      "500g de pomme de te"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "500g de tomates cerises",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Tomates cerise"
+      },
+      {
+        "raw": "1 oignon émincé",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignons marinés"
+      },
+      {
+        "raw": "2 gousse d’ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cas de thym",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Thym"
+      },
+      {
+        "raw": "3 cas de soja salé",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "4 cas d’huile d’olive",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "500g de pomme de te",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Pomme de terre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00313",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00313_salade-de-pommes-de-terre-au-thon-et-tomates-confites.jpg",
+    "images": [
+      "images/00313_salade-de-pommes-de-terre-au-thon-et-tomates-confites.jpg"
+    ]
+  }
+}

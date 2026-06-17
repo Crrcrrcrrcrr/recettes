@@ -1,0 +1,127 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "nouilles-sautees-au-poulet",
+  "recipe_id": "00265",
+  "file": "recettes/00265_nouilles-sautees-au-poulet.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "nouilles-sautees-au-poulet",
+    "title": "Nouilles sautées au poulet",
+    "original_title": "Nouilles sautées au poulet",
+    "source_file": "6-Nouilles sautées au poulet.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Plats",
+      "Sauce",
+      "Viande",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "Nouilles",
+      "300 g de Nouilles de riz",
+      "1 unité de Cuisses de poulet",
+      "200 g de Brocoli",
+      "2 unité de Œuf",
+      "2 cuillère à soupe de Sauce soja",
+      "2 cuillère à soupe de Sauce Huitre",
+      "1 cuillère à café de Sucre",
+      "1 unité de Citron vert"
+    ],
+    "ingredients_raw": "Nouilles\n300 g de Nouilles de riz\n1 unité de Cuisses de poulet\n200 g de Brocoli\n2 unité de Œuf\n2 cuillère à soupe de Sauce soja\n2 cuillère à soupe de Sauce Huitre\n1 cuillère à café de Sucre\n1 unité de Citron vert",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DV1REwYjXAp",
+    "source_id": "instagram.com/reel/DV1REwYjXAp",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Nouilles sautées au poulet 🍗",
+      "300g de nouilles de riz",
+      "1 cuisse de poulet",
+      "200g de brocolini",
+      "2 œufs",
+      "2 cas de sauce soja",
+      "2 cas de sauce huître",
+      "1 cac de sucre",
+      "1 citr"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Nouilles sautées au poulet 🍗",
+        "quantity": "",
+        "unit": "",
+        "name": "Nouilles"
+      },
+      {
+        "raw": "300g de nouilles de riz",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "1 cuisse de poulet",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cuisses de poulet"
+      },
+      {
+        "raw": "200g de brocolini",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Brocoli"
+      },
+      {
+        "raw": "2 œufs",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "2 cas de sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "2 cas de sauce huître",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce Huitre"
+      },
+      {
+        "raw": "1 cac de sucre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sucre"
+      },
+      {
+        "raw": "1 citr",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00265",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00265_nouilles-sautees-au-poulet.jpg",
+    "images": [
+      "images/00265_nouilles-sautees-au-poulet.jpg"
+    ]
+  }
+}

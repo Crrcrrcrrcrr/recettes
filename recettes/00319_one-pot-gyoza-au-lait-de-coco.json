@@ -1,0 +1,111 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "one-pot-gyoza-au-lait-de-coco",
+  "recipe_id": "00319",
+  "file": "recettes/00319_one-pot-gyoza-au-lait-de-coco.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "one-pot-gyoza-au-lait-de-coco",
+    "title": "One-pot gyoza au lait de coco",
+    "original_title": "ONEPOT GYOZA",
+    "source_file": "18-ONEPOT GYOZA.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Curry/Dahl",
+      "One-pot",
+      "Plats",
+      "Sauce"
+    ],
+    "ingredients": [
+      "1 cuillère à soupe de Pâte de curry rouge",
+      "1 cuillère à soupe de Pâte de miso",
+      "1 cuillère à soupe de Beurre de cacahuète",
+      "3 cuillère à soupe de Sauce soja",
+      "400 ml de Lait de coco",
+      "0,5 unité de Jus de citron vert",
+      "2 gousse de Ail"
+    ],
+    "ingredients_raw": "1 cuillère à soupe de Pâte de curry rouge\n1 cuillère à soupe de Pâte de miso\n1 cuillère à soupe de Beurre de cacahuète\n3 cuillère à soupe de Sauce soja\n400 ml de Lait de coco\n0,5 unité de Jus de citron vert\n2 gousse de Ail",
+    "instructions": "Mélanger tous les ingrédients pour la sauce. Découper la cebette et ajouter le blanc à la sauce et les épinards. Ajouter un peu d’eau si besoin et mélange, puis…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DUi3ReKiBcQ",
+    "source_id": "instagram.com/reel/DUi3ReKiBcQ",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 cas de pâte de curry rouge",
+      "1 cas de pâte miso",
+      "1 cas de beurre de cacahuète",
+      "3 cas de sauce soja",
+      "400ml de lait de coco",
+      "1/2 jus de citron vert",
+      "2 gousses d’ail 1"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 cas de pâte de curry rouge",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Pâte de curry rouge"
+      },
+      {
+        "raw": "1 cas de pâte miso",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Pâte de miso"
+      },
+      {
+        "raw": "1 cas de beurre de cacahuète",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "3 cas de sauce soja",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "400ml de lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1/2 jus de citron vert",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Jus de citron vert"
+      },
+      {
+        "raw": "2 gousses d’ail 1",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00319",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00319_one-pot-gyoza-au-lait-de-coco.jpg",
+    "images": [
+      "images/00319_one-pot-gyoza-au-lait-de-coco.jpg"
+    ]
+  }
+}

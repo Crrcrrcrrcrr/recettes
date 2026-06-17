@@ -1,0 +1,80 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "feuilles-de-riz-croustillantes-au-riz-et-au-thon",
+  "recipe_id": "00290",
+  "file": "recettes/00290_feuilles-de-riz-croustillantes-au-riz-et-au-thon.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "feuilles-de-riz-croustillantes-au-riz-et-au-thon",
+    "title": "Feuilles de riz croustillantes au riz et au thon",
+    "original_title": "Les feuilles de riz croustillantes, au riz et thon",
+    "source_file": "22-Les feuilles de riz croustillantes, au riz et thon.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Froid",
+      "Plats",
+      "Poisson",
+      "Salade",
+      "Sauce"
+    ],
+    "ingredients": [
+      "1 unité de Riz cuit",
+      "1 boîte de Oignon frit",
+      "1 cuillère à soupe de Thym"
+    ],
+    "ingredients_raw": "1 unité de Riz cuit\n1 boîte de Oignon frit\n1 cuillère à soupe de Thym",
+    "instructions": "Dans un saladier, mélanger le riz cuit, le thon, l’oignon frit, les ciboulettes, la mayonnaise. Réhydrater rapidement une feuille de riz, puis superposer avec u…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DT-HkmfjNrh",
+    "source_id": "instagram.com/reel/DT-HkmfjNrh",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 bol de riz cuit",
+      "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+      "1 cas de m"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 bol de riz cuit",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Riz cuit"
+      },
+      {
+        "raw": "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+        "quantity": "1",
+        "unit": "boîte",
+        "name": "Oignon frit"
+      },
+      {
+        "raw": "1 cas de m",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Thym"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00290",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00290_feuilles-de-riz-croustillantes-au-riz-et-au-thon.jpg",
+    "images": [
+      "images/00290_feuilles-de-riz-croustillantes-au-riz-et-au-thon.jpg"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "ramen-curry",
+  "recipe_id": "00262",
+  "file": "recettes/00262_ramen-curry.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "ramen-curry",
+    "title": "Ramen curry",
+    "original_title": "ingrédients (pour 2 portions) :",
+    "source_file": "47-ingrédients (pour 2 portions) :.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Curry/Dahl",
+      "Froid",
+      "Plats",
+      "Soupe/Velouté",
+      "Viande"
+    ],
+    "ingredients": [
+      ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)",
+      "2 unité de Potiron",
+      "100 unité de Eau",
+      "120 g de Nouilles asiatiques",
+      "150 g de Brocoli",
+      "150 g de Carotte",
+      "100 g de Champignon",
+      "200 g de Poulet",
+      "1 unité de Curry"
+    ],
+    "ingredients_raw": ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)\n2 unité de Potiron\n100 unité de Eau\n120 g de Nouilles asiatiques\n150 g de Brocoli\n150 g de Carotte\n100 g de Champignon\n200 g de Poulet\n1 unité de Curry",
+    "instructions": "🔥 Cuisson : 5 minutes à feu vif",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DGr8nCqoD7H",
+    "source_id": "instagram.com/reel/DGr8nCqoD7H",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "(pour",
+      "2 portions)",
+      "100 à",
+      "120g de nouilles asiatiques",
+      "150g de brocolis",
+      "150g de carottes",
+      "100g de champignons",
+      "200g de poulet mariné aux épices",
+      "1 cu"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "(pour",
+        "quantity": "",
+        "unit": "",
+        "name": ") pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)"
+      },
+      {
+        "raw": "2 portions)",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Potiron"
+      },
+      {
+        "raw": "100 à",
+        "quantity": "100",
+        "unit": "unité",
+        "name": "Eau"
+      },
+      {
+        "raw": "120g de nouilles asiatiques",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Nouilles asiatiques"
+      },
+      {
+        "raw": "150g de brocolis",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Brocoli"
+      },
+      {
+        "raw": "150g de carottes",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Carotte"
+      },
+      {
+        "raw": "100g de champignons",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Champignon"
+      },
+      {
+        "raw": "200g de poulet mariné aux épices",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Poulet"
+      },
+      {
+        "raw": "1 cu",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Curry"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00262",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00262_ramen-curry.jpg",
+    "images": [
+      "images/00262_ramen-curry.jpg"
+    ]
+  }
+}

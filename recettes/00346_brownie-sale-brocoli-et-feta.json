@@ -1,0 +1,117 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "brownie-sale-brocoli-et-feta",
+  "recipe_id": "00346",
+  "file": "recettes/00346_brownie-sale-brocoli-et-feta.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "brownie-sale-brocoli-et-feta",
+    "title": "Brownie salé brocoli et feta",
+    "original_title": "EPISODE 4 : BROWNIE PROTÉINÉ BROCOLIS & FÊTA",
+    "source_file": "83-EPISODE 4 : BROWNIE PROTÉINÉ BROCOLIS & FÊTA.melarecipe",
+    "categories": [
+      "Plats",
+      "Soupe/Velouté",
+      "Tarte",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "200 g de Brocoli",
+      "100 g de Farine",
+      "100 g de Ciboulette",
+      "3 unité de Œuf",
+      "2 cuillères à soupe de Huile d’olive",
+      "1 unité de Oignon",
+      "2 gousse de Ail",
+      "5 g de Levure chimique"
+    ],
+    "ingredients_raw": "200 g de Brocoli\n100 g de Farine\n100 g de Ciboulette\n3 unité de Œuf\n2 cuillères à soupe de Huile d’olive\n1 unité de Oignon\n2 gousse de Ail\n5 g de Levure chimique",
+    "instructions": "Aujourd’hui c’est brownie… mais version salée. C’est plein de protéines et c’est aussi fondant qu’un brownie devrait l’être ! # Pour cette recette tu as besoin …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DSHtH2wiC0b",
+    "source_id": "instagram.com/reel/DSHtH2wiC0b",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200 g de brocolis",
+      "100 g de farine de pois chiches",
+      "100 g de fêta Ciboulette",
+      "3 oeufs",
+      "2 cuillères à soupe d’huile d’olive",
+      "1 oignon",
+      "2 gousses d’ail",
+      "5 g de levure ch"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de brocolis",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Brocoli"
+      },
+      {
+        "raw": "100 g de farine de pois chiches",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "100 g de fêta Ciboulette",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "3 oeufs",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "2 cuillères à soupe d’huile d’olive",
+        "quantity": "2",
+        "unit": "cuillères à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 gousses d’ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "5 g de levure ch",
+        "quantity": "5",
+        "unit": "g",
+        "name": "Levure chimique"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00346",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00346_brownie-sale-brocoli-et-feta.jpg",
+    "images": [
+      "images/00346_brownie-sale-brocoli-et-feta.jpg"
+    ]
+  }
+}

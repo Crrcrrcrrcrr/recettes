@@ -1,0 +1,58 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "creamy-pasta-butternut-et-burrata",
+  "recipe_id": "00259",
+  "file": "recettes/00259_creamy-pasta-butternut-et-burrata.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "creamy-pasta-butternut-et-burrata",
+    "title": "Creamy pasta butternut et burrata",
+    "original_title": "CONCOURS @zwilling_fr",
+    "source_file": "63-CONCOURS @zwilling_fr.melarecipe",
+    "categories": [
+      "Végétarien"
+    ],
+    "ingredients": [
+      "Sel"
+    ],
+    "ingredients_raw": "Sel",
+    "instructions": "Les aliments gardent leur fraîcheur, arômes et vitamines plus longtemps 😍",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CkITykMA2u5",
+    "source_id": "instagram.com/reel/CkITykMA2u5",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Boîte sous vide en verre, compatible au four, micro-onde et lave-vaisselle"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Boîte sous vide en verre, compatible au four, micro-onde et lave-vaisselle",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00259",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00259_creamy-pasta-butternut-et-burrata.jpg",
+    "images": [
+      "images/00259_creamy-pasta-butternut-et-burrata.jpg"
+    ]
+  }
+}

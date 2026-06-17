@@ -1,0 +1,49 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "oeufs-poches",
+  "recipe_id": "00349",
+  "file": "recettes/00349_oeufs-poches.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "oeufs-poches",
+    "title": "Œufs pochés",
+    "original_title": "Nouveau tuto en vidéo !",
+    "source_file": "65-Nouveau tuto en vidéo !.melarecipe",
+    "categories": [
+      "Entrée",
+      "Végétarien",
+      "Sans ingrédients"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Le thème du jour : faire des œufs pochés ! 🥚 Quelles sont les astuces pour les réussir ? À quoi sert le vinaigre ? Toutes les réponses sont dans ma story d…",
+    "notes": "",
+    "link": "https://www.instagram.com/p/CALCO--jrkW",
+    "source_id": "instagram.com/reel/CALCO--jrkW",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00349",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00349_oeufs-poches.jpg",
+    "images": [
+      "images/00349_oeufs-poches.jpg"
+    ]
+  }
+}

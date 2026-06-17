@@ -1,0 +1,90 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pommes-de-terre-caramelisees",
+  "recipe_id": "00273",
+  "file": "recettes/00273_pommes-de-terre-caramelisees.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pommes-de-terre-caramelisees",
+    "title": "Pommes de terre caramélisées",
+    "original_title": "On se retrouve pour une recette de pommes de terre caramélisées",
+    "source_file": "55-On se retrouve pour une recette de pommes de terre caramélisées.melarecipe",
+    "categories": [
+      "Soupe/Velouté"
+    ],
+    "ingredients": [
+      "800 g de Pomme de terre grenaille",
+      "3 unité de Huile d’olive",
+      "1 unité de Oignon en poudre",
+      "1 unité de Origan",
+      "3 cuillère à café de Ail"
+    ],
+    "ingredients_raw": "800 g de Pomme de terre grenaille\n3 unité de Huile d’olive\n1 unité de Oignon en poudre\n1 unité de Origan\n3 cuillère à café de Ail",
+    "instructions": "On se retrouve pour une recette de pommes de terre caramélisées 🥔",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DIZHZ4eImFt",
+    "source_id": "instagram.com/reel/DIZHZ4eImFt",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "800 g de pommes de terre (grenaille c’est mieux)",
+      "3 c. à soupe d’huile d’olive",
+      "1 c. à café d’oignon en poudre",
+      "1 c. à café d’origan séché",
+      "3 cuillère à café d’ail"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "800 g de pommes de terre (grenaille c’est mieux)",
+        "quantity": "800",
+        "unit": "g",
+        "name": "Pomme de terre grenaille"
+      },
+      {
+        "raw": "3 c. à soupe d’huile d’olive",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 c. à café d’oignon en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon en poudre"
+      },
+      {
+        "raw": "1 c. à café d’origan séché",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Origan"
+      },
+      {
+        "raw": "3 cuillère à café d’ail",
+        "quantity": "3",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00273",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00273_pommes-de-terre-caramelisees.jpg",
+    "images": [
+      "images/00273_pommes-de-terre-caramelisees.jpg"
+    ]
+  }
+}

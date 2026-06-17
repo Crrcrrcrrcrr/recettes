@@ -1,0 +1,82 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "baguettes-maison",
+  "recipe_id": "00271",
+  "file": "recettes/00271_baguettes-maison.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "baguettes-maison",
+    "title": "Baguettes maison",
+    "original_title": "Baguettes maison",
+    "source_file": "104-Baguettes maison.melarecipe",
+    "categories": [
+      "Pains/wraps"
+    ],
+    "ingredients": [
+      "350 g de Farine de blé",
+      "230 ml de Eau",
+      "5 g de Levure de boulanger",
+      "5 g de Sel"
+    ],
+    "ingredients_raw": "350 g de Farine de blé\n230 ml de Eau\n5 g de Levure de boulanger\n5 g de Sel",
+    "instructions": "# ⚠️ Détails super importants : On ne met pas le sel tout de suite ce qui permet une micro autolyse (ça aide le gluten à se former naturellement et permet de se…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQG9WG6jFlQ",
+    "source_id": "instagram.com/reel/DQG9WG6jFlQ",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "350g farine de blé T65 de préférence (rayon bio) ou T55",
+      "230mL eau",
+      "5g levure de boulanger sèche",
+      "5g sel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "350g farine de blé T65 de préférence (rayon bio) ou T55",
+        "quantity": "350",
+        "unit": "g",
+        "name": "Farine de blé"
+      },
+      {
+        "raw": "230mL eau",
+        "quantity": "230",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "5g levure de boulanger sèche",
+        "quantity": "5",
+        "unit": "g",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "5g sel",
+        "quantity": "5",
+        "unit": "g",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00271",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00271_baguettes-maison.jpg",
+    "images": [
+      "images/00271_baguettes-maison.jpg"
+    ]
+  }
+}

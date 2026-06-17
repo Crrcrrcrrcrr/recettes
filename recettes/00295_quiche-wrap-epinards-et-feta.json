@@ -1,0 +1,87 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "quiche-wrap-epinards-et-feta",
+  "recipe_id": "00295",
+  "file": "recettes/00295_quiche-wrap-epinards-et-feta.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "quiche-wrap-epinards-et-feta",
+    "title": "Quiche wrap épinards et feta",
+    "original_title": "Spinach & Feta Cheats Quiche Reaction Video – recipe below",
+    "source_file": "106-Spinach & Feta Cheats Quiche Reaction Video – recipe below.melarecipe",
+    "categories": [
+      "Anglais",
+      "Froid",
+      "Pains/wraps",
+      "Plats",
+      "Tarte",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Wrap",
+      "3 unité de medium eggs",
+      "45 g de Crumble",
+      "40 g de spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep"
+    ],
+    "ingredients_raw": "1 unité de Wrap\n3 unité de medium eggs\n45 g de Crumble\n40 g de spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+    "instructions": "Preheat oven to 180°C. Line a small tin or dish with the wrap. Add ingredients Whisk the eggs, pour it in Bake for 20 mins.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DKnOotBNbm-",
+    "source_id": "instagram.com/reel/DKnOotBNbm-",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 wholemeal wrap (acts as your crust)",
+      "3 medium eggs",
+      "45g feta, crumbled",
+      "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 wholemeal wrap (acts as your crust)",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Wrap"
+      },
+      {
+        "raw": "3 medium eggs",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "medium eggs"
+      },
+      {
+        "raw": "45g feta, crumbled",
+        "quantity": "45",
+        "unit": "g",
+        "name": "Crumble"
+      },
+      {
+        "raw": "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+        "quantity": "40",
+        "unit": "g",
+        "name": "spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00295",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00295_quiche-wrap-epinards-et-feta.jpg",
+    "images": [
+      "images/00295_quiche-wrap-epinards-et-feta.jpg"
+    ]
+  }
+}

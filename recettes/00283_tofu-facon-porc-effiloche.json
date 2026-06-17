@@ -1,0 +1,103 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tofu-facon-porc-effiloche",
+  "recipe_id": "00283",
+  "file": "recettes/00283_tofu-facon-porc-effiloche.json",
+  "updated_at": "2026-06-17T22:55:27.310910+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tofu-facon-porc-effiloche",
+    "title": "Tofu façon porc effiloché",
+    "original_title": "Tofu façon porc effiloché :",
+    "source_file": "54-Tofu façon porc effiloché :.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Plats",
+      "Sauce",
+      "Viande",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "Tofu",
+      "400 g de Tofu ferme",
+      "3 cuillère à soupe de Sirop d’érable",
+      "5 cuillère à soupe de Sauce soja",
+      "2 cuillère à soupe de Vinaigre de cidre",
+      "4 cuillère à soupe de salsa chipotle (ou sauce bbq) 1"
+    ],
+    "ingredients_raw": "Tofu\n400 g de Tofu ferme\n3 cuillère à soupe de Sirop d’érable\n5 cuillère à soupe de Sauce soja\n2 cuillère à soupe de Vinaigre de cidre\n4 cuillère à soupe de salsa chipotle (ou sauce bbq) 1",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DI50rI7sLfy",
+    "source_id": "instagram.com/reel/DI50rI7sLfy",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Tofu façon porc effiloché",
+      "400g de tofu ferme",
+      "3 càs de sirop d’érable",
+      "5 càs de sauce soja",
+      "2 càs de vinaigre de cidre",
+      "4 càs de salsa chipotle (ou sauce bbq) 1"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Tofu façon porc effiloché",
+        "quantity": "",
+        "unit": "",
+        "name": "Tofu"
+      },
+      {
+        "raw": "400g de tofu ferme",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Tofu ferme"
+      },
+      {
+        "raw": "3 càs de sirop d’érable",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "5 càs de sauce soja",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "2 càs de vinaigre de cidre",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "4 càs de salsa chipotle (ou sauce bbq) 1",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "salsa chipotle (ou sauce bbq) 1"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_excel",
+    "recipe_id": "00283",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00283_tofu-facon-porc-effiloche.jpg",
+    "images": [
+      "images/00283_tofu-facon-porc-effiloche.jpg"
+    ]
+  }
+}
