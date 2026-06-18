@@ -1,0 +1,337 @@
+{
+  "schema": "recettes_referentiel_categories",
+  "version": 2,
+  "generated_at": "2026-06-18T20:38:52.787513+00:00",
+  "source": "categories_validées.xlsx + all.zip",
+  "category_tree": [
+    {
+      "name": "Apéritif",
+      "children": [
+        {
+          "name": "Dip / Tartinade"
+        }
+      ]
+    },
+    {
+      "name": "Entrée",
+      "children": [
+        {
+          "name": "Tartine / Bruschetta"
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "children": [
+        {
+          "name": "Jus / Smoothies"
+        },
+        {
+          "name": "Milkshake"
+        },
+        {
+          "name": "Kéfir / Kombucha"
+        },
+        {
+          "name": "Thé"
+        }
+      ]
+    },
+    {
+      "name": "Plats",
+      "children": [
+        {
+          "name": "Curry / Dahl"
+        },
+        {
+          "name": "Gratin"
+        },
+        {
+          "name": "Légumes rôtis"
+        },
+        {
+          "name": "One-pot"
+        },
+        {
+          "name": "Poisson"
+        },
+        {
+          "name": "Riz et pâtes",
+          "children": [
+            {
+              "name": "Gnocchis"
+            },
+            {
+              "name": "Lasagnes"
+            },
+            {
+              "name": "Nouilles asiatiques"
+            },
+            {
+              "name": "Pâtes"
+            },
+            {
+              "name": "Risotto / Orzotto"
+            },
+            {
+              "name": "Riz"
+            }
+          ]
+        },
+        {
+          "name": "Salade"
+        },
+        {
+          "name": "Soupe / Velouté"
+        },
+        {
+          "name": "Tarte / Quiche"
+        },
+        {
+          "name": "Viande"
+        },
+        {
+          "name": "Burger"
+        },
+        {
+          "name": "Sandwich"
+        }
+      ]
+    },
+    {
+      "name": "Sucré",
+      "children": [
+        {
+          "name": "Beignets"
+        },
+        {
+          "name": "Biscuits"
+        },
+        {
+          "name": "Brioche"
+        },
+        {
+          "name": "Cookies"
+        },
+        {
+          "name": "Gâteau"
+        },
+        {
+          "name": "Pancakes"
+        }
+      ]
+    },
+    {
+      "name": "Pain / Wraps",
+      "children": [
+        {
+          "name": "Pain"
+        },
+        {
+          "name": "Pâte à pizza"
+        },
+        {
+          "name": "Wrap"
+        }
+      ]
+    },
+    {
+      "name": "Sauces / Assaisonnements",
+      "children": [
+        {
+          "name": "Assaisonnement"
+        },
+        {
+          "name": "Marinade"
+        },
+        {
+          "name": "Sauce"
+        }
+      ]
+    },
+    {
+      "name": "Tags transverses",
+      "children": [
+        {
+          "name": "Recette en anglais"
+        },
+        {
+          "name": "Origine culinaire",
+          "children": [
+            {
+              "name": "Asiatique"
+            },
+            {
+              "name": "Indien"
+            }
+          ]
+        },
+        {
+          "name": "Régime alimentaire",
+          "children": [
+            {
+              "name": "Vegan"
+            },
+            {
+              "name": "Végétarien"
+            }
+          ]
+        },
+        {
+          "name": "Froid"
+        },
+        {
+          "name": "Sans ingrédients"
+        },
+        {
+          "name": "Sans instructions"
+        },
+        {
+          "name": "Testé et validé"
+        },
+        {
+          "name": "Testé et non validé"
+        }
+      ]
+    }
+  ],
+  "categories_flat": [
+    "Apéritif",
+    "Dip / Tartinade",
+    "Entrée",
+    "Tartine / Bruschetta",
+    "Boissons",
+    "Jus / Smoothies",
+    "Milkshake",
+    "Kéfir / Kombucha",
+    "Thé",
+    "Plats",
+    "Curry / Dahl",
+    "Gratin",
+    "Légumes rôtis",
+    "One-pot",
+    "Poisson",
+    "Riz et pâtes",
+    "Gnocchis",
+    "Lasagnes",
+    "Nouilles asiatiques",
+    "Pâtes",
+    "Risotto / Orzotto",
+    "Riz",
+    "Salade",
+    "Soupe / Velouté",
+    "Tarte / Quiche",
+    "Viande",
+    "Burger",
+    "Sandwich",
+    "Sucré",
+    "Beignets",
+    "Biscuits",
+    "Brioche",
+    "Cookies",
+    "Gâteau",
+    "Pancakes",
+    "Pain / Wraps",
+    "Pain",
+    "Pâte à pizza",
+    "Wrap",
+    "Sauces / Assaisonnements",
+    "Assaisonnement",
+    "Marinade",
+    "Sauce",
+    "Tags transverses",
+    "Recette en anglais",
+    "Origine culinaire",
+    "Asiatique",
+    "Indien",
+    "Régime alimentaire",
+    "Vegan",
+    "Végétarien",
+    "Froid",
+    "Sans ingrédients",
+    "Sans instructions",
+    "Testé et validé",
+    "Testé et non validé"
+  ],
+  "legacy_aliases": {
+    "Curry/Dahl": "Curry / Dahl",
+    "Dip/Tartinade": "Dip / Tartinade",
+    "Pains/wraps": "Pain / Wraps",
+    "Soupe/Velouté": "Soupe / Velouté",
+    "Tartine/Bruscetta": "Tartine / Bruschetta",
+    "Tarte": "Tarte / Quiche",
+    "Risotto/Orzotto": "Risotto / Orzotto",
+    "Curry / dahl": "Curry / Dahl",
+    "Pain/wraps": "Pain / Wraps",
+    "Bruscetta": "Tartine / Bruschetta",
+    "Anglais": "Recette en anglais",
+    "Langue source": "Recette en anglais",
+    "Température": "Froid",
+    "Validation": "Testé et validé",
+    "Testé": "Testé et validé",
+    "Sans ingredients": "Sans ingrédients",
+    "Sans instruction": "Sans instructions"
+  },
+  "categories_presentes_dans_fiches": [
+    "Apéritif",
+    "Asiatique",
+    "Assaisonnement",
+    "Beignets",
+    "Biscuits",
+    "Brioche",
+    "Burger",
+    "Cookies",
+    "Curry / Dahl",
+    "Dip / Tartinade",
+    "Entrée",
+    "Froid",
+    "Gnocchis",
+    "Gratin",
+    "Gâteau",
+    "Indien",
+    "Lasagnes",
+    "Légumes rôtis",
+    "Marinade",
+    "Nouilles asiatiques",
+    "One-pot",
+    "Pain",
+    "Pain / Wraps",
+    "Pancakes",
+    "Plats",
+    "Poisson",
+    "Pâte à pizza",
+    "Pâtes",
+    "Recette en anglais",
+    "Risotto / Orzotto",
+    "Riz",
+    "Riz et pâtes",
+    "Salade",
+    "Sandwich",
+    "Sans ingrédients",
+    "Sans instructions",
+    "Sauce",
+    "Sauces / Assaisonnements",
+    "Soupe / Velouté",
+    "Sucré",
+    "Tarte / Quiche",
+    "Tartine / Bruschetta",
+    "Testé et non validé",
+    "Testé et validé",
+    "Vegan",
+    "Viande",
+    "Végétarien",
+    "Wrap",
+    "Boissons",
+    "Jus / Smoothies"
+  ],
+  "stats": {
+    "recipe_count": 369,
+    "validated_rows": 784,
+    "category_path_count": 46,
+    "flat_category_count": 51,
+    "categories_in_recipe_lists_count": 48,
+    "category_count": 56,
+    "category_flat_count": 56
+  },
+  "regle": "Utiliser uniquement les catégories de category_tree. Les anciens libellés doivent être convertis via legacy_aliases avant validation. Les fiches stockent une liste plate de catégories incluant les parents utiles pour le filtrage principal et les libellés de tags transverses."
+}
