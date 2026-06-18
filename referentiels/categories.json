@@ -1,0 +1,773 @@
+{
+  "schema": "recettes_referentiel_categories",
+  "version": 2,
+  "generated_at": "2026-06-18T18:58:22.985247+00:00",
+  "source": "categories_validées.xlsx + all.zip",
+  "category_tree": [
+    {
+      "name": "Apéritif",
+      "children": [
+        {
+          "name": "Dip / Tartinade"
+        }
+      ]
+    },
+    {
+      "name": "Entrée",
+      "children": [
+        {
+          "name": "Tartine / Bruschetta"
+        }
+      ]
+    },
+    {
+      "name": "Plats",
+      "children": [
+        {
+          "name": "Curry / Dahl"
+        },
+        {
+          "name": "Gratin"
+        },
+        {
+          "name": "Légumes rôtis"
+        },
+        {
+          "name": "One-pot"
+        },
+        {
+          "name": "Poisson"
+        },
+        {
+          "name": "Riz et pâtes",
+          "children": [
+            {
+              "name": "Gnocchis"
+            },
+            {
+              "name": "Lasagnes"
+            },
+            {
+              "name": "Nouilles asiatiques"
+            },
+            {
+              "name": "Pâtes"
+            },
+            {
+              "name": "Risotto / Orzotto"
+            },
+            {
+              "name": "Riz"
+            }
+          ]
+        },
+        {
+          "name": "Salade"
+        },
+        {
+          "name": "Soupe / Velouté"
+        },
+        {
+          "name": "Tarte / Quiche"
+        },
+        {
+          "name": "Viande"
+        },
+        {
+          "name": "Burger"
+        },
+        {
+          "name": "Sandwich"
+        }
+      ]
+    },
+    {
+      "name": "Sucré",
+      "children": [
+        {
+          "name": "Beignets"
+        },
+        {
+          "name": "Biscuits"
+        },
+        {
+          "name": "Brioche"
+        },
+        {
+          "name": "Cookies"
+        },
+        {
+          "name": "Gâteau"
+        },
+        {
+          "name": "Pancakes"
+        }
+      ]
+    },
+    {
+      "name": "Pain / Wraps",
+      "children": [
+        {
+          "name": "Pain"
+        },
+        {
+          "name": "Pâte à pizza"
+        },
+        {
+          "name": "Wrap"
+        }
+      ]
+    },
+    {
+      "name": "Sauces / Assaisonnements",
+      "children": [
+        {
+          "name": "Assaisonnement"
+        },
+        {
+          "name": "Marinade"
+        },
+        {
+          "name": "Sauce"
+        }
+      ]
+    },
+    {
+      "name": "Tags transverses",
+      "children": [
+        {
+          "name": "Recette en anglais"
+        },
+        {
+          "name": "Origine culinaire",
+          "children": [
+            {
+              "name": "Asiatique"
+            },
+            {
+              "name": "Indien"
+            }
+          ]
+        },
+        {
+          "name": "Régime alimentaire",
+          "children": [
+            {
+              "name": "Vegan"
+            },
+            {
+              "name": "Végétarien"
+            }
+          ]
+        },
+        {
+          "name": "Froid"
+        },
+        {
+          "name": "Sans ingrédients"
+        },
+        {
+          "name": "Sans instructions"
+        },
+        {
+          "name": "Testé et validé"
+        },
+        {
+          "name": "Testé et non validé"
+        }
+      ]
+    }
+  ],
+  "categories_flat": [
+    {
+      "id": "aperitif",
+      "name": "Apéritif",
+      "path": [
+        "Apéritif"
+      ],
+      "level": 0,
+      "parent": null
+    },
+    {
+      "id": "dip-tartinade",
+      "name": "Dip / Tartinade",
+      "path": [
+        "Apéritif",
+        "Dip / Tartinade"
+      ],
+      "level": 1,
+      "parent": "Apéritif"
+    },
+    {
+      "id": "entree",
+      "name": "Entrée",
+      "path": [
+        "Entrée"
+      ],
+      "level": 0,
+      "parent": null
+    },
+    {
+      "id": "tartine-bruschetta",
+      "name": "Tartine / Bruschetta",
+      "path": [
+        "Entrée",
+        "Tartine / Bruschetta"
+      ],
+      "level": 1,
+      "parent": "Entrée"
+    },
+    {
+      "id": "plats",
+      "name": "Plats",
+      "path": [
+        "Plats"
+      ],
+      "level": 0,
+      "parent": null
+    },
+    {
+      "id": "curry-dahl",
+      "name": "Curry / Dahl",
+      "path": [
+        "Plats",
+        "Curry / Dahl"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "gratin",
+      "name": "Gratin",
+      "path": [
+        "Plats",
+        "Gratin"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "legumes-rotis",
+      "name": "Légumes rôtis",
+      "path": [
+        "Plats",
+        "Légumes rôtis"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "one-pot",
+      "name": "One-pot",
+      "path": [
+        "Plats",
+        "One-pot"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "poisson",
+      "name": "Poisson",
+      "path": [
+        "Plats",
+        "Poisson"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "riz-et-pates",
+      "name": "Riz et pâtes",
+      "path": [
+        "Plats",
+        "Riz et pâtes"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "gnocchis",
+      "name": "Gnocchis",
+      "path": [
+        "Plats",
+        "Riz et pâtes",
+        "Gnocchis"
+      ],
+      "level": 2,
+      "parent": "Riz et pâtes"
+    },
+    {
+      "id": "lasagnes",
+      "name": "Lasagnes",
+      "path": [
+        "Plats",
+        "Riz et pâtes",
+        "Lasagnes"
+      ],
+      "level": 2,
+      "parent": "Riz et pâtes"
+    },
+    {
+      "id": "nouilles-asiatiques",
+      "name": "Nouilles asiatiques",
+      "path": [
+        "Plats",
+        "Riz et pâtes",
+        "Nouilles asiatiques"
+      ],
+      "level": 2,
+      "parent": "Riz et pâtes"
+    },
+    {
+      "id": "pates",
+      "name": "Pâtes",
+      "path": [
+        "Plats",
+        "Riz et pâtes",
+        "Pâtes"
+      ],
+      "level": 2,
+      "parent": "Riz et pâtes"
+    },
+    {
+      "id": "risotto-orzotto",
+      "name": "Risotto / Orzotto",
+      "path": [
+        "Plats",
+        "Riz et pâtes",
+        "Risotto / Orzotto"
+      ],
+      "level": 2,
+      "parent": "Riz et pâtes"
+    },
+    {
+      "id": "riz",
+      "name": "Riz",
+      "path": [
+        "Plats",
+        "Riz et pâtes",
+        "Riz"
+      ],
+      "level": 2,
+      "parent": "Riz et pâtes"
+    },
+    {
+      "id": "salade",
+      "name": "Salade",
+      "path": [
+        "Plats",
+        "Salade"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "soupe-veloute",
+      "name": "Soupe / Velouté",
+      "path": [
+        "Plats",
+        "Soupe / Velouté"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "tarte-quiche",
+      "name": "Tarte / Quiche",
+      "path": [
+        "Plats",
+        "Tarte / Quiche"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "viande",
+      "name": "Viande",
+      "path": [
+        "Plats",
+        "Viande"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "burger",
+      "name": "Burger",
+      "path": [
+        "Plats",
+        "Burger"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "sandwich",
+      "name": "Sandwich",
+      "path": [
+        "Plats",
+        "Sandwich"
+      ],
+      "level": 1,
+      "parent": "Plats"
+    },
+    {
+      "id": "sucre",
+      "name": "Sucré",
+      "path": [
+        "Sucré"
+      ],
+      "level": 0,
+      "parent": null
+    },
+    {
+      "id": "beignets",
+      "name": "Beignets",
+      "path": [
+        "Sucré",
+        "Beignets"
+      ],
+      "level": 1,
+      "parent": "Sucré"
+    },
+    {
+      "id": "biscuits",
+      "name": "Biscuits",
+      "path": [
+        "Sucré",
+        "Biscuits"
+      ],
+      "level": 1,
+      "parent": "Sucré"
+    },
+    {
+      "id": "brioche",
+      "name": "Brioche",
+      "path": [
+        "Sucré",
+        "Brioche"
+      ],
+      "level": 1,
+      "parent": "Sucré"
+    },
+    {
+      "id": "cookies",
+      "name": "Cookies",
+      "path": [
+        "Sucré",
+        "Cookies"
+      ],
+      "level": 1,
+      "parent": "Sucré"
+    },
+    {
+      "id": "gateau",
+      "name": "Gâteau",
+      "path": [
+        "Sucré",
+        "Gâteau"
+      ],
+      "level": 1,
+      "parent": "Sucré"
+    },
+    {
+      "id": "pancakes",
+      "name": "Pancakes",
+      "path": [
+        "Sucré",
+        "Pancakes"
+      ],
+      "level": 1,
+      "parent": "Sucré"
+    },
+    {
+      "id": "pain-wraps",
+      "name": "Pain / Wraps",
+      "path": [
+        "Pain / Wraps"
+      ],
+      "level": 0,
+      "parent": null
+    },
+    {
+      "id": "pain",
+      "name": "Pain",
+      "path": [
+        "Pain / Wraps",
+        "Pain"
+      ],
+      "level": 1,
+      "parent": "Pain / Wraps"
+    },
+    {
+      "id": "pate-a-pizza",
+      "name": "Pâte à pizza",
+      "path": [
+        "Pain / Wraps",
+        "Pâte à pizza"
+      ],
+      "level": 1,
+      "parent": "Pain / Wraps"
+    },
+    {
+      "id": "wrap",
+      "name": "Wrap",
+      "path": [
+        "Pain / Wraps",
+        "Wrap"
+      ],
+      "level": 1,
+      "parent": "Pain / Wraps"
+    },
+    {
+      "id": "sauces-assaisonnements",
+      "name": "Sauces / Assaisonnements",
+      "path": [
+        "Sauces / Assaisonnements"
+      ],
+      "level": 0,
+      "parent": null
+    },
+    {
+      "id": "assaisonnement",
+      "name": "Assaisonnement",
+      "path": [
+        "Sauces / Assaisonnements",
+        "Assaisonnement"
+      ],
+      "level": 1,
+      "parent": "Sauces / Assaisonnements"
+    },
+    {
+      "id": "marinade",
+      "name": "Marinade",
+      "path": [
+        "Sauces / Assaisonnements",
+        "Marinade"
+      ],
+      "level": 1,
+      "parent": "Sauces / Assaisonnements"
+    },
+    {
+      "id": "sauce",
+      "name": "Sauce",
+      "path": [
+        "Sauces / Assaisonnements",
+        "Sauce"
+      ],
+      "level": 1,
+      "parent": "Sauces / Assaisonnements"
+    },
+    {
+      "id": "tags-transverses",
+      "name": "Tags transverses",
+      "path": [
+        "Tags transverses"
+      ],
+      "level": 0,
+      "parent": null
+    },
+    {
+      "id": "recette-en-anglais",
+      "name": "Recette en anglais",
+      "path": [
+        "Tags transverses",
+        "Recette en anglais"
+      ],
+      "level": 1,
+      "parent": "Tags transverses"
+    },
+    {
+      "id": "origine-culinaire",
+      "name": "Origine culinaire",
+      "path": [
+        "Tags transverses",
+        "Origine culinaire"
+      ],
+      "level": 1,
+      "parent": "Tags transverses"
+    },
+    {
+      "id": "asiatique",
+      "name": "Asiatique",
+      "path": [
+        "Tags transverses",
+        "Origine culinaire",
+        "Asiatique"
+      ],
+      "level": 2,
+      "parent": "Origine culinaire"
+    },
+    {
+      "id": "indien",
+      "name": "Indien",
+      "path": [
+        "Tags transverses",
+        "Origine culinaire",
+        "Indien"
+      ],
+      "level": 2,
+      "parent": "Origine culinaire"
+    },
+    {
+      "id": "regime-alimentaire",
+      "name": "Régime alimentaire",
+      "path": [
+        "Tags transverses",
+        "Régime alimentaire"
+      ],
+      "level": 1,
+      "parent": "Tags transverses"
+    },
+    {
+      "id": "vegan",
+      "name": "Vegan",
+      "path": [
+        "Tags transverses",
+        "Régime alimentaire",
+        "Vegan"
+      ],
+      "level": 2,
+      "parent": "Régime alimentaire"
+    },
+    {
+      "id": "vegetarien",
+      "name": "Végétarien",
+      "path": [
+        "Tags transverses",
+        "Régime alimentaire",
+        "Végétarien"
+      ],
+      "level": 2,
+      "parent": "Régime alimentaire"
+    },
+    {
+      "id": "froid",
+      "name": "Froid",
+      "path": [
+        "Tags transverses",
+        "Froid"
+      ],
+      "level": 1,
+      "parent": "Tags transverses"
+    },
+    {
+      "id": "sans-ingredients",
+      "name": "Sans ingrédients",
+      "path": [
+        "Tags transverses",
+        "Sans ingrédients"
+      ],
+      "level": 1,
+      "parent": "Tags transverses"
+    },
+    {
+      "id": "sans-instructions",
+      "name": "Sans instructions",
+      "path": [
+        "Tags transverses",
+        "Sans instructions"
+      ],
+      "level": 1,
+      "parent": "Tags transverses"
+    },
+    {
+      "id": "teste-et-valide",
+      "name": "Testé et validé",
+      "path": [
+        "Tags transverses",
+        "Testé et validé"
+      ],
+      "level": 1,
+      "parent": "Tags transverses"
+    },
+    {
+      "id": "teste-et-non-valide",
+      "name": "Testé et non validé",
+      "path": [
+        "Tags transverses",
+        "Testé et non validé"
+      ],
+      "level": 1,
+      "parent": "Tags transverses"
+    }
+  ],
+  "legacy_aliases": {
+    "Curry/Dahl": "Curry / Dahl",
+    "Dip/Tartinade": "Dip / Tartinade",
+    "Pains/wraps": "Pain / Wraps",
+    "Soupe/Velouté": "Soupe / Velouté",
+    "Tartine/Bruscetta": "Tartine / Bruschetta",
+    "Tarte": "Tarte / Quiche",
+    "Risotto/Orzotto": "Risotto / Orzotto",
+    "Curry / dahl": "Curry / Dahl",
+    "Pain/wraps": "Pain / Wraps",
+    "Bruscetta": "Tartine / Bruschetta",
+    "Anglais": "Recette en anglais",
+    "Langue source": "Recette en anglais",
+    "Température": "Froid",
+    "Validation": "Testé et validé",
+    "Testé": "Testé et validé",
+    "Sans ingredients": "Sans ingrédients",
+    "Sans instruction": "Sans instructions"
+  },
+  "categories_presentes_dans_fiches": [
+    "Apéritif",
+    "Asiatique",
+    "Assaisonnement",
+    "Beignets",
+    "Biscuits",
+    "Brioche",
+    "Burger",
+    "Cookies",
+    "Curry / Dahl",
+    "Dip / Tartinade",
+    "Entrée",
+    "Froid",
+    "Gnocchis",
+    "Gratin",
+    "Gâteau",
+    "Indien",
+    "Lasagnes",
+    "Légumes rôtis",
+    "Marinade",
+    "Nouilles asiatiques",
+    "One-pot",
+    "Pain",
+    "Pain / Wraps",
+    "Pancakes",
+    "Plats",
+    "Poisson",
+    "Pâte à pizza",
+    "Pâtes",
+    "Recette en anglais",
+    "Risotto / Orzotto",
+    "Riz",
+    "Riz et pâtes",
+    "Salade",
+    "Sandwich",
+    "Sans ingrédients",
+    "Sans instructions",
+    "Sauce",
+    "Sauces / Assaisonnements",
+    "Soupe / Velouté",
+    "Sucré",
+    "Tarte / Quiche",
+    "Tartine / Bruschetta",
+    "Testé et non validé",
+    "Testé et validé",
+    "Vegan",
+    "Viande",
+    "Végétarien",
+    "Wrap"
+  ],
+  "stats": {
+    "recipe_count": 369,
+    "validated_rows": 784,
+    "category_path_count": 46,
+    "flat_category_count": 51,
+    "categories_in_recipe_lists_count": 48
+  },
+  "regle": "Utiliser uniquement les catégories de category_tree. Les anciens libellés doivent être convertis via legacy_aliases avant validation. Les fiches stockent une liste plate de catégories incluant les parents utiles pour le filtrage principal et les libellés de tags transverses."
+}
