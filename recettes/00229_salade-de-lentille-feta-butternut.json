@@ -1,0 +1,315 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-de-lentille-feta-butternut",
+  "recipe_id": "00229",
+  "file": "recettes/00229_salade-de-lentille-feta-butternut.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "salade-de-lentille-feta-butternut",
+    "title": "Salade de lentille, feta & butternut",
+    "original_title": "Salade de lentille, feta & butternut",
+    "source_file": "Salade de lentille, feta & butternut.melarecipe",
+    "categories": [
+      "Plats",
+      "Salade",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "250 g de Lentille verte",
+      "1 unité de Échalote",
+      "1 unité de Butternut",
+      "200 g de Feta",
+      "1 boîte de Sardines",
+      "1 botte de Ciboulette",
+      "1 cuillère à soupe de Moutarde",
+      "1 cuillère à soupe de Vinaigre",
+      "5 cuillère à soupe de Huile d’olive",
+      "1 cuillère à café de Paprika fumé",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 unité de Piment d’Espelette"
+    ],
+    "ingredients_raw": "250 g de Lentille verte\n1 unité de Échalote\n1 unité de Butternut\n200 g de Feta\n1 boîte de Sardines\n1 botte de Ciboulette\n1 cuillère à soupe de Moutarde\n1 cuillère à soupe de Vinaigre\n5 cuillère à soupe de Huile d’olive\n1 cuillère à café de Paprika fumé\n1 unité de Sel\n1 unité de Poivre\n1 unité de Piment d’Espelette",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPn5ruoDRx4",
+    "source_id": "instagram.com/reel/DPn5ruoDRx4",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "250g de lentilles vertes",
+      "1 échalote",
+      "1 butternut",
+      "200g de feta",
+      "1 boite de sardines",
+      "1 botte de ciboulette",
+      "1 cs de moutarde",
+      "1 cs de vinaigre",
+      "5 cs d’huile d’olive",
+      "1 cc de paprika fumé",
+      "Sel",
+      "poivre",
+      "piment d’Espelette"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "250 g de Lentille verte",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Lentille verte"
+      },
+      {
+        "raw": "Échalote",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Butternut",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Butternut"
+      },
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "1 boîte de Sardines",
+        "quantity": "1",
+        "unit": "boîte",
+        "name": "Sardines"
+      },
+      {
+        "raw": "1 botte de Ciboulette",
+        "quantity": "1",
+        "unit": "botte",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "1 cuillère à soupe de Moutarde",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre"
+      },
+      {
+        "raw": "5 cuillère à soupe de Huile d’olive",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika fumé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Piment d'espelette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment d’Espelette"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00229",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "250g de lentilles vertes",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Lentilles vertes"
+      },
+      {
+        "raw": "1 échalote",
+        "quantity": "1",
+        "unit": "",
+        "name": "Échalote"
+      },
+      {
+        "raw": "1 butternut",
+        "quantity": "1",
+        "unit": "",
+        "name": "Butternut"
+      },
+      {
+        "raw": "200g de feta",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "1 boite de sardines",
+        "quantity": "1 boite",
+        "unit": "boite",
+        "name": "Sardines"
+      },
+      {
+        "raw": "1 botte de ciboulette",
+        "quantity": "1",
+        "unit": "",
+        "name": "Botte de ciboulette"
+      },
+      {
+        "raw": "1 cs de moutarde",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "1 cs de vinaigre",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Vinaigre"
+      },
+      {
+        "raw": "5 cs d’huile d’olive",
+        "quantity": "5 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cc de paprika fumé",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "piment d’Espelette",
+        "quantity": "",
+        "unit": "",
+        "name": "Piment d'espelette"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00229_salade-de-lentille-feta-butternut.jpg",
+    "images": [
+      "images/00229_salade-de-lentille-feta-butternut.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "250 g de Lentille verte",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Lentille verte"
+      },
+      {
+        "raw": "Échalote",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Butternut",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Butternut"
+      },
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "1 boîte de Sardines",
+        "quantity": "1",
+        "unit": "boîte",
+        "name": "Sardines"
+      },
+      {
+        "raw": "1 botte de Ciboulette",
+        "quantity": "1",
+        "unit": "botte",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "1 cuillère à soupe de Moutarde",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre"
+      },
+      {
+        "raw": "5 cuillère à soupe de Huile d’olive",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika fumé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Piment d'espelette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment d'espelette"
+      }
+    ]
+  }
+}

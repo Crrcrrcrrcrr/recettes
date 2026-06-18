@@ -1,0 +1,263 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "one-pot-pasta",
+  "recipe_id": "00252",
+  "file": "recettes/00252_one-pot-pasta.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "one-pot-pasta",
+    "title": "One pot pasta",
+    "original_title": "One pot pasta",
+    "source_file": "One pot pasta.melarecipe",
+    "categories": [
+      "One-pot",
+      "Pâtes",
+      "Plats"
+    ],
+    "ingredients": [
+      "1 unité de Oignon rouge",
+      "1 unité de Poivron",
+      "1 unité de Ail",
+      "1 filet de Poulet",
+      "1 cuillère à soupe de Concentré de tomate",
+      "50 cl de Bouillon",
+      "1 cuillère à soupe de Ricotta",
+      "1 unité de Pâtes",
+      "1 unité de Basilic",
+      "1 unité de Parmesan",
+      "1 unité de Paprika",
+      "1 unité de Curcuma",
+      "1 unité de Epices à légumes",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "1 unité de Oignon rouge\n1 unité de Poivron\n1 unité de Ail\n1 filet de Poulet\n1 cuillère à soupe de Concentré de tomate\n50 cl de Bouillon\n1 cuillère à soupe de Ricotta\n1 unité de Pâtes\n1 unité de Basilic\n1 unité de Parmesan\n1 unité de Paprika\n1 unité de Curcuma\n1 unité de Epices à légumes\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DObXGuBiP3S",
+    "source_id": "instagram.com/reel/DObXGuBiP3S",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Oignon Rouge",
+      "Poivron",
+      "Ail",
+      "1 Filet de Poulet",
+      "1 cs Concentré de tomates",
+      "50cl de Bouillon de volaille ou de légumes",
+      "1 cs de ricotta",
+      "Pâtes",
+      "Basilic",
+      "Parmesan",
+      "Paprika",
+      "Curcuma",
+      "Epices à légumes",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "Poivron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 filet de Poulet",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Poulet"
+      },
+      {
+        "raw": "1 cuillère à soupe de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "50 cl de Bouillon",
+        "quantity": 500,
+        "unit": "ml",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "1 cuillère à soupe de Ricotta",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Ricotta"
+      },
+      {
+        "raw": "Pâtes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Curcuma",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "Epices à légumes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Epices à légumes"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00252",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Oignon Rouge",
+        "quantity": "",
+        "unit": "",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "Poivron",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivron"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "",
+        "unit": "",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 Filet de Poulet",
+        "quantity": "1 Filet",
+        "unit": "Filet",
+        "name": "Poulet"
+      },
+      {
+        "raw": "1 cs Concentré de tomates",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Concentré de tomates"
+      },
+      {
+        "raw": "50cl de Bouillon de volaille ou de légumes",
+        "quantity": "50 cl",
+        "unit": "ml",
+        "name": "Bouillon de volaille ou de légumes"
+      },
+      {
+        "raw": "1 cs de ricotta",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Ricotta"
+      },
+      {
+        "raw": "Pâtes",
+        "quantity": "",
+        "unit": "",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "",
+        "unit": "",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "",
+        "unit": "",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "",
+        "unit": "",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Curcuma",
+        "quantity": "",
+        "unit": "",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "Epices à légumes",
+        "quantity": "",
+        "unit": "",
+        "name": "Epices à légumes"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00252_one-pot-pasta.jpg",
+    "images": [
+      "images/00252_one-pot-pasta.jpg"
+    ]
+  }
+}

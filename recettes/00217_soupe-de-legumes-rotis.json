@@ -1,0 +1,261 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "soupe-de-legumes-rotis",
+  "recipe_id": "00217",
+  "file": "recettes/00217_soupe-de-legumes-rotis.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "soupe-de-legumes-rotis",
+    "title": "Soupe de légumes rôtis",
+    "original_title": "Soupe de légumes rôtis",
+    "source_file": "Soupe de légumes rôtis.melarecipe",
+    "categories": [
+      "Soupe/Velouté",
+      "Légumes rôtis",
+      "Vegan"
+    ],
+    "ingredients": [
+      "600 g de Potiron",
+      "4 unité de Tomate",
+      "1 unité de Oignon",
+      "3 gousse de Ail",
+      "250 ml de Eau",
+      "250 ml de Lait de coco",
+      "1 filet de Huile d’olive",
+      "1 cuillère à café de Curry",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "600 g de Potiron\n4 unité de Tomate\n1 unité de Oignon\n3 gousse de Ail\n250 ml de Eau\n250 ml de Lait de coco\n1 filet de Huile d’olive\n1 cuillère à café de Curry\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Éplucher et couper le potiron en morceaux. Couper également le reste des légumes en morceaux. Mettre tous les légumes dans un grand plat allant au four. Mélanger avec huile, curry, sel et poivre. Faire rôtir 30 à 40 min au four à 200°C, plaque au milieu, jusqu’à ce que ce soit bien doré. Mettre le tout dans un blender ou une casserole avec l’eau chaude + lait de coco. Mixer jusqu’à obtenir un mélange lisse et homogène. Ajuster l’assaisonnement si besoin.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPCBBg8DEJe",
+    "source_id": "instagram.com/reel/DPCBBg8DEJe",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Ingrédients (pour 4 personnes)",
+      "600 g de potiron",
+      "4 tomates",
+      "1 oignon",
+      "3 gousses d’ail",
+      "250 ml d’eau chaude",
+      "250 ml de lait de coco",
+      "1 filet d’huile d’olive",
+      "1 grosse cuillère à café de curry ou paprika",
+      "Sel, poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "600 g de Potiron",
+        "quantity": "600",
+        "unit": "g",
+        "name": "Potiron"
+      },
+      {
+        "raw": "4 Tomate",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Tomate"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "250 ml de Eau chaude",
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "250 ml de Lait de coco",
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1 filet de Huile d’olive",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Curry",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00217",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Ingrédients (pour 4 personnes)",
+        "quantity": "",
+        "unit": "",
+        "name": "Ingrédients (pour 4 personnes)"
+      },
+      {
+        "raw": "600 g de potiron",
+        "quantity": "600 g",
+        "unit": "g",
+        "name": "Potiron"
+      },
+      {
+        "raw": "4 tomates",
+        "quantity": "4",
+        "unit": "",
+        "name": "Tomate"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "3 gousses d’ail",
+        "quantity": "3 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "250 ml d’eau chaude",
+        "quantity": "250 ml",
+        "unit": "ml",
+        "name": "Eau chaude"
+      },
+      {
+        "raw": "250 ml de lait de coco",
+        "quantity": "250 ml",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1 filet d’huile d’olive",
+        "quantity": "1 filet",
+        "unit": "filet",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 grosse cuillère à café de curry ou paprika",
+        "quantity": "1",
+        "unit": "",
+        "name": "Grosse cuillère à café de curry ou paprika"
+      },
+      {
+        "raw": "Sel, poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Sel, poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00217_soupe-de-legumes-rotis.jpg",
+    "images": [
+      "images/00217_soupe-de-legumes-rotis.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "600 g de Potiron",
+        "quantity": "600",
+        "unit": "g",
+        "name": "Potiron"
+      },
+      {
+        "raw": "4 Tomate",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Tomate"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "250 ml de Eau chaude",
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Eau chaude"
+      },
+      {
+        "raw": "250 ml de Lait de coco",
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1 filet de Huile d’olive",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Curry",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

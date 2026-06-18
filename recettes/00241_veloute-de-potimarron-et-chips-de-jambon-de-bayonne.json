@@ -1,0 +1,294 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "veloute-de-potimarron-et-chips-de-jambon-de-bayonne",
+  "recipe_id": "00241",
+  "file": "recettes/00241_veloute-de-potimarron-et-chips-de-jambon-de-bayonne.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "veloute-de-potimarron-et-chips-de-jambon-de-bayonne",
+    "title": "Velouté de potimarron et chips de jambon de Bayonne",
+    "original_title": "Velouté de potimarron et chips de jambon de Bayonne",
+    "source_file": "Velouté de potimarron et chips de jambon de Bayonne.melarecipe",
+    "categories": [
+      "Plats",
+      "Soupe/Velouté"
+    ],
+    "ingredients": [
+      "4 tranche de Jambon de Parme",
+      "1 unité de Potimarron",
+      "1 unité de Oignon",
+      "2 gousse de Ail",
+      "1 l de Bouillon",
+      "6 tranche de Pain",
+      "0,5 botte de Persil",
+      "1 unité de Beurre",
+      "1 unité de Huile d’olive",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 unité de Piment d’Espelette"
+    ],
+    "ingredients_raw": "4 tranche de Jambon de Parme\n1 unité de Potimarron\n1 unité de Oignon\n2 gousse de Ail\n1 l de Bouillon\n6 tranche de Pain\n0,5 botte de Persil\n1 unité de Beurre\n1 unité de Huile d’olive\n1 unité de Sel\n1 unité de Poivre\n1 unité de Piment d’Espelette",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CzB8VjTIINk",
+    "source_id": "instagram.com/reel/CzB8VjTIINk",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4 tranches de Jambon de Bayonne IGP",
+      "1 potimarron",
+      "1 oignon",
+      "2 gousses d’ail",
+      "1 l de bouillon (légumes ou volaille)",
+      "6 tranches de pain",
+      "1/2 botte de persil",
+      "Beurre",
+      "Huile d’olive",
+      "Sel",
+      "Poivre",
+      "Piment d’Espelette"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 tranche de Jambon de Bayonne IGP",
+        "quantity": "4",
+        "unit": "tranche",
+        "name": "Jambon de Parme"
+      },
+      {
+        "raw": "Potimarron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 l de Bouillon",
+        "quantity": 1000,
+        "unit": "ml",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "6 tranche de Pain",
+        "quantity": "6",
+        "unit": "tranche",
+        "name": "Pain"
+      },
+      {
+        "raw": "0,5 botte de Persil",
+        "quantity": "0,5",
+        "unit": "botte",
+        "name": "Persil"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Piment d'espelette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment d’Espelette"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00241",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "4 tranches de Jambon de Bayonne IGP",
+        "quantity": "4 tranches",
+        "unit": "tranches",
+        "name": "Jambon de Bayonne IGP"
+      },
+      {
+        "raw": "1 potimarron",
+        "quantity": "1",
+        "unit": "",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 gousses d’ail",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1 l de bouillon (légumes ou volaille)",
+        "quantity": "1 l",
+        "unit": "ml",
+        "name": "Bouillon (légumes ou volaille)"
+      },
+      {
+        "raw": "6 tranches de pain",
+        "quantity": "6 tranches",
+        "unit": "tranches",
+        "name": "Pain"
+      },
+      {
+        "raw": "1/2 botte de persil",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Botte de persil"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "",
+        "unit": "",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Piment d’Espelette",
+        "quantity": "",
+        "unit": "",
+        "name": "Piment d'espelette"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00241_veloute-de-potimarron-et-chips-de-jambon-de-bayonne.jpg",
+    "images": [
+      "images/00241_veloute-de-potimarron-et-chips-de-jambon-de-bayonne.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "4 tranche de Jambon de Bayonne IGP",
+        "quantity": "4",
+        "unit": "tranche",
+        "name": "Jambon de Bayonne IGP"
+      },
+      {
+        "raw": "Potimarron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 l de Bouillon",
+        "quantity": 1000,
+        "unit": "ml",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "6 tranche de Pain",
+        "quantity": "6",
+        "unit": "tranche",
+        "name": "Pain"
+      },
+      {
+        "raw": "0,5 botte de Persil",
+        "quantity": "0,5",
+        "unit": "botte",
+        "name": "Persil"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Piment d'espelette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment d'espelette"
+      }
+    ]
+  }
+}
