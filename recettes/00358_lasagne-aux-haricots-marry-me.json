@@ -1,0 +1,359 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "lasagne-aux-haricots-marry-me",
+  "recipe_id": "00358",
+  "file": "recettes/00358_lasagne-aux-haricots-marry-me.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "lasagne-aux-haricots-marry-me",
+    "title": "Lasagne aux haricots marry me",
+    "original_title": "WEEK 5 | MEAL 3: BABE ON A BUDGET TAKES THE WEEKLY SHOP",
+    "source_file": "10-WEEK 5 | MEAL 3: BABE ON A BUDGET TAKES THE WEEKLY SHOP.melarecipe",
+    "categories": [
+      "Lasagnes",
+      "Plats",
+      "Vegan",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Oignon rouge",
+      "1 cuillère à soupe de Ail",
+      "70 g de Tomate séchée",
+      "1 cuillère à soupe de Purée de tomate",
+      "400 g de Haricots blancs",
+      "1 cuillère à soupe de Paprika fumé",
+      "1 cuillère à soupe de Herbes",
+      "1 cuillère à soupe de Poivre de Cayenne",
+      "1 Sel",
+      "1 Poivre"
+    ],
+    "ingredients_raw": "1 unité de Oignon rouge\n1 cuillère à soupe de Ail\n70 g de Tomate séchée\n1 cuillère à soupe de Purée de tomate\n400 g de Haricots blancs\n1 cuillère à soupe de Paprika fumé\n1 cuillère à soupe de Herbes\n1 cuillère à soupe de Poivre de Cayenne\n1 Sel\n1 Poivre",
+    "instructions": "🫘 Dice up your red onion & fry off in the oil from your sun-dried tomatoes and once softened, add minced garlic and continue to cook for 2 minutes. 🫘 Dice up yo…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DUVb8_Lijmu",
+    "source_id": "instagram.com/reel/DUVb8_Lijmu",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 red onion",
+      "1tsp minced garlic",
+      "70g sun-dried tomatoes",
+      "1tbsp tomato purée",
+      "400g butterbeans",
+      "1tsp smoked paprika",
+      "1tsp mixed herbs",
+      "1tsp cayenne pepper Salt & pepper",
+      "1tsp cayenne pepper Salt & pepper",
+      "1tsp cayenne pepper Salt & pepper"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 cuillère à soupe de Ail",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Ail"
+      },
+      {
+        "raw": "70 g de Tomate séchée",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "1 cuillère à soupe de Purée de tomate",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Purée de tomate"
+      },
+      {
+        "raw": "400 g de Haricots blancs",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Haricots blancs"
+      },
+      {
+        "raw": "1 cuillère à soupe de Paprika fumé",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 cuillère à soupe de Herbes",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Herbes"
+      },
+      {
+        "raw": "1 cuillère à soupe de Poivre de Cayenne",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Poivre de Cayenne"
+      },
+      {
+        "raw": "1 Sel",
+        "quantity": "1",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 Poivre",
+        "quantity": "1",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00358",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 red onion",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Oignon rouge",
+        "source_table_row": 659,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "red onion"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1tsp minced garlic",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Ail",
+        "source_table_row": 660,
+        "source_detected": {
+          "quantity": "1",
+          "unit": null,
+          "ingredient": "1tsp minced garlic"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "70g sun-dried tomatoes",
+        "quantity": 70,
+        "unit": "g",
+        "ingredient": "Tomate séchée",
+        "source_table_row": 661,
+        "source_detected": {
+          "quantity": "70",
+          "unit": "g",
+          "ingredient": "sun-dried tomatoes"
+        },
+        "table_decision": {
+          "quantity_proposed": 70,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Tomate séchée",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1tbsp tomato purée",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Purée de tomate",
+        "source_table_row": 662,
+        "source_detected": {
+          "quantity": "1",
+          "unit": null,
+          "ingredient": "1tbsp tomato purée"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Purée de tomate",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "400g butterbeans",
+        "quantity": 400,
+        "unit": "g",
+        "ingredient": "Haricots blancs",
+        "source_table_row": 663,
+        "source_detected": {
+          "quantity": "400",
+          "unit": "g",
+          "ingredient": "butterbeans"
+        },
+        "table_decision": {
+          "quantity_proposed": 400,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Haricots blancs",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1tsp smoked paprika",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Paprika fumé",
+        "source_table_row": 664,
+        "source_detected": {
+          "quantity": "1",
+          "unit": null,
+          "ingredient": "1tsp smoked paprika"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Paprika fumé",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1tsp mixed herbs",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Herbes",
+        "source_table_row": 665,
+        "source_detected": {
+          "quantity": "1",
+          "unit": null,
+          "ingredient": "1tsp mixed herbs"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Herbes",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1tsp cayenne pepper Salt & pepper",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Poivre de Cayenne",
+        "source_table_row": 666,
+        "source_detected": {
+          "quantity": 1,
+          "unit": null,
+          "ingredient": "1tsp cayenne pepper Salt & pepper"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Poivre de Cayenne",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1tsp cayenne pepper Salt & pepper",
+        "quantity": 1,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 667,
+        "source_detected": {
+          "quantity": "1",
+          "unit": null,
+          "ingredient": "1tsp cayenne pepper Salt & pepper"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1tsp cayenne pepper Salt & pepper",
+        "quantity": 1,
+        "unit": null,
+        "ingredient": "Poivre",
+        "source_table_row": 668,
+        "source_detected": {
+          "quantity": "1",
+          "unit": null,
+          "ingredient": "1tsp cayenne pepper Salt & pepper"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00358_lasagne-aux-haricots-marry-me.jpg",
+    "images": [
+      "images/00358_lasagne-aux-haricots-marry-me.jpg"
+    ],
+    "import_source_index": 108,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Lasagne aux haricots marry me"
+    ]
+  }
+}

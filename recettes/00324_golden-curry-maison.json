@@ -1,0 +1,150 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "golden-curry-maison",
+  "recipe_id": "00324",
+  "file": "recettes/00324_golden-curry-maison.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "golden-curry-maison",
+    "title": "Golden curry maison",
+    "original_title": "Golden Curry fait maison",
+    "source_file": "92-Golden Curry fait maison.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Curry/Dahl",
+      "Plats",
+      "Sauce"
+    ],
+    "ingredients": [
+      "150 g de Margarine",
+      "150 g de Farine",
+      "30 g de Curry japonais"
+    ],
+    "ingredients_raw": "150 g de Margarine\n150 g de Farine\n30 g de Curry japonais",
+    "instructions": "*Si vous pré-découper en 16 carrés, utiliser 1 carré par portion #faitmaison #foodlover #healthyfood #japanesefood",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQ9C5DgFKDk",
+    "source_id": "instagram.com/reel/DQ9C5DgFKDk",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "150g de margarine",
+      "150g de farine (avec ou sans gluten)",
+      "30g de mélange d’épices curry japonais (curcuma, muscade, fenou"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "150 g de Margarine",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Margarine"
+      },
+      {
+        "raw": "150 g de Farine",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "30 g de Curry japonais",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Curry japonais"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00324",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "150g de margarine",
+        "quantity": 150,
+        "unit": "g",
+        "ingredient": "Margarine",
+        "source_table_row": 463,
+        "source_detected": {
+          "quantity": "150",
+          "unit": "g",
+          "ingredient": "margarine"
+        },
+        "table_decision": {
+          "quantity_proposed": 150,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Margarine",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "150g de farine (avec ou sans gluten)",
+        "quantity": 150,
+        "unit": "g",
+        "ingredient": "Farine",
+        "source_table_row": 464,
+        "source_detected": {
+          "quantity": "150",
+          "unit": "g",
+          "ingredient": "farine (avec ou sans gluten)"
+        },
+        "table_decision": {
+          "quantity_proposed": 150,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "30g de mélange d’épices curry japonais (curcuma, muscade, fenou",
+        "quantity": 30,
+        "unit": "g",
+        "ingredient": "Curry japonais",
+        "source_table_row": 465,
+        "source_detected": {
+          "quantity": "30",
+          "unit": "g",
+          "ingredient": "mélange d’épices curry japonais (curcuma, muscade, fenou"
+        },
+        "table_decision": {
+          "quantity_proposed": 30,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Curry japonais",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00324_golden-curry-maison.jpg",
+    "images": [
+      "images/00324_golden-curry-maison.jpg"
+    ],
+    "import_source_index": 72,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Golden curry maison"
+    ]
+  }
+}

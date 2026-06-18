@@ -1,0 +1,239 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pickles-de-legumes-2",
+  "recipe_id": "00327",
+  "file": "recettes/00327_pickles-de-legumes-2.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pickles-de-legumes-2",
+    "title": "Pickles de légumes",
+    "original_title": "PICKLES DE LÉGUMES",
+    "source_file": "5-PICKLES DE LÉGUMES.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Froid",
+      "Vegan",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "Légumes",
+      "500 ml de Vinaigre de cidre",
+      "500 ml de Eau",
+      "2 cuillère à soupe de Sucre roux",
+      "1 cuillère à soupe de Sel",
+      "1 cuillère à café de Poivre en grains"
+    ],
+    "ingredients_raw": "Légumes\n500 ml de Vinaigre de cidre\n500 ml de Eau\n2 cuillère à soupe de Sucre roux\n1 cuillère à soupe de Sel\n1 cuillère à café de Poivre en grains",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DW4DY5YgsI4",
+    "source_id": "instagram.com/reel/DW4DY5YgsI4",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Légumes au choix, ici : concombre, carottes, oignons, oignons, chou, rouge, radis une Gousse d’ail à mettre dans chaque pot à légumes Vinaigre",
+      "50 cl de vinaigre de cidre",
+      "50 cl d’eau",
+      "Deux cuillères à soupe de sucre roux",
+      "Une cuillère à soupe de sel",
+      "Une cuillère à café de poivre en grains"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Légumes",
+        "quantity": "",
+        "unit": "",
+        "name": "Légumes"
+      },
+      {
+        "raw": "500 ml de Vinaigre de cidre",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "500 ml de Eau",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sucre roux",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sucre roux"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à café de Poivre en grains",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poivre en grains"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00327",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Légumes au choix, ici : concombre, carottes, oignons, oignons, chou, rouge, radis une Gousse d’ail à mettre dans chaque pot à légumes Vinaigre",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Légumes",
+        "source_table_row": 474,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Légumes au choix, ici : concombre, carottes, oignons, oignons, chou, rouge, radis une Gousse d’ail à mettre dans chaque pot à légumes Vinaigre"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "ok",
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Légumes",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "50 cl de vinaigre de cidre",
+        "quantity": 500,
+        "unit": "ml",
+        "ingredient": "Vinaigre de cidre",
+        "source_table_row": 475,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 500,
+          "quantity_validation": "ok",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Vinaigre de cidre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "50 cl d’eau",
+        "quantity": 500,
+        "unit": "ml",
+        "ingredient": "Eau",
+        "source_table_row": 476,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 500,
+          "quantity_validation": "ok",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "Deux cuillères à soupe de sucre roux",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sucre roux",
+        "source_table_row": 477,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "ok",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Sucre roux",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "Une cuillère à soupe de sel",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sel",
+        "source_table_row": 478,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "ok",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "Une cuillère à café de poivre en grains",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Poivre en grains",
+        "source_table_row": 479,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "ok",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Poivre en grains",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00327_pickles-de-legumes-2.jpg",
+    "images": [
+      "images/00327_pickles-de-legumes-2.jpg"
+    ],
+    "import_source_index": 75,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Pickles de légumes"
+    ]
+  }
+}

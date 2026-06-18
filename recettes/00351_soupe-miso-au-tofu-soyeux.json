@@ -1,0 +1,241 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "soupe-miso-au-tofu-soyeux",
+  "recipe_id": "00351",
+  "file": "recettes/00351_soupe-miso-au-tofu-soyeux.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "soupe-miso-au-tofu-soyeux",
+    "title": "Soupe miso au tofu soyeux",
+    "original_title": "EPISODE 4 : SOUPE MISO",
+    "source_file": "111-EPISODE 4 : SOUPE MISO.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Sauce",
+      "Soupe/Velouté",
+      "Vegan",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 cuillère à soupe de Sauce soja",
+      "1 cuillère à soupe de Pâte de miso",
+      "1 bloc de Tofu",
+      "1 cuillère à soupe de Algue wakame",
+      "1000 ml de Eau",
+      "Un peu Cébette"
+    ],
+    "ingredients_raw": "1 cuillère à soupe de Sauce soja\n1 cuillère à soupe de Pâte de miso\n1 bloc de Tofu\n1 cuillère à soupe de Algue wakame\n1000 ml de Eau\nUn peu Cébette",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQOfWlAiBFh",
+    "source_id": "instagram.com/reel/DQOfWlAiBFh",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 cas de sauce soja",
+      "1 cas de pâte miso",
+      "1 bloc de tofu soyeux",
+      "1 cas d’algue wakame",
+      "1L d’eau Un peu de cebette",
+      "1L d’eau Un peu de cebette"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 cuillère à soupe de Sauce soja",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Pâte de miso",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Pâte de miso"
+      },
+      {
+        "raw": "1 bloc de Tofu",
+        "quantity": "1",
+        "unit": "bloc",
+        "name": "Tofu"
+      },
+      {
+        "raw": "1 cuillère à soupe de Algue wakame",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Algue wakame"
+      },
+      {
+        "raw": "1000 ml de Eau",
+        "quantity": "1000",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Un peu Cébette",
+        "quantity": "Un peu",
+        "unit": "",
+        "name": "Cébette"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00351",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 cas de sauce soja",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce soja",
+        "source_table_row": 616,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cas",
+          "ingredient": "sauce soja"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sauce soja",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cas de pâte miso",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Pâte de miso",
+        "source_table_row": 617,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cas",
+          "ingredient": "pâte miso"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâte de miso",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de tofu soyeux",
+        "quantity": 1,
+        "unit": "bloc",
+        "ingredient": "Tofu",
+        "source_table_row": 618,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "bloc",
+          "ingredient": "tofu soyeux"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "bloc",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Tofu",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cas d’algue wakame",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Algue wakame",
+        "source_table_row": 619,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cas",
+          "ingredient": "algue wakame"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Algue wakame",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1L d’eau Un peu de cebette",
+        "quantity": 1000,
+        "unit": "ml",
+        "ingredient": "Eau",
+        "source_table_row": 620,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "L",
+          "ingredient": "eau Un peu de cebette"
+        },
+        "table_decision": {
+          "quantity_proposed": 1000,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1L d’eau Un peu de cebette",
+        "quantity": "Un peu",
+        "unit": null,
+        "ingredient": "Cébette",
+        "source_table_row": 621,
+        "source_detected": {
+          "quantity": "1",
+          "unit": null,
+          "ingredient": "eau Un peu de cebette"
+        },
+        "table_decision": {
+          "quantity_proposed": "Un peu",
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Cébette",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00351_soupe-miso-au-tofu-soyeux.jpg",
+    "images": [
+      "images/00351_soupe-miso-au-tofu-soyeux.jpg"
+    ],
+    "import_source_index": 100,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Soupe miso au tofu soyeux"
+    ]
+  }
+}

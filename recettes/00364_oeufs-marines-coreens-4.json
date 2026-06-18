@@ -1,0 +1,300 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "oeufs-marines-coreens-4",
+  "recipe_id": "00364",
+  "file": "recettes/00364_oeufs-marines-coreens-4.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "oeufs-marines-coreens-4",
+    "title": "Œufs marinés coréens",
+    "original_title": "Ces œufs vont devenir ton obsession",
+    "source_file": "21-Ces œufs vont devenir ton obsession.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Entrée",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "4 unité de Œuf",
+      "100 ml de Sauce soja salée",
+      "100 ml de Eau",
+      "1 unité de Coco",
+      "1 cuillère à café de Graine de sésame",
+      "1 gousse de Ail",
+      "1 unité de Cébette",
+      "1 unité de Piment"
+    ],
+    "ingredients_raw": "4 unité de Œuf\n100 ml de Sauce soja salée\n100 ml de Eau\n1 unité de Coco\n1 cuillère à café de Graine de sésame\n1 gousse de Ail\n1 unité de Cébette\n1 unité de Piment",
+    "instructions": "Cuire les œufs 5 min 30 dans l’eau bouillante. Les plonger immédiatement dans de l’eau froide, puis les écaler délicatement. Mélanger la sauce soja, l’eau, le m…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DTQTr_TiJO-",
+    "source_id": "instagram.com/reel/DTQTr_TiJO-",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4 œufs (cuisson",
+      "10 cl de sauce soja salée",
+      "10 cl d’eau",
+      "1 c. à c. de miel",
+      "• 1 c. à c. de graines de sésame",
+      "• 1 gousse d’ail râpée",
+      "• 1 oignon cébette émincé",
+      "• 1 piment asiatique "
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 unité de Œuf",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "100 ml de Sauce soja salée",
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "100 ml de Eau",
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 unité de Coco",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coco"
+      },
+      {
+        "raw": "1 cuillère à café de Graine de sésame",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 unité de Cébette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cébette"
+      },
+      {
+        "raw": "1 unité de Piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00364",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "4 œufs (cuisson",
+        "quantity": 4,
+        "unit": "unité",
+        "ingredient": "Œuf",
+        "source_table_row": 698,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "unité",
+          "ingredient": "œufs (cuisson"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Œuf",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "10 cl de sauce soja salée",
+        "quantity": 100,
+        "unit": "ml",
+        "ingredient": "Sauce soja salée",
+        "source_table_row": 699,
+        "source_detected": {
+          "quantity": "10",
+          "unit": "cl",
+          "ingredient": "sauce soja salée"
+        },
+        "table_decision": {
+          "quantity_proposed": 100,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sauce soja salée",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "10 cl d’eau",
+        "quantity": 100,
+        "unit": "ml",
+        "ingredient": "Eau",
+        "source_table_row": 700,
+        "source_detected": {
+          "quantity": "10",
+          "unit": "cl",
+          "ingredient": "eau"
+        },
+        "table_decision": {
+          "quantity_proposed": 100,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 c. à c. de miel",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Coco",
+        "source_table_row": 701,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "c"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Coco",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "• 1 c. à c. de graines de sésame",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Graine de sésame",
+        "source_table_row": 702,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Graine de sésame",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "• 1 gousse d’ail râpée",
+        "quantity": 1,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 703,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "• 1 oignon cébette émincé",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Cébette",
+        "source_table_row": 704,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Cébette",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "• 1 piment asiatique ",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Piment",
+        "source_table_row": 705,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Piment",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00364_oeufs-marines-coreens-4.jpg",
+    "images": [
+      "images/00364_oeufs-marines-coreens-4.jpg"
+    ],
+    "import_source_index": 114,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Œufs marinés coréens"
+    ]
+  }
+}

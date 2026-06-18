@@ -1,0 +1,210 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "boeuf-sauce-miel-balsamique",
+  "recipe_id": "00314",
+  "file": "recettes/00314_boeuf-sauce-miel-balsamique.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "boeuf-sauce-miel-balsamique",
+    "title": "Bœuf sauce miel balsamique",
+    "original_title": "BŒUF EN SAUCE MIEL BALSAMIQUE",
+    "source_file": "27-BŒUF EN SAUCE MIEL BALSAMIQUE.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Plats",
+      "Sauce",
+      "Soupe/Velouté",
+      "Viande"
+    ],
+    "ingredients": [
+      "600 g de Paleron",
+      "10 unité de Pomme de terre grenaille",
+      "1 cuillère à soupe de Huile d’olive",
+      "10 g de Beurre",
+      "2 unité de Oignon rouge"
+    ],
+    "ingredients_raw": "600 g de Paleron\n10 unité de Pomme de terre grenaille\n1 cuillère à soupe de Huile d’olive\n10 g de Beurre\n2 unité de Oignon rouge",
+    "instructions": "BŒUF EN SAUCE MIEL BALSAMIQUE 🍯 🥩 Bien laisser réduire la sauce jusqu’à ce qu’elle ait une texture onctueuse, si c’est trop liquide continue à laisser cuire.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DS5O5HkCD1h",
+    "source_id": "instagram.com/reel/DS5O5HkCD1h",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "600g de joue de bœuf découpée en cubes ( ou paleron) Une dizaine de pommes de terre grenailles",
+      "600g de joue de bœuf découpée en cubes ( ou paleron) Une dizaine de pommes de terre grenailles",
+      "1 cuillère à soupe d’huile d’olive",
+      "10G de beurre",
+      "2 Oignons rouges"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "600 g de Paleron",
+        "quantity": "600",
+        "unit": "g",
+        "name": "Paleron"
+      },
+      {
+        "raw": "10 unité de Pomme de terre grenaille",
+        "quantity": "10",
+        "unit": "unité",
+        "name": "Pomme de terre grenaille"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "10 g de Beurre",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "2 unité de Oignon rouge",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00314",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "600g de joue de bœuf découpée en cubes ( ou paleron) Une dizaine de pommes de terre grenailles",
+        "quantity": 600,
+        "unit": "g",
+        "ingredient": "Paleron",
+        "source_table_row": 388,
+        "source_detected": {
+          "quantity": "600",
+          "unit": "g",
+          "ingredient": "joue de bœuf découpée en cubes ( ou paleron) Une dizaine de pommes de terre grenailles"
+        },
+        "table_decision": {
+          "quantity_proposed": 600,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Paleron",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "600g de joue de bœuf découpée en cubes ( ou paleron) Une dizaine de pommes de terre grenailles",
+        "quantity": 10,
+        "unit": "unité",
+        "ingredient": "Pomme de terre grenaille",
+        "source_table_row": 389,
+        "source_detected": {
+          "quantity": 10,
+          "unit": "unité",
+          "ingredient": "joue de bœuf découpée en cubes ( ou paleron) Une dizaine de pommes de terre grenailles"
+        },
+        "table_decision": {
+          "quantity_proposed": 10,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pomme de terre grenaille",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cuillère à soupe d’huile d’olive",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Huile d’olive",
+        "source_table_row": 390,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cuillère à soupe",
+          "ingredient": "huile d’olive"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile d’olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "10G de beurre",
+        "quantity": 10,
+        "unit": "g",
+        "ingredient": "Beurre",
+        "source_table_row": 391,
+        "source_detected": {
+          "quantity": "10",
+          "unit": "G",
+          "ingredient": "beurre"
+        },
+        "table_decision": {
+          "quantity_proposed": 10,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Beurre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 Oignons rouges",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Oignon rouge",
+        "source_table_row": 392,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "Oignons rouges"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00314_boeuf-sauce-miel-balsamique.jpg",
+    "images": [
+      "images/00314_boeuf-sauce-miel-balsamique.jpg"
+    ],
+    "import_source_index": 62,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Bœuf sauce miel balsamique"
+    ]
+  }
+}

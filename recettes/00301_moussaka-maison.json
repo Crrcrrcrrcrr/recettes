@@ -1,0 +1,240 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "moussaka-maison",
+  "recipe_id": "00301",
+  "file": "recettes/00301_moussaka-maison.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "moussaka-maison",
+    "title": "Moussaka maison",
+    "original_title": "La moussaka maison, fondante et réconfortante",
+    "source_file": "39-La moussaka maison, fondante et réconfortante.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Gratin",
+      "Plats",
+      "Sauce",
+      "Viande"
+    ],
+    "ingredients": [
+      "2 unité de Aubergine",
+      "4 unité de Pomme de terre",
+      "400 g de Viande hachée",
+      "1 unité de Oignon rouge",
+      "2 gousse de Ail",
+      "400 g de Sauce tomate"
+    ],
+    "ingredients_raw": "2 unité de Aubergine\n4 unité de Pomme de terre\n400 g de Viande hachée\n1 unité de Oignon rouge\n2 gousse de Ail\n400 g de Sauce tomate",
+    "instructions": "👩‍🍳 Instructions Couper les aubergines et les pommes de terre en fines lamelles. Les déposer sur une plaque, arroser d’huile d’olive et saler. Enfourner 20 min …",
+    "notes": "",
+    "link": "https://www.instagram.com/p/DOd4-wbCCBU",
+    "source_id": "instagram.com/p/DOd4-wbCCBU",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 grosses aubergines",
+      "4 pommes de terre moyennes",
+      "400 g de viande hachée",
+      "1 oignon rouge",
+      "2 gousses d’ail",
+      "400 g de sauce tomate 1"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 unité de Aubergine",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Aubergine"
+      },
+      {
+        "raw": "4 unité de Pomme de terre",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Pomme de terre"
+      },
+      {
+        "raw": "400 g de Viande hachée",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Viande hachée"
+      },
+      {
+        "raw": "1 unité de Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "400 g de Sauce tomate",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Sauce tomate"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00301",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 grosses aubergines",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Aubergine",
+        "source_table_row": 303,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "grosses aubergines"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Aubergine",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "4 pommes de terre moyennes",
+        "quantity": 4,
+        "unit": "unité",
+        "ingredient": "Pomme de terre",
+        "source_table_row": 304,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "unité",
+          "ingredient": "pommes de terre moyennes"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pomme de terre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "400 g de viande hachée",
+        "quantity": 400,
+        "unit": "g",
+        "ingredient": "Viande hachée",
+        "source_table_row": 305,
+        "source_detected": {
+          "quantity": "400",
+          "unit": "g",
+          "ingredient": "viande hachée"
+        },
+        "table_decision": {
+          "quantity_proposed": 400,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Viande hachée",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 oignon rouge",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Oignon rouge",
+        "source_table_row": 306,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "oignon rouge"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 gousses d’ail",
+        "quantity": 2,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 307,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "gousses",
+          "ingredient": "ail"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "400 g de sauce tomate 1",
+        "quantity": 400,
+        "unit": "g",
+        "ingredient": "Sauce tomate",
+        "source_table_row": 308,
+        "source_detected": {
+          "quantity": "400",
+          "unit": "g",
+          "ingredient": "sauce tomate 1"
+        },
+        "table_decision": {
+          "quantity_proposed": 400,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sauce tomate",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00301_moussaka-maison.jpg",
+    "images": [
+      "images/00301_moussaka-maison.jpg"
+    ],
+    "import_source_index": 49,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Moussaka maison"
+    ]
+  }
+}

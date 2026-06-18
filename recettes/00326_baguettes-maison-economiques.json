@@ -1,0 +1,146 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "baguettes-maison-economiques",
+  "recipe_id": "00326",
+  "file": "recettes/00326_baguettes-maison-economiques.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "baguettes-maison-economiques",
+    "title": "Baguettes maison économiques",
+    "original_title": "4 baguettes pour seulement 0,30€",
+    "source_file": "72-4 baguettes pour seulement 0,30€.melarecipe",
+    "categories": [
+      "Pains/wraps"
+    ],
+    "ingredients": [
+      "350 g de Farine",
+      "4 g de Levure de boulanger",
+      "10 g de Huile de tournesol"
+    ],
+    "ingredients_raw": "350 g de Farine\n4 g de Levure de boulanger\n10 g de Huile de tournesol",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DRPqRfkCF4N",
+    "source_id": "instagram.com/reel/DRPqRfkCF4N",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "350gr farine (t45 ou t55)",
+      "4gr de levure boulangère",
+      "10gr d’huile de tournesol (ou huile"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "350 g de Farine",
+        "quantity": "350",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "4 g de Levure de boulanger",
+        "quantity": "4",
+        "unit": "g",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "10 g de Huile de tournesol",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Huile de tournesol"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00326",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "350gr farine (t45 ou t55)",
+        "quantity": 350,
+        "unit": "g",
+        "ingredient": "Farine",
+        "source_table_row": 471,
+        "source_detected": {
+          "quantity": "45",
+          "unit": "g",
+          "ingredient": "ou t55)"
+        },
+        "table_decision": {
+          "quantity_proposed": 350,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "4gr de levure boulangère",
+        "quantity": 4,
+        "unit": "g",
+        "ingredient": "Levure de boulanger",
+        "source_table_row": 472,
+        "source_detected": {
+          "quantity": null,
+          "unit": "g",
+          "ingredient": "4gr de levure boulangère"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "ok",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Levure de boulanger",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "10gr d’huile de tournesol (ou huile",
+        "quantity": 10,
+        "unit": "g",
+        "ingredient": "Huile de tournesol",
+        "source_table_row": 473,
+        "source_detected": {
+          "quantity": null,
+          "unit": "g",
+          "ingredient": "10gr d’huile de tournesol (ou huile"
+        },
+        "table_decision": {
+          "quantity_proposed": 10,
+          "quantity_validation": "ok",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Huile de tournesol",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00326_baguettes-maison-economiques.jpg",
+    "images": [
+      "images/00326_baguettes-maison-economiques.jpg"
+    ],
+    "import_source_index": 74,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Baguettes maison économiques"
+    ]
+  }
+}

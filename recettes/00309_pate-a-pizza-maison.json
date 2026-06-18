@@ -1,0 +1,53 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pate-a-pizza-maison",
+  "recipe_id": "00309",
+  "file": "recettes/00309_pate-a-pizza-maison.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pate-a-pizza-maison",
+    "title": "Pâte à pizza maison",
+    "original_title": "Enregistre pour ta prochaine envie de PIZZA.",
+    "source_file": "43-Enregistre pour ta prochaine envie de PIZZA..melarecipe",
+    "categories": [
+      "Végétarien"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Pour l’étaler et qu’elle ne colle pas, il faut préalablement l’avoir huilée en la mettant dans le tupp avant de l’utiliser. Se huiler les mains si besoin pour f…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DNkrJeRILa0",
+    "source_id": "instagram.com/reel/DNkrJeRILa0",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00309",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00309_pate-a-pizza-maison.jpg",
+    "images": [
+      "images/00309_pate-a-pizza-maison.jpg"
+    ],
+    "import_source_index": 57,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Pâte à pizza maison",
+      "Aucun ingrédient conservé dans le tableau corrigé."
+    ]
+  }
+}

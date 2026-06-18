@@ -1,0 +1,208 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "mijote-de-boeuf-effiloche",
+  "recipe_id": "00354",
+  "file": "recettes/00354_mijote-de-boeuf-effiloche.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "mijote-de-boeuf-effiloche",
+    "title": "Mijoté de bœuf effiloché",
+    "original_title": "Partie 2 : RECETTE MIJOTÉ DE BŒUF EFFILOCHÉ",
+    "source_file": "79-Partie 2 : RECETTE MIJOTÉ DE BŒUF EFFILOCHÉ.melarecipe",
+    "categories": [
+      "Plats",
+      "Soupe/Velouté",
+      "Viande"
+    ],
+    "ingredients": [
+      "1000 g de Paleron de bœuf",
+      "1 filet de Huile d’olive",
+      "2 cuillère à soupe de Assaisonnement pour steack",
+      "0.5 cuillère à café de Sel",
+      "0.5 cuillère à café de Poivre"
+    ],
+    "ingredients_raw": "1000 g de Paleron de bœuf\n1 filet de Huile d’olive\n2 cuillère à soupe de Assaisonnement pour steack\n0.5 cuillère à café de Sel\n0.5 cuillère à café de Poivre",
+    "instructions": "Mélanger l’huile d’olive avec les épices et enrober la viande. Faire chauffer une cocotte puis saisir la viande sur toutes les faces. Retirer et réserver. Dans …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DU5iR06DO3b",
+    "source_id": "instagram.com/reel/DU5iR06DO3b",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 kg de paleron de bœuf ❃ Un bon filet d’huile d’olive ❃",
+      "1 kg de paleron de bœuf ❃ Un bon filet d’huile d’olive ❃",
+      "2 c. à soupe d’assaisonnement pour steak ❃",
+      "1/2 c. à café de sel ❃",
+      "1/2 c. à café de poivre ❃ 1"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1000 g de Paleron de bœuf",
+        "quantity": "1000",
+        "unit": "g",
+        "name": "Paleron de bœuf"
+      },
+      {
+        "raw": "1 filet de Huile d’olive",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Assaisonnement pour steack",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Assaisonnement pour steack"
+      },
+      {
+        "raw": "0.5 cuillère à café de Sel",
+        "quantity": "0.5",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "0.5 cuillère à café de Poivre",
+        "quantity": "0.5",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00354",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 kg de paleron de bœuf ❃ Un bon filet d’huile d’olive ❃",
+        "quantity": 1000,
+        "unit": "g",
+        "ingredient": "Paleron de bœuf",
+        "source_table_row": 645,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "kg",
+          "ingredient": "paleron de bœuf ❃ Un bon filet d’huile d’olive ❃"
+        },
+        "table_decision": {
+          "quantity_proposed": 1000,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Paleron de bœuf ",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 kg de paleron de bœuf ❃ Un bon filet d’huile d’olive ❃",
+        "quantity": 1,
+        "unit": "filet",
+        "ingredient": "Huile d’olive",
+        "source_table_row": 646,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "filet",
+          "ingredient": "paleron de bœuf ❃ Un bon filet d’huile d’olive ❃"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "filet",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile d’olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 c. à soupe d’assaisonnement pour steak ❃",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Assaisonnement pour steack",
+        "source_table_row": 647,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "c. à soupe d’assaisonnement pour steak ❃"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Assaisonnement pour steack",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 c. à café de sel ❃",
+        "quantity": 0.5,
+        "unit": "cuillère à café",
+        "ingredient": "Sel",
+        "source_table_row": 648,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "c. à café de sel ❃"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à café",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 c. à café de poivre ❃ 1",
+        "quantity": 0.5,
+        "unit": "cuillère à café",
+        "ingredient": "Poivre",
+        "source_table_row": 649,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "c. à café de poivre ❃ 1"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à café",
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00354_mijote-de-boeuf-effiloche.jpg",
+    "images": [
+      "images/00354_mijote-de-boeuf-effiloche.jpg"
+    ],
+    "import_source_index": 104,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Mijoté de bœuf effiloché"
+    ]
+  }
+}

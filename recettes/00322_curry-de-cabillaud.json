@@ -1,0 +1,418 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "curry-de-cabillaud",
+  "recipe_id": "00322",
+  "file": "recettes/00322_curry-de-cabillaud.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "curry-de-cabillaud",
+    "title": "Curry de cabillaud",
+    "original_title": "️ CURRY DE CABILLAUD",
+    "source_file": "77-️ CURRY DE CABILLAUD.melarecipe",
+    "categories": [
+      "Curry/Dahl",
+      "Plats",
+      "Poisson"
+    ],
+    "ingredients": [
+      "700 g de Cabillaud",
+      "3 unité de Poivron",
+      "1 unité de Oignon",
+      "2 gousse de Ail",
+      "400 ml de Lait de coco",
+      "2 cuillère à café de Curry",
+      "1 cuillère à café de Paprika fumé",
+      "1 cuillère à café de Pâte de curry rouge",
+      "1 cuillère à café de Saue nuoc-mâm",
+      "Jus de citron",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredients_raw": "700 g de Cabillaud\n3 unité de Poivron\n1 unité de Oignon\n2 gousse de Ail\n400 ml de Lait de coco\n2 cuillère à café de Curry\n1 cuillère à café de Paprika fumé\n1 cuillère à café de Pâte de curry rouge\n1 cuillère à café de Saue nuoc-mâm\nJus de citron\nSel\nPoivre",
+    "instructions": "Faire revenir l’oignon émincé dans un peu de matière grasse pendant quelques minutes. Ajouter l’ail puis les poivrons coupés en lamelles ou en petits morceaux e…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DWPB2uIiTXC",
+    "source_id": "instagram.com/reel/DWPB2uIiTXC",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "700 g de cabillaud",
+      "3 poivrons (jaune, rouge, orange)",
+      "1 oignon",
+      "2 gousses d’ail",
+      "400 ml de lait de coco",
+      "2 cuillères à café de curry fumé ",
+      "1 cuillère à café de paprika fumé ",
+      "1 cuillère à café de pâte de curry rouge (🌶️ optionnel)",
+      "1 cuillère à café de sauce nuoc-mâm (optionnel) ",
+      "Jus de citron, sel, poivre, coriandre ",
+      "Jus de citron, sel, poivre, coriandre ",
+      "Jus de citron, sel, poivre, coriandre "
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "700 g de Cabillaud",
+        "quantity": "700",
+        "unit": "g",
+        "name": "Cabillaud"
+      },
+      {
+        "raw": "3 unité de Poivron",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Poivron"
+      },
+      {
+        "raw": "1 unité de Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "400 ml de Lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "2 cuillère à café de Curry",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika fumé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 cuillère à café de Pâte de curry rouge",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Pâte de curry rouge"
+      },
+      {
+        "raw": "1 cuillère à café de Saue nuoc-mâm",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Saue nuoc-mâm"
+      },
+      {
+        "raw": "Jus de citron",
+        "quantity": "",
+        "unit": "",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00322",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "700 g de cabillaud",
+        "quantity": 700,
+        "unit": "g",
+        "ingredient": "Cabillaud",
+        "source_table_row": 443,
+        "source_detected": {
+          "quantity": "700",
+          "unit": "g",
+          "ingredient": "cabillaud"
+        },
+        "table_decision": {
+          "quantity_proposed": 700,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Cabillaud",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "3 poivrons (jaune, rouge, orange)",
+        "quantity": 3,
+        "unit": "unité",
+        "ingredient": "Poivron",
+        "source_table_row": 444,
+        "source_detected": {
+          "quantity": "3",
+          "unit": "unité",
+          "ingredient": "poivrons (jaune, rouge, orange)"
+        },
+        "table_decision": {
+          "quantity_proposed": 3,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Poivron",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Oignon",
+        "source_table_row": 445,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "oignon"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 gousses d’ail",
+        "quantity": 2,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 446,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "gousses",
+          "ingredient": "ail"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "400 ml de lait de coco",
+        "quantity": 400,
+        "unit": "ml",
+        "ingredient": "Lait de coco",
+        "source_table_row": 447,
+        "source_detected": {
+          "quantity": "400",
+          "unit": "ml",
+          "ingredient": "lait de coco"
+        },
+        "table_decision": {
+          "quantity_proposed": 400,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Lait de coco",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 cuillères à café de curry fumé ",
+        "quantity": 2,
+        "unit": "cuillère à café",
+        "ingredient": "Curry",
+        "source_table_row": 448,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "cuillères à café",
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillères à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Curry",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cuillère à café de paprika fumé ",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Paprika fumé",
+        "source_table_row": 449,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillères à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Paprika fumé",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cuillère à café de pâte de curry rouge (🌶️ optionnel)",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Pâte de curry rouge",
+        "source_table_row": 450,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillères à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâte de curry rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cuillère à café de sauce nuoc-mâm (optionnel) ",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Saue nuoc-mâm",
+        "source_table_row": 451,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillères à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Saue nuoc-mâm",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "Jus de citron, sel, poivre, coriandre ",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Jus de citron",
+        "source_table_row": 452,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Jus de citron",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "Jus de citron, sel, poivre, coriandre ",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 453,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "Jus de citron, sel, poivre, coriandre ",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Poivre",
+        "source_table_row": 454,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00322_curry-de-cabillaud.jpg",
+    "images": [
+      "images/00322_curry-de-cabillaud.jpg"
+    ],
+    "import_source_index": 70,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Curry de cabillaud"
+    ]
+  }
+}

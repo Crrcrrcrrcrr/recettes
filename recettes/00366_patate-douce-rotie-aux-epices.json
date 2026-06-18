@@ -1,0 +1,147 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "patate-douce-rotie-aux-epices",
+  "recipe_id": "00366",
+  "file": "recettes/00366_patate-douce-rotie-aux-epices.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "patate-douce-rotie-aux-epices",
+    "title": "Patate douce rôtie aux épices",
+    "original_title": "Patate douce pelée et rôtie aux épices",
+    "source_file": "91-Patate douce pelée et rôtie aux épices.melarecipe",
+    "categories": [
+      "Légumes rôtis",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "2 unité de Patate douce",
+      "2 cuillère à soupe de Huile d’olive",
+      "Epices"
+    ],
+    "ingredients_raw": "2 unité de Patate douce\n2 cuillère à soupe de Huile d’olive\nEpices",
+    "instructions": "Épluchez les patates douces. Placez-les sur une plaque de cuisson avec l’huile et les épices. Mélangez bien. Enfournez environ 30 minutes à 180°C, en remuant to…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DRE38ZFCENo",
+    "source_id": "instagram.com/reel/DRE38ZFCENo",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 patates douces",
+      "2 càs d’huile d’olive Épices au choix : ail, paprika, thym, origan, sel Pour servir : fruits secs, ciboulette, fêta",
+      "2 càs d’huile d’olive Épices au choix : ail, paprika, thym, origan, sel Pour servir : fruits secs, ciboulette, fêta"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 unité de Patate douce",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Epices",
+        "quantity": "",
+        "unit": "",
+        "name": "Epices"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00366",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 patates douces",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Patate douce",
+        "source_table_row": 706,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "patates douces"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Patate douce",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 càs d’huile d’olive Épices au choix : ail, paprika, thym, origan, sel Pour servir : fruits secs, ciboulette, fêta",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Huile d’olive",
+        "source_table_row": 707,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "càs",
+          "ingredient": "huile d’olive Épices au choix : ail, paprika, thym, origan, sel Pour servir : fruits secs, ciboulette, fêta"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile d’olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 càs d’huile d’olive Épices au choix : ail, paprika, thym, origan, sel Pour servir : fruits secs, ciboulette, fêta",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Epices",
+        "source_table_row": 708,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "huile d’olive Épices au choix : ail, paprika, thym, origan, sel Pour servir : fruits secs, ciboulette, fêta"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Epices",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00366_patate-douce-rotie-aux-epices.jpg",
+    "images": [
+      "images/00366_patate-douce-rotie-aux-epices.jpg"
+    ],
+    "import_source_index": 116,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Patate douce rôtie aux épices"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tuile-dentelle",
+  "recipe_id": "00320",
+  "file": "recettes/00320_tuile-dentelle.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tuile-dentelle",
+    "title": "Tuile dentelle",
+    "original_title": "Tuile dentelle",
+    "source_file": "33-Tuile dentelle.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Assaisonnement"
+    ],
+    "ingredients": [
+      "160 g de Eau",
+      "60 g de Huile",
+      "20 g de Farine",
+      "Sel"
+    ],
+    "ingredients_raw": "160 g de Eau\n60 g de Huile\n20 g de Farine\nSel",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DOGIb_TjF9f",
+    "source_id": "instagram.com/reel/DOGIb_TjF9f",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "160 g d’eau",
+      "60 g d’huile neutre",
+      "20 g de farine pm sel ( option : encre de sèche pour une tuile bien noire)",
+      "20 g de farine pm sel ( option : encre de sèche pour une tuile bien noire)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "160 g de Eau",
+        "quantity": "160",
+        "unit": "g",
+        "name": "Eau"
+      },
+      {
+        "raw": "60 g de Huile",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Huile"
+      },
+      {
+        "raw": "20 g de Farine",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00320",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "160 g d’eau",
+        "quantity": 160,
+        "unit": "g",
+        "ingredient": "Eau",
+        "source_table_row": 430,
+        "source_detected": {
+          "quantity": "160",
+          "unit": "g",
+          "ingredient": "eau"
+        },
+        "table_decision": {
+          "quantity_proposed": 160,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "60 g d’huile neutre",
+        "quantity": 60,
+        "unit": "g",
+        "ingredient": "Huile",
+        "source_table_row": 431,
+        "source_detected": {
+          "quantity": "60",
+          "unit": "g",
+          "ingredient": "huile neutre"
+        },
+        "table_decision": {
+          "quantity_proposed": 60,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "20 g de farine pm sel ( option : encre de sèche pour une tuile bien noire)",
+        "quantity": 20,
+        "unit": "g",
+        "ingredient": "Farine",
+        "source_table_row": 432,
+        "source_detected": {
+          "quantity": "20",
+          "unit": "g",
+          "ingredient": "farine pm sel ( option : encre de sèche pour une tuile bien noire)"
+        },
+        "table_decision": {
+          "quantity_proposed": 20,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "20 g de farine pm sel ( option : encre de sèche pour une tuile bien noire)",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 433,
+        "source_detected": {
+          "quantity": "20",
+          "unit": null,
+          "ingredient": "farine pm sel ( option : encre de sèche pour une tuile bien noire)"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00320_tuile-dentelle.jpg",
+    "images": [
+      "images/00320_tuile-dentelle.jpg"
+    ],
+    "import_source_index": 68,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Tuile dentelle"
+    ]
+  }
+}

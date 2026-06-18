@@ -1,0 +1,266 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pate-a-pizza-maison-2",
+  "recipe_id": "00363",
+  "file": "recettes/00363_pate-a-pizza-maison-2.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pate-a-pizza-maison-2",
+    "title": "Pâte à pizza maison",
+    "original_title": "Tu as entre tes mains ma recette ULTIME, fais en bon usage",
+    "source_file": "102-Tu as entre tes mains ma recette ULTIME, fais en bon usage.melarecipe",
+    "categories": [
+      "Végétarien"
+    ],
+    "ingredients": [
+      "500 g de Farine",
+      "100 g de Huile",
+      "200 ml de Eau",
+      "100 ml de Lait",
+      "2 unité de Levure de boulanger",
+      "1 cuillère à café de Sucre",
+      "8 g de Sel"
+    ],
+    "ingredients_raw": "500 g de Farine\n100 g de Huile\n200 ml de Eau\n100 ml de Lait\n2 unité de Levure de boulanger\n1 cuillère à café de Sucre\n8 g de Sel",
+    "instructions": "Fais tiédir le lait, ajoute la levure et le sucre, et laisse reposer 5 minutes pour activer. Dans un grand saladier, verse la farine, l’eau, l’huile, le sel et …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DNtQx261HAl",
+    "source_id": "instagram.com/reel/DNtQx261HAl",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "500 g de farine",
+      "100 g d’huile",
+      "200 ml d’eau",
+      "100 ml de lait tiède",
+      "2 sachets de levure boulangère",
+      "1 c. à café de sucre",
+      "8 g de sel Pizza Prélève des pâtons, étale s"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "500 g de Farine",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "100 g de Huile",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Huile"
+      },
+      {
+        "raw": "200 ml de Eau",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "100 ml de Lait",
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "raw": "2 unité de Levure de boulanger",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "1 cuillère à café de Sucre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sucre"
+      },
+      {
+        "raw": "8 g de Sel",
+        "quantity": "8",
+        "unit": "g",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00363",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "500 g de farine",
+        "quantity": 500,
+        "unit": "g",
+        "ingredient": "Farine",
+        "source_table_row": 691,
+        "source_detected": {
+          "quantity": "500",
+          "unit": "g",
+          "ingredient": "farine"
+        },
+        "table_decision": {
+          "quantity_proposed": 500,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "100 g d’huile",
+        "quantity": 100,
+        "unit": "g",
+        "ingredient": "Huile",
+        "source_table_row": 692,
+        "source_detected": {
+          "quantity": "100",
+          "unit": "g",
+          "ingredient": "huile"
+        },
+        "table_decision": {
+          "quantity_proposed": 100,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "200 ml d’eau",
+        "quantity": 200,
+        "unit": "ml",
+        "ingredient": "Eau",
+        "source_table_row": 693,
+        "source_detected": {
+          "quantity": "200",
+          "unit": "ml",
+          "ingredient": "eau"
+        },
+        "table_decision": {
+          "quantity_proposed": 200,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "100 ml de lait tiède",
+        "quantity": 100,
+        "unit": "ml",
+        "ingredient": "Lait",
+        "source_table_row": 694,
+        "source_detected": {
+          "quantity": "100",
+          "unit": "ml",
+          "ingredient": "lait tiède"
+        },
+        "table_decision": {
+          "quantity_proposed": 100,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Lait",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 sachets de levure boulangère",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Levure de boulanger",
+        "source_table_row": 695,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "sachets de levure boulangère"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Levure de boulanger",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 c. à café de sucre",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Sucre",
+        "source_table_row": 696,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "c. à café de sucre"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à café",
+          "ingredient_proposed": "Sucre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "8 g de sel Pizza Prélève des pâtons, étale s",
+        "quantity": 8,
+        "unit": "g",
+        "ingredient": "Sel",
+        "source_table_row": 697,
+        "source_detected": {
+          "quantity": "8",
+          "unit": "g",
+          "ingredient": "sel Pizza Prélève des pâtons, étale s"
+        },
+        "table_decision": {
+          "quantity_proposed": 8,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00363_pate-a-pizza-maison-2.jpg",
+    "images": [
+      "images/00363_pate-a-pizza-maison-2.jpg"
+    ],
+    "import_source_index": 113,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Pâte à pizza maison"
+    ]
+  }
+}

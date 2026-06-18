@@ -1,0 +1,271 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "one-pot-gyoza-au-lait-de-coco",
+  "recipe_id": "00319",
+  "file": "recettes/00319_one-pot-gyoza-au-lait-de-coco.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "one-pot-gyoza-au-lait-de-coco",
+    "title": "One-pot gyoza au lait de coco",
+    "original_title": "ONEPOT GYOZA",
+    "source_file": "18-ONEPOT GYOZA.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Curry/Dahl",
+      "One-pot",
+      "Plats",
+      "Sauce"
+    ],
+    "ingredients": [
+      "1 cuillère à soupe de Pâte de curry rouge",
+      "1 cuillère à soupe de Pâte de miso",
+      "1 cuillère à soupe de Beurre de cacahuète",
+      "3 cuillère à soupe de Sauce soja",
+      "400 ml de Lait de coco",
+      "0.5 unité de Jus de citron vert",
+      "2 gousse de Ail"
+    ],
+    "ingredients_raw": "1 cuillère à soupe de Pâte de curry rouge\n1 cuillère à soupe de Pâte de miso\n1 cuillère à soupe de Beurre de cacahuète\n3 cuillère à soupe de Sauce soja\n400 ml de Lait de coco\n0.5 unité de Jus de citron vert\n2 gousse de Ail",
+    "instructions": "Mélanger tous les ingrédients pour la sauce. Découper la cebette et ajouter le blanc à la sauce et les épinards. Ajouter un peu d’eau si besoin et mélange, puis…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DUi3ReKiBcQ",
+    "source_id": "instagram.com/reel/DUi3ReKiBcQ",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 cas de pâte de curry rouge",
+      "1 cas de pâte miso",
+      "1 cas de beurre de cacahuète",
+      "3 cas de sauce soja",
+      "400ml de lait de coco",
+      "1/2 jus de citron vert",
+      "2 gousses d’ail 1"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 cuillère à soupe de Pâte de curry rouge",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Pâte de curry rouge"
+      },
+      {
+        "raw": "1 cuillère à soupe de Pâte de miso",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Pâte de miso"
+      },
+      {
+        "raw": "1 cuillère à soupe de Beurre de cacahuète",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "3 cuillère à soupe de Sauce soja",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "400 ml de Lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "0.5 unité de Jus de citron vert",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Jus de citron vert"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00319",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 cas de pâte de curry rouge",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Pâte de curry rouge",
+        "source_table_row": 423,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cas",
+          "ingredient": "pâte de curry rouge"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâte de curry rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cas de pâte miso",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Pâte de miso",
+        "source_table_row": 424,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cas",
+          "ingredient": "pâte miso"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâte de miso",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cas de beurre de cacahuète",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Beurre de cacahuète",
+        "source_table_row": 425,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cas",
+          "ingredient": "beurre de cacahuète"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Beurre de cacahuète",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "3 cas de sauce soja",
+        "quantity": 3,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce soja",
+        "source_table_row": 426,
+        "source_detected": {
+          "quantity": "3",
+          "unit": "cas",
+          "ingredient": "sauce soja"
+        },
+        "table_decision": {
+          "quantity_proposed": 3,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sauce soja",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "400ml de lait de coco",
+        "quantity": 400,
+        "unit": "ml",
+        "ingredient": "Lait de coco",
+        "source_table_row": 427,
+        "source_detected": {
+          "quantity": "400",
+          "unit": "ml",
+          "ingredient": "lait de coco"
+        },
+        "table_decision": {
+          "quantity_proposed": 400,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Lait de coco",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 jus de citron vert",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Jus de citron vert",
+        "source_table_row": 428,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "jus de citron vert"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Jus de citron vert",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 gousses d’ail 1",
+        "quantity": 2,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 429,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "gousses",
+          "ingredient": "ail 1"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00319_one-pot-gyoza-au-lait-de-coco.jpg",
+    "images": [
+      "images/00319_one-pot-gyoza-au-lait-de-coco.jpg"
+    ],
+    "import_source_index": 67,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : One-pot gyoza au lait de coco"
+    ]
+  }
+}

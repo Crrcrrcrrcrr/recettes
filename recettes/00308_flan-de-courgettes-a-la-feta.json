@@ -1,0 +1,208 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "flan-de-courgettes-a-la-feta",
+  "recipe_id": "00308",
+  "file": "recettes/00308_flan-de-courgettes-a-la-feta.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "flan-de-courgettes-a-la-feta",
+    "title": "Flan de courgettes à la feta",
+    "original_title": "Une super recette pour faire manger des courgettes aux petits comme aux grands récalcitrants",
+    "source_file": "13-Une super recette pour faire manger des courgettes aux petits comme aux grands récalcitrants.melarecipe",
+    "categories": [
+      "Plats",
+      "Tarte",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "2 unité de Courgette",
+      "4 unité de Œuf",
+      "0.5 bloc de Feta",
+      "unité de Persil",
+      "unité de Mozzarella râpée"
+    ],
+    "ingredients_raw": "2 unité de Courgette\n4 unité de Œuf\n0.5 bloc de Feta\nunité de Persil\nunité de Mozzarella râpée",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DVZD5KpiInt",
+    "source_id": "instagram.com/reel/DVZD5KpiInt",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 courgettes bien épaisse comme la mienne 🥒",
+      "4 œufs de poule",
+      "1/2 fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀",
+      "1/2 fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀",
+      "1/2 fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 unité de Courgette",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Courgette"
+      },
+      {
+        "raw": "4 unité de Œuf",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "0.5 bloc de Feta",
+        "quantity": "0.5",
+        "unit": "bloc",
+        "name": "Feta"
+      },
+      {
+        "raw": "unité de Persil",
+        "quantity": "",
+        "unit": "unité",
+        "name": "Persil"
+      },
+      {
+        "raw": "unité de Mozzarella râpée",
+        "quantity": "",
+        "unit": "unité",
+        "name": "Mozzarella râpée"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00308",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 courgettes bien épaisse comme la mienne 🥒",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Courgette",
+        "source_table_row": 357,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "courgettes bien épaisse comme la mienne 🥒"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Courgette",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "4 œufs de poule",
+        "quantity": 4,
+        "unit": "unité",
+        "ingredient": "Œuf",
+        "source_table_row": 358,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "unité",
+          "ingredient": "œufs de poule"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Œuf",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀",
+        "quantity": 0.5,
+        "unit": "bloc",
+        "ingredient": "Feta",
+        "source_table_row": 359,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "bloc",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Feta",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀",
+        "quantity": null,
+        "unit": "unité",
+        "ingredient": "Persil",
+        "source_table_row": 360,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": "fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Persil",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀",
+        "quantity": null,
+        "unit": "unité",
+        "ingredient": "Mozzarella râpée",
+        "source_table_row": 361,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": "fêta 🇬🇷 Persil 🌿 Mozzarella Rapée 🧀"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Mozzarella râpée",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00308_flan-de-courgettes-a-la-feta.jpg",
+    "images": [
+      "images/00308_flan-de-courgettes-a-la-feta.jpg"
+    ],
+    "import_source_index": 56,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Flan de courgettes à la feta"
+    ]
+  }
+}

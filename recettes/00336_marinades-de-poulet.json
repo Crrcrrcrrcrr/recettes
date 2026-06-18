@@ -1,0 +1,90 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "marinades-de-poulet",
+  "recipe_id": "00336",
+  "file": "recettes/00336_marinades-de-poulet.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "marinades-de-poulet",
+    "title": "Marinades de poulet",
+    "original_title": "Mes marinades de poulet (300gr par sachet) :",
+    "source_file": "26-Mes marinades de poulet (300gr par sachet) :.melarecipe",
+    "categories": [
+      "Curry/Dahl",
+      "Indien",
+      "Marinade",
+      "Plats",
+      "Viande"
+    ],
+    "ingredients": [
+      "Mes Marinades De Poulet (300Gr Par Sachet) : Indienne"
+    ],
+    "ingredients_raw": "Mes Marinades De Poulet (300Gr Par Sachet) : Indienne",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DTFXHNBCInN",
+    "source_id": "instagram.com/reel/DTFXHNBCInN",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Mes marinades de poulet (300gr par sachet) : Indienne"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Mes Marinades De Poulet (300Gr Par Sachet) : Indienne",
+        "quantity": "",
+        "unit": "",
+        "name": "Mes Marinades De Poulet (300Gr Par Sachet) : Indienne"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00336",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Mes marinades de poulet (300gr par sachet) : Indienne",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Mes Marinades De Poulet (300Gr Par Sachet) : Indienne",
+        "source_table_row": 535,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Mes Marinades De Poulet (300Gr Par Sachet) : Indienne",
+          "ingredient_action": null,
+          "ingredient_validation_or_correction": null
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00336_marinades-de-poulet.jpg",
+    "images": [
+      "images/00336_marinades-de-poulet.jpg"
+    ],
+    "import_source_index": 84,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Marinades de poulet"
+    ]
+  }
+}

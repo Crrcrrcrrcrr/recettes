@@ -1,0 +1,387 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "ramen-express",
+  "recipe_id": "00329",
+  "file": "recettes/00329_ramen-express.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "ramen-express",
+    "title": "Ramen express",
+    "original_title": "5-minute Ramen Soup Bowl !!",
+    "source_file": "117-5-minute Ramen Soup Bowl !!.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Soupe/Velouté"
+    ],
+    "ingredients": [
+      "1 gousse de Ail",
+      "0.5 cm de Gingembre frais",
+      "1 cuillère à soupe de Coriandre",
+      "2 cuillère à soupe de Oignon",
+      "1 unité de Chili en poudre",
+      "1 cuillère à soupe de Graine de sésame",
+      "1 cuillère à soupe de Sel",
+      "0.75 tasse de Lait",
+      "1 Nouilles",
+      "1 unité de Œuf",
+      "1 cuillère à soupe de Sauce chili"
+    ],
+    "ingredients_raw": "1 gousse de Ail\n0.5 cm de Gingembre frais\n1 cuillère à soupe de Coriandre\n2 cuillère à soupe de Oignon\n1 unité de Chili en poudre\n1 cuillère à soupe de Graine de sésame\n1 cuillère à soupe de Sel\n0.75 tasse de Lait\n1 Nouilles\n1 unité de Œuf\n1 cuillère à soupe de Sauce chili",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DMp6Fa-oL8f",
+    "source_id": "instagram.com/reel/DMp6Fa-oL8f",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped",
+      "1 clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped",
+      "1 tbsp of chopped Coriander",
+      "2 tbsp of Spring onions chopped",
+      "1 tsp Red chilli powder",
+      "1 tsp Sesame seeds",
+      "1 tsp Salt or more",
+      "3/4 cup any choice of Hot Milk (heat up the milk until it boils & pour directly to the noodle bowl)",
+      "1 pack of boiled ramen noodles",
+      "One soft boiled egg",
+      "1 tsp of Sweet chilli sauce or sauce of your choice(optional)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "0.5 cm de Gingembre frais",
+        "quantity": "0.5",
+        "unit": "cm",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "1 cuillère à soupe de Coriandre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "2 cuillère à soupe de Oignon",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 unité de Chili en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Chili en poudre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Graine de sésame",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sel"
+      },
+      {
+        "raw": "0.75 tasse de Lait",
+        "quantity": "0.75",
+        "unit": "tasse",
+        "name": "Lait"
+      },
+      {
+        "raw": "1 Nouilles",
+        "quantity": "1",
+        "unit": "",
+        "name": "Nouilles"
+      },
+      {
+        "raw": "1 unité de Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce chili",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce chili"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00329",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped",
+        "quantity": 1,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 482,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "gousses",
+          "ingredient": "clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped",
+        "quantity": 0.5,
+        "unit": "cm",
+        "ingredient": "Gingembre frais",
+        "source_table_row": 483,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cm",
+          "ingredient": "clove of garlic chopped Small piece of Ginger chopped (half a cm) Half a Red chilli chopped"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "cm",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Gingembre frais",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tbsp of chopped Coriander",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Coriandre",
+        "source_table_row": 484,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "tbsp of chopped Coriander"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Coriandre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 tbsp of Spring onions chopped",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Oignon",
+        "source_table_row": 485,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "tbsp of Spring onions chopped"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Oignon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tsp Red chilli powder",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Chili en poudre",
+        "source_table_row": 486,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "tsp"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Chili en poudre",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tsp Sesame seeds",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Graine de sésame",
+        "source_table_row": 487,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Graine de sésame",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tsp Salt or more",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sel",
+        "source_table_row": 488,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "3/4 cup any choice of Hot Milk (heat up the milk until it boils & pour directly to the noodle bowl)",
+        "quantity": 0.75,
+        "unit": "tasse",
+        "ingredient": "Lait",
+        "source_table_row": 489,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 0.75,
+          "quantity_validation": "OK",
+          "unit_proposed": "cup",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Lait",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 pack of boiled ramen noodles",
+        "quantity": 1,
+        "unit": null,
+        "ingredient": "Nouilles",
+        "source_table_row": 490,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Nouilles",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "One soft boiled egg",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Œuf",
+        "source_table_row": 491,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Œuf",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tsp of Sweet chilli sauce or sauce of your choice(optional)",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce chili",
+        "source_table_row": 492,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sauce chili",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00329_ramen-express.jpg",
+    "images": [
+      "images/00329_ramen-express.jpg"
+    ],
+    "import_source_index": 77,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Ramen express"
+    ]
+  }
+}

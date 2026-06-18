@@ -1,0 +1,269 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "poivrons-marines-maison",
+  "recipe_id": "00317",
+  "file": "recettes/00317_poivrons-marines-maison.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "poivrons-marines-maison",
+    "title": "Poivrons marinés maison",
+    "original_title": "️ recette des poivrons marinés maison",
+    "source_file": "45-️ recette des poivrons marinés maison.melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Froid",
+      "Vegan",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "4 unité de Poivron",
+      "3 gousse de Ail",
+      "4 cuillère à soupe de Huile d’olive",
+      "1.5 cuillère à soupe de Vinaigre de vin",
+      "Sel",
+      "Poivre",
+      "Thym"
+    ],
+    "ingredients_raw": "4 unité de Poivron\n3 gousse de Ail\n4 cuillère à soupe de Huile d’olive\n1.5 cuillère à soupe de Vinaigre de vin\nSel\nPoivre\nThym",
+    "instructions": "Rincer les poivrons et les enfourner entiers en haut du four à 200C sur une grille recouverte d’un papier cuisson. Les poivrons vont roussir et se friper au bou…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DMfAGYrsi-Y",
+    "source_id": "instagram.com/reel/DMfAGYrsi-Y",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4 poivrons 3-4 gousses d’ail pressées",
+      "4 poivrons 3-4 gousses d’ail pressées",
+      "4 c-à-s d’huile d’olive",
+      "1½ c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)",
+      "1½ c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)",
+      "1½ c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)",
+      "1½ c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 unité de Poivron",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Poivron"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "4 cuillère à soupe de Huile d’olive",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1.5 cuillère à soupe de Vinaigre de vin",
+        "quantity": "1.5",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de vin"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "",
+        "unit": "",
+        "name": "Thym"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00317",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "4 poivrons 3-4 gousses d’ail pressées",
+        "quantity": 4,
+        "unit": "unité",
+        "ingredient": "Poivron",
+        "source_table_row": 415,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "unité",
+          "ingredient": "poivrons 3-4 gousses d’ail pressées"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Poivron",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "4 poivrons 3-4 gousses d’ail pressées",
+        "quantity": 3,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 416,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "unité",
+          "ingredient": "poivrons 3-4 gousses d’ail pressées"
+        },
+        "table_decision": {
+          "quantity_proposed": 3,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "4 c-à-s d’huile d’olive",
+        "quantity": 4,
+        "unit": "cuillère à soupe",
+        "ingredient": "Huile d’olive",
+        "source_table_row": 417,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "cuillère à soupe",
+          "ingredient": "c-à-s d’huile d’olive"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile d’olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1½ c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)",
+        "quantity": 1.5,
+        "unit": "cuillère à soupe",
+        "ingredient": "Vinaigre de vin",
+        "source_table_row": 418,
+        "source_detected": {
+          "quantity": "½",
+          "unit": "cuillère à soupe",
+          "ingredient": "c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)"
+        },
+        "table_decision": {
+          "quantity_proposed": 1.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Vinaigre de vin",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1½ c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 419,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1½ c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Poivre",
+        "source_table_row": 420,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1½ c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Thym",
+        "source_table_row": 421,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "c-à-s de vinaigre de vin sel poivre Aromates au choix (thym, piment etc)"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Thym",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00317_poivrons-marines-maison.jpg",
+    "images": [
+      "images/00317_poivrons-marines-maison.jpg"
+    ],
+    "import_source_index": 65,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Poivrons marinés maison"
+    ]
+  }
+}

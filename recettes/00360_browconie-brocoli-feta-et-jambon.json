@@ -1,0 +1,327 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "browconie-brocoli-feta-et-jambon",
+  "recipe_id": "00360",
+  "file": "recettes/00360_browconie-brocoli-feta-et-jambon.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "browconie-brocoli-feta-et-jambon",
+    "title": "Browconie brocoli, feta et jambon",
+    "original_title": "Le Browconie",
+    "source_file": "11-Le Browconie.melarecipe",
+    "categories": [
+      "Plats",
+      "Viande"
+    ],
+    "ingredients": [
+      "1 unité de Brocoli",
+      "2 unité de Œuf",
+      "160 g de Farine",
+      "0.5 bloc de Allumettes de jambon",
+      "250 ml de Lait",
+      "Sel",
+      "Poivre",
+      "Ail en poudre",
+      "1 filet de Ail en poudre"
+    ],
+    "ingredients_raw": "1 unité de Brocoli\n2 unité de Œuf\n160 g de Farine\n0.5 bloc de Allumettes de jambon\n250 ml de Lait\nSel\nPoivre\nAil en poudre\n1 filet de Ail en poudre",
+    "instructions": "Faire cuire 30-40 minutes à 180C selon votre four 🔥",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DVbgpMrCPtk",
+    "source_id": "instagram.com/reel/DVbgpMrCPtk",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 brocoli (précuit légèrement)et bien égoutté.",
+      "2 œufs",
+      "160 g de farine",
+      "1/2 feta allumettes de jambon",
+      "250 ml de lait Sel, poivre, ail en poudre Un filet d’huile d",
+      "250 ml de lait Sel, poivre, ail en poudre Un filet d’huile d",
+      "250 ml de lait Sel, poivre, ail en poudre Un filet d’huile d",
+      "250 ml de lait Sel, poivre, ail en poudre Un filet d’huile d",
+      "250 ml de lait Sel, poivre, ail en poudre Un filet d’huile d"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Brocoli",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Brocoli"
+      },
+      {
+        "raw": "2 unité de Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "160 g de Farine",
+        "quantity": "160",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "0.5 bloc de Allumettes de jambon",
+        "quantity": "0.5",
+        "unit": "bloc",
+        "name": "Allumettes de jambon"
+      },
+      {
+        "raw": "250 ml de Lait",
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "",
+        "unit": "",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "1 filet de Ail en poudre",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Ail en poudre"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00360",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 brocoli (précuit légèrement)et bien égoutté.",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Brocoli",
+        "source_table_row": 677,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "brocoli (précuit légèrement)et bien égoutté."
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Brocoli",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 œufs",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Œuf",
+        "source_table_row": 678,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "œufs"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Œuf",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "160 g de farine",
+        "quantity": 160,
+        "unit": "g",
+        "ingredient": "Farine",
+        "source_table_row": 679,
+        "source_detected": {
+          "quantity": "160",
+          "unit": "g",
+          "ingredient": "farine"
+        },
+        "table_decision": {
+          "quantity_proposed": 160,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 feta allumettes de jambon",
+        "quantity": 0.5,
+        "unit": "bloc",
+        "ingredient": "Allumettes de jambon",
+        "source_table_row": 680,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "feta allumettes de jambon"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "bloc",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Allumettes de jambon",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "250 ml de lait Sel, poivre, ail en poudre Un filet d’huile d",
+        "quantity": 250,
+        "unit": "ml",
+        "ingredient": "Lait",
+        "source_table_row": 681,
+        "source_detected": {
+          "quantity": "250",
+          "unit": "ml",
+          "ingredient": "lait Sel, poivre, ail en poudre Un filet d’huile d"
+        },
+        "table_decision": {
+          "quantity_proposed": 250,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Lait",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "250 ml de lait Sel, poivre, ail en poudre Un filet d’huile d",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 682,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "lait Sel, poivre, ail en poudre Un filet d’huile d"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "250 ml de lait Sel, poivre, ail en poudre Un filet d’huile d",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Poivre",
+        "source_table_row": 683,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "lait Sel, poivre, ail en poudre Un filet d’huile d"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "250 ml de lait Sel, poivre, ail en poudre Un filet d’huile d",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Ail en poudre",
+        "source_table_row": 684,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "lait Sel, poivre, ail en poudre Un filet d’huile d"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Ail en poudre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "250 ml de lait Sel, poivre, ail en poudre Un filet d’huile d",
+        "quantity": 1,
+        "unit": "filet",
+        "ingredient": "Ail en poudre",
+        "source_table_row": 685,
+        "source_detected": {
+          "quantity": 1,
+          "unit": "filet",
+          "ingredient": "lait Sel, poivre, ail en poudre Un filet d’huile d"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "filet",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail en poudre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00360_browconie-brocoli-feta-et-jambon.jpg",
+    "images": [
+      "images/00360_browconie-brocoli-feta-et-jambon.jpg"
+    ],
+    "import_source_index": 110,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Browconie brocoli, feta et jambon"
+    ]
+  }
+}

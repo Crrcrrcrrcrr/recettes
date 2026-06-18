@@ -1,0 +1,176 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "baguettes-maison-2",
+  "recipe_id": "00339",
+  "file": "recettes/00339_baguettes-maison-2.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "baguettes-maison-2",
+    "title": "Baguettes maison",
+    "original_title": "𝓣𝓮𝓼 𝓫𝓪𝓰𝓾𝓮𝓽𝓽𝓮𝓼 𝓶𝓪𝓲𝓼𝓸𝓷",
+    "source_file": "86-𝓣𝓮𝓼 𝓫𝓪𝓰𝓾𝓮𝓽𝓽𝓮𝓼 𝓶𝓪𝓲𝓼𝓸𝓷.melarecipe",
+    "categories": [
+      "Pains/wraps"
+    ],
+    "ingredients": [
+      "600 ml de Eau",
+      "2 sachet de Levure de boulanger",
+      "800 g de Farine T65",
+      "15 g de Sel"
+    ],
+    "ingredients_raw": "600 ml de Eau\n2 sachet de Levure de boulanger\n800 g de Farine T65\n15 g de Sel",
+    "instructions": "Mélangez l’eau et la levure boulangère pour l’activer et laissez reposer quelques minutes. Dans un autre saladier, versez la farine ainsi que le sel et y ajoute…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DRAWtjfDTXM",
+    "source_id": "instagram.com/reel/DRAWtjfDTXM",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "600ml d’eau",
+      "2 sachets de levure boulangère (8gr x2)",
+      "800gr de farine t65",
+      "15gr de sel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "600 ml de Eau",
+        "quantity": "600",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "2 sachet de Levure de boulanger",
+        "quantity": "2",
+        "unit": "sachet",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "800 g de Farine T65",
+        "quantity": "800",
+        "unit": "g",
+        "name": "Farine T65"
+      },
+      {
+        "raw": "15 g de Sel",
+        "quantity": "15",
+        "unit": "g",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00339",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "600ml d’eau",
+        "quantity": 600,
+        "unit": "ml",
+        "ingredient": "Eau",
+        "source_table_row": 546,
+        "source_detected": {
+          "quantity": "600",
+          "unit": "ml",
+          "ingredient": "eau"
+        },
+        "table_decision": {
+          "quantity_proposed": 600,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 sachets de levure boulangère (8gr x2)",
+        "quantity": 2,
+        "unit": "sachet",
+        "ingredient": "Levure de boulanger",
+        "source_table_row": 547,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "sachets de levure boulangère (8gr x2)"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "sachet",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Levure de boulanger",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "800gr de farine t65",
+        "quantity": 800,
+        "unit": "g",
+        "ingredient": "Farine T65",
+        "source_table_row": 548,
+        "source_detected": {
+          "quantity": 800,
+          "unit": "g",
+          "ingredient": "800gr de farine t65"
+        },
+        "table_decision": {
+          "quantity_proposed": 800,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Farine T65",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "15gr de sel",
+        "quantity": 15,
+        "unit": "g",
+        "ingredient": "Sel",
+        "source_table_row": 549,
+        "source_detected": {
+          "quantity": 15,
+          "unit": "g",
+          "ingredient": "15gr de sel"
+        },
+        "table_decision": {
+          "quantity_proposed": 15,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00339_baguettes-maison-2.jpg",
+    "images": [
+      "images/00339_baguettes-maison-2.jpg"
+    ],
+    "import_source_index": 87,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Baguettes maison"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-au-citron-boursin-et-ail-roti",
+  "recipe_id": "00318",
+  "file": "recettes/00318_pates-au-citron-boursin-et-ail-roti.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-au-citron-boursin-et-ail-roti",
+    "title": "Pâtes au citron, boursin et ail rôti",
+    "original_title": "Der Sommer schreit für mich immer nach frischen, saftigen Zitronen. Heute habe ich ein passendes Rezept für euch welches ihr ganz easy im Backofen zubereiten könnt",
+    "source_file": "62-Der Sommer schreit für mich immer nach frischen, saftigen Zitronen. Heute habe ich ein passendes Rezept für euch welches ihr ganz easy im Backofen zubereiten könnt.melarecipe",
+    "categories": [
+      "Plats",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "️Backofen auf 180°C Umluft vorheizen. ️Die Zitrone gut abwaschen, halbieren und zusammen mit dem Frischkäse, den Scharlotten, dem Knoblauch, Salz, Pfeffer und O…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CvNgBiDtBGn",
+    "source_id": "instagram.com/reel/CvNgBiDtBGn",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00318",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00318_pates-au-citron-boursin-et-ail-roti.jpg",
+    "images": [
+      "images/00318_pates-au-citron-boursin-et-ail-roti.jpg"
+    ],
+    "import_source_index": 66,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Pâtes au citron, boursin et ail rôti",
+      "Aucun ingrédient conservé dans le tableau corrigé."
+    ]
+  }
+}

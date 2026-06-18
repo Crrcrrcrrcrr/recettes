@@ -1,0 +1,207 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "epaule-d-agneau-marinee",
+  "recipe_id": "00338",
+  "file": "recettes/00338_epaule-d-agneau-marinee.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "epaule-d-agneau-marinee",
+    "title": "Epaule d'agneau marinée",
+    "original_title": "Un résultat digne d’un restaurant et une recette INRATABLE beaucoup plus simple et accessible qu’il n’y parait",
+    "source_file": "8-Un résultat digne d’un restaurant et une recette INRATABLE beaucoup plus simple et accessible qu’il n’y parait.melarecipe",
+    "categories": [
+      "Marinade",
+      "Viande"
+    ],
+    "ingredients": [
+      "2 cuillère à soupe de Moutarde",
+      "1 cuillère à soupe de Miel",
+      "2 cuillère à soupe de Huile",
+      "1 cuillère à soupe de Paprika fumé",
+      "1 cuillère à soupe de Ail en poudre"
+    ],
+    "ingredients_raw": "2 cuillère à soupe de Moutarde\n1 cuillère à soupe de Miel\n2 cuillère à soupe de Huile\n1 cuillère à soupe de Paprika fumé\n1 cuillère à soupe de Ail en poudre",
+    "instructions": "Ces proportions s’appliquent à un gigot moyen/petit pouvant nourrir 4/5 personnes. A toi de les ajuster en fonction de la taille de ton gigot ou au nombre de so…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DUs_mHYDVeJ",
+    "source_id": "instagram.com/reel/DUs_mHYDVeJ",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 cs de moutarde",
+      "1 cs de miel",
+      "2 cs d’huile végétale",
+      "1 cs bombée de paprika (fumé pour moi 🤤)",
+      "1cs d’ail en poudre (tu peux aussi inciser ta"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 cuillère à soupe de Moutarde",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "1 cuillère à soupe de Paprika fumé",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 cuillère à soupe de Ail en poudre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Ail en poudre"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00338",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 cs de moutarde",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Moutarde",
+        "source_table_row": 541,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "cs de moutarde"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Moutarde",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cs de miel",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Miel",
+        "source_table_row": 542,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "cs de miel"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Miel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 cs d’huile végétale",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Huile",
+        "source_table_row": 543,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "cs d’huile végétale"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cs bombée de paprika (fumé pour moi 🤤)",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Paprika fumé",
+        "source_table_row": 544,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "cs bombée de paprika (fumé pour moi 🤤)"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Paprika fumé",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1cs d’ail en poudre (tu peux aussi inciser ta",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Ail en poudre",
+        "source_table_row": 545,
+        "source_detected": {
+          "quantity": 1,
+          "unit": null,
+          "ingredient": "1cs d’ail en poudre (tu peux aussi inciser ta"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail en poudre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00338_epaule-d-agneau-marinee.jpg",
+    "images": [
+      "images/00338_epaule-d-agneau-marinee.jpg"
+    ],
+    "import_source_index": 86,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Epaule d'agneau marinée"
+    ]
+  }
+}
