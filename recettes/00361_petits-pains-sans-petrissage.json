@@ -1,0 +1,177 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "petits-pains-sans-petrissage",
+  "recipe_id": "00361",
+  "file": "recettes/00361_petits-pains-sans-petrissage.json",
+  "updated_at": "2026-06-18T18:24:59.744474+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "petits-pains-sans-petrissage",
+    "title": "Petits pains sans pétrissage",
+    "original_title": "Petits pains de la flemme - sans pétrissage!",
+    "source_file": "115-Petits pains de la flemme - sans pétrissage!.melarecipe",
+    "categories": [
+      "Pain / Wraps",
+      "Pain"
+    ],
+    "ingredients": [
+      "600 g de Farine à pain",
+      "500 ml de Eau",
+      "10 g de Levure de boulanger",
+      "1 cuillère à soupe de Sel"
+    ],
+    "ingredients_raw": "600 g de Farine à pain\n500 ml de Eau\n10 g de Levure de boulanger\n1 cuillère à soupe de Sel",
+    "instructions": "Si tu utilises de la levure sèche active, mélange-la avec un peu d’eau prélevée sur les 500 ml, et laisse reposer 10 min jusqu’à ce que ça mousse (Si tu utilise…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DLKCKQ8I2JM",
+    "source_id": "instagram.com/reel/DLKCKQ8I2JM",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "600 g de farine T55 à pain",
+      "500 ml d’eau à température ambiante",
+      "10 g de levure sèche active",
+      "1 c. à soupe rase de sel (~10 g) Optionnel: Des graines (sésame, ni"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "600 g de Farine à pain",
+        "quantity": "600",
+        "unit": "g",
+        "name": "Farine à pain"
+      },
+      {
+        "raw": "500 ml de Eau",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "10 g de Levure de boulanger",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00361",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "600 g de farine T55 à pain",
+        "quantity": 600,
+        "unit": "g",
+        "ingredient": "Farine à pain",
+        "source_table_row": 686,
+        "source_detected": {
+          "quantity": "600",
+          "unit": "g",
+          "ingredient": "farine T55 à pain"
+        },
+        "table_decision": {
+          "quantity_proposed": 600,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine à pain",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "500 ml d’eau à température ambiante",
+        "quantity": 500,
+        "unit": "ml",
+        "ingredient": "Eau",
+        "source_table_row": 687,
+        "source_detected": {
+          "quantity": "500",
+          "unit": "ml",
+          "ingredient": "eau à température ambiante"
+        },
+        "table_decision": {
+          "quantity_proposed": 500,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "10 g de levure sèche active",
+        "quantity": 10,
+        "unit": "g",
+        "ingredient": "Levure de boulanger",
+        "source_table_row": 688,
+        "source_detected": {
+          "quantity": "10",
+          "unit": "g",
+          "ingredient": "levure sèche active"
+        },
+        "table_decision": {
+          "quantity_proposed": 10,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Levure de boulanger",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 c. à soupe rase de sel (~10 g) Optionnel: Des graines (sésame, ni",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sel",
+        "source_table_row": 689,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "c. à soupe rase de sel (~10 g) Optionnel: Des graines (sésame, ni"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00361_petits-pains-sans-petrissage.jpg",
+    "images": [
+      "images/00361_petits-pains-sans-petrissage.jpg"
+    ],
+    "import_source_index": 111,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Petits pains sans pétrissage"
+    ]
+  }
+}

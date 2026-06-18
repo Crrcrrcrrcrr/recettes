@@ -1,0 +1,239 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-aux-oignons",
+  "recipe_id": "00330",
+  "file": "recettes/00330_pates-aux-oignons.json",
+  "updated_at": "2026-06-18T18:24:59.728623+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-aux-oignons",
+    "title": "Pâtes aux oignons",
+    "original_title": "Back to Basics - Episode 1 : Pâtes aux oignons",
+    "source_file": "96-Back to Basics - Episode 1 : Pâtes aux oignons.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "2 unité de Oignon",
+      "Ail",
+      "0.5 brique de Crème fraîche",
+      "2 louche de Bouillon",
+      "Fromage",
+      "Pâtes"
+    ],
+    "ingredients_raw": "2 unité de Oignon\nAil\n0.5 brique de Crème fraîche\n2 louche de Bouillon\nFromage\nPâtes",
+    "instructions": "# Etapes: Couper les oignons en lamelles Les faire caraméliser à feu doux/moyen avec de l’ail Déglacer avec du bouillon Ajouter la crème et laisser cuire à feux…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQ9j5zsDK8b",
+    "source_id": "instagram.com/reel/DQ9j5zsDK8b",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "- 2 oignons",
+      "- Ail",
+      "- Crème (1/2 bouteille)",
+      "- Bouillon (2 bonnes louches) ",
+      "- Fromage de votre choix (parmesan pour ma part)",
+      "- Pâtes"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 unité de Oignon",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "",
+        "unit": "",
+        "name": "Ail"
+      },
+      {
+        "raw": "0.5 brique de Crème fraîche",
+        "quantity": "0.5",
+        "unit": "brique",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "2 louche de Bouillon",
+        "quantity": "2",
+        "unit": "louche",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "Fromage",
+        "quantity": "",
+        "unit": "",
+        "name": "Fromage"
+      },
+      {
+        "raw": "Pâtes",
+        "quantity": "",
+        "unit": "",
+        "name": "Pâtes"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00330",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "- 2 oignons",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Oignon",
+        "source_table_row": 493,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- Ail",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Ail",
+        "source_table_row": 494,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- Crème (1/2 bouteille)",
+        "quantity": 0.5,
+        "unit": "brique",
+        "ingredient": "Crème",
+        "source_table_row": 495,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "brique",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Crème",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- Bouillon (2 bonnes louches) ",
+        "quantity": 2,
+        "unit": "louche",
+        "ingredient": "Bouillon",
+        "source_table_row": 496,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "louche",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Bouillon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- Fromage de votre choix (parmesan pour ma part)",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Fromage",
+        "source_table_row": 497,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Fromage",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- Pâtes",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Pâtes",
+        "source_table_row": 498,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâtes",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00330_pates-aux-oignons.jpg",
+    "images": [
+      "images/00330_pates-aux-oignons.jpg"
+    ],
+    "import_source_index": 78,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Pâtes aux oignons"
+    ]
+  }
+}

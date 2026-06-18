@@ -1,0 +1,270 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-thai",
+  "recipe_id": "00345",
+  "file": "recettes/00345_salade-thai.json",
+  "updated_at": "2026-06-18T18:24:59.736904+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "salade-thai",
+    "title": "Salade thaï",
+    "original_title": "SALADE THAÏ",
+    "source_file": "51-SALADE THAÏ.melarecipe",
+    "categories": [
+      "Plats",
+      "Salade",
+      "Froid",
+      "Asiatique",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "Nouilles de Konjac",
+      "Chou rouge",
+      "Poivron",
+      "Carotte",
+      "Concombre",
+      "Basilic thaï",
+      "Cacahuète"
+    ],
+    "ingredients_raw": "Nouilles de Konjac\nChou rouge\nPoivron\nCarotte\nConcombre\nBasilic thaï\nCacahuète",
+    "instructions": "# 📝Étapes : Coupe tes légumes en lamelles et sers-les dans une assiette avec les nouilles de ton choix. Prépare la sauce et verse-là sur la salade. Régale-toi !…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DJ9pbjvsFoB",
+    "source_id": "instagram.com/reel/DJ9pbjvsFoB",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+      "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+      "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+      "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+      "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+      "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+      "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Nouilles de Konjac",
+        "quantity": "",
+        "unit": "",
+        "name": "Nouilles de Konjac"
+      },
+      {
+        "raw": "Chou rouge",
+        "quantity": "",
+        "unit": "",
+        "name": "Chou rouge"
+      },
+      {
+        "raw": "Poivron",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivron"
+      },
+      {
+        "raw": "Carotte",
+        "quantity": "",
+        "unit": "",
+        "name": "Carotte"
+      },
+      {
+        "raw": "Concombre",
+        "quantity": "",
+        "unit": "",
+        "name": "Concombre"
+      },
+      {
+        "raw": "Basilic thaï",
+        "quantity": "",
+        "unit": "",
+        "name": "Basilic thaï"
+      },
+      {
+        "raw": "Cacahuète",
+        "quantity": "",
+        "unit": "",
+        "name": "Cacahuète"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00345",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Nouilles de Konjac",
+        "source_table_row": 593,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Nouilles de Konjac",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Chou rouge",
+        "source_table_row": 594,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Chou rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Poivron",
+        "source_table_row": 595,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Poivron",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Carotte",
+        "source_table_row": 596,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Carotte",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Concombre",
+        "source_table_row": 597,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Concombre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Basilic thaï",
+        "source_table_row": 598,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Basilic thaï",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Cacahuète",
+        "source_table_row": 599,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "🔖Pour la réaliser : Nouilles de Konjac (j’utilise celle de chez @koro fr avec le code « Akim ») Chou rouge Poivrons Carottes Concombre Basilic Thaï Cacahuètes"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Cacahuète",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00345_salade-thai.jpg",
+    "images": [
+      "images/00345_salade-thai.jpg"
+    ],
+    "import_source_index": 93,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Salade thaï"
+    ]
+  }
+}

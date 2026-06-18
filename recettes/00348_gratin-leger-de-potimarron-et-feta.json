@@ -1,0 +1,268 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "gratin-leger-de-potimarron-et-feta",
+  "recipe_id": "00348",
+  "file": "recettes/00348_gratin-leger-de-potimarron-et-feta.json",
+  "updated_at": "2026-06-18T18:24:59.738691+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "gratin-leger-de-potimarron-et-feta",
+    "title": "Gratin léger de potimarron et feta",
+    "original_title": "Gratin léger de potimarron et feta pour 2 :",
+    "source_file": "110-Gratin léger de potimarron et feta pour 2 :.melarecipe",
+    "categories": [
+      "Plats",
+      "Gratin",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "0.5 unité de Potimarron",
+      "2 unité de Œuf",
+      "125 ml de Lait végétal",
+      "0.5 bloc de Feta",
+      "Sel",
+      "Poivre",
+      "1 filet de Huile d’olive"
+    ],
+    "ingredients_raw": "0.5 unité de Potimarron\n2 unité de Œuf\n125 ml de Lait végétal\n0.5 bloc de Feta\nSel\nPoivre\n1 filet de Huile d’olive",
+    "instructions": "Préchauffer le four à 180 °C. Laver le potimarron, retirer les graines et le couper en morceaux. Déposer les cubes dans un plat, arroser d’un peu d’huile d’oliv…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQM6N8tAt0r",
+    "source_id": "instagram.com/reel/DQM6N8tAt0r",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "½ potimarron",
+      "2 œufs",
+      "125 ml de lait vegetal",
+      "½ bloc de feta Sel Poivre Un filet d’huile d’olive",
+      "½ bloc de feta Sel Poivre Un filet d’huile d’olive",
+      "½ bloc de feta Sel Poivre Un filet d’huile d’olive",
+      "½ bloc de feta Sel Poivre Un filet d’huile d’olive"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "0.5 unité de Potimarron",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "2 unité de Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "125 ml de Lait végétal",
+        "quantity": "125",
+        "unit": "ml",
+        "name": "Lait végétal"
+      },
+      {
+        "raw": "0.5 bloc de Feta",
+        "quantity": "0.5",
+        "unit": "bloc",
+        "name": "Feta"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 filet de Huile d’olive",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Huile d’olive"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00348",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "½ potimarron",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Potimarron",
+        "source_table_row": 609,
+        "source_detected": {
+          "quantity": "½",
+          "unit": "unité",
+          "ingredient": "potimarron"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Potimarron",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 œufs",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Œuf",
+        "source_table_row": 610,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "œufs"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Œuf",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "125 ml de lait vegetal",
+        "quantity": 125,
+        "unit": "ml",
+        "ingredient": "Lait végétal",
+        "source_table_row": 611,
+        "source_detected": {
+          "quantity": "125",
+          "unit": "ml",
+          "ingredient": "lait vegetal"
+        },
+        "table_decision": {
+          "quantity_proposed": 125,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Lait végétal",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "½ bloc de feta Sel Poivre Un filet d’huile d’olive",
+        "quantity": 0.5,
+        "unit": "bloc",
+        "ingredient": "Feta",
+        "source_table_row": 612,
+        "source_detected": {
+          "quantity": "½",
+          "unit": "bloc",
+          "ingredient": "feta Sel Poivre Un filet d’huile d’olive"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "bloc",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Feta",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "½ bloc de feta Sel Poivre Un filet d’huile d’olive",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 613,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Sel Poivre Un filet d’huile d’olive"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "½ bloc de feta Sel Poivre Un filet d’huile d’olive",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Poivre",
+        "source_table_row": 614,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Sel Poivre Un filet d’huile d’olive"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "½ bloc de feta Sel Poivre Un filet d’huile d’olive",
+        "quantity": 1,
+        "unit": "filet",
+        "ingredient": "Huile d’olive",
+        "source_table_row": 615,
+        "source_detected": {
+          "quantity": 1,
+          "unit": "filet",
+          "ingredient": "feta Sel Poivre Un filet d’huile d’olive"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "filet",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile d’olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00348_gratin-leger-de-potimarron-et-feta.jpg",
+    "images": [
+      "images/00348_gratin-leger-de-potimarron-et-feta.jpg"
+    ],
+    "import_source_index": 97,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Gratin léger de potimarron et feta"
+    ]
+  }
+}

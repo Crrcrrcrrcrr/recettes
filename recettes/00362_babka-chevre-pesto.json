@@ -1,0 +1,89 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "babka-chevre-pesto",
+  "recipe_id": "00362",
+  "file": "recettes/00362_babka-chevre-pesto.json",
+  "updated_at": "2026-06-18T18:24:59.744789+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "babka-chevre-pesto",
+    "title": "Babka chèvre pesto",
+    "original_title": "𝐁𝐚𝐛𝐤𝐚 𝐜𝐡𝐞̀𝐯𝐫𝐞 𝐩𝐞𝐬𝐭𝐨",
+    "source_file": "4-𝐁𝐚𝐛𝐤𝐚 𝐜𝐡𝐞̀𝐯𝐫𝐞 𝐩𝐞𝐬𝐭𝐨.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Plats",
+      "Tarte / Quiche",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Pâte feuilletée"
+    ],
+    "ingredients_raw": "1 unité de Pâte feuilletée",
+    "instructions": "Étape 1️⃣ : Préchauffer le four à 180°C. Dérouler la pâte feuilletée. Étaler sur la surface le pesto. Étape 2️⃣ : Découper des rondelles de chèvre et les dispos…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DXmaKpUiHMA",
+    "source_id": "instagram.com/reel/DXmaKpUiHMA",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 babka : une pâte feuilletée 3"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00362",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 babka : une pâte feuilletée 3",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Pâte feuilletée",
+        "source_table_row": 690,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "babka : une pâte feuilletée 3"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâte feuilletée",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00362_babka-chevre-pesto.jpg",
+    "images": [
+      "images/00362_babka-chevre-pesto.jpg"
+    ],
+    "import_source_index": 112,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Babka chèvre pesto"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "bol-de-riz-aux-epinards-et-oeuf-coulant",
+  "recipe_id": "00357",
+  "file": "recettes/00357_bol-de-riz-aux-epinards-et-oeuf-coulant.json",
+  "updated_at": "2026-06-18T18:24:59.742674+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "bol-de-riz-aux-epinards-et-oeuf-coulant",
+    "title": "Bol de riz aux épinards et œuf coulant",
+    "original_title": "Bol de riz express aux épinards & œuf coulant (ma recette doudou spéciale quand j’ai pas le temps",
+    "source_file": "37-Bol de riz express aux épinards & œuf coulant (ma recette doudou spéciale quand j’ai pas le temps.melarecipe",
+    "categories": [
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "100 g de Riz",
+      "1 unité de Oignon rouge"
+    ],
+    "ingredients_raw": "100 g de Riz\n1 unité de Oignon rouge",
+    "instructions": "Faites cuire le riz selon les instructions du paquet. Coupez l’oignon rouge en petits dés et faites-le revenir dans une poêle huilée. Ajoutez le riz cuit, la sa…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DOoLLsTCKSH",
+    "source_id": "instagram.com/reel/DOoLLsTCKSH",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "100 g de riz cru",
+      "1 oignon roug"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "100 g de Riz",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Riz"
+      },
+      {
+        "raw": "1 unité de Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00357",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "100 g de riz cru",
+        "quantity": 100,
+        "unit": "g",
+        "ingredient": "Riz",
+        "source_table_row": 657,
+        "source_detected": {
+          "quantity": "100",
+          "unit": "g",
+          "ingredient": "riz cru"
+        },
+        "table_decision": {
+          "quantity_proposed": 100,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Riz",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 oignon roug",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Oignon rouge",
+        "source_table_row": 658,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "oignon roug"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00357_bol-de-riz-aux-epinards-et-oeuf-coulant.jpg",
+    "images": [
+      "images/00357_bol-de-riz-aux-epinards-et-oeuf-coulant.jpg"
+    ],
+    "import_source_index": 107,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Bol de riz aux épinards et œuf coulant"
+    ]
+  }
+}

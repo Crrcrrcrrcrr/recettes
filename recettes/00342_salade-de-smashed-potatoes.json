@@ -1,0 +1,269 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-de-smashed-potatoes",
+  "recipe_id": "00342",
+  "file": "recettes/00342_salade-de-smashed-potatoes.json",
+  "updated_at": "2026-06-18T18:24:59.734656+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "salade-de-smashed-potatoes",
+    "title": "Salade de smashed potatoes",
+    "original_title": "Salade de  Smashed  Potatoes",
+    "source_file": "56-Salade de Smashed Potatoes.melarecipe",
+    "categories": [
+      "Plats",
+      "Salade",
+      "Froid"
+    ],
+    "ingredients": [
+      "500 g de Pomme de terre grenaille",
+      "Huile d’olive",
+      "Sel",
+      "Poivre",
+      "Paprika fumé",
+      "Beurre",
+      "200 g de Fromage blanc"
+    ],
+    "ingredients_raw": "500 g de Pomme de terre grenaille\nHuile d’olive\nSel\nPoivre\nPaprika fumé\nBeurre\n200 g de Fromage blanc",
+    "instructions": "Cuire les petites pommes de terre dans de l’eau salée. Écraser les pommes de terre cuites dans un plat allant au four. Badigeonner avec un peu d’huile et assais…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DIn5k2VtisA",
+    "source_id": "instagram.com/reel/DIn5k2VtisA",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+      "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+      "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+      "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+      "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+      "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+      "200g Yaourt grec ou fromage blanc 1"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "500 g de Pomme de terre grenaille",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Pomme de terre grenaille"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Paprika fumé",
+        "quantity": "",
+        "unit": "",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "",
+        "unit": "",
+        "name": "Beurre"
+      },
+      {
+        "raw": "200 g de Fromage blanc",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Fromage blanc"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00342",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+        "quantity": 500,
+        "unit": "g",
+        "ingredient": "Pomme de terre grenaille",
+        "source_table_row": 564,
+        "source_detected": {
+          "quantity": "500",
+          "unit": "g",
+          "ingredient": "petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant"
+        },
+        "table_decision": {
+          "quantity_proposed": 500,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pomme de terre grenaille",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Huile d’olive",
+        "source_table_row": 565,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Huile d’olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 566,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Poivre",
+        "source_table_row": 567,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Paprika fumé",
+        "source_table_row": 568,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Paprika fumé",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "500g de petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Beurre",
+        "source_table_row": 569,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "petites pommes de terre Huile d’olive Sel, poivre et paprika fumé + beurre fondu pour max de croustillant"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Beurre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "200g Yaourt grec ou fromage blanc 1",
+        "quantity": 200,
+        "unit": "g",
+        "ingredient": "Fromage blanc",
+        "source_table_row": 570,
+        "source_detected": {
+          "quantity": "200",
+          "unit": "g",
+          "ingredient": "Yaourt grec ou fromage blanc 1"
+        },
+        "table_decision": {
+          "quantity_proposed": 200,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Fromage blanc",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00342_salade-de-smashed-potatoes.jpg",
+    "images": [
+      "images/00342_salade-de-smashed-potatoes.jpg"
+    ],
+    "import_source_index": 90,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Validation utilisateur : pas un doublon; traiter comme nouvelle recette.",
+      "Titre validé depuis CSV : Salade de smashed potatoes"
+    ]
+  }
+}

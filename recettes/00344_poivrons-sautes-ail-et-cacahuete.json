@@ -1,0 +1,328 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "poivrons-sautes-ail-et-cacahuete",
+  "recipe_id": "00344",
+  "file": "recettes/00344_poivrons-sautes-ail-et-cacahuete.json",
+  "updated_at": "2026-06-18T18:24:59.736124+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "poivrons-sautes-ail-et-cacahuete",
+    "title": "Poivrons sautés ail et cacahuète",
+    "original_title": "Recette des Poivrons sautés ail et cacahuète avec @tableedeschefs_fr",
+    "source_file": "38-Recette des Poivrons sautés ail et cacahuète avec @tableedeschefs_fr.melarecipe",
+    "categories": [
+      "Plats",
+      "Légumes rôtis",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 poignée de Cacahuète",
+      "2 unité de Poivron vert",
+      "2 unité de Échalote",
+      "1 gousse de Ail",
+      "1 poignée de Cacahuète",
+      "2 cuillère à soupe de Sauce soja",
+      "1 cuillère à soupe de Vinaigre de riz",
+      "1 cuillère à soupe de Eau",
+      "0.5 cuillère à café de Sucre"
+    ],
+    "ingredients_raw": "1 poignée de Cacahuète\n2 unité de Poivron vert\n2 unité de Échalote\n1 gousse de Ail\n1 poignée de Cacahuète\n2 cuillère à soupe de Sauce soja\n1 cuillère à soupe de Vinaigre de riz\n1 cuillère à soupe de Eau\n0.5 cuillère à café de Sucre",
+    "instructions": "Faites torréfier les cacahuètes dans une poêle chaude. Réservez. Épépinez puis coupez les poivrons. Émincez les échalotes dans la longueur. Faites chauffer une …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DOQS01CDJhv",
+    "source_id": "instagram.com/reel/DOQS01CDJhv",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 poignée de cacahuète crue",
+      "2 poivrons verts",
+      "2 échalotes",
+      "1 gousse d’ail",
+      "1 poignées de cacahuète",
+      "2 càs de sauce soja",
+      "1 càs de vinaigre (de riz de préférence)",
+      "1 càs d’eau",
+      "½ càc de sucre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 poignée de Cacahuète",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "2 unité de Poivron vert",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Poivron vert"
+      },
+      {
+        "raw": "2 unité de Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 poignée de Cacahuète",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre de riz",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 cuillère à soupe de Eau",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      },
+      {
+        "raw": "0.5 cuillère à café de Sucre",
+        "quantity": "0.5",
+        "unit": "cuillère à café",
+        "name": "Sucre"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00344",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 poignée de cacahuète crue",
+        "quantity": 1,
+        "unit": "poignée",
+        "ingredient": "Cacahuète",
+        "source_table_row": 584,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "poignée",
+          "ingredient": "cacahuète crue"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "poignée",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Cacahuète",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 poivrons verts",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Poivron vert",
+        "source_table_row": 585,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "poivrons verts"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Poivron vert",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 échalotes",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Échalote",
+        "source_table_row": 586,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "échalotes"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Échalote",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": 1,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 587,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "gousse",
+          "ingredient": "ail"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 poignées de cacahuète",
+        "quantity": 1,
+        "unit": "poignée",
+        "ingredient": "Cacahuète",
+        "source_table_row": 588,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "poignées",
+          "ingredient": "cacahuète"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "poignée",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Cacahuète",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 càs de sauce soja",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce soja",
+        "source_table_row": 589,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "càs",
+          "ingredient": "sauce soja"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sauce soja",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 càs de vinaigre (de riz de préférence)",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Vinaigre de riz",
+        "source_table_row": 590,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "càs",
+          "ingredient": "vinaigre (de riz de préférence)"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Vinaigre de riz",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 càs d’eau",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Eau",
+        "source_table_row": 591,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "c"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "½ càc de sucre",
+        "quantity": 0.5,
+        "unit": "cuillère à café",
+        "ingredient": "Sucre",
+        "source_table_row": 592,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sucre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00344_poivrons-sautes-ail-et-cacahuete.jpg",
+    "images": [
+      "images/00344_poivrons-sautes-ail-et-cacahuete.jpg"
+    ],
+    "import_source_index": 92,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Poivrons sautés ail et cacahuète"
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "orzo-saumon-poireaux-et-citron",
+  "recipe_id": "00315",
+  "file": "recettes/00315_orzo-saumon-poireaux-et-citron.json",
+  "updated_at": "2026-06-18T18:24:59.721830+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "orzo-saumon-poireaux-et-citron",
+    "title": "Orzo saumon, poireaux et citron",
+    "original_title": "J’ai pris un aller simple pour la honte.",
+    "source_file": "2-J’ai pris un aller simple pour la honte..melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Risotto / Orzotto"
+    ],
+    "ingredients": [
+      "2 unité de Pavé de saumon",
+      "2 unité de Poireau",
+      "2 unité de Échalote",
+      "100 g de Orzo",
+      "1 verre de Bouillon de légumes",
+      "20 g de Beurre",
+      "20 g de Farine de blé T45",
+      "45 ml de Jus de citron",
+      "200 ml de Crème liquide",
+      "un peu Ciboulette",
+      "un peu Aneth frais"
+    ],
+    "ingredients_raw": "2 unité de Pavé de saumon\n2 unité de Poireau\n2 unité de Échalote\n100 g de Orzo\n1 verre de Bouillon de légumes\n20 g de Beurre\n20 g de Farine de blé T45\n45 ml de Jus de citron\n200 ml de Crème liquide\nun peu Ciboulette\nun peu Aneth frais",
+    "instructions": "📖 La recette pour 2 👫 : Commence par faire revenir échalotes et poireaux dans une poêle avec un peu d’huile pendant environ 5 minutes. Ajoute ensuite un fond d’…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DSzP6HYCNOH",
+    "source_id": "instagram.com/reel/DSzP6HYCNOH",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 pavés de saumon",
+      "2 poireaux",
+      "2 échalotes",
+      "100g d’orzo un verre de bouillon de légumes",
+      "100g d’orzo un verre de bouillon de légumes",
+      "20g de beurre",
+      "20g de farine",
+      "45ml de jus de citron",
+      "- 200ml de crème liquide",
+      "- un peu de ciboulette et d’aneth"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 unité de Pavé de saumon",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Pavé de saumon"
+      },
+      {
+        "raw": "2 unité de Poireau",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "2 unité de Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "100 g de Orzo",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Orzo"
+      },
+      {
+        "raw": "1 verre de Bouillon de légumes",
+        "quantity": "1",
+        "unit": "verre",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "20 g de Beurre",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "20 g de Farine de blé T45",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "45 ml de Jus de citron",
+        "quantity": "45",
+        "unit": "ml",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "200 ml de Crème liquide",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "un peu Ciboulette",
+        "quantity": "un peu",
+        "unit": "",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "un peu Aneth frais",
+        "quantity": "un peu",
+        "unit": "",
+        "name": "Aneth frais"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00315",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 pavés de saumon",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Pavé de saumon",
+        "source_table_row": 393,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "pavés de saumon"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pavé de saumon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 poireaux",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Poireau",
+        "source_table_row": 394,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "poireaux"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Poireau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 échalotes",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Échalote",
+        "source_table_row": 395,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "échalotes"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Échalote",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "100g d’orzo un verre de bouillon de légumes",
+        "quantity": 100,
+        "unit": "g",
+        "ingredient": "Orzo",
+        "source_table_row": 396,
+        "source_detected": {
+          "quantity": "100",
+          "unit": "g",
+          "ingredient": "orzo un verre de bouillon de légumes"
+        },
+        "table_decision": {
+          "quantity_proposed": 100,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Orzo",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "100g d’orzo un verre de bouillon de légumes",
+        "quantity": 1,
+        "unit": "verre",
+        "ingredient": "Bouillon de légumes",
+        "source_table_row": 397,
+        "source_detected": {
+          "quantity": "100",
+          "unit": "verre",
+          "ingredient": "orzo un verre de bouillon de légumes"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "verre",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Bouillon de légumes",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "20g de beurre",
+        "quantity": 20,
+        "unit": "g",
+        "ingredient": "Beurre",
+        "source_table_row": 398,
+        "source_detected": {
+          "quantity": "20",
+          "unit": "g",
+          "ingredient": "beurre"
+        },
+        "table_decision": {
+          "quantity_proposed": 20,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Beurre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "20g de farine",
+        "quantity": 20,
+        "unit": "g",
+        "ingredient": "Farine",
+        "source_table_row": 399,
+        "source_detected": {
+          "quantity": "20",
+          "unit": "g",
+          "ingredient": "farine"
+        },
+        "table_decision": {
+          "quantity_proposed": 20,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "45ml de jus de citron",
+        "quantity": 45,
+        "unit": "ml",
+        "ingredient": "Jus de citron",
+        "source_table_row": 400,
+        "source_detected": {
+          "quantity": null,
+          "unit": "ML",
+          "ingredient": "45ml"
+        },
+        "table_decision": {
+          "quantity_proposed": 45,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Jus de citron",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- 200ml de crème liquide",
+        "quantity": 200,
+        "unit": "ml",
+        "ingredient": "Crème liquide",
+        "source_table_row": 401,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 200,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Crème liquide",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- un peu de ciboulette et d’aneth",
+        "quantity": "un peu",
+        "unit": null,
+        "ingredient": "Ciboulette",
+        "source_table_row": 402,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": "un peu",
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ciboulette",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": null,
+        "quantity": "un peu",
+        "unit": null,
+        "ingredient": "Aneth",
+        "source_table_row": 403,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": "un peu",
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Aneth",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00315_orzo-saumon-poireaux-et-citron.jpg",
+    "images": [
+      "images/00315_orzo-saumon-poireaux-et-citron.jpg"
+    ],
+    "import_source_index": 63,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Orzo saumon, poireaux et citron"
+    ]
+  }
+}

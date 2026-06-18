@@ -1,0 +1,329 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "dahl-de-lentilles-corail-3",
+  "recipe_id": "00340",
+  "file": "recettes/00340_dahl-de-lentilles-corail-3.json",
+  "updated_at": "2026-06-18T18:24:59.733629+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "dahl-de-lentilles-corail-3",
+    "title": "Dahl de lentilles corail",
+    "original_title": "Back to Basics - Episode 3 : Dahl de lentilles corail",
+    "source_file": "88-Back to Basics - Episode 3 : Dahl de lentilles corail.melarecipe",
+    "categories": [
+      "Plats",
+      "Curry / Dahl",
+      "Indien",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Oignon",
+      "unité de Ail",
+      "1 cuillère à café de Cumin",
+      "1 cuillère à café de Curry",
+      "4 cuillère à soupe de Sauce tomate",
+      "Sel",
+      "1 brique de Lait de coco",
+      "Lentilles corail",
+      "Épinard"
+    ],
+    "ingredients_raw": "1 unité de Oignon\nunité de Ail\n1 cuillère à café de Cumin\n1 cuillère à café de Curry\n4 cuillère à soupe de Sauce tomate\nSel\n1 brique de Lait de coco\nLentilles corail\nÉpinard",
+    "instructions": "# Etapes: Couper les oignons et les faire fondre dans une poêle Ajouter de l’ail, cumin, curry, sel Ajouter la sauce tomate Laissez cuire environ cinq minutes à…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DRKcHt1DOmr",
+    "source_id": "instagram.com/reel/DRKcHt1DOmr",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 oignon Ail",
+      "1 oignon Ail",
+      "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+      "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+      "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+      "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+      "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+      "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+      "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "unité de Ail",
+        "quantity": "",
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Cumin",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à café de Curry",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "4 cuillère à soupe de Sauce tomate",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 brique de Lait de coco",
+        "quantity": "1",
+        "unit": "brique",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Lentilles corail",
+        "quantity": "",
+        "unit": "",
+        "name": "Lentilles corail"
+      },
+      {
+        "raw": "Épinard",
+        "quantity": "",
+        "unit": "",
+        "name": "Épinard"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00340",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 oignon Ail",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Oignon",
+        "source_table_row": 550,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "oignon Ail"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 oignon Ail",
+        "quantity": null,
+        "unit": "unité",
+        "ingredient": "Ail",
+        "source_table_row": 551,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": "oignon Ail"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Cumin",
+        "source_table_row": 552,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "CAC",
+          "ingredient": "Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Cumin",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Curry",
+        "source_table_row": 553,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "CAC",
+          "ingredient": "Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Curry",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+        "quantity": 4,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce tomate",
+        "source_table_row": 554,
+        "source_detected": {
+          "quantity": 4,
+          "unit": "CAS",
+          "ingredient": "Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sauce tomate",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 555,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+        "quantity": 1,
+        "unit": "brique",
+        "ingredient": "Lait de coco",
+        "source_table_row": 556,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "brique",
+          "ingredient": "Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "brique",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Lait de coco",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Lentille corail",
+        "source_table_row": 557,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Lentille corail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 CAC Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Épinard",
+        "source_table_row": 558,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Cumin, curry Sel 3-4 CAS de sauce tomate Un brique de lait de coco OU crème Lentilles Épinards"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Epinard",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00340_dahl-de-lentilles-corail-3.jpg",
+    "images": [
+      "images/00340_dahl-de-lentilles-corail-3.jpg"
+    ],
+    "import_source_index": 88,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Dahl de lentilles corail"
+    ]
+  }
+}

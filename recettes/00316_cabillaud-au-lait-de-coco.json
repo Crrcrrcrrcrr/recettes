@@ -1,0 +1,387 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cabillaud-au-lait-de-coco",
+  "recipe_id": "00316",
+  "file": "recettes/00316_cabillaud-au-lait-de-coco.json",
+  "updated_at": "2026-06-18T18:24:59.722467+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "cabillaud-au-lait-de-coco",
+    "title": "Cabillaud au lait de coco",
+    "original_title": "Cabillaud au lait de coco",
+    "source_file": "20-Cabillaud au lait de coco.melarecipe",
+    "categories": [
+      "Plats",
+      "Poisson"
+    ],
+    "ingredients": [
+      "300 g de Cabillaud",
+      "1 cuillère à café de Paprika",
+      "unité de Sel",
+      "unité de Poivre",
+      "unité de Piment",
+      "unité de Ail",
+      "0.5 unité de Oignon",
+      "1 cube de Bouillon de légumes",
+      "0.5 cuillère à café de Gingembre en poudre",
+      "1 brique de Lait de coco",
+      "Persil"
+    ],
+    "ingredients_raw": "300 g de Cabillaud\n1 cuillère à café de Paprika\nunité de Sel\nunité de Poivre\nunité de Piment\nunité de Ail\n0.5 unité de Oignon\n1 cube de Bouillon de légumes\n0.5 cuillère à café de Gingembre en poudre\n1 brique de Lait de coco\nPersil",
+    "instructions": "# Etapes: Faire revenir le cabillaud dans une poêle après les avoir assaisonnés avec le paprika, sel et poivre Faire fondre les oignons et piments dans la même …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DUYfC8XjMPA",
+    "source_id": "instagram.com/reel/DUYfC8XjMPA",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200-300g de cabillaud",
+      "1 CAC paprika, sel, poivre",
+      "1 CAC paprika, sel, poivre",
+      "1 CAC paprika, sel, poivre",
+      "1/2 oignon Piment Ail",
+      "1/2 oignon Piment Ail",
+      "1/2 oignon Piment Ail",
+      "1 cube de bouillon de légume",
+      "1/2 CAC gingembre",
+      "1 brique de lait de coco",
+      "- Persil et chili oil pour le dressage"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "300 g de Cabillaud",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Cabillaud"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "unité de Sel",
+        "quantity": "",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "unité de Poivre",
+        "quantity": "",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "unité de Piment",
+        "quantity": "",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "raw": "unité de Ail",
+        "quantity": "",
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "raw": "0.5 unité de Oignon",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 cube de Bouillon de légumes",
+        "quantity": "1",
+        "unit": "cube",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "0.5 cuillère à café de Gingembre en poudre",
+        "quantity": "0.5",
+        "unit": "cuillère à café",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "1 brique de Lait de coco",
+        "quantity": "1",
+        "unit": "brique",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Persil",
+        "quantity": "",
+        "unit": "",
+        "name": "Persil"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00316",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "200-300g de cabillaud",
+        "quantity": 300,
+        "unit": "g",
+        "ingredient": "Cabillaud",
+        "source_table_row": 404,
+        "source_detected": {
+          "quantity": "300",
+          "unit": "g",
+          "ingredient": "cabillaud"
+        },
+        "table_decision": {
+          "quantity_proposed": 300,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Cabillaud",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 CAC paprika, sel, poivre",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Paprika",
+        "source_table_row": 405,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "CAC",
+          "ingredient": "paprika, sel, poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Paprika",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 CAC paprika, sel, poivre",
+        "quantity": null,
+        "unit": "unité",
+        "ingredient": "Sel",
+        "source_table_row": 406,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": "Sel"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 CAC paprika, sel, poivre",
+        "quantity": null,
+        "unit": "unité",
+        "ingredient": "Poivre",
+        "source_table_row": 407,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": "Poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 oignon Piment Ail",
+        "quantity": null,
+        "unit": "unité",
+        "ingredient": "Piment",
+        "source_table_row": 408,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": "Piment"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Piment",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 oignon Piment Ail",
+        "quantity": null,
+        "unit": "unité",
+        "ingredient": "Ail",
+        "source_table_row": 409,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": "Ail"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 oignon Piment Ail",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Oignon",
+        "source_table_row": 410,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "oignon Piment Ail"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cube de bouillon de légume",
+        "quantity": 1,
+        "unit": "cube",
+        "ingredient": "Bouillon de légumes",
+        "source_table_row": 411,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "cube de bouillon de légume"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cube",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Bouillon de légumes",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 CAC gingembre",
+        "quantity": 0.5,
+        "unit": "cuillère à café",
+        "ingredient": "Gingembre en poudre",
+        "source_table_row": 412,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "CAC",
+          "ingredient": "gingembre"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Gingembre en poudre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 brique de lait de coco",
+        "quantity": 1,
+        "unit": "brique",
+        "ingredient": "Lait de coco",
+        "source_table_row": 413,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "brique",
+          "ingredient": "brique d"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "brique",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Lait de coco",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- Persil et chili oil pour le dressage",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Persil",
+        "source_table_row": 414,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Persil",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00316_cabillaud-au-lait-de-coco.jpg",
+    "images": [
+      "images/00316_cabillaud-au-lait-de-coco.jpg"
+    ],
+    "import_source_index": 64,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Cabillaud au lait de coco"
+    ]
+  }
+}

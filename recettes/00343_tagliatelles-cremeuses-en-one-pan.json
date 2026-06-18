@@ -1,0 +1,448 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tagliatelles-cremeuses-en-one-pan",
+  "recipe_id": "00343",
+  "file": "recettes/00343_tagliatelles-cremeuses-en-one-pan.json",
+  "updated_at": "2026-06-18T18:24:59.735148+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tagliatelles-cremeuses-en-one-pan",
+    "title": "Tagliatelles crémeuses en one-pan",
+    "original_title": "One-Pan Creamy Tagliatelle",
+    "source_file": "82-One-Pan Creamy Tagliatelle.melarecipe",
+    "categories": [
+      "Plats",
+      "One-pot",
+      "Riz et pâtes",
+      "Pâtes"
+    ],
+    "ingredients": [
+      "200 g de Pâtes",
+      "12 unité de Tomate cerise",
+      "0.5 unité de Oignon rouge",
+      "1 poignée de Épinard",
+      "2 gousse de Ail",
+      "1 cuillère à soupe de Concentré de tomate",
+      "2 cuillère à soupe de Huile d’olive",
+      "1 cuillère à soupe de Assaisonnement italien",
+      "100 ml de Crème fraîche",
+      "275 ml de Bouillon de légumes",
+      "Sel",
+      "Poivre",
+      "Parmesan"
+    ],
+    "ingredients_raw": "200 g de Pâtes\n12 unité de Tomate cerise\n0.5 unité de Oignon rouge\n1 poignée de Épinard\n2 gousse de Ail\n1 cuillère à soupe de Concentré de tomate\n2 cuillère à soupe de Huile d’olive\n1 cuillère à soupe de Assaisonnement italien\n100 ml de Crème fraîche\n275 ml de Bouillon de légumes\nSel\nPoivre\nParmesan",
+    "instructions": "In a large pan, layer the tagliatelle, cherry tomatoes, onion, spinach, and garlic. Drizzle with olive oil, add tomato paste, Italian herbs, cream, and vegetabl…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQZ7RmxDrE-",
+    "source_id": "instagram.com/reel/DQZ7RmxDrE-",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200 g tagliatelle pasta",
+      "10–12 cherry tomatoes, cubed",
+      "½ red onion, sliced",
+      "1 handful fresh spinach",
+      "2 garlic cloves, diced",
+      "1 tbsp tomato paste",
+      "2 tbsp olive oil",
+      "1 tsp Italian herbs",
+      "100 ml cooking cream",
+      "250–300 ml vegetable broth (add more if needed)",
+      "Salt & pepper to taste",
+      "Grated Parmesan, for topping"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de Pâtes",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "12 unité de Tomate cerise",
+        "quantity": "12",
+        "unit": "unité",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "0.5 unité de Oignon rouge",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 poignée de Épinard",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Épinard"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Assaisonnement italien",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Assaisonnement italien"
+      },
+      {
+        "raw": "100 ml de Crème fraîche",
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "275 ml de Bouillon de légumes",
+        "quantity": "275",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "",
+        "unit": "",
+        "name": "Parmesan"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00343",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "200 g tagliatelle pasta",
+        "quantity": 200,
+        "unit": "g",
+        "ingredient": "Pâtes",
+        "source_table_row": 571,
+        "source_detected": {
+          "quantity": "200",
+          "unit": "g",
+          "ingredient": "tagliatelle pasta"
+        },
+        "table_decision": {
+          "quantity_proposed": 200,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâtes",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "10–12 cherry tomatoes, cubed",
+        "quantity": 12,
+        "unit": "unité",
+        "ingredient": "Tomate cerise",
+        "source_table_row": 572,
+        "source_detected": {
+          "quantity": "12",
+          "unit": "unité",
+          "ingredient": "cherry tomatoes, cubed"
+        },
+        "table_decision": {
+          "quantity_proposed": 12,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Tomate cerise",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "½ red onion, sliced",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Oignon rouge",
+        "source_table_row": 573,
+        "source_detected": {
+          "quantity": "½",
+          "unit": "unité",
+          "ingredient": "red onion, sliced"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 handful fresh spinach",
+        "quantity": 1,
+        "unit": "poignée",
+        "ingredient": "Épinard",
+        "source_table_row": 574,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "handful fresh spinach"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "poignée",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Epinard",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 garlic cloves, diced",
+        "quantity": 2,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 575,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "garlic cloves, diced"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tbsp tomato paste",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Concentré de tomate",
+        "source_table_row": 576,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "tbsp tomato paste"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Concentré de tomate",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 tbsp olive oil",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Huile d’olive",
+        "source_table_row": 577,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "tbsp olive oil"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Huile d'olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tsp Italian herbs",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Assaisonnement italien",
+        "source_table_row": 578,
+        "source_detected": {
+          "quantity": "1",
+          "unit": null,
+          "ingredient": "t"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Assaisonnement italien",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "100 ml cooking cream",
+        "quantity": 100,
+        "unit": "ml",
+        "ingredient": "Crème",
+        "source_table_row": 579,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 100,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Crème",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "250–300 ml vegetable broth (add more if needed)",
+        "quantity": 275,
+        "unit": "ml",
+        "ingredient": "Bouillon de légumes",
+        "source_table_row": 580,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 275,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Bouillon de légumes",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "Salt & pepper to taste",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 581,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel ",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": null,
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Poivre",
+        "source_table_row": 582,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "Grated Parmesan, for topping",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Parmesan",
+        "source_table_row": 583,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Parmesan",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00343_tagliatelles-cremeuses-en-one-pan.jpg",
+    "images": [
+      "images/00343_tagliatelles-cremeuses-en-one-pan.jpg"
+    ],
+    "import_source_index": 91,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Tagliatelles crémeuses en one-pan"
+    ]
+  }
+}

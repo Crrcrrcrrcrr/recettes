@@ -1,0 +1,509 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-cremeuses-aux-tomates-confites-et-burrata",
+  "recipe_id": "00302",
+  "file": "recettes/00302_pates-cremeuses-aux-tomates-confites-et-burrata.json",
+  "updated_at": "2026-06-18T18:24:59.715199+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-cremeuses-aux-tomates-confites-et-burrata",
+    "title": "Pâtes crémeuses aux tomates confites et burrata",
+    "original_title": "Pâtes crémeuses aux tomates confites & burrata",
+    "source_file": "57-Pâtes crémeuses aux tomates confites & burrata.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "300 g de Pâtes",
+      "260 g de Tomate cerise",
+      "10 g de Beurre",
+      "2 cuillère à café de Origan",
+      "2 cuillère à café de Thym",
+      "0.5 unité de Oignon",
+      "0.5 unité de Bouillon",
+      "1 cuillère à soupe de Miel",
+      "1 cuillère à soupe de Concentré de tomate",
+      "1 verre de Eau",
+      "2 gousse de Ail",
+      "150 ml de Crème fraîche",
+      "30 g de Parmesan",
+      "Basilic",
+      "1 unité de Burrata"
+    ],
+    "ingredients_raw": "300 g de Pâtes\n260 g de Tomate cerise\n10 g de Beurre\n2 cuillère à café de Origan\n2 cuillère à café de Thym\n0.5 unité de Oignon\n0.5 unité de Bouillon\n1 cuillère à soupe de Miel\n1 cuillère à soupe de Concentré de tomate\n1 verre de Eau\n2 gousse de Ail\n150 ml de Crème fraîche\n30 g de Parmesan\nBasilic\n1 unité de Burrata",
+    "instructions": "Faire cuire les pâtes de ton choix le temps indiqué sur le paquet et réserver une louche d’eau de cuisson. Couper les tomates cerises en deux, émincé la moitié …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DIRXRZcCsDx",
+    "source_id": "instagram.com/reel/DIRXRZcCsDx",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "300g de pâtes",
+      "260g de tomates cerises",
+      "10g de beurre + filet d’huile",
+      "2 cac d’origan",
+      "2 cac de thym",
+      "1/2 oignon",
+      "1/2 bouillon émietté",
+      "1 cas de miel ",
+      "1 cas de concentré de tomate",
+      "1 petit verre d’eau ",
+      "2 gousses d’ail ",
+      "15cl de crème ",
+      "30g de parmesan ",
+      "Basilic ",
+      "1 burrata "
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "300 g de Pâtes",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "260 g de Tomate cerise",
+        "quantity": "260",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "10 g de Beurre",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "2 cuillère à café de Origan",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "2 cuillère à café de Thym",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Thym"
+      },
+      {
+        "raw": "0.5 unité de Oignon",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "0.5 unité de Bouillon",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cuillère à soupe de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "1 verre de Eau",
+        "quantity": "1",
+        "unit": "verre",
+        "name": "Eau"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "150 ml de Crème fraîche",
+        "quantity": "150",
+        "unit": "ml",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "30 g de Parmesan",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "",
+        "unit": "",
+        "name": "Basilic"
+      },
+      {
+        "raw": "1 unité de Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00302",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "300g de pâtes",
+        "quantity": 300,
+        "unit": "g",
+        "ingredient": "Pâtes",
+        "source_table_row": 309,
+        "source_detected": {
+          "quantity": "300",
+          "unit": "g",
+          "ingredient": "pâtes"
+        },
+        "table_decision": {
+          "quantity_proposed": 300,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâtes",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "260g de tomates cerises",
+        "quantity": 260,
+        "unit": "g",
+        "ingredient": "Tomate cerise",
+        "source_table_row": 310,
+        "source_detected": {
+          "quantity": "260",
+          "unit": "g",
+          "ingredient": "tomates cerises"
+        },
+        "table_decision": {
+          "quantity_proposed": 260,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Tomate cerise",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "10g de beurre + filet d’huile",
+        "quantity": 10,
+        "unit": "g",
+        "ingredient": "Beurre",
+        "source_table_row": 311,
+        "source_detected": {
+          "quantity": "10",
+          "unit": "g",
+          "ingredient": "beurre + filet d’huile"
+        },
+        "table_decision": {
+          "quantity_proposed": 10,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Beurre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 cac d’origan",
+        "quantity": 2,
+        "unit": "cuillère à café",
+        "ingredient": "Origan",
+        "source_table_row": 312,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "cac",
+          "ingredient": "origan"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Origan",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 cac de thym",
+        "quantity": 2,
+        "unit": "cuillère à café",
+        "ingredient": "Thym",
+        "source_table_row": 313,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "cac",
+          "ingredient": "thym"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Thym",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 oignon",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Oignon",
+        "source_table_row": 314,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "oignon"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 bouillon émietté",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Bouillon",
+        "source_table_row": 315,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "bouillon émietté"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Bouillon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cas de miel ",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Miel",
+        "source_table_row": 316,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cas",
+          "ingredient": "m"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Miel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 cas de concentré de tomate",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Concentré de tomate",
+        "source_table_row": 317,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Concentré de tomate",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 petit verre d’eau ",
+        "quantity": 1,
+        "unit": "verre",
+        "ingredient": "Eau",
+        "source_table_row": 318,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "verre",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "2 gousses d’ail ",
+        "quantity": 2,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 319,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "15cl de crème ",
+        "quantity": 150,
+        "unit": "ml",
+        "ingredient": "Crème",
+        "source_table_row": 320,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 150,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Crème",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "30g de parmesan ",
+        "quantity": 30,
+        "unit": "g",
+        "ingredient": "Parmesan",
+        "source_table_row": 321,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 30,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Parmesan",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "Basilic ",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Basilic",
+        "source_table_row": 322,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Basilic",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 burrata ",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Burrata",
+        "source_table_row": 323,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Burrata",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00302_pates-cremeuses-aux-tomates-confites-et-burrata.jpg",
+    "images": [
+      "images/00302_pates-cremeuses-aux-tomates-confites-et-burrata.jpg"
+    ],
+    "import_source_index": 50,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Pâtes crémeuses aux tomates confites et burrata"
+    ]
+  }
+}
