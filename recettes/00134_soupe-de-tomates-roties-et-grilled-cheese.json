@@ -1,0 +1,236 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "soupe-de-tomates-roties-et-grilled-cheese",
+  "recipe_id": "00134",
+  "file": "recettes/00134_soupe-de-tomates-roties-et-grilled-cheese.json",
+  "updated_at": "2026-06-18T18:24:59.634302+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "soupe-de-tomates-roties-et-grilled-cheese",
+    "title": "Soupe de tomates rôties et grilled cheese",
+    "original_title": "Soupe de tomates rôties et grilled cheese",
+    "source_file": "Soupe de tomates rôties et grilled cheese.melarecipe",
+    "categories": [
+      "Plats",
+      "Sandwich",
+      "Soupe / Velouté",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "300 g de Tomate",
+      "1 unité de Bûche de chèvre",
+      "2 morceaux de Pain",
+      "1 tranche de Cheddar",
+      "1 unité de Oignon rouge",
+      "1 tête de Ail",
+      "10 g de Gingembre frais",
+      "1 unité de Basilic",
+      "1 unité de Crème liquide"
+    ],
+    "ingredients_raw": "300 g de Tomate\n1 unité de Bûche de chèvre\n2 morceaux de Pain\n1 tranche de Cheddar\n1 unité de Oignon rouge\n1 tête de Ail\n10 g de Gingembre frais\n1 unité de Basilic\n1 unité de Crème liquide",
+    "instructions": "Pour commencer coupez tous les légumes et mettez les sur une plaque de cuisson avec le chèvre\nFaites cuire le tout 25 min a 200c\nMixez le tout et laissez mijotez\nA coté de ça faites le grilled cheese avec une noix de beurre dans une poêle chaude\nToastez le pain, ajoutez le fromage, laissez fondre\nDégustez",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Cxdlx6osXXE",
+    "source_id": "instagram.com/reel/Cxdlx6osXXE",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "300g de tomates",
+      "1 bûche de chèvre",
+      "2 morceaux de pain",
+      "1 tranche de cheddar",
+      "1 oignons rouge",
+      "1 tête d’ail",
+      "10g de gingembre frais",
+      "Basilic",
+      "Crème liquide"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "300 g de Tomate",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "Bûche de chèvre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bûche de chèvre"
+      },
+      {
+        "raw": "2 Morceaux de pain",
+        "quantity": "2",
+        "unit": "morceau",
+        "name": "Pain"
+      },
+      {
+        "raw": "1 tranche de Cheddar",
+        "quantity": "1",
+        "unit": "tranche",
+        "name": "Cheddar"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "10 g de Gingembre frais",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Crème liquide",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Crème liquide"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00134",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "300g de tomates",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "1 bûche de chèvre",
+        "quantity": "1",
+        "unit": "",
+        "name": "Bûche de chèvre"
+      },
+      {
+        "raw": "2 morceaux de pain",
+        "quantity": "2",
+        "unit": "",
+        "name": "Morceaux de pain"
+      },
+      {
+        "raw": "1 tranche de cheddar",
+        "quantity": "1 tranche",
+        "unit": "tranche",
+        "name": "Cheddar"
+      },
+      {
+        "raw": "1 oignons rouge",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 tête d’ail",
+        "quantity": "1 tête",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "10g de gingembre frais",
+        "quantity": "10 g",
+        "unit": "g",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "",
+        "unit": "",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Crème liquide",
+        "quantity": "",
+        "unit": "",
+        "name": "Crème liquide"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00134_soupe-de-tomates-roties-et-grilled-cheese.jpg",
+    "images": [
+      "images/00134_soupe-de-tomates-roties-et-grilled-cheese.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "300 g de Tomate",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "Bûche de chèvre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bûche de chèvre"
+      },
+      {
+        "raw": "2 Morceaux de pain",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Morceaux de pain"
+      },
+      {
+        "raw": "1 tranche de Cheddar",
+        "quantity": "1",
+        "unit": "tranche",
+        "name": "Cheddar"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "10 g de Gingembre frais",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Crème liquide",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Crème liquide"
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "marinade-poivrons-paprika-curcuma-muscade",
+  "recipe_id": "00123",
+  "file": "recettes/00123_marinade-poivrons-paprika-curcuma-muscade.json",
+  "updated_at": "2026-06-18T18:24:59.629449+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "marinade-poivrons-paprika-curcuma-muscade",
+    "title": "Marinade poivrons-paprika-curcuma-muscade",
+    "original_title": "Marinade poivrons-paprika-curcuma-muscade",
+    "source_file": "Marinade poivrons-paprika-curcuma-muscade.melarecipe",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Marinade",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "2 unité de Échalote",
+      "1 unité de Poivron rouge",
+      "5 gousse de Ail",
+      "5 brin de Persil",
+      "1 cuillère à soupe de Sel",
+      "1 cuillère à soupe de Poivre",
+      "1 cuillère à soupe de Gingembre en poudre",
+      "1 cuillère à soupe de Basilic séché",
+      "1 cuillère à soupe de Romarin",
+      "1 cuillère à café de Curcuma",
+      "0,5 cuillère à café de Muscade",
+      "2 cuillère à soupe de Paprika",
+      "5 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Vinaigre de vin blanc",
+      "2 cuillère à soupe de Sauce soja sucrée"
+    ],
+    "ingredients_raw": "2 unité de Échalote\n1 unité de Poivron rouge\n5 gousse de Ail\n5 brin de Persil\n1 cuillère à soupe de Sel\n1 cuillère à soupe de Poivre\n1 cuillère à soupe de Gingembre en poudre\n1 cuillère à soupe de Basilic séché\n1 cuillère à soupe de Romarin\n1 cuillère à café de Curcuma\n0,5 cuillère à café de Muscade\n2 cuillère à soupe de Paprika\n5 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Vinaigre de vin blanc\n2 cuillère à soupe de Sauce soja sucrée",
+    "instructions": "Conseil : la laisser reposer au frigo au moins 24h pour laisser les arômes se diffuser dans la marinade, et révéler toute leur puissance\nConsommer rapidement. Pour la conserver quelques jours : au frigo dans un bocal bien fermé hermétiquement pendant 5 jours maximum.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CzHWNeBoORB",
+    "source_id": "instagram.com/reel/CzHWNeBoORB",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 échalotes",
+      "1 poivron rouge",
+      "5 gousses d'ail",
+      "5 brins de persil frais",
+      "1 cs de sel",
+      "1 cs de poivre",
+      "1 cs de gingembre en poudre",
+      "1 cs de basilic séché",
+      "1 cs de romarin",
+      "1 cc de curcuma",
+      "1/2 cc de muscade en poudre",
+      "2 cs de paprika",
+      "5 cs d'huile neutre ou d'huile d'olive",
+      "2 cs  de vinaigre blanc",
+      "2 cs de sauce soja sucrée"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Poivron rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "5 gousse de Ail",
+        "quantity": "5",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "5 brins de Persil frais",
+        "quantity": "5",
+        "unit": "brin",
+        "name": "Persil"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à soupe de Poivre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Gingembre en poudre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Basilic séché",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Basilic séché"
+      },
+      {
+        "raw": "1 cuillère à soupe de Romarin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Romarin"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "0,5 cuillère à café de Muscade en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Muscade"
+      },
+      {
+        "raw": "2 cuillère à soupe de Paprika",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Paprika"
+      },
+      {
+        "raw": "5 cuillère à soupe de Huile neutre ou d'huile d'olive",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Vinaigre de vin blanc",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de vin blanc"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja sucrée",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja sucrée"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00123",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 échalotes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Échalote"
+      },
+      {
+        "raw": "1 poivron rouge",
+        "quantity": "1",
+        "unit": "",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "5 gousses d'ail",
+        "quantity": "5 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "5 brins de persil frais",
+        "quantity": "5",
+        "unit": "",
+        "name": "Brins de persil frais"
+      },
+      {
+        "raw": "1 cs de sel",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cs de poivre",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 cs de gingembre en poudre",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "1 cs de basilic séché",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Basilic séché"
+      },
+      {
+        "raw": "1 cs de romarin",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Romarin"
+      },
+      {
+        "raw": "1 cc de curcuma",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1/2 cc de muscade en poudre",
+        "quantity": "1/2 cc",
+        "unit": "cc",
+        "name": "Muscade en poudre"
+      },
+      {
+        "raw": "2 cs de paprika",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Paprika"
+      },
+      {
+        "raw": "5 cs d'huile neutre ou d'huile d'olive",
+        "quantity": "5 cs",
+        "unit": "cs",
+        "name": "Huile neutre ou d'huile d'olive"
+      },
+      {
+        "raw": "2 cs  de vinaigre blanc",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Vinaigre blanc"
+      },
+      {
+        "raw": "2 cs de sauce soja sucrée",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Sauce soja sucrée"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00123_marinade-poivrons-paprika-curcuma-muscade.jpg",
+    "images": [
+      "images/00123_marinade-poivrons-paprika-curcuma-muscade.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Poivron rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "5 gousse de Ail",
+        "quantity": "5",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "5 brins de Persil frais",
+        "quantity": "5",
+        "unit": "brin",
+        "name": "Persil frais"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à soupe de Poivre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Gingembre en poudre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Basilic séché",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Basilic séché"
+      },
+      {
+        "raw": "1 cuillère à soupe de Romarin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Romarin"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "0,5 cuillère à café de Muscade en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Muscade en poudre"
+      },
+      {
+        "raw": "2 cuillère à soupe de Paprika",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Paprika"
+      },
+      {
+        "raw": "5 cuillère à soupe de Huile neutre ou d'huile d'olive",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Huile neutre ou d'huile d'olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Vinaigre blanc",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre blanc"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja sucrée",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja sucrée"
+      }
+    ]
+  }
+}

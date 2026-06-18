@@ -1,0 +1,164 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "mini-tartelettes-chevre-oignon-miel",
+  "recipe_id": "00162",
+  "file": "recettes/00162_mini-tartelettes-chevre-oignon-miel.json",
+  "updated_at": "2026-06-18T18:24:59.645890+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "mini-tartelettes-chevre-oignon-miel",
+    "title": "Mini tartelettes chèvre, oignon, miel",
+    "original_title": "Mini tartelettes chèvre, oignon, miel",
+    "source_file": "Mini tartelettes chèvre, oignon, miel.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Pâte feuilletée",
+      "1 unité de Oignon",
+      "2 cuillère à soupe de Miel",
+      "1 unité de Bûche de chèvre",
+      "1 unité de Œuf",
+      "3 cuillère à soupe de Crème fraîche",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "1 unité de Pâte feuilletée\n1 unité de Oignon\n2 cuillère à soupe de Miel\n1 unité de Bûche de chèvre\n1 unité de Œuf\n3 cuillère à soupe de Crème fraîche\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Couper des disques de pâte feuilletée, préalablement percée, et les mettre à précuire à 180 degrés pendant une dizaine de minutes\nPendant ce temps, émincer 1 oignon et le faire revenir dans une poêle. Une fois doré, y ajouter 2 cs de miel, réserver\nCouper des morceaux de fromage de chèvre\nBattre 1 œuf avec 3 cs de crème fraîche, assaisonner\nFoncer la pâte gonflée, ajouter successivement oignons puis chèvre puis préparation œuf/crème\nDe nouveau au four à 180 degrés pendant 15min",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Ce6dHoTqLkn",
+    "source_id": "instagram.com/reel/Ce6dHoTqLkn",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 Pâte feuilletée",
+      "1 oignon",
+      "2 cs de miel",
+      "Fromage de chèvre",
+      "1 œuf",
+      "3 cs de crème fraîche",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 cuillère à soupe de Miel",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 unité de Bûche de chèvre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bûche de chèvre"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "3 cuillère à soupe de Crème fraîche",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00162",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 Pâte feuilletée",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 cs de miel",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Miel"
+      },
+      {
+        "raw": "Fromage de chèvre",
+        "quantity": "",
+        "unit": "",
+        "name": "Fromage de chèvre"
+      },
+      {
+        "raw": "1 œuf",
+        "quantity": "1",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "3 cs de crème fraîche",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00162_mini-tartelettes-chevre-oignon-miel.jpg",
+    "images": [
+      "images/00162_mini-tartelettes-chevre-oignon-miel.jpg"
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-aux-poivrons-et-tomates-confites",
+  "recipe_id": "00126",
+  "file": "recettes/00126_pates-aux-poivrons-et-tomates-confites.json",
+  "updated_at": "2026-06-18T18:24:59.630864+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-aux-poivrons-et-tomates-confites",
+    "title": "Pâtes aux poivrons et tomates confites",
+    "original_title": "Pâtes aux poivrons et tomates confites",
+    "source_file": "Pâtes aux poivrons et tomates confites.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien",
+      "Testé et validé"
+    ],
+    "ingredients": [
+      "0,5 bocal de Poivrons marinés",
+      "0,5 bocal de Tomate séchée",
+      "2 cuillère à soupe de Levure nutritionnelle",
+      "1 pincée de Sel",
+      "1 poignée de Noix de cajou",
+      "1 unité de Eau",
+      "200 g de Pâtes"
+    ],
+    "ingredients_raw": "0,5 bocal de Poivrons marinés\n0,5 bocal de Tomate séchée\n2 cuillère à soupe de Levure nutritionnelle\n1 pincée de Sel\n1 poignée de Noix de cajou\n1 unité de Eau\n200 g de Pâtes",
+    "instructions": "Faites cuire vos pâtes. \nMettez tous les ingrédients de la sauce dans un mixeur et mixez jusqu’à obtenir une texture lisse. \nVersez dans une poêle et faites chauffer doucement. \nÉgouttez les pâtes en réservant un peu d’eau de cuisson, puis mélangez-les avec la sauce et servez.",
+    "notes": "Testé et assez quelconque. Bien mixer pour enlever les morceaux de peau du poivron et ajouter de la crème \nPas mauvais mais pas incroyable et le poivron l’emporte pas mal ",
+    "link": "https://www.instagram.com/reel/C0wzJHWKtj6",
+    "source_id": "instagram.com/reel/C0wzJHWKtj6",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1/2 bocal de poivrons rôtis",
+      "1/2 bocal de tomates séchées",
+      "2 cs de levure nutritionnelle (ou parmesan si non végétalien)",
+      "Une pincée de sel",
+      "Une poignée de noix de cajou",
+      "De l’eau pour compléter",
+      "200 g de pâtes"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "0,5 bocal de Poivrons marinés",
+        "quantity": "0,5",
+        "unit": "bocal",
+        "name": "Poivrons marinés"
+      },
+      {
+        "raw": "0,5 bocal de Bocal de tomates séchées",
+        "quantity": "0,5",
+        "unit": "bocal",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "2 cuillère à soupe de Levure nutritionnelle",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Levure nutritionnelle"
+      },
+      {
+        "raw": "1 pincée de Sel",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 poignée de Noix de cajou",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Noix de cajou"
+      },
+      {
+        "raw": "Eau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Eau"
+      },
+      {
+        "raw": "200 g de Pâtes",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pâtes"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00126",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1/2 bocal de poivrons rôtis",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Bocal de poivrons rôtis"
+      },
+      {
+        "raw": "1/2 bocal de tomates séchées",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Bocal de tomates séchées"
+      },
+      {
+        "raw": "2 cs de levure nutritionnelle (ou parmesan si non végétalien)",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Levure nutritionnelle (ou parmesan si non végétalien)"
+      },
+      {
+        "raw": "Une pincée de sel",
+        "quantity": "Une pincée",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "raw": "Une poignée de noix de cajou",
+        "quantity": "Une poignée",
+        "unit": "poignée",
+        "name": "Noix de cajou"
+      },
+      {
+        "raw": "De l’eau pour compléter",
+        "quantity": "De",
+        "unit": "",
+        "name": "L’eau pour compléter"
+      },
+      {
+        "raw": "200 g de pâtes",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Pâtes"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00126_pates-aux-poivrons-et-tomates-confites.jpg",
+    "images": [
+      "images/00126_pates-aux-poivrons-et-tomates-confites.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "0,5 bocal de Poivrons marinés",
+        "quantity": "0,5",
+        "unit": "bocal",
+        "name": "Poivrons marinés"
+      },
+      {
+        "raw": "0,5 bocal de Bocal de tomates séchées",
+        "quantity": "0,5",
+        "unit": "bocal",
+        "name": "Bocal de tomates séchées"
+      },
+      {
+        "raw": "2 cuillère à soupe de Levure nutritionnelle",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Levure nutritionnelle"
+      },
+      {
+        "raw": "1 pincée de Sel",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 poignée de Noix de cajou",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Noix de cajou"
+      },
+      {
+        "raw": "Eau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Eau"
+      },
+      {
+        "raw": "200 g de Pâtes",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pâtes"
+      }
+    ]
+  }
+}

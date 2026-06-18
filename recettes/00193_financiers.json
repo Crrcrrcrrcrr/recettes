@@ -1,0 +1,122 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "financiers",
+  "recipe_id": "00193",
+  "file": "recettes/00193_financiers.json",
+  "updated_at": "2026-06-18T18:24:59.660751+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "financiers",
+    "title": "Financiers",
+    "original_title": "Financiers",
+    "source_file": "Financiers.melarecipe",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "ingredients": [
+      "40 g de Poudre d’amande",
+      "30 g de Farine de blé T45",
+      "50 g de Beurre",
+      "30 g de Rapadura",
+      "2 unité de Blanc d'œuf"
+    ],
+    "ingredients_raw": "40 g de Poudre d’amande\n30 g de Farine de blé T45\n50 g de Beurre\n30 g de Rapadura\n2 unité de Blanc d'œuf",
+    "instructions": "Préchauffer le four à 200°C\nMélanger les blancs d’œufs, la farine, le sucre et les amandes en fouettant énergiquement\nAjouter le beurre fondu. Verser dans des moules un peu beurrés\nMettre le tout au four 20 minutes à 200°C",
+    "notes": "",
+    "link": "https://www.instagram.com/p/BzIYOtqieCf",
+    "source_id": "instagram.com/p/BzIYOtqieCf",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "40g de poudre d’amande",
+      "30g de farine",
+      "50g de beurre",
+      "30g de rapadura (facultatif)",
+      "2 blancs d’œufs"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "40 g de Poudre d’amande",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Poudre d’amande"
+      },
+      {
+        "raw": "30 g de Farine de blé T45",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "50 g de Beurre",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "30 g de Rapadura",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Rapadura"
+      },
+      {
+        "raw": "2 unité de Blanc d'œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Blanc d'œuf"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00193",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "40g de poudre d’amande",
+        "quantity": "40 g",
+        "unit": "g",
+        "name": "Poudre d’amande"
+      },
+      {
+        "raw": "30g de farine",
+        "quantity": "30 g",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "50g de beurre",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "30g de rapadura (facultatif)",
+        "quantity": "30 g",
+        "unit": "g",
+        "name": "Rapadura (facultatif)"
+      },
+      {
+        "raw": "2 blancs d’œufs",
+        "quantity": "2",
+        "unit": "",
+        "name": "Blancs d’œufs"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00193_financiers.jpg",
+    "images": [
+      "images/00193_financiers.jpg"
+    ]
+  }
+}

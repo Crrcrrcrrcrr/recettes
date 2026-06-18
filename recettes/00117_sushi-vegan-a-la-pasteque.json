@@ -1,0 +1,157 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "sushi-vegan-a-la-pasteque",
+  "recipe_id": "00117",
+  "file": "recettes/00117_sushi-vegan-a-la-pasteque.json",
+  "updated_at": "2026-06-18T18:24:59.626767+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "sushi-vegan-a-la-pasteque",
+    "title": "Sushi vegan (à la pastèque)",
+    "original_title": "Sushi vegan (à la pastèque)",
+    "source_file": "Sushi vegan (à la pastèque).melarecipe",
+    "categories": [
+      "Plats",
+      "Froid",
+      "Asiatique",
+      "Vegan"
+    ],
+    "ingredients": [
+      "1 unité de Pastèque",
+      "3 cuillère à soupe de Huile de sésame",
+      "5 cuillère à soupe de Sauce soja",
+      "1 cuillère à café de Sauce poisson",
+      "0,5 cuillère à café de Aneth séché",
+      "1 feuille de Feuille d'algue nori",
+      "1 unité de Riz"
+    ],
+    "ingredients_raw": "1 unité de Pastèque\n3 cuillère à soupe de Huile de sésame\n5 cuillère à soupe de Sauce soja\n1 cuillère à café de Sauce poisson\n0,5 cuillère à café de Aneth séché\n1 feuille de Feuille d'algue nori\n1 unité de Riz",
+    "instructions": "Pas vraiment de quantités, il s’agit surtout de prendre une pastèque sans trop de pépins si possible. La couper en gros morceaux et faire mariner au moins 1h dans un mélange de 3 cas d’huile de sésame, 5 cas de sauce soja, 1 cac de sauce poisson vegan (optionnelle), 1/2 cac d’aneth séché ou 1 cas d’aneth fraiche, et 1 feuille d’algues nori émiéttée.\nEnfourner pendant 1h à 170 degrés ou jusqu’à obtenir la texture souhaitée.\nPossibilité de conserver à nouveau dans la marinade, j’ai trouvé ça encore meilleur le lendemain perso, donc pratique même, ça peut être fait la veille.\nCe peut s’utiliser pour faire des sushis, mais aussi des makis, onigiris, pokébowls, etc.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C2K1YPDIzWU",
+    "source_id": "instagram.com/reel/C2K1YPDIzWU",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "#Pastèque matinée :",
+      "Pasteque",
+      "3 cs d’huile de sésame",
+      "5 cs de sauce soja",
+      "1 cc de sauce poisson vegan (optionnelle)",
+      "1/2 cc d’aneth séché ou 1 cs d’aneth fraiche",
+      "1 feuille d’algues nori émiéttée",
+      "Riz"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Pastèque",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pastèque"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile de sésame",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "5 cuillère à soupe de Sauce soja",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à café de Sauce poisson",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sauce poisson"
+      },
+      {
+        "raw": "0,5 cuillère à café de Aneth séché",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Aneth séché"
+      },
+      {
+        "raw": "1 feuille de Feuille d'algue nori",
+        "quantity": "1",
+        "unit": "feuille",
+        "name": "Feuille d'algue nori"
+      },
+      {
+        "raw": "Riz",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Riz"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00117",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "#Pastèque matinée :",
+        "type": "section"
+      },
+      {
+        "raw": "Pasteque",
+        "quantity": "",
+        "unit": "",
+        "name": "Pasteque"
+      },
+      {
+        "raw": "3 cs d’huile de sésame",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "5 cs de sauce soja",
+        "quantity": "5 cs",
+        "unit": "cs",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cc de sauce poisson vegan (optionnelle)",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Sauce poisson vegan (optionnelle)"
+      },
+      {
+        "raw": "1/2 cc d’aneth séché ou 1 cs d’aneth fraiche",
+        "quantity": "1/2 cc",
+        "unit": "cc",
+        "name": "Aneth séché ou 1 cs d’aneth fraiche"
+      },
+      {
+        "raw": "1 feuille d’algues nori émiéttée",
+        "quantity": "1 feuille",
+        "unit": "feuille",
+        "name": "Algues nori émiéttée"
+      },
+      {
+        "raw": "Riz",
+        "quantity": "",
+        "unit": "",
+        "name": "Riz"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00117_sushi-vegan-a-la-pasteque.jpg",
+    "images": [
+      "images/00117_sushi-vegan-a-la-pasteque.jpg"
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "dahl-de-lentilles-corail",
+  "recipe_id": "00107",
+  "file": "recettes/00107_dahl-de-lentilles-corail.json",
+  "updated_at": "2026-06-18T18:24:59.622747+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "dahl-de-lentilles-corail",
+    "title": "Dahl de lentilles corail",
+    "original_title": "Dahl de lentilles corail",
+    "source_file": "Dahl de lentilles corail 1.melarecipe",
+    "categories": [
+      "Plats",
+      "Curry / Dahl",
+      "Indien",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "2 unité de Oignon",
+      "1 cuillère à soupe de Gingembre frais",
+      "1 cuillère à soupe de Huile",
+      "3 unité de Anis étoilé",
+      "6 unité de Clou de girofle",
+      "2 cuillère à café de Cumin",
+      "2 cuillère à café de Cannelle",
+      "2 cuillère à café de Curcuma",
+      "1 cuillère à café de Piment",
+      "300 g de Lentilles corail",
+      "400 ml de Purée de tomate",
+      "400 ml de Lait de coco",
+      "200 ml de Eau",
+      "1 unité de Sel",
+      "2 poignée de Épinard",
+      "1 bouquet de Coriandre"
+    ],
+    "ingredients_raw": "2 unité de Oignon\n1 cuillère à soupe de Gingembre frais\n1 cuillère à soupe de Huile\n3 unité de Anis étoilé\n6 unité de Clou de girofle\n2 cuillère à café de Cumin\n2 cuillère à café de Cannelle\n2 cuillère à café de Curcuma\n1 cuillère à café de Piment\n300 g de Lentilles corail\n400 ml de Purée de tomate\n400 ml de Lait de coco\n200 ml de Eau\n1 unité de Sel\n2 poignée de Épinard\n1 bouquet de Coriandre",
+    "instructions": "Eplucher et couper les oignons et le gingembre et les passer au mixeur pour obtenir un pâte.\nDans un wok, ou une cocotte, à feu moyen, faire revenir la pâte dans l’huile pendant 3-4 min puis ajouter les épices et bien remuer. Laisser cuire encore 3-4 minutes.\nAjouter les lentilles, la tomate et l’eau et laisser cuire 10 min en remuant régulièrement.\nAjouter le lait de coco, baisser le feu et couvrir, laisser cuire encore 50 min et remuant régulièrement. Au début cela peut paraître très liquide mais les lentilles vont absorber le liquide en cuisant. Vérifier la cuisson des lentilles et ajouter un peu d’eau si nécessaire.\nQuand les lentilles sont cuites (bien fondantes), éteindre le feu, ajouter les épinards et mélanger. Laisser couvert quelques minutes.\nServir avec un trait de lait de coco et de la coriandre hachée. Parfait avec du riz en accompagnement.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C4iWjCZNu5f",
+    "source_id": "instagram.com/reel/C4iWjCZNu5f",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 oignons",
+      "1 grosse cs de gingembre",
+      "1 cs d’huile végétale",
+      "3 anis étoilées",
+      "6 clous de girofle",
+      "2 cc de cumin",
+      "2 cc de cannelle",
+      "2 cc de curcuma",
+      "1 cc de piment (optionnel)",
+      "300 g de lentilles corail",
+      "1 conserve de tomate environ 400ml",
+      "1 conserve de lait de coco environ 400ml",
+      "200 ml d’eau",
+      "sel",
+      "2 poignées d’épinards",
+      "1 bouquet de coriandre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 Oignon",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Grosse cs de gingembre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile végétale",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "3 unité de Anis étoilé",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Anis étoilé"
+      },
+      {
+        "raw": "6 Clous de girofle",
+        "quantity": "6",
+        "unit": "unité",
+        "name": "Clou de girofle"
+      },
+      {
+        "raw": "2 cuillère à café de Cumin",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "2 cuillère à café de Cannelle",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "2 cuillère à café de Curcuma",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à café de Piment",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Piment"
+      },
+      {
+        "raw": "300 g de Lentilles corail",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Lentilles corail"
+      },
+      {
+        "raw": "1 conserve de Tomate environ 400ml",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Purée de tomate"
+      },
+      {
+        "raw": "1 conserve de Lait de coco environ 400ml",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "200 ml de Eau",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "2 poignée de Épinard",
+        "quantity": "2",
+        "unit": "poignée",
+        "name": "Épinard"
+      },
+      {
+        "raw": "1 bouquet de Coriandre",
+        "quantity": "1",
+        "unit": "bouquet",
+        "name": "Coriandre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00107",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 oignons",
+        "quantity": "2",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 grosse cs de gingembre",
+        "quantity": "1",
+        "unit": "",
+        "name": "Grosse cs de gingembre"
+      },
+      {
+        "raw": "1 cs d’huile végétale",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "3 anis étoilées",
+        "quantity": "3",
+        "unit": "",
+        "name": "Anis étoilées"
+      },
+      {
+        "raw": "6 clous de girofle",
+        "quantity": "6",
+        "unit": "",
+        "name": "Clous de girofle"
+      },
+      {
+        "raw": "2 cc de cumin",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Cumin"
+      },
+      {
+        "raw": "2 cc de cannelle",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "2 cc de curcuma",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cc de piment (optionnel)",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Piment"
+      },
+      {
+        "raw": "300 g de lentilles corail",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Lentilles corail"
+      },
+      {
+        "raw": "1 conserve de tomate environ 400ml",
+        "quantity": "1 conserve",
+        "unit": "conserve",
+        "name": "Tomate environ 400ml"
+      },
+      {
+        "raw": "1 conserve de lait de coco environ 400ml",
+        "quantity": "1 conserve",
+        "unit": "conserve",
+        "name": "Lait de coco environ 400ml"
+      },
+      {
+        "raw": "200 ml d’eau",
+        "quantity": "200 ml",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "2 poignées d’épinards",
+        "quantity": "2 poignées",
+        "unit": "poignées",
+        "name": "Épinards"
+      },
+      {
+        "raw": "1 bouquet de coriandre",
+        "quantity": "1 bouquet",
+        "unit": "bouquet",
+        "name": "Coriandre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00107_dahl-de-lentilles-corail.jpg",
+    "images": [
+      "images/00107_dahl-de-lentilles-corail.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "2 Oignon",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Grosse cs de gingembre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Grosse cs de gingembre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile végétale",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "3 unité de Anis étoilé",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Anis étoilé"
+      },
+      {
+        "raw": "6 Clous de girofle",
+        "quantity": "6",
+        "unit": "unité",
+        "name": "Clous de girofle"
+      },
+      {
+        "raw": "2 cuillère à café de Cumin",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "2 cuillère à café de Cannelle",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "2 cuillère à café de Curcuma",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à café de Piment",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Piment"
+      },
+      {
+        "raw": "300 g de Lentille corail",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Lentille corail"
+      },
+      {
+        "raw": "1 conserve de Tomate environ 400ml",
+        "quantity": "1",
+        "unit": "conserve",
+        "name": "Tomate environ 400ml"
+      },
+      {
+        "raw": "1 conserve de Lait de coco environ 400ml",
+        "quantity": "1",
+        "unit": "conserve",
+        "name": "Lait de coco environ 400ml"
+      },
+      {
+        "raw": "200 ml de Eau",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "2 poignée de Épinard",
+        "quantity": "2",
+        "unit": "poignée",
+        "name": "Épinard"
+      },
+      {
+        "raw": "1 bouquet de Coriandre",
+        "quantity": "1",
+        "unit": "bouquet",
+        "name": "Coriandre"
+      }
+    ]
+  }
+}

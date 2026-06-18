@@ -1,0 +1,221 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "houmous-a-laubergine-rotie",
+  "recipe_id": "00146",
+  "file": "recettes/00146_houmous-a-laubergine-rotie.json",
+  "updated_at": "2026-06-18T18:24:59.640224+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "houmous-a-laubergine-rotie",
+    "title": "Houmous à l’aubergine rôtie",
+    "original_title": "Houmous à l’aubergine rôtie",
+    "source_file": "Houmous à l’aubergine rôtie.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Dip / Tartinade",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Aubergine",
+      "1 gousse de Ail",
+      "100 g de Pois chiches cuits",
+      "0,5 unité de Jus de citron",
+      "2 cuillère à soupe de Huile d’olive",
+      "1 cuillère à soupe de Tahini",
+      "20 g de Feta",
+      "1 unité de Graines de grenade",
+      "1 unité de Menthe",
+      "1 unité de Zeste de citron",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "1 unité de Aubergine\n1 gousse de Ail\n100 g de Pois chiches cuits\n0,5 unité de Jus de citron\n2 cuillère à soupe de Huile d’olive\n1 cuillère à soupe de Tahini\n20 g de Feta\n1 unité de Graines de grenade\n1 unité de Menthe\n1 unité de Zeste de citron\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Pour commencer dans un plat qui va au four, je mets mon aubergine avec la gousse d’ail. Et je fais cuire le tout 20 minutes à 200°.\nDès que c’est cuit, je récupère la chair. Je la mets dans un blender avec les pois chiches, l’ail le tahini, le jus, citron, huile d’olive, sel, poivre\nJe place le tout dans une assiette creuse avec juste au-dessus de la fêta, des graines de grenade de la menthe ciselé, des graines de sésames",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CtzRsnlPuhd",
+    "source_id": "instagram.com/reel/CtzRsnlPuhd",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 aubergine",
+      "1 gousse d’ail",
+      "100g de pois chiche",
+      "1/2 jus de citron",
+      "2 cs d’huile d’olive",
+      "1 cs de tahini",
+      "20g de feta",
+      "Graines de grenade",
+      "Menthe",
+      "Zeste de citron",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Aubergine",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Aubergine"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "100 g de Pois chiches cuits",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "0,5 Jus de citron",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Tahini",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Tahini"
+      },
+      {
+        "raw": "20 g de Feta",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "Graines de grenade",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Graines de grenade"
+      },
+      {
+        "raw": "Menthe",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Menthe"
+      },
+      {
+        "raw": "Zeste de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Zeste de citron"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00146",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 aubergine",
+        "quantity": "1",
+        "unit": "",
+        "name": "Aubergine"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "100g de pois chiche",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "1/2 jus de citron",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cs de tahini",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Tahini"
+      },
+      {
+        "raw": "20g de feta",
+        "quantity": "20 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "Graines de grenade",
+        "quantity": "",
+        "unit": "",
+        "name": "Graines de grenade"
+      },
+      {
+        "raw": "Menthe",
+        "quantity": "",
+        "unit": "",
+        "name": "Menthe"
+      },
+      {
+        "raw": "Zeste de citron",
+        "quantity": "",
+        "unit": "",
+        "name": "Zeste de citron"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00146_houmous-a-laubergine-rotie.jpg",
+    "images": [
+      "images/00146_houmous-a-laubergine-rotie.jpg"
+    ]
+  }
+}

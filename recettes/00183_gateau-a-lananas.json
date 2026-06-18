@@ -1,0 +1,194 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "gateau-a-lananas",
+  "recipe_id": "00183",
+  "file": "recettes/00183_gateau-a-lananas.json",
+  "updated_at": "2026-06-18T18:24:59.657523+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "gateau-a-lananas",
+    "title": "Gâteau à l’ananas",
+    "original_title": "Gâteau à l’ananas",
+    "source_file": "Gâteau à l’ananas.melarecipe",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "ingredients": [
+      "1 boîte de Ananas",
+      "3 unité de Œuf",
+      "150 g de Sucre",
+      "1 paquet de Levure chimique",
+      "250 g de Farine de blé T45",
+      "50 g de Huile",
+      "6 cuillère à soupe de Eau"
+    ],
+    "ingredients_raw": "1 boîte de Ananas\n3 unité de Œuf\n150 g de Sucre\n1 paquet de Levure chimique\n250 g de Farine de blé T45\n50 g de Huile\n6 cuillère à soupe de Eau",
+    "instructions": "Mettez les œufs entiers dans un bol, la levure , le sucre,la matière grasse, la farine et l’eau.\nFaites le caramel avec le sucre et napper le fond du moule\nGarnissez ensuite avec les rondelles d’ananas.\nFaites cuire à feu moyen (thermostat 5/6) pendant environ 1h\nVersez le jus d’ananas sur le gâteau chaud.\nAttendez que le gâteaux soit refroidi (le mieux c’est une nuit). Retournez le comme une tarte tatin\nDégustez",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CuAGxgPMz1N",
+    "source_id": "instagram.com/reel/CuAGxgPMz1N",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Une boîte d’ananas",
+      "3 oeufs",
+      "150g de sucre fin",
+      "1 paquet de levure",
+      "250g de farine",
+      "50g d’huile",
+      "6 cs d’eau"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 boîte de Ananas",
+        "quantity": "1",
+        "unit": "boîte",
+        "name": "Ananas"
+      },
+      {
+        "raw": "3 Œuf",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "150 g de Sucre fin",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "Paquet de levure",
+        "quantity": "1",
+        "unit": "paquet",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "250 g de Farine de blé T45",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "50 g de Huile",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Huile"
+      },
+      {
+        "raw": "6 cuillère à soupe de Eau",
+        "quantity": "6",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00183",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Une boîte d’ananas",
+        "quantity": "Une boîte",
+        "unit": "boîte",
+        "name": "Ananas"
+      },
+      {
+        "raw": "3 oeufs",
+        "quantity": "3",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "150g de sucre fin",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Sucre fin"
+      },
+      {
+        "raw": "1 paquet de levure",
+        "quantity": "1",
+        "unit": "",
+        "name": "Paquet de levure"
+      },
+      {
+        "raw": "250g de farine",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "50g d’huile",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Huile"
+      },
+      {
+        "raw": "6 cs d’eau",
+        "quantity": "6 cs",
+        "unit": "cs",
+        "name": "Eau"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00183_gateau-a-lananas.jpg",
+    "images": [
+      "images/00183_gateau-a-lananas.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "1 boîte de Ananas",
+        "quantity": "1",
+        "unit": "boîte",
+        "name": "Ananas"
+      },
+      {
+        "raw": "3 Œuf",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "150 g de Sucre fin",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Sucre fin"
+      },
+      {
+        "raw": "Paquet de levure",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paquet de levure"
+      },
+      {
+        "raw": "250 g de Farine",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "50 g de Huile",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Huile"
+      },
+      {
+        "raw": "6 cuillère à soupe de Eau",
+        "quantity": "6",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      }
+    ]
+  }
+}

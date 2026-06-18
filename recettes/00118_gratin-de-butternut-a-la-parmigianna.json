@@ -1,0 +1,195 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "gratin-de-butternut-a-la-parmigianna",
+  "recipe_id": "00118",
+  "file": "recettes/00118_gratin-de-butternut-a-la-parmigianna.json",
+  "updated_at": "2026-06-18T18:24:59.627101+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "gratin-de-butternut-a-la-parmigianna",
+    "title": "Gratin de butternut à la parmigianna",
+    "original_title": "Gratin de butternut à la parmigianna",
+    "source_file": "Gratin de butternut à la parmigianna.melarecipe",
+    "categories": [
+      "Plats",
+      "Gratin",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Butternut",
+      "1 unité de Mozzarella",
+      "1 cuillère à café de Ail en poudre",
+      "1 pot de Sauce tomate",
+      "200 g de Parmesan",
+      "1 unité de Sel",
+      "1 unité de Herbes de Provence"
+    ],
+    "ingredients_raw": "1 unité de Butternut\n1 unité de Mozzarella\n1 cuillère à café de Ail en poudre\n1 pot de Sauce tomate\n200 g de Parmesan\n1 unité de Sel\n1 unité de Herbes de Provence",
+    "instructions": "Épluchez le butternut et taillez des tagliatelles\nDans un plat allant au four, badigeonnez le d’huile d’olive, ajoutez une partie des lamelles, sauce tomates, ail et herbes, encore des lamelles, parmesan, sauce tomates et finissez avec de la mozarella\nEnfournez 30 minutes à 200 degrés",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CzLmwIFoCn9",
+    "source_id": "instagram.com/reel/CzLmwIFoCn9",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 butternut",
+      "1 mozzarella",
+      "1 cc d’ail en poudre",
+      "1 gros pot de sauce tomate",
+      "200g de parmesan",
+      "Sel",
+      "Herbes de provences"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Butternut",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Butternut"
+      },
+      {
+        "raw": "Mozzarella",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Mozzarella"
+      },
+      {
+        "raw": "1 cuillère à café de Ail en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Gros pot de sauce tomate",
+        "quantity": "1",
+        "unit": "pot",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "200 g de Parmesan",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Herbes de Provence",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Herbes de Provence"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00118",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 butternut",
+        "quantity": "1",
+        "unit": "",
+        "name": "Butternut"
+      },
+      {
+        "raw": "1 mozzarella",
+        "quantity": "1",
+        "unit": "",
+        "name": "Mozzarella"
+      },
+      {
+        "raw": "1 cc d’ail en poudre",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "1 gros pot de sauce tomate",
+        "quantity": "1",
+        "unit": "",
+        "name": "Gros pot de sauce tomate"
+      },
+      {
+        "raw": "200g de parmesan",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Herbes de provences",
+        "quantity": "",
+        "unit": "",
+        "name": "Herbes de Provence"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00118_gratin-de-butternut-a-la-parmigianna.jpg",
+    "images": [
+      "images/00118_gratin-de-butternut-a-la-parmigianna.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Butternut",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Butternut"
+      },
+      {
+        "raw": "Mozzarella",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Mozzarella"
+      },
+      {
+        "raw": "1 cuillère à café de Ail en poudre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Gros pot de sauce tomate",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Gros pot de sauce tomate"
+      },
+      {
+        "raw": "200 g de Parmesan",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Herbes de Provence",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Herbes de Provence"
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cheese-naans",
+  "recipe_id": "00175",
+  "file": "recettes/00175_cheese-naans.json",
+  "updated_at": "2026-06-18T18:24:59.654121+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "cheese-naans",
+    "title": "Cheese Naans",
+    "original_title": "Cheese Naans",
+    "source_file": "Cheese Naans.melarecipe",
+    "categories": [
+      "Pain / Wraps",
+      "Pain"
+    ],
+    "ingredients": [
+      "500 g de Farine de blé T45",
+      "50 g de Huile",
+      "1 sachet de Levure de boulanger",
+      "1 cuillère à café de Sel",
+      "1 unité de Œuf",
+      "140 g de Eau",
+      "1 unité de Yaourt grec",
+      "9 portion de Vache qui rit",
+      "15 g de Beurre",
+      "1 unité de Coriandre",
+      "1 unité de Graine de sésame noir"
+    ],
+    "ingredients_raw": "500 g de Farine de blé T45\n50 g de Huile\n1 sachet de Levure de boulanger\n1 cuillère à café de Sel\n1 unité de Œuf\n140 g de Eau\n1 unité de Yaourt grec\n9 portion de Vache qui rit\n15 g de Beurre\n1 unité de Coriandre\n1 unité de Graine de sésame noir",
+    "instructions": "Diluez la levure dans 10 g d’eau. Versez les 500 g de farine dans un saladier. \nAjoutez l’oeuf, le yaourt grec, l’huile, la levure diluée, le sel puis l’eau froide. La levure et le sel ne doivent pas se toucher.\nMélangez avec les mains jusqu’à obtenir une pâte homogène mais ne travaillez pas trop votre boule, elle ne doit pas être parfaitement lisse. \nMettez la ensuite dans un sachet de congélation et réservez la au frigo.\nAprès 30 minutes divisez votre pâte en 6 pâtons. Écrasez les avec la paume et déposez 1 à 2 portions de « Vache qui rit » par pâton. Pour les débutants je conseille 1 portion seulement (ce sera plus facile). \nÉcrasez légèrement les triangles de fromage dans les pâtons puis reformez des boules en réunissant leurs bords comme dans la vidéo. Laissez les reposer 10 minutes sous un film cellophane.\nAplatissez ensuite les boules par petites pressions du bout des doigts afin de bien répartir le fromage. \nPréchauffez votre four à 250°C chaleur tournante. \nAplatissez vos naans jusqu’à obtenir des cercles de 2 à 3 mm d’épaisseur (peu importe le diamètre) et enfournez les, chacun à leur tour, sur une plaque (ou dans l’idéal une grille à pizza perforée) pendant 4 minutes.\nNappage : Badigeonnez vos naans encore chauds de beurre puis saupoudrez les de coriandre hachée et de graines de sésame noir.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DDJ38LGoQuP",
+    "source_id": "instagram.com/reel/DDJ38LGoQuP",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "500g de farine",
+      "50g d'huile",
+      "1 sachet de levure de boulanger",
+      "1 cc de sel",
+      "1 œuf",
+      "140g d'eau froide",
+      "1 Yaourt Grec",
+      "6-12 portions de Vache qui rit",
+      "# Nappage :",
+      "15g de beurre",
+      "Coriandre (ou persil)",
+      "Graines de sésame noir (facultatif)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "500 g de Farine de blé T45",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "50 g de Huile",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Huile"
+      },
+      {
+        "raw": "1 sachet de Levure de boulanger",
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "140 g de Eau froide",
+        "quantity": "140",
+        "unit": "g",
+        "name": "Eau"
+      },
+      {
+        "raw": "Yaourt grec",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "9 portion de Vache qui rit",
+        "quantity": "9",
+        "unit": "portion",
+        "name": "Vache qui rit"
+      },
+      {
+        "raw": "15 g de Beurre",
+        "quantity": "15",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "1 unité de Graine de sésame noir",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Graine de sésame noir"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00175",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "500g de farine",
+        "quantity": "500 g",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "50g d'huile",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Huile"
+      },
+      {
+        "raw": "1 sachet de levure de boulanger",
+        "quantity": "1 sachet",
+        "unit": "sachet",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "1 cc de sel",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 œuf",
+        "quantity": "1",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "140g d'eau froide",
+        "quantity": "140 g",
+        "unit": "g",
+        "name": "Eau froide"
+      },
+      {
+        "raw": "1 Yaourt Grec",
+        "quantity": "1",
+        "unit": "",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "6-12 portions de Vache qui rit",
+        "quantity": "6-12",
+        "unit": "",
+        "name": "Portions de Vache qui rit"
+      },
+      {
+        "raw": "# Nappage :",
+        "type": "section"
+      },
+      {
+        "raw": "15g de beurre",
+        "quantity": "15 g",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Coriandre (ou persil)",
+        "quantity": "",
+        "unit": "",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "Graines de sésame noir (facultatif)",
+        "quantity": "",
+        "unit": "",
+        "name": "Graines de sésame noir (facultatif)"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00175_cheese-naans.jpg",
+    "images": [
+      "images/00175_cheese-naans.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "500 g de Farine",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "50 g de Huile",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Huile"
+      },
+      {
+        "raw": "1 sachet de Levure de boulanger",
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "140 g de Eau froide",
+        "quantity": "140",
+        "unit": "g",
+        "name": "Eau froide"
+      },
+      {
+        "raw": "Yaourt grec",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "9 portion de Vache qui rit",
+        "quantity": "9",
+        "unit": "portion",
+        "name": "Vache qui rit"
+      },
+      {
+        "raw": "15 g de Beurre",
+        "quantity": "15",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "1 unité de Graine de sésame noir",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Graine de sésame noir"
+      }
+    ]
+  }
+}

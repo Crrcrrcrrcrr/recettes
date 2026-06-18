@@ -1,0 +1,214 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "banana-bread-2",
+  "recipe_id": "00187",
+  "file": "recettes/00187_banana-bread-2.json",
+  "updated_at": "2026-06-18T18:24:59.658955+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "banana-bread-2",
+    "title": "Banana bread",
+    "original_title": "Banana bread",
+    "source_file": "Banana bread 1.melarecipe",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "ingredients": [
+      "4 unité de Banane",
+      "60 g de Sucre",
+      "3 unité de Œuf",
+      "1 cuillère à café de Arôme de vanille",
+      "1 sachet de Levure chimique",
+      "160 g de Farine de blé T45",
+      "120 g de Beurre",
+      "100 g de Chocolat"
+    ],
+    "ingredients_raw": "4 unité de Banane\n60 g de Sucre\n3 unité de Œuf\n1 cuillère à café de Arôme de vanille\n1 sachet de Levure chimique\n160 g de Farine de blé T45\n120 g de Beurre\n100 g de Chocolat",
+    "instructions": "Écraser les bananes dans un saladier\nMélanger le sucre, les œufs, la vanille, la levure, la farine et le beurre fondu\nCouper le chocolat en grosses pépites (noir, lait ou même pâte à tartiner)\nBeurrer un moule à cake\nMettre 2/3 de la pâte, puis les pépites de chocolat, puis finir par le reste de la pâte\nFacultatif : pour de l’esthétique ajouter une banane coupée en 2 sur le dessus\nAu four à 180 degrés pendant 40/45 min\nLaisser refroidir le gâteau, et il n’y a plus qu’à se régaler\nIl se conserve plusieurs jours au réfrigérateur sans problème, et tout en restant ultra moelleux !",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/ChSTxANKpJE",
+    "source_id": "instagram.com/reel/ChSTxANKpJE",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4 bananes bien mûres",
+      "60g de sucre",
+      "3 œufs entiers",
+      "1 cc d’arôme de vanille",
+      "1 sachet de levure",
+      "160g de farine,",
+      "120g de beurre fondu",
+      "100g de chocolat"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 Banane",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "raw": "60 g de Sucre",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "3 Œufs entiers",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 cuillère à café de Arôme de vanille",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Arôme de vanille"
+      },
+      {
+        "raw": "1 sachet de Levure",
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "160 g de Farine de blé T45",
+        "quantity": "160",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "120 g de Beurre",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "100 g de Chocolat",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Chocolat"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00187",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "4 bananes bien mûres",
+        "quantity": "4",
+        "unit": "",
+        "name": "Banane bien mûre"
+      },
+      {
+        "raw": "60g de sucre",
+        "quantity": "60 g",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "3 œufs entiers",
+        "quantity": "3",
+        "unit": "",
+        "name": "Œufs entiers"
+      },
+      {
+        "raw": "1 cc d’arôme de vanille",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Arôme de vanille"
+      },
+      {
+        "raw": "1 sachet de levure",
+        "quantity": "1 sachet",
+        "unit": "sachet",
+        "name": "Levure"
+      },
+      {
+        "raw": "160g de farine,",
+        "quantity": "160 g",
+        "unit": "g",
+        "name": "Farine,"
+      },
+      {
+        "raw": "120g de beurre fondu",
+        "quantity": "120 g",
+        "unit": "g",
+        "name": "Beurre fondu"
+      },
+      {
+        "raw": "100g de chocolat",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Chocolat"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00187_banana-bread.jpg",
+    "images": [
+      "images/00187_banana-bread.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "4 Banane",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "raw": "60 g de Sucre",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "3 Œufs entiers",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œufs entiers"
+      },
+      {
+        "raw": "1 cuillère à café de Arôme de vanille",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Arôme de vanille"
+      },
+      {
+        "raw": "1 sachet de Levure",
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure"
+      },
+      {
+        "raw": "160 g de Farine,",
+        "quantity": "160",
+        "unit": "g",
+        "name": "Farine,"
+      },
+      {
+        "raw": "120 g de Beurre",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "100 g de Chocolat",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Chocolat"
+      }
+    ]
+  }
+}

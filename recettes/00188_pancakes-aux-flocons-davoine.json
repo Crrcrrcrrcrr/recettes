@@ -1,0 +1,47 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pancakes-aux-flocons-davoine",
+  "recipe_id": "00188",
+  "file": "recettes/00188_pancakes-aux-flocons-davoine.json",
+  "updated_at": "2026-06-18T18:24:59.659277+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": false,
+    "units_validated": false,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pancakes-aux-flocons-davoine",
+    "title": "Pancakes aux flocons d’avoine",
+    "original_title": "Pancakes aux flocons d’avoine",
+    "source_file": "Pancakes aux flocons d’avoine.melarecipe",
+    "categories": [
+      "Sucré",
+      "Pancakes",
+      "Sans ingrédients",
+      "Sans instructions"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/p/CXwZBl_IHfQ",
+    "source_id": "instagram.com/p/CXwZBl_IHfQ",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_with_user",
+    "recipe_id": "00188",
+    "image": "images/00188_pancakes-aux-flocons-davoine.jpg",
+    "images": [
+      "images/00188_pancakes-aux-flocons-davoine.jpg"
+    ]
+  }
+}

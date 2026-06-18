@@ -1,0 +1,180 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-facon-soupe-a-loignon-2",
+  "recipe_id": "00111",
+  "file": "recettes/00111_pates-facon-soupe-a-loignon-2.json",
+  "updated_at": "2026-06-18T18:24:59.624496+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-facon-soupe-a-loignon-2",
+    "title": "Pâtes façon soupe à l’oignon",
+    "original_title": "Pâtes façon soupe à l’oignon",
+    "source_file": "Pâtes façon soupe à l’oignon.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "200 g de Spaghetti",
+      "500 g de Oignon",
+      "75 cl de Bouillon de bœuf",
+      "1 noix de Beurre",
+      "1 unité de Fromage râpé",
+      "3 cuillère à soupe de Vinaigre de riz",
+      "1 cuillère à soupe de Farine de blé T45",
+      "50 g de Chapelure",
+      "1 unité de Herbes séchées"
+    ],
+    "ingredients_raw": "200 g de Spaghetti\n500 g de Oignon\n75 cl de Bouillon de bœuf\n1 noix de Beurre\n1 unité de Fromage râpé\n3 cuillère à soupe de Vinaigre de riz\n1 cuillère à soupe de Farine de blé T45\n50 g de Chapelure\n1 unité de Herbes séchées",
+    "instructions": "Ciseler très finement les oignons (ça aidera à avoir une texture super fondante)\nFaire fondre une noix de beurre dans une grande poêle et verser les oignons avec une pincée de sel. Laisser caraméliser sur feu moyen en grattant régulièrement les sucs. Déglacer avec le vinaigre de riz. Poivrer et ajouter la farine. Mélanger.\nVerser le bouillon de boeuf et laisser mijoter 5 mn.\nAjouter les pâtes dans la soupe et les faire cuire le temps indiqué sur le paquet.\nPendant ce temps, faire toaster à sec la chapelure de pain avec les herbes séchées de votre choix.\nServir immédiatement avec une avalanche de fromage râpé et parsemer de chapelure aux herbes.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C3Dl-H1rPIC",
+    "source_id": "instagram.com/reel/C3Dl-H1rPIC",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200 g de spaghetti (ou autre pâte)",
+      "500 g d’oignon",
+      "75 cl de bouillon de boeuf",
+      "1 noix de beurre",
+      "Fromage râpé",
+      "3 cs de vinaigre de riz",
+      "1 cs de farine",
+      "50 g de chapelure",
+      "Herbes séchées"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de Spaghetti",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Spaghetti"
+      },
+      {
+        "raw": "500 g de Oignon",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Oignon"
+      },
+      {
+        "raw": "75 cl de Bouillon de bœuf",
+        "quantity": 750,
+        "unit": "ml",
+        "name": "Bouillon de bœuf"
+      },
+      {
+        "raw": "1 noix de Beurre",
+        "quantity": "1",
+        "unit": "noix",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Fromage râpé",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fromage râpé"
+      },
+      {
+        "raw": "3 cuillère à soupe de Vinaigre de riz",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 cuillère à soupe de Farine de blé T45",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "50 g de Chapelure",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Chapelure"
+      },
+      {
+        "raw": "Herbes séchées",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Herbes séchées"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00111",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "200 g de spaghetti (ou autre pâte)",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Spaghetti"
+      },
+      {
+        "raw": "500 g d’oignon",
+        "quantity": "500 g",
+        "unit": "g",
+        "name": "Oignon"
+      },
+      {
+        "raw": "75 cl de bouillon de boeuf",
+        "quantity": "75 cl",
+        "unit": "ml",
+        "name": "Bouillon de bœuf"
+      },
+      {
+        "raw": "1 noix de beurre",
+        "quantity": "1",
+        "unit": "",
+        "name": "Noix de beurre"
+      },
+      {
+        "raw": "Fromage râpé",
+        "quantity": "",
+        "unit": "",
+        "name": "Fromage râpé"
+      },
+      {
+        "raw": "3 cs de vinaigre de riz",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 cs de farine",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Farine"
+      },
+      {
+        "raw": "50 g de chapelure",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Chapelure"
+      },
+      {
+        "raw": "Herbes séchées",
+        "quantity": "",
+        "unit": "",
+        "name": "Herbes séchées"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00111_pates-facon-soupe-a-loignon.jpg",
+    "images": [
+      "images/00111_pates-facon-soupe-a-loignon.jpg"
+    ]
+  }
+}

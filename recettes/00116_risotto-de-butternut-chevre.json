@@ -1,0 +1,389 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "risotto-de-butternut-chevre",
+  "recipe_id": "00116",
+  "file": "recettes/00116_risotto-de-butternut-chevre.json",
+  "updated_at": "2026-06-18T18:24:59.626265+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "risotto-de-butternut-chevre",
+    "title": "Risotto de butternut chèvre",
+    "original_title": "Risotto de butternut chèvre",
+    "source_file": "Risotto de butternut chèvre.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Risotto / Orzotto",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 petit de Butternut",
+      "1 unité de Origan",
+      "1 unité de Ail en poudre",
+      "1 unité de Cannelle",
+      "1 unité de Piment de Cayenne",
+      "1 unité de Muscade",
+      "1 unité de Persil",
+      "150 g de Chèvre frais",
+      "50 ml de Eau",
+      "25 ml de Crème liquide",
+      "200 g de Riz à risotto",
+      "1 unité de Oignon",
+      "1 gousse de Ail",
+      "1 unité de Huile",
+      "1 unité de Beurre",
+      "20 ml de Vin blanc",
+      "20 g de Parmesan"
+    ],
+    "ingredients_raw": "1 petit de Butternut\n1 unité de Origan\n1 unité de Ail en poudre\n1 unité de Cannelle\n1 unité de Piment de Cayenne\n1 unité de Muscade\n1 unité de Persil\n150 g de Chèvre frais\n50 ml de Eau\n25 ml de Crème liquide\n200 g de Riz à risotto\n1 unité de Oignon\n1 gousse de Ail\n1 unité de Huile\n1 unité de Beurre\n20 ml de Vin blanc\n20 g de Parmesan",
+    "instructions": "La sauce butternut: Four à 200 degrés. Épluche et coupe le butternut en dés. Verse de l’huile et Assaisonne le ; origan, ail en poudre, muscade, cannelle, curcuma, piment de Cayenne et sel.\nAu four pendant 25min et je finis sur 5 min de grill.\nDans un mixeur, met le butternut, le chèvre, la crème et l’eau. Tu dois avoir un belle sauce onctueuse et épaisse.\nPour le risotto. Dans une poêle, fais fondre du beurre avec de l’huile. Ajoute l’oignon émincé et l’ail haché. Sale. Quand c’est cuit, ajoute le riz et laisse cuire 5 min. Verse le vin blanc et laisse le s’évaporer. Verse ensuite au fur et mesure de l’eau bouillante (+/- 500ml au total) et épices avec de l’origan et du persil. Quand ton riz est prêt (encore un peu croquant, juste avant qu’il soit bien cuit) ajoute la sauce butternut. Réépice selon tes goûts et ajoute le parmesan. Laisse cuire à feu doux encore quelques minutes et stop la cuisson quand le riz est fondant (perso c’est comme ça que j’aime le risotto mais tu peux arrêter la cuisson avant)\nJe sers avec du chimichurri (je te filerai la recette bientôt), quelques dés de butternut, persil et noisettes.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C2QAV2CsTrt",
+    "source_id": "instagram.com/reel/C2QAV2CsTrt",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 petit butternut",
+      "Origan",
+      "Ail en poudre",
+      "Cannelle",
+      "Piment de Cayenne",
+      "Muscade",
+      "Persil",
+      "150g de chèvre frais",
+      "50ml d’eau",
+      "25ml de crème liquide",
+      "200g de riz à risotto",
+      "1 oignon",
+      "1 gousse d’ail",
+      "Huile et beurre pour la cuisson",
+      "20ml de vin blanc",
+      "20g de parmesan"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Petit butternut",
+        "quantity": "1",
+        "unit": "petit",
+        "name": "Butternut"
+      },
+      {
+        "raw": "Origan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Origan"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Cannelle",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "Piment de Cayenne",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment de Cayenne"
+      },
+      {
+        "raw": "Muscade",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Muscade"
+      },
+      {
+        "raw": "Persil",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Persil"
+      },
+      {
+        "raw": "150 g de Chèvre frais",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Chèvre frais"
+      },
+      {
+        "raw": "50 ml de Eau",
+        "quantity": "50",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "25 ml de Crème liquide",
+        "quantity": "25",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "200 g de Riz à risotto",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Riz à risotto"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Huile",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "20 ml de Vin blanc",
+        "quantity": "20",
+        "unit": "ml",
+        "name": "Vin blanc"
+      },
+      {
+        "raw": "20 g de Parmesan",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Parmesan"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00116",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 petit butternut",
+        "quantity": "1",
+        "unit": "",
+        "name": "Petit butternut"
+      },
+      {
+        "raw": "Origan",
+        "quantity": "",
+        "unit": "",
+        "name": "Origan"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "",
+        "unit": "",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Cannelle",
+        "quantity": "",
+        "unit": "",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "Piment de Cayenne",
+        "quantity": "",
+        "unit": "",
+        "name": "Piment de Cayenne"
+      },
+      {
+        "raw": "Muscade",
+        "quantity": "",
+        "unit": "",
+        "name": "Muscade"
+      },
+      {
+        "raw": "Persil",
+        "quantity": "",
+        "unit": "",
+        "name": "Persil"
+      },
+      {
+        "raw": "150g de chèvre frais",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Chèvre frais"
+      },
+      {
+        "raw": "50ml d’eau",
+        "quantity": "50 ml",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "25ml de crème liquide",
+        "quantity": "25 ml",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "200g de riz à risotto",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Riz à risotto"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "Huile et beurre pour la cuisson",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile et beurre pour la cuisson"
+      },
+      {
+        "raw": "20ml de vin blanc",
+        "quantity": "20 ml",
+        "unit": "ml",
+        "name": "Vin blanc"
+      },
+      {
+        "raw": "20g de parmesan",
+        "quantity": "20 g",
+        "unit": "g",
+        "name": "Parmesan"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00116_risotto-de-butternut-chevre.jpg",
+    "images": [
+      "images/00116_risotto-de-butternut-chevre.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Petit butternut",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Petit butternut"
+      },
+      {
+        "raw": "Origan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Origan"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Cannelle",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "Piment de Cayenne",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment de Cayenne"
+      },
+      {
+        "raw": "Muscade",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Muscade"
+      },
+      {
+        "raw": "Persil",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Persil"
+      },
+      {
+        "raw": "150 g de Chèvre frais",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Chèvre frais"
+      },
+      {
+        "raw": "50 ml de Eau",
+        "quantity": "50",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "25 ml de Crème liquide",
+        "quantity": "25",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "200 g de Riz à risotto",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Riz à risotto"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Huile",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "20 ml de Vin blanc",
+        "quantity": "20",
+        "unit": "ml",
+        "name": "Vin blanc"
+      },
+      {
+        "raw": "20 g de Parmesan",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Parmesan"
+      }
+    ]
+  }
+}

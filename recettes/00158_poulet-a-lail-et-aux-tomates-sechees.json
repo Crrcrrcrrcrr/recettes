@@ -1,0 +1,274 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "poulet-a-lail-et-aux-tomates-sechees",
+  "recipe_id": "00158",
+  "file": "recettes/00158_poulet-a-lail-et-aux-tomates-sechees.json",
+  "updated_at": "2026-06-18T18:24:59.644393+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "poulet-a-lail-et-aux-tomates-sechees",
+    "title": "Poulet à l’ail et aux tomates séchées",
+    "original_title": "Poulet à l’ail et aux tomates séchées",
+    "source_file": "Poulet à l’ail et aux tomates séchées.melarecipe",
+    "categories": [
+      "Plats",
+      "Viande"
+    ],
+    "ingredients": [
+      "450 g de Blanc de poulet",
+      "2 cuillère à café de Paprika",
+      "1 cuillère à café de Oignon en poudre",
+      "3 cuillère à soupe de Huile des tomates séchées",
+      "2 cuillère à soupe de Ail",
+      "150 g de Tomate séchée",
+      "1 cuillère à café de Moutarde",
+      "360 ml de Lait végétal",
+      "75 g de Épinard",
+      "30 g de Parmesan",
+      "2 cuillère à soupe de Basilic"
+    ],
+    "ingredients_raw": "450 g de Blanc de poulet\n2 cuillère à café de Paprika\n1 cuillère à café de Oignon en poudre\n3 cuillère à soupe de Huile des tomates séchées\n2 cuillère à soupe de Ail\n150 g de Tomate séchée\n1 cuillère à café de Moutarde\n360 ml de Lait végétal\n75 g de Épinard\n30 g de Parmesan\n2 cuillère à soupe de Basilic",
+    "instructions": "Assaisonnez le poulet avec du paprika et de la poudre d’oignon\nDans une grande poêle à feu moyen mettez 2 cas d’huile de tomates séchées pendant 1 min\nSaisir le poulet pendant 6 à 8 min par coté\nAjoutez le reste d'huile dans la poêle et faites revenir l’ail pendant 1 min puis ajoutez les tomates pendant 1 à 2 min, et mélangez la moutarde de Dijon. Réduire sur feu doux, ajouter le lait et faire mijoter doucement tout en remuant\nAjouter les épinards et laisser flétrir dans la sauce, puis ajouter du parmesan et laisser mijoter la sauce jusqu’à ce qu'il soit fondu",
+    "notes": "",
+    "link": "https://www.instagram.com/p/CiK9s2zMVhP",
+    "source_id": "instagram.com/p/CiK9s2zMVhP",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "450g de poitrines de poulet",
+      "2 cc de paprika",
+      "1 cc de poudre d’oignon",
+      "3 cs d’huile de tomate séchée ou d’huile d’olive",
+      "2 cs d’ail haché",
+      "150g de tomates séchées",
+      "1 cc de moutarde de dijon",
+      "360ml de lait végétal",
+      "75g d’épinards",
+      "30g de parmesan",
+      "2 cs de basilic haché"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "450 g de Poitrines de poulet",
+        "quantity": "450",
+        "unit": "g",
+        "name": "Blanc de poulet"
+      },
+      {
+        "raw": "2 cuillère à café de Paprika",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cuillère à café de Poudre d’oignon",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Oignon en poudre"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile de tomate séchée ou d’huile d’olive",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile des tomates séchées"
+      },
+      {
+        "raw": "2 cuillère à soupe de Ail",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Ail"
+      },
+      {
+        "raw": "150 g de Tomate séchée",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "1 cuillère à café de Moutarde de Dijon",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "360 ml de Lait végétal",
+        "quantity": "360",
+        "unit": "ml",
+        "name": "Lait végétal"
+      },
+      {
+        "raw": "75 g de Épinard",
+        "quantity": "75",
+        "unit": "g",
+        "name": "Épinard"
+      },
+      {
+        "raw": "30 g de Parmesan",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "2 cuillère à soupe de Basilic",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Basilic"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00158",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "450g de poitrines de poulet",
+        "quantity": "450 g",
+        "unit": "g",
+        "name": "Poitrines de poulet"
+      },
+      {
+        "raw": "2 cc de paprika",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cc de poudre d’oignon",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Poudre d’oignon"
+      },
+      {
+        "raw": "3 cs d’huile de tomate séchée ou d’huile d’olive",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Huile de tomate séchée ou d’huile d’olive"
+      },
+      {
+        "raw": "2 cs d’ail haché",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Ail"
+      },
+      {
+        "raw": "150g de tomates séchées",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Tomates séchées"
+      },
+      {
+        "raw": "1 cc de moutarde de dijon",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Moutarde de Dijon"
+      },
+      {
+        "raw": "360ml de lait végétal",
+        "quantity": "360 ml",
+        "unit": "ml",
+        "name": "Lait végétal"
+      },
+      {
+        "raw": "75g d’épinards",
+        "quantity": "75 g",
+        "unit": "g",
+        "name": "Épinards"
+      },
+      {
+        "raw": "30g de parmesan",
+        "quantity": "30 g",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "2 cs de basilic haché",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Basilic haché"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00158_poulet-a-lail-et-aux-tomates-sechees.jpg",
+    "images": [
+      "images/00158_poulet-a-lail-et-aux-tomates-sechees.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "450 g de Poitrines de poulet",
+        "quantity": "450",
+        "unit": "g",
+        "name": "Poitrines de poulet"
+      },
+      {
+        "raw": "2 cuillère à café de Paprika",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cuillère à café de Poudre d’oignon",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poudre d’oignon"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile de tomate séchée ou d’huile d’olive",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile de tomate séchée ou d’huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Ail",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Ail"
+      },
+      {
+        "raw": "150 g de Tomate séchée",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "1 cuillère à café de Moutarde de Dijon",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Moutarde de Dijon"
+      },
+      {
+        "raw": "360 ml de Lait végétal",
+        "quantity": "360",
+        "unit": "ml",
+        "name": "Lait végétal"
+      },
+      {
+        "raw": "75 g de Épinard",
+        "quantity": "75",
+        "unit": "g",
+        "name": "Épinard"
+      },
+      {
+        "raw": "30 g de Parmesan",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "2 cuillère à soupe de Basilic",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Basilic"
+      }
+    ]
+  }
+}

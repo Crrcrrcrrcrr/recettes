@@ -1,0 +1,46 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "canneles-vanille",
+  "recipe_id": "00190",
+  "file": "recettes/00190_canneles-vanille.json",
+  "updated_at": "2026-06-18T18:24:59.659864+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": false,
+    "units_validated": false,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "canneles-vanille",
+    "title": "Cannelés Vanille",
+    "original_title": "Cannelés Vanille",
+    "source_file": "Cannelés Vanille.melarecipe",
+    "categories": [
+      "Sucré",
+      "Sans ingrédients",
+      "Sans instructions"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/p/CahrmceIqqa",
+    "source_id": "instagram.com/p/CahrmceIqqa",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_with_user",
+    "recipe_id": "00190",
+    "image": "images/00190_canneles-vanille.jpg",
+    "images": [
+      "images/00190_canneles-vanille.jpg"
+    ]
+  }
+}

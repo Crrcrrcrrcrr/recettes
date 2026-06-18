@@ -1,0 +1,180 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "soupe-de-potimarron",
+  "recipe_id": "00130",
+  "file": "recettes/00130_soupe-de-potimarron.json",
+  "updated_at": "2026-06-18T18:24:59.632875+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "soupe-de-potimarron",
+    "title": "Soupe de potimarron",
+    "original_title": "Soupe de potimarron",
+    "source_file": "Soupe de potimarron.melarecipe",
+    "categories": [
+      "Plats",
+      "Soupe / Velouté",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "0,5 unité de Potimarron",
+      "2 unité de Tomate",
+      "1 unité de Oignon rouge",
+      "1 tête de Ail",
+      "1 bouquet de Basilic",
+      "250 ml de Crème liquide",
+      "150 ml de Eau",
+      "1 unité de Parmesan",
+      "1 unité de Croûtons"
+    ],
+    "ingredients_raw": "0,5 unité de Potimarron\n2 unité de Tomate\n1 unité de Oignon rouge\n1 tête de Ail\n1 bouquet de Basilic\n250 ml de Crème liquide\n150 ml de Eau\n1 unité de Parmesan\n1 unité de Croûtons",
+    "instructions": "35-40 minutes à 180 degrés",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CyBRi7zM1RA",
+    "source_id": "instagram.com/reel/CyBRi7zM1RA",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1/2 potimarron",
+      "2 tomates",
+      "1 oignon rouge",
+      "1-2 têtes d’ails",
+      "1 bouquet de basilic",
+      "250 ml de creme liquide",
+      "150 ml d’eau ( a ajouter dans le mixeur )",
+      "Parmesan",
+      "Croûtons"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "0,5 Potimarron",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "2 Tomate",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Tomate"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 bouquet de Basilic",
+        "quantity": "1",
+        "unit": "bouquet",
+        "name": "Basilic"
+      },
+      {
+        "raw": "250 ml de Crème liquide",
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "150 ml de Eau",
+        "quantity": "150",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Croûtons",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Croûtons"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00130",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1/2 potimarron",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "2 tomates",
+        "quantity": "2",
+        "unit": "",
+        "name": "Tomate"
+      },
+      {
+        "raw": "1 oignon rouge",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1-2 têtes d’ails",
+        "quantity": "1-2 têtes",
+        "unit": "têtes",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 bouquet de basilic",
+        "quantity": "1 bouquet",
+        "unit": "bouquet",
+        "name": "Basilic"
+      },
+      {
+        "raw": "250 ml de creme liquide",
+        "quantity": "250 ml",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "150 ml d’eau ( a ajouter dans le mixeur )",
+        "quantity": "150 ml",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "",
+        "unit": "",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Croûtons",
+        "quantity": "",
+        "unit": "",
+        "name": "Croûtons"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00130_soupe-de-potimarron.jpg",
+    "images": [
+      "images/00130_soupe-de-potimarron.jpg"
+    ]
+  }
+}

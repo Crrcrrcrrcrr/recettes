@@ -1,0 +1,176 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "riz-et-dinde-grillee-a-la-sauce-soja-salade-et-tomates",
+  "recipe_id": "00154",
+  "file": "recettes/00154_riz-et-dinde-grillee-a-la-sauce-soja-salade-et-tomates.json",
+  "updated_at": "2026-06-18T18:24:59.642718+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "riz-et-dinde-grillee-a-la-sauce-soja-salade-et-tomates",
+    "title": "Riz et dinde grillée à la sauce soja, salade et tomates",
+    "original_title": "Riz et dinde grillée à la sauce soja, salade et tomates",
+    "source_file": "Riz et dinde grillée à la sauce soja, salade et tomates.melarecipe",
+    "categories": [
+      "Plats",
+      "Salade",
+      "Viande",
+      "Froid"
+    ],
+    "ingredients": [
+      "180 g de Riz basmati",
+      "110 g de Blanc de poulet",
+      "20 g de Sauce soja salée",
+      "100 g de Tomate cerise",
+      "70 g de Laitue",
+      "3 g de Oignon frit"
+    ],
+    "ingredients_raw": "180 g de Riz basmati\n110 g de Blanc de poulet\n20 g de Sauce soja salée\n100 g de Tomate cerise\n70 g de Laitue\n3 g de Oignon frit",
+    "instructions": "Cuire le riz selon les indications du paquet. Coupez l’escalope de dinde en petits bouts.\nFaire griller à la poêle les morceaux de dinde et de tomate avec la sauce soja pendant environ 10 minutes en mélangeant.\nDans une assiette mettre de la laitue, rajoutez le riz cuit et parsemez avec les morceaux de dinde grillée à la sauce soja + quelques oignons frits et du persil.",
+    "notes": "",
+    "link": "https://www.instagram.com/p/CifAzLcMUfG",
+    "source_id": "instagram.com/p/CifAzLcMUfG",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "180g de riz basmati (𝑝𝑜𝑖𝑑𝑠 𝑐𝑢𝑖𝑡)",
+      "110g de filet de poulet",
+      "20g de sauce soja salée",
+      "100g de tomates cerises",
+      "70g de laitue iceberg",
+      "3g d’oignons frits"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "180 g de Riz basmati",
+        "quantity": "180",
+        "unit": "g",
+        "name": "Riz basmati"
+      },
+      {
+        "raw": "110 g de Filet de poulet",
+        "quantity": "110",
+        "unit": "g",
+        "name": "Blanc de poulet"
+      },
+      {
+        "raw": "20 g de Sauce soja salée",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "100 g de Tomate cerise",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "70 g de Laitue iceberg",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Laitue"
+      },
+      {
+        "raw": "3 g de Oignon frit",
+        "quantity": "3",
+        "unit": "g",
+        "name": "Oignon frit"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00154",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "180g de riz basmati (𝑝𝑜𝑖𝑑𝑠 𝑐𝑢𝑖𝑡)",
+        "quantity": "180 g",
+        "unit": "g",
+        "name": "Riz basmati"
+      },
+      {
+        "raw": "110g de filet de poulet",
+        "quantity": "110 g",
+        "unit": "g",
+        "name": "Filet de poulet"
+      },
+      {
+        "raw": "20g de sauce soja salée",
+        "quantity": "20 g",
+        "unit": "g",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "100g de tomates cerises",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "70g de laitue iceberg",
+        "quantity": "70 g",
+        "unit": "g",
+        "name": "Laitue iceberg"
+      },
+      {
+        "raw": "3g d’oignons frits",
+        "quantity": "3 g",
+        "unit": "g",
+        "name": "Oignons frits"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00154_riz-et-dinde-grillee-a-la-sauce-soja-salade-et-tomates.jpg",
+    "images": [
+      "images/00154_riz-et-dinde-grillee-a-la-sauce-soja-salade-et-tomates.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "180 g de Riz basmati",
+        "quantity": "180",
+        "unit": "g",
+        "name": "Riz basmati"
+      },
+      {
+        "raw": "110 g de Filet de poulet",
+        "quantity": "110",
+        "unit": "g",
+        "name": "Filet de poulet"
+      },
+      {
+        "raw": "20 g de Sauce soja salée",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "100 g de Tomate cerise",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "70 g de Laitue iceberg",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Laitue iceberg"
+      },
+      {
+        "raw": "3 g de Oignon frit",
+        "quantity": "3",
+        "unit": "g",
+        "name": "Oignon frit"
+      }
+    ]
+  }
+}

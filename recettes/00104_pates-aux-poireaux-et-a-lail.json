@@ -1,0 +1,236 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-aux-poireaux-et-a-lail",
+  "recipe_id": "00104",
+  "file": "recettes/00104_pates-aux-poireaux-et-a-lail.json",
+  "updated_at": "2026-06-18T18:24:59.621425+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-aux-poireaux-et-a-lail",
+    "title": "Pâtes aux poireaux et à l’ail !",
+    "original_title": "Pâtes aux poireaux et à l’ail !",
+    "source_file": "Pâtes aux poireaux et à l’ail !.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Poireau",
+      "2 cuillère à soupe de Huile d’olive",
+      "1 gousse de Ail",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "20 cl de Crème liquide",
+      "60 g de Parmesan",
+      "1 unité de Eau de cuisson des pâtes",
+      "250 g de Pâtes"
+    ],
+    "ingredients_raw": "1 unité de Poireau\n2 cuillère à soupe de Huile d’olive\n1 gousse de Ail\n1 unité de Sel\n1 unité de Poivre\n20 cl de Crème liquide\n60 g de Parmesan\n1 unité de Eau de cuisson des pâtes\n250 g de Pâtes",
+    "instructions": "Nettoyez et émincez finement le poireau.\nFaites-le revenir dans une poêle chaude avec l’huile pendant une dizaine de minutes.\nPendant ce temps faites cuire vos pâtes. Réservez une louche d’eau de cuisson.\nQuand le poireau a bien fondu, ajoutez la gousse d’ail pressée. Faites revenir encore 2-3min.\nAjoutez la crème et faites revenir encore 4-5min.\nAjoutez la louche d’eau de cuisson des pâtes, puis les pâtes et remuez bien.\nServez avec du parmesan !",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C17Vh-LtlrU",
+    "source_id": "instagram.com/reel/C17Vh-LtlrU",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 poireau",
+      "2 cs d’huile d’olive",
+      "1 gousse d’ail",
+      "Sel",
+      "Poivre",
+      "20cl de crème liquide",
+      "60g de parmesan",
+      "1 louche d’eau de cuisson des pâtes",
+      "250g des pâtes de votre choix"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Poireau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "20 cl de Crème liquide",
+        "quantity": 200,
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "60 g de Parmesan",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Louche d’eau de cuisson des pâtes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Eau de cuisson des pâtes"
+      },
+      {
+        "raw": "250 g de Pâtes de votre choix",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Pâtes"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00104",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 poireau",
+        "quantity": "1",
+        "unit": "",
+        "name": "Poireau"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "20cl de crème liquide",
+        "quantity": "20 cl",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "60g de parmesan",
+        "quantity": "60 g",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "1 louche d’eau de cuisson des pâtes",
+        "quantity": "1",
+        "unit": "",
+        "name": "Louche d’eau de cuisson des pâtes"
+      },
+      {
+        "raw": "250g des pâtes de votre choix",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Pâtes de votre choix"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00104_pates-aux-poireaux-et-a-lail.jpg",
+    "images": [
+      "images/00104_pates-aux-poireaux-et-a-lail.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Poireau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "20 cl de Crème liquide",
+        "quantity": 200,
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "60 g de Parmesan",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Louche d’eau de cuisson des pâtes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Louche d’eau de cuisson des pâtes"
+      },
+      {
+        "raw": "250 g de Pâtes de votre choix",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Pâtes de votre choix"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "risotto-aux-courgettes-roties-et-burrata",
+  "recipe_id": "00150",
+  "file": "recettes/00150_risotto-aux-courgettes-roties-et-burrata.json",
+  "updated_at": "2026-06-18T18:24:59.641291+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "risotto-aux-courgettes-roties-et-burrata",
+    "title": "Risotto aux courgettes rôties et burrata",
+    "original_title": "Risotto aux courgettes rôties et burrata",
+    "source_file": "Risotto aux courgettes rôties et burrata.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Risotto / Orzotto",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "2 unité de Courgette",
+      "2 cuillère à soupe de Huile d’olive",
+      "1 poignée de Pistache",
+      "2 gousse de Ail",
+      "2 cuillère à soupe de Parmesan",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "200 g de Riz à risotto",
+      "500 ml de Bouillon de légumes",
+      "1 unité de Oignon",
+      "1 unité de Burrata",
+      "1 unité de Piment",
+      "1 unité de Amande effilée"
+    ],
+    "ingredients_raw": "2 unité de Courgette\n2 cuillère à soupe de Huile d’olive\n1 poignée de Pistache\n2 gousse de Ail\n2 cuillère à soupe de Parmesan\n1 unité de Sel\n1 unité de Poivre\n200 g de Riz à risotto\n500 ml de Bouillon de légumes\n1 unité de Oignon\n1 unité de Burrata\n1 unité de Piment\n1 unité de Amande effilée",
+    "instructions": "Dans une poêle faite revenir les courgettes\nPuis dans un blender mettez : les courgettes cuites, pistaches, parmesan, huile d’olive, les gousses d’ails et mixez le tout. Réservez\nPuis dans une autre poêle huile faite revenir les oignons, le riz à risotto et ajoutez petit à petit du bouillon de légumes et à mi cuisson ajoutez la crème de courgettes\nServez le tout dans une assiette avec juste au dessus la burrata, les amande effilées, les courgettes grillées et le piment\nDégustez",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CrjHyvxMjjN",
+    "source_id": "instagram.com/reel/CrjHyvxMjjN",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 courgettes",
+      "2 cs d’huile d’olive",
+      "1 poignée de pistaches",
+      "2 gousses d’ail",
+      "2 cs de Parmesan",
+      "Sel",
+      "Poivre",
+      "200g de riz à risotto",
+      "500ml de bouillon de légume",
+      "1 oignon",
+      "1 burrata",
+      "Du piment",
+      "Des amandes effilées"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 Courgette",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Courgette"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 poignée de Pistache",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Pistache"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 cuillère à soupe de Parmesan",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "200 g de Riz à risotto",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Riz à risotto"
+      },
+      {
+        "raw": "500 ml de Bouillon de légumes",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "Piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "raw": "Amande effilée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Amande effilée"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00150",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 courgettes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Courgette"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 poignée de pistaches",
+        "quantity": "1 poignée",
+        "unit": "poignée",
+        "name": "Pistache"
+      },
+      {
+        "raw": "2 gousses d’ail",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "2 cs de Parmesan",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "200g de riz à risotto",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Riz à risotto"
+      },
+      {
+        "raw": "500ml de bouillon de légume",
+        "quantity": "500 ml",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 burrata",
+        "quantity": "1",
+        "unit": "",
+        "name": "Burrata"
+      },
+      {
+        "raw": "Du piment",
+        "quantity": "Du",
+        "unit": "",
+        "name": "Piment"
+      },
+      {
+        "raw": "Des amandes effilées",
+        "quantity": "Des",
+        "unit": "",
+        "name": "Amande effilée"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00150_risotto-aux-courgettes-roties-et-burrata.jpg",
+    "images": [
+      "images/00150_risotto-aux-courgettes-roties-et-burrata.jpg"
+    ]
+  }
+}

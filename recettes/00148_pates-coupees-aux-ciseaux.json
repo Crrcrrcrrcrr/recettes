@@ -1,0 +1,96 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-coupees-aux-ciseaux",
+  "recipe_id": "00148",
+  "file": "recettes/00148_pates-coupees-aux-ciseaux.json",
+  "updated_at": "2026-06-18T18:24:59.640797+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-coupees-aux-ciseaux",
+    "title": "Pâtes Coupées aux Ciseaux",
+    "original_title": "Pâtes Coupées aux Ciseaux",
+    "source_file": "Pâtes Coupées aux Ciseaux.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "100 g de Farine de blé T45",
+      "1 unité de Œuf",
+      "1 pincée de Sel"
+    ],
+    "ingredients_raw": "100 g de Farine de blé T45\n1 unité de Œuf\n1 pincée de Sel",
+    "instructions": "Pétrir la pâte jusqu’à ce qu’elle soit douce et lisse.\n(Optionnel : laisser reposer 10 minutes ou le temps de préparer la sauce ! Ce n’est pas indispensable, mais cela rend la pâte un peu plus tendre.)\nCouper directement dans l’eau bouillante salée à l’aide de ciseaux.\nFaire bouillir 3 à 4 minutes, puis mélanger avec la sauce de votre choix.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CvcfWETI7-t",
+    "source_id": "instagram.com/reel/CvcfWETI7-t",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "100g farine",
+      "1 gros œuf",
+      "1 pincée de sel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "100 g de Farine de blé T45",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 pincée de Sel",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00148",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "100g farine",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "1 gros œuf",
+        "quantity": "1",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 pincée de sel",
+        "quantity": "1 pincée",
+        "unit": "pincée",
+        "name": "Sel"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00148_pates-coupees-aux-ciseaux.jpg",
+    "images": [
+      "images/00148_pates-coupees-aux-ciseaux.jpg"
+    ]
+  }
+}

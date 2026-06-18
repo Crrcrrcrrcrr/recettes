@@ -1,0 +1,318 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "noodles-legumes-et-poulet-one-pot",
+  "recipe_id": "00194",
+  "file": "recettes/00194_noodles-legumes-et-poulet-one-pot.json",
+  "updated_at": "2026-06-18T18:24:59.661071+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "noodles-legumes-et-poulet-one-pot",
+    "title": "Noodles légumes et poulet one-pot",
+    "original_title": "Noodles légumes et poulet one-pot ",
+    "source_file": "Noodles légumes et poulet one-pot.melarecipe",
+    "categories": [
+      "Plats",
+      "One-pot",
+      "Riz et pâtes",
+      "Nouilles asiatiques",
+      "Viande",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "1 unité de Nouilles",
+      "1 unité de Bouillon de poulet",
+      "1 unité de Poivron",
+      "1 unité de Oignon",
+      "1 unité de Edamame",
+      "1 unité de Brocoli",
+      "1 unité de Poireau",
+      "1 unité de Poulet",
+      "500 ml de Coco",
+      "200 ml de Eau",
+      "1 unité de Sauce soja salée",
+      "1 unité de Flocons de piment",
+      "1 unité de Pâte de curry rouge"
+    ],
+    "ingredients_raw": "1 unité de Nouilles\n1 unité de Bouillon de poulet\n1 unité de Poivron\n1 unité de Oignon\n1 unité de Edamame\n1 unité de Brocoli\n1 unité de Poireau\n1 unité de Poulet\n500 ml de Coco\n200 ml de Eau\n1 unité de Sauce soja salée\n1 unité de Flocons de piment\n1 unité de Pâte de curry rouge",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DGGXLa3IlFr",
+    "source_id": "instagram.com/reel/DGGXLa3IlFr",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Nouilles instantanées",
+      "Bouillon de poulet",
+      "Poivrons",
+      "Oignon",
+      "Edamame",
+      "Brocolis",
+      "Poireaux",
+      "Poulet ou crevettes",
+      "500ml de coco",
+      "200ml d’eau",
+      "Sauce soja salée",
+      "Piment en flocons",
+      "Pâte de curry rouge (optionnel)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Nouilles",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Nouilles"
+      },
+      {
+        "raw": "Bouillon de poulet",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "Poivron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Edamame",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Edamame"
+      },
+      {
+        "raw": "1 unité de Brocoli",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Brocoli"
+      },
+      {
+        "raw": "1 unité de Poireau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "1 unité de Poulet",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poulet"
+      },
+      {
+        "raw": "500 ml de Coco",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Coco"
+      },
+      {
+        "raw": "200 ml de Eau",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Sauce soja salée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "Piment en flocons",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Flocons de piment"
+      },
+      {
+        "raw": "Pâte de curry rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte de curry rouge"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00194",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Nouilles instantanées",
+        "quantity": "",
+        "unit": "",
+        "name": "Nouilles instantanées"
+      },
+      {
+        "raw": "Bouillon de poulet",
+        "quantity": "",
+        "unit": "",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "Poivrons",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivron"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Edamame",
+        "quantity": "",
+        "unit": "",
+        "name": "Edamame"
+      },
+      {
+        "raw": "Brocolis",
+        "quantity": "",
+        "unit": "",
+        "name": "Brocolis"
+      },
+      {
+        "raw": "Poireaux",
+        "quantity": "",
+        "unit": "",
+        "name": "Poireaux"
+      },
+      {
+        "raw": "Poulet ou crevettes",
+        "quantity": "",
+        "unit": "",
+        "name": "Poulet ou crevettes"
+      },
+      {
+        "raw": "500ml de coco",
+        "quantity": "500 ml",
+        "unit": "ml",
+        "name": "Coco"
+      },
+      {
+        "raw": "200ml d’eau",
+        "quantity": "200 ml",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Sauce soja salée",
+        "quantity": "",
+        "unit": "",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "Piment en flocons",
+        "quantity": "",
+        "unit": "",
+        "name": "Piment en flocons"
+      },
+      {
+        "raw": "Pâte de curry rouge (optionnel)",
+        "quantity": "",
+        "unit": "",
+        "name": "Pâte de curry rouge"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00194_noodles-legumes-et-poulet-one-pot.jpg",
+    "images": [
+      "images/00194_noodles-legumes-et-poulet-one-pot.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Nouilles instantanées",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Nouilles instantanées"
+      },
+      {
+        "raw": "Bouillon de poulet",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "Poivron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Edamame",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Edamame"
+      },
+      {
+        "raw": "1 unité de Brocoli",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Brocoli"
+      },
+      {
+        "raw": "1 unité de Poireau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "Poulet ou crevettes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poulet ou crevettes"
+      },
+      {
+        "raw": "500 ml de Coco",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Coco"
+      },
+      {
+        "raw": "200 ml de Eau",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Sauce soja salée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "Piment en flocons",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment en flocons"
+      },
+      {
+        "raw": "Pâte de curry rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte de curry rouge"
+      }
+    ]
+  }
+}

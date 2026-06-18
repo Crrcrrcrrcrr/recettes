@@ -1,0 +1,438 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tenders-de-poulet",
+  "recipe_id": "00170",
+  "file": "recettes/00170_tenders-de-poulet.json",
+  "updated_at": "2026-06-18T18:24:59.651051+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tenders-de-poulet",
+    "title": "Tenders de poulet",
+    "original_title": "Tenders de poulet",
+    "source_file": "Tenders de poulet.melarecipe",
+    "categories": [
+      "Plats",
+      "Viande",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "1 unité de Blanc de poulet",
+      "1 unité de Paprika",
+      "1 unité de Poivre",
+      "1 unité de Sel",
+      "1 unité de Piment doux",
+      "1 unité de Corn Flakes nature",
+      "2 unité de Œuf",
+      "1 unité de Miel",
+      "1 unité de Sauce soja salée",
+      "1 unité de Sauce teriyaki",
+      "1 unité de Ail en poudre",
+      "1 unité de Flocons de piment",
+      "1 unité de Madame Loïk",
+      "1 unité de Mayonnaise",
+      "1 unité de Crème fraîche épaisse",
+      "1 unité de Vinaigre de vin blanc",
+      "1 unité de Ail en poudre",
+      "1 unité de Oignon en poudre",
+      "1 unité de Ciboulette"
+    ],
+    "ingredients_raw": "1 unité de Blanc de poulet\n1 unité de Paprika\n1 unité de Poivre\n1 unité de Sel\n1 unité de Piment doux\n1 unité de Corn Flakes nature\n2 unité de Œuf\n1 unité de Miel\n1 unité de Sauce soja salée\n1 unité de Sauce teriyaki\n1 unité de Ail en poudre\n1 unité de Flocons de piment\n1 unité de Madame Loïk\n1 unité de Mayonnaise\n1 unité de Crème fraîche épaisse\n1 unité de Vinaigre de vin blanc\n1 unité de Ail en poudre\n1 unité de Oignon en poudre\n1 unité de Ciboulette",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DFar7VZIvWZ",
+    "source_id": "instagram.com/reel/DFar7VZIvWZ",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Filets de poulet",
+      "Paprika",
+      "Poivre",
+      "Sel",
+      "Piment doux en poudre",
+      "Corn Flakes nature",
+      "2 œufs",
+      "# Pour la sauce au miel :",
+      "Miel",
+      "Sauce soja salée",
+      "Sauce Teriyaki ou Yakitor",
+      "Ail en poudre",
+      "Piment en flocons",
+      "# Pour la sauce creamy :",
+      "Fromage Philadelphia ou Madame Loïk nature",
+      "Mayonnaise",
+      "Crème fraîche épaisse",
+      "Vinaigre blanc",
+      "Ail en poudre et oignon en poudre",
+      "Ciboulette"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Filet de poulet",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Blanc de poulet"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Piment doux en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment doux"
+      },
+      {
+        "raw": "Corn Flakes nature",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Corn Flakes nature"
+      },
+      {
+        "raw": "2 Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "raw": "Sauce soja salée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "Sauce Teriyaki ou Yakitor",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce teriyaki"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Piment en flocons",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Flocons de piment"
+      },
+      {
+        "raw": "Madame Loïk",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Madame Loïk"
+      },
+      {
+        "raw": "Mayonnaise",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "Crème fraîche épaisse",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Crème fraîche épaisse"
+      },
+      {
+        "raw": "1 unité de Vinaigre de vin blanc",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Vinaigre de vin blanc"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Oignon en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon en poudre"
+      },
+      {
+        "raw": "Ciboulette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ciboulette"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00170",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Filets de poulet",
+        "quantity": "",
+        "unit": "",
+        "name": "Filet de poulet"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "",
+        "unit": "",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Piment doux en poudre",
+        "quantity": "",
+        "unit": "",
+        "name": "Piment doux en poudre"
+      },
+      {
+        "raw": "Corn Flakes nature",
+        "quantity": "",
+        "unit": "",
+        "name": "Corn Flakes nature"
+      },
+      {
+        "raw": "2 œufs",
+        "quantity": "2",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "# Pour la sauce au miel :",
+        "type": "section"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "",
+        "unit": "",
+        "name": "Miel"
+      },
+      {
+        "raw": "Sauce soja salée",
+        "quantity": "",
+        "unit": "",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "Sauce Teriyaki ou Yakitor",
+        "quantity": "",
+        "unit": "",
+        "name": "Sauce Teriyaki ou Yakitor"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "",
+        "unit": "",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Piment en flocons",
+        "quantity": "",
+        "unit": "",
+        "name": "Piment en flocons"
+      },
+      {
+        "raw": "# Pour la sauce creamy :",
+        "type": "section"
+      },
+      {
+        "raw": "Fromage Philadelphia ou Madame Loïk nature",
+        "quantity": "",
+        "unit": "",
+        "name": "Fromage Philadelphia ou Madame Loïk nature"
+      },
+      {
+        "raw": "Mayonnaise",
+        "quantity": "",
+        "unit": "",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "Crème fraîche épaisse",
+        "quantity": "",
+        "unit": "",
+        "name": "Crème fraîche épaisse"
+      },
+      {
+        "raw": "Vinaigre blanc",
+        "quantity": "",
+        "unit": "",
+        "name": "Vinaigre blanc"
+      },
+      {
+        "raw": "Ail en poudre et oignon en poudre",
+        "quantity": "",
+        "unit": "",
+        "name": "Ail en poudre et oignon en poudre"
+      },
+      {
+        "raw": "Ciboulette",
+        "quantity": "",
+        "unit": "",
+        "name": "Ciboulette"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00170_tenders-de-poulet.jpg",
+    "images": [
+      "images/00170_tenders-de-poulet.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Filet de poulet",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Filet de poulet"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Piment doux en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment doux en poudre"
+      },
+      {
+        "raw": "Corn Flakes nature",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Corn Flakes nature"
+      },
+      {
+        "raw": "2 Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "raw": "Sauce soja salée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "Sauce Teriyaki ou Yakitor",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce Teriyaki ou Yakitor"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Piment en flocons",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment en flocons"
+      },
+      {
+        "raw": "Madame Loïk",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Madame Loïk"
+      },
+      {
+        "raw": "Mayonnaise",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "Crème fraîche épaisse",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Crème fraîche épaisse"
+      },
+      {
+        "raw": "Vinaigre blanc",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Vinaigre blanc"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Oignon en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon en poudre"
+      },
+      {
+        "raw": "Ciboulette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ciboulette"
+      }
+    ]
+  }
+}

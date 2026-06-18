@@ -1,0 +1,149 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tartelettes-au-chevre-et-miel-facon-tatin",
+  "recipe_id": "00109",
+  "file": "recettes/00109_tartelettes-au-chevre-et-miel-facon-tatin.json",
+  "updated_at": "2026-06-18T18:24:59.623917+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tartelettes-au-chevre-et-miel-facon-tatin",
+    "title": "Tartelettes au chèvre et miel façon tatin",
+    "original_title": "Tartelettes au chèvre et miel façon tatin",
+    "source_file": "Tartelettes au chèvre et miel façon tatin.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Plats",
+      "Tarte / Quiche",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "150 g de Crottin de chèvre",
+      "1 unité de Pâte feuilletée",
+      "2 unité de Oignon",
+      "1 unité de Romarin"
+    ],
+    "ingredients_raw": "150 g de Crottin de chèvre\n1 unité de Pâte feuilletée\n2 unité de Oignon\n1 unité de Romarin",
+    "instructions": "Pour commencer, coupez en lamelle l’oignon et faites le revenir dans une poêle huile\nCoupez votre bûche de chèvre en lamelle et sur une plaque de cuisson avec du papier sulfurisé ajoutez le miel, du romarin le chèvre, les oignons cuit et la pâte feuilletée\nPiquez le tout et enfournez 10min à 180 degrés \nDégustez",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C4ddNPUprxb",
+    "source_id": "instagram.com/reel/C4ddNPUprxb",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "150g de fromage de chèvre",
+      "1 pâte feuilletée",
+      "1 cc pour chaque lamelle de chèvre",
+      "2 oignons",
+      "Romarin"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "150 g de Crottin de chèvre",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Crottin de chèvre"
+      },
+      {
+        "raw": "Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "2 Oignon",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Romarin",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Romarin"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00109",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "150g de fromage de chèvre",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Fromage de chèvre"
+      },
+      {
+        "raw": "1 pâte feuilletée",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "1 cc pour chaque lamelle de chèvre",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Pour chaque lamelle de chèvre"
+      },
+      {
+        "raw": "2 oignons",
+        "quantity": "2",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Romarin",
+        "quantity": "",
+        "unit": "",
+        "name": "Romarin"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00109_tartelettes-au-chevre-et-miel-facon-tatin.jpg",
+    "images": [
+      "images/00109_tartelettes-au-chevre-et-miel-facon-tatin.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "150 g de Fromage de chèvre",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Fromage de chèvre"
+      },
+      {
+        "raw": "Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "1 cuillère à café de Pour chaque lamelle de chèvre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Pour chaque lamelle de chèvre"
+      },
+      {
+        "raw": "2 Oignon",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Romarin",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Romarin"
+      }
+    ]
+  }
+}
