@@ -1,0 +1,319 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "haricots-beurre-marry-me",
+  "recipe_id": "00035",
+  "file": "recettes/00035_haricots-beurre-marry-me.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "haricots-beurre-marry-me",
+    "title": "Haricots beurre « Marry me »",
+    "original_title": "Haricots beurre « Marry me »",
+    "source_file": "Haricots beurre « Marry me ».melarecipe",
+    "categories": [
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "2 gousse de Ail",
+      "1 unité de Oignon jaune",
+      "400 g de Haricots blancs",
+      "30 g de Tomate séchée",
+      "150 ml de Lait de coco",
+      "1 unité de Eau",
+      "1 cuillère à soupe de Fécule de maïs",
+      "1 cuillère à soupe de Miso",
+      "30 g de Beurre de cacahuète",
+      "2 cuillère à soupe de Sauce soja",
+      "1 cuillère à soupe de Paprika fumé",
+      "50 g de Épinard",
+      "1 quelques de Cacahuète"
+    ],
+    "ingredients_raw": "2 gousse de Ail\n1 unité de Oignon jaune\n400 g de Haricots blancs\n30 g de Tomate séchée\n150 ml de Lait de coco\n1 unité de Eau\n1 cuillère à soupe de Fécule de maïs\n1 cuillère à soupe de Miso\n30 g de Beurre de cacahuète\n2 cuillère à soupe de Sauce soja\n1 cuillère à soupe de Paprika fumé\n50 g de Épinard\n1 quelques de Cacahuète",
+    "instructions": "Dans une poêle avec un filet d’huile d’olive ou de coco, faites revenir les gousses d’ail et l’oignon émincés pendant 3 minutes.\nAjoutez les tomates séchées hachées, puis incorporez les pousses d’épinards, le lait de coco, le miso, le beurre de cacahuète, le paprika fumé, la fécule et les haricots blancs.\nVersez un peu de bouillon, juste assez pour couvrir le mélange. Couvrez et laissez mijoter à feu doux pendant quelques minutes.\nPour terminer, parsemez de cacahuètes concassées et servez chaud.\nÀ servir avec une belle tranche de pain ou du riz",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DCzUEcYCPS8",
+    "source_id": "instagram.com/reel/DCzUEcYCPS8",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 gousses d’ail, émincées",
+      "1 oignon jaune, émincé",
+      "400 g de haricots blancs",
+      "30 g de tomates séchées, émincées",
+      "150 ml de lait de coco",
+      "Un petit peu de bouillon ou d’eau",
+      "1 cs de fécule de maïs pour épaissir",
+      "1 cs de miso (optionnel)",
+      "30 g de beurre de cacahuète",
+      "1-2 cs de sauce soja",
+      "1 cs de paprika fumé",
+      "50 g de jeunes pousses d’épinards, hachés",
+      "# Topping :",
+      "Quelques cacahuètes hachées"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Oignon jaune",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "400 g de Haricots blancs",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Haricots blancs"
+      },
+      {
+        "raw": "30 g de Tomates séchées, émincées",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "150 ml de Lait de coco",
+        "quantity": "150",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Eau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 cuillère à soupe de Fécule de maïs pour épaissir",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Fécule de maïs"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miso (optionnel)",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miso"
+      },
+      {
+        "raw": "30 g de Beurre de cacahuète",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Paprika fumé",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "50 g de Épinard",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Épinard"
+      },
+      {
+        "raw": "1 quelques de Cacahuète",
+        "quantity": "1",
+        "unit": "quelques",
+        "name": "Cacahuète"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00035",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 gousses d’ail, émincées",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Ail, émincées"
+      },
+      {
+        "raw": "1 oignon jaune, émincé",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "400 g de haricots blancs",
+        "quantity": "400 g",
+        "unit": "g",
+        "name": "Haricots blancs"
+      },
+      {
+        "raw": "30 g de tomates séchées, émincées",
+        "quantity": "30 g",
+        "unit": "g",
+        "name": "Tomates séchées, émincées"
+      },
+      {
+        "raw": "150 ml de lait de coco",
+        "quantity": "150 ml",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Un petit peu de bouillon ou d’eau",
+        "quantity": "Un",
+        "unit": "",
+        "name": "Petit peu de bouillon ou d’eau"
+      },
+      {
+        "raw": "1 cs de fécule de maïs pour épaissir",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Fécule de maïs pour épaissir"
+      },
+      {
+        "raw": "1 cs de miso (optionnel)",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Miso (optionnel)"
+      },
+      {
+        "raw": "30 g de beurre de cacahuète",
+        "quantity": "30 g",
+        "unit": "g",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "1-2 cs de sauce soja",
+        "quantity": "1-2 cs",
+        "unit": "cs",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cs de paprika fumé",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "50 g de jeunes pousses d’épinards, hachés",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Jeunes pousses d’épinards, hachés"
+      },
+      {
+        "raw": "# Topping :",
+        "type": "section"
+      },
+      {
+        "raw": "Quelques cacahuètes hachées",
+        "quantity": "Quelques",
+        "unit": "",
+        "name": "Cacahuètes hachées"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00035_haricots-beurre-marry-me.jpg",
+    "images": [
+      "images/00035_haricots-beurre-marry-me.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Oignon jaune",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "400 g de Haricots blancs",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Haricots blancs"
+      },
+      {
+        "raw": "30 g de Tomates séchées, émincées",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Tomates séchées, émincées"
+      },
+      {
+        "raw": "150 ml de Lait de coco",
+        "quantity": "150",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Eau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 cuillère à soupe de Fécule de maïs pour épaissir",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Fécule de maïs pour épaissir"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miso (optionnel)",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miso (optionnel)"
+      },
+      {
+        "raw": "30 g de Beurre de cacahuète",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Paprika fumé",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "50 g de Épinard",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Épinard"
+      },
+      {
+        "raw": "1 quelques de Cacahuète",
+        "quantity": "1",
+        "unit": "quelques",
+        "name": "Cacahuète"
+      }
+    ]
+  }
+}

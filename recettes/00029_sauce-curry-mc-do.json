@@ -1,0 +1,194 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "sauce-curry-mc-do",
+  "recipe_id": "00029",
+  "file": "recettes/00029_sauce-curry-mc-do.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "sauce-curry-mc-do",
+    "title": "Sauce curry Mc Do",
+    "original_title": "Sauce curry Mc Do",
+    "source_file": "Sauce curry Mc Do.melarecipe",
+    "categories": [
+      "Sans instructions",
+      "Sauce"
+    ],
+    "ingredients": [
+      "4 cuillère à soupe de Gelée de coing",
+      "1 cuillère à soupe de Ketchup",
+      "1 cuillère à café de Curry",
+      "1 pincée de Sel",
+      "1 pincée de Gingembre en poudre",
+      "1 pincée de Poivre",
+      "1 cuillère à café de Compote de pommes sans sucre ajouté"
+    ],
+    "ingredients_raw": "4 cuillère à soupe de Gelée de coing\n1 cuillère à soupe de Ketchup\n1 cuillère à café de Curry\n1 pincée de Sel\n1 pincée de Gingembre en poudre\n1 pincée de Poivre\n1 cuillère à café de Compote de pommes sans sucre ajouté",
+    "instructions": "Réserver au frais pendant 1h",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DE78jNXo0aO",
+    "source_id": "instagram.com/reel/DE78jNXo0aO",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4 cs de gelée de coing",
+      "1 cs de Ketchup 🍅",
+      "1 ensuite 1 cac de Curry",
+      "1 pincée de sel 🧂",
+      "1 pincée de gingembre en poudre",
+      "1 pincée de poivre noir",
+      "1 cc de compote de pomme"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 cuillère à soupe de Gelée de coing",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Gelée de coing"
+      },
+      {
+        "raw": "1 cuillère à soupe de Ketchup",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Ketchup"
+      },
+      {
+        "raw": "Ensuite 1 cac de Curry",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 pincée de Sel",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 pincée de Gingembre en poudre",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "1 pincée de Poivre noir",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 cuillère à café de Compote de pomme",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Compote de pommes sans sucre ajouté"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00029",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "4 cs de gelée de coing",
+        "quantity": "4 cs",
+        "unit": "cs",
+        "name": "Gelée de coing"
+      },
+      {
+        "raw": "1 cs de Ketchup 🍅",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Ketchup"
+      },
+      {
+        "raw": "1 ensuite 1 cac de Curry",
+        "quantity": "1",
+        "unit": "",
+        "name": "Ensuite 1 cac de Curry"
+      },
+      {
+        "raw": "1 pincée de sel 🧂",
+        "quantity": "1 pincée",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 pincée de gingembre en poudre",
+        "quantity": "1 pincée",
+        "unit": "pincée",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "1 pincée de poivre noir",
+        "quantity": "1 pincée",
+        "unit": "pincée",
+        "name": "Poivre noir"
+      },
+      {
+        "raw": "1 cc de compote de pomme",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Compote de pomme"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00029_sauce-curry-mc-do.heic",
+    "images": [
+      "images/00029_sauce-curry-mc-do.heic"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "4 cuillère à soupe de Gelée de coing",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Gelée de coing"
+      },
+      {
+        "raw": "1 cuillère à soupe de Ketchup",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Ketchup"
+      },
+      {
+        "raw": "Ensuite 1 cac de Curry",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ensuite 1 cac de Curry"
+      },
+      {
+        "raw": "1 pincée de Sel",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 pincée de Gingembre en poudre",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "1 pincée de Poivre noir",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Poivre noir"
+      },
+      {
+        "raw": "1 cuillère à café de Compote de pomme",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Compote de pomme"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "nouilles-de-riz-cacahuete",
+  "recipe_id": "00065",
+  "file": "recettes/00065_nouilles-de-riz-cacahuete.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "nouilles-de-riz-cacahuete",
+    "title": "Nouilles de riz cacahuète",
+    "original_title": "Nouilles de riz cacahuète ",
+    "source_file": "Nouilles de riz cacahuète.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Plats",
+      "Sans instructions",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "200 g de Nouilles de riz",
+      "2 cuillère à soupe de Sauce soja salée",
+      "2 cuillère à soupe de Beurre de cacahuète",
+      "2 gousse de Ail",
+      "1 cuillère à soupe de Huile de sésame",
+      "10 cl de Eau",
+      "1 unité de Cébette",
+      "1 unité de Cacahuète",
+      "1 unité de Graine de sésame"
+    ],
+    "ingredients_raw": "200 g de Nouilles de riz\n2 cuillère à soupe de Sauce soja salée\n2 cuillère à soupe de Beurre de cacahuète\n2 gousse de Ail\n1 cuillère à soupe de Huile de sésame\n10 cl de Eau\n1 unité de Cébette\n1 unité de Cacahuète\n1 unité de Graine de sésame",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C8uZPzmCoW1",
+    "source_id": "instagram.com/reel/C8uZPzmCoW1",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200g de nouilles de riz",
+      "2 c.à soupe de sauce soja salée",
+      "2 c.à soupe de beurre de cacahuètes",
+      "2 gousses d’ail hachées",
+      "1 c.à soupe d’huile de sésame",
+      "10cl d’eau",
+      "Cébette",
+      "Cacahuètes concassées",
+      "Graines de sésame"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de Nouilles de riz",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja salée",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre de cacahuète",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile de sésame",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "10 cl de Eau",
+        "quantity": 100,
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Cébette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cébette"
+      },
+      {
+        "raw": "Cacahuète",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "1 unité de Graine de sésame",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Graine de sésame"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00065",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "200g de nouilles de riz",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "2 c.à soupe de sauce soja salée",
+        "quantity": "2",
+        "unit": "",
+        "name": "C.à soupe de sauce soja salée"
+      },
+      {
+        "raw": "2 c.à soupe de beurre de cacahuètes",
+        "quantity": "2",
+        "unit": "",
+        "name": "C.à soupe de beurre de cacahuètes"
+      },
+      {
+        "raw": "2 gousses d’ail hachées",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Ail hachées"
+      },
+      {
+        "raw": "1 c.à soupe d’huile de sésame",
+        "quantity": "1",
+        "unit": "",
+        "name": "C.à soupe d’huile de sésame"
+      },
+      {
+        "raw": "10cl d’eau",
+        "quantity": "10 cl",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Cébette",
+        "quantity": "",
+        "unit": "",
+        "name": "Cébette"
+      },
+      {
+        "raw": "Cacahuètes concassées",
+        "quantity": "",
+        "unit": "",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Graines de sésame",
+        "quantity": "",
+        "unit": "",
+        "name": "Graines de sésame"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00065_nouilles-de-riz-cacahuete.jpg",
+    "images": [
+      "images/00065_nouilles-de-riz-cacahuete.jpg"
+    ]
+  }
+}

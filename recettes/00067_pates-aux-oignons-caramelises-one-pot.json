@@ -1,0 +1,336 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-aux-oignons-caramelises-one-pot",
+  "recipe_id": "00067",
+  "file": "recettes/00067_pates-aux-oignons-caramelises-one-pot.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-aux-oignons-caramelises-one-pot",
+    "title": "Pâtes aux oignons caramélisés one-pot",
+    "original_title": "Pâtes aux oignons caramélisés one-pot",
+    "source_file": "Pâtes aux oignons caramélisés one-pot.melarecipe",
+    "categories": [
+      "One-pot",
+      "Pâtes",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "340 g de Rigatoni ou une autre pâte courte",
+      "2 cuillère à soupe de Beurre",
+      "2 cuillère à soupe de Huile d’olive",
+      "3 unité de Oignon jaune",
+      "5 gousse de Ail",
+      "3 cuillère à café de Thym frais",
+      "1/3 tasse de Vin blanc",
+      "1 cuillère à café de Sauce Worcestershire",
+      "1 cuillère à café de Sel",
+      "1 cuillère à café de Poivre",
+      "3 tasse de Bouillon de bœuf",
+      "1 tasse de Eau",
+      "1/3 tasse de Crème entière",
+      "1/2 tasse de Gruyère râpé"
+    ],
+    "ingredients_raw": "340 g de Rigatoni ou une autre pâte courte\n2 cuillère à soupe de Beurre\n2 cuillère à soupe de Huile d’olive\n3 unité de Oignon jaune\n5 gousse de Ail\n3 cuillère à café de Thym frais\n1/3 tasse de Vin blanc\n1 cuillère à café de Sauce Worcestershire\n1 cuillère à café de Sel\n1 cuillère à café de Poivre\n3 tasse de Bouillon de bœuf\n1 tasse de Eau\n1/3 tasse de Crème entière\n1/2 tasse de Gruyère râpé",
+    "instructions": "Prenez votre poêle et chauffez-la. Ajoutez le beurre et un peu d’huile. Une fois que le mélange est fondu et chaud, ajoutez les oignons émincés. Mélangez bien pour qu’ils soient brillants et enrobés. Préchauffez le four en mode grill pour la dernière étape.\nCuisson à feu doux… laissez les oignons caraméliser et devenir dorés et sucrés, en les mélangeant toutes les quelques minutes pour éviter qu’ils ne collent. Si ça accroche un peu trop, ajoutez un peu plus d’huile ou un peu d’eau. Plus vous faites cuire à feu doux, meilleurs seront les résultats, mais si vous manquez de patience, vous pouvez augmenter le feu, en veillant à bien mélanger souvent.\nUne fois que les oignons sont bien caramélisés, ajoutez l’ail et le thym. Laissez-les grésiller jusqu’à ce que tout dégage une bonne odeur.\nVersez le vin et laissez-le réduire, en grattant les morceaux savoureux qui sont restés au fond de la poêle. Laissez le vin presque disparaître dans le mélange, cela prendra une à deux minutes.\nAjoutez ensuite le bouillon, l’eau et les pâtes. Mélangez bien pour que les pâtes soient bien couvertes. Augmentez la chaleur pour porter à ébullition, puis laissez mijoter jusqu’à ce que les pâtes soient al dente et que la majeure partie du liquide soit évaporée, environ 6-8 minutes.\nRetirez du feu, ajoutez la crème et 1 tasse de fromage, puis mélangez jusqu’à ce que tout soit bien fondu et lisse.\nAjoutez le reste du fromage (1/2 tasse) et passez au grill pendant 2 minutes pour faire fondre le fromage et obtenir une croûte dorée.\nTerminez en ajoutant du thym frais et régalez-vous.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C91GKsyJH8G",
+    "source_id": "instagram.com/reel/C91GKsyJH8G",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "340 g de rigatoni ou une autre pâte courte",
+      "2 cs de beurre",
+      "2 cs d’huile d’olive",
+      "3 gros oignons jaunes (ou 4 moyens), émincés",
+      "5 gousses d’ail, hachées",
+      "3 cc de thym frais, haché",
+      "1/3 tasse de vin blanc",
+      "1 cc de sauce Worcestershire",
+      "1 cc de sel",
+      "1 cc de poivre noir",
+      "3 tasses de bouillon de bœuf",
+      "1 tasse d’eau",
+      "1/3 tasse de crème entière",
+      "1 1/2 tasse de gruyère râpé (meilleure option) ou de cheddar blanc fort"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "340 g de Rigatoni ou une autre pâte courte",
+        "quantity": "340",
+        "unit": "g",
+        "name": "Rigatoni ou une autre pâte courte"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "3 Gros oignons jaunes (ou 4 moyens), émincés",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "5 gousse de Ail",
+        "quantity": "5",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "3 cuillère à café de Thym frais haché",
+        "quantity": "3",
+        "unit": "cuillère à café",
+        "name": "Thym frais"
+      },
+      {
+        "raw": "1/3 tasse de Vin blanc",
+        "quantity": "1/3",
+        "unit": "tasse",
+        "name": "Vin blanc"
+      },
+      {
+        "raw": "1 cuillère à café de Sauce Worcestershire",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sauce Worcestershire"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à café de Poivre noir",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "3 tasse de Bouillon de bœuf",
+        "quantity": "3",
+        "unit": "tasse",
+        "name": "Bouillon de bœuf"
+      },
+      {
+        "raw": "1 tasse de Eau",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Eau"
+      },
+      {
+        "raw": "1/3 tasse de Crème entière",
+        "quantity": "1/3",
+        "unit": "tasse",
+        "name": "Crème entière"
+      },
+      {
+        "raw": "1/2 tasse de Gruyère râpé",
+        "quantity": "1/2",
+        "unit": "tasse",
+        "name": "Gruyère râpé"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00067",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "340 g de rigatoni ou une autre pâte courte",
+        "quantity": "340 g",
+        "unit": "g",
+        "name": "Rigatoni ou une autre pâte courte"
+      },
+      {
+        "raw": "2 cs de beurre",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Beurre"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "3 gros oignons jaunes (ou 4 moyens), émincés",
+        "quantity": "3",
+        "unit": "",
+        "name": "Gros oignons jaunes (ou 4 moyens), émincés"
+      },
+      {
+        "raw": "5 gousses d’ail, hachées",
+        "quantity": "5 gousses",
+        "unit": "gousses",
+        "name": "Ail, hachées"
+      },
+      {
+        "raw": "3 cc de thym frais, haché",
+        "quantity": "3 cc",
+        "unit": "cc",
+        "name": "Thym frais haché"
+      },
+      {
+        "raw": "1/3 tasse de vin blanc",
+        "quantity": "1/3 tasse",
+        "unit": "tasse",
+        "name": "Vin blanc"
+      },
+      {
+        "raw": "1 cc de sauce Worcestershire",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Sauce Worcestershire"
+      },
+      {
+        "raw": "1 cc de sel",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cc de poivre noir",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Poivre noir"
+      },
+      {
+        "raw": "3 tasses de bouillon de bœuf",
+        "quantity": "3 tasses",
+        "unit": "tasses",
+        "name": "Bouillon de bœuf"
+      },
+      {
+        "raw": "1 tasse d’eau",
+        "quantity": "1 tasse",
+        "unit": "tasse",
+        "name": "Eau"
+      },
+      {
+        "raw": "1/3 tasse de crème entière",
+        "quantity": "1/3 tasse",
+        "unit": "tasse",
+        "name": "Crème entière"
+      },
+      {
+        "raw": "1 1/2 tasse de gruyère râpé (meilleure option) ou de cheddar blanc fort",
+        "quantity": "1",
+        "unit": "",
+        "name": "1/2 tasse de gruyère râpé (meilleure option) ou de cheddar blanc fort"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00067_pates-aux-oignons-caramelises-one-pot.jpg",
+    "images": [
+      "images/00067_pates-aux-oignons-caramelises-one-pot.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "340 g de Rigatoni ou une autre pâte courte",
+        "quantity": "340",
+        "unit": "g",
+        "name": "Rigatoni ou une autre pâte courte"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "3 Gros oignons jaunes (ou 4 moyens), émincés",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Gros oignons jaunes (ou 4 moyens), émincés"
+      },
+      {
+        "raw": "5 gousse de Ail",
+        "quantity": "5",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "3 cuillère à café de Thym frais haché",
+        "quantity": "3",
+        "unit": "cuillère à café",
+        "name": "Thym frais haché"
+      },
+      {
+        "raw": "1/3 tasse de Vin blanc",
+        "quantity": "1/3",
+        "unit": "tasse",
+        "name": "Vin blanc"
+      },
+      {
+        "raw": "1 cuillère à café de Sauce Worcestershire",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sauce Worcestershire"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à café de Poivre noir",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poivre noir"
+      },
+      {
+        "raw": "3 tasse de Bouillon de bœuf",
+        "quantity": "3",
+        "unit": "tasse",
+        "name": "Bouillon de bœuf"
+      },
+      {
+        "raw": "1 tasse de Eau",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Eau"
+      },
+      {
+        "raw": "1/3 tasse de Crème entière",
+        "quantity": "1/3",
+        "unit": "tasse",
+        "name": "Crème entière"
+      },
+      {
+        "raw": "1/2 tasse de Gruyère râpé",
+        "quantity": "1/2",
+        "unit": "tasse",
+        "name": "Gruyère râpé"
+      }
+    ]
+  }
+}

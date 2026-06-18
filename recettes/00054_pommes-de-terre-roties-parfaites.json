@@ -1,0 +1,175 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pommes-de-terre-roties-parfaites",
+  "recipe_id": "00054",
+  "file": "recettes/00054_pommes-de-terre-roties-parfaites.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pommes-de-terre-roties-parfaites",
+    "title": "Pommes de terre rôties parfaites",
+    "original_title": "Pommes de terre rôties parfaites",
+    "source_file": "Pommes de terre rôties parfaites.melarecipe",
+    "categories": [
+      "Légumes rôtis",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 kg de Pomme de terre",
+      "1 pincée de Gros sel",
+      "3 cuillère à soupe de Huile",
+      "1 poignée de Persil",
+      "1 gousse de Ail",
+      "1 unité de Zeste de citron"
+    ],
+    "ingredients_raw": "1 kg de Pomme de terre\n1 pincée de Gros sel\n3 cuillère à soupe de Huile\n1 poignée de Persil\n1 gousse de Ail\n1 unité de Zeste de citron",
+    "instructions": "Commencer par éplucher les pommes de terre et les couper pour qu'elles soient toutes de même taille. Puis les rincer à l’eau froide.\nCuire pendant 10 minutes, départ eau froide (je démarre le chrono une fois que l’eau bout) avant de les égoutter et de les laisser sécher pendant quelques minutes.\nPréchauffer le four à 200 degrés pendant ce temps, puis mettre directement le plat avec l’huile pour qu’il chauffe.\nRemettre les pommes de terre dans la casserole et les secouer pour les faire gonfler.\nVerser les pommes de terre dans le plat en une seule couche. Toutes les patates doivent être au contact de la plaque. Mélanger les pommes de terre dans l’huile.\nPuis il faut les rôtir pendant 30 minutes, ou jusqu'à ce que le tout soit légèrement doré et cuit sur une face.\nBien remuer le tout, puis remettre au four chaud pendant 40 à 45 minutes ou jusqu'à ce qu'elles soient croustillantes, magnifiques et délicieuses.\nDéposez directement dans le plat avec la persillade et une pointe de fleur de sel.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DBispK9SeEK",
+    "source_id": "instagram.com/reel/DBispK9SeEK",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1kg de pomme de terre",
+      "1 grosse pincée de gros sel",
+      "3 cs d’huile",
+      "1 poignée de persil haché",
+      "1 gousse d’ail râpée",
+      "1 citron zesté"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 kg de Pomme de terre",
+        "quantity": 1000,
+        "unit": "g",
+        "name": "Pomme de terre"
+      },
+      {
+        "raw": "Grosse pincée de gros sel",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Gros sel"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "1 poignée de Persil haché",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Persil"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Zeste de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Zeste de citron"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00054",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1kg de pomme de terre",
+        "quantity": "1 kg",
+        "unit": "g",
+        "name": "Pomme de terre"
+      },
+      {
+        "raw": "1 grosse pincée de gros sel",
+        "quantity": "1",
+        "unit": "",
+        "name": "Grosse pincée de gros sel"
+      },
+      {
+        "raw": "3 cs d’huile",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Huile"
+      },
+      {
+        "raw": "1 poignée de persil haché",
+        "quantity": "1 poignée",
+        "unit": "poignée",
+        "name": "Persil haché"
+      },
+      {
+        "raw": "1 gousse d’ail râpée",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Ail râpée"
+      },
+      {
+        "raw": "1 citron zesté",
+        "quantity": "1",
+        "unit": "",
+        "name": "Citron zesté"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00054_pommes-de-terre-roties-parfaites.heic",
+    "images": [
+      "images/00054_pommes-de-terre-roties-parfaites.heic"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "1 kg de Pomme de terre",
+        "quantity": 1000,
+        "unit": "g",
+        "name": "Pomme de terre"
+      },
+      {
+        "raw": "Grosse pincée de gros sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Grosse pincée de gros sel"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "1 poignée de Persil haché",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Persil haché"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Zeste de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Zeste de citron"
+      }
+    ]
+  }
+}

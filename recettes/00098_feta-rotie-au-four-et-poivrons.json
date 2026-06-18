@@ -1,0 +1,194 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "feta-rotie-au-four-et-poivrons",
+  "recipe_id": "00098",
+  "file": "recettes/00098_feta-rotie-au-four-et-poivrons.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "feta-rotie-au-four-et-poivrons",
+    "title": "Fêta rôtie au four et poivrons",
+    "original_title": "Fêta rôtie au four et poivrons",
+    "source_file": "Fêta rôtie au four et poivrons.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Dip/Tartinade"
+    ],
+    "ingredients": [
+      "200 g de Feta",
+      "0,5 unité de Poivron vert",
+      "0,5 unité de Tomate",
+      "1 cuillère à soupe de Huile d’olive",
+      "1 cuillère à café de Origan",
+      "1 unité de Poivre",
+      "1 filet de Miel"
+    ],
+    "ingredients_raw": "200 g de Feta\n0,5 unité de Poivron vert\n0,5 unité de Tomate\n1 cuillère à soupe de Huile d’olive\n1 cuillère à café de Origan\n1 unité de Poivre\n1 filet de Miel",
+    "instructions": "Préchauffer le four à 210C\nPoser la tranche de fêta dans un petit plat qui va au four. Ajouter le poivron et la tomate au dessus et autour.\nVerser l’huile d’olive et les épices. Pas besoin de saler, la fêta l’est déjà, qui plus est la cuisson fera ressortir le goût de la fêta.\nEnfourner en haut du four 20min puis passer en mode grill pour 5 à 10min. Adapter la température du four en fonction de la puissance de votre grill.\nSortez du four lorsque la fêta commence à être dorée et même légèrement brune sur les coins. Ajouter le filet de miel (optionnel)\nServir à l’apéro. Picorez directement dans le plat !",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CtbMkknsrL_",
+    "source_id": "instagram.com/reel/CtbMkknsrL_",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200 g de fêta",
+      "½ poivron vert coupé en petits dés",
+      "½ tomate coupée en petits dés",
+      "1 cs d’huile d’olive",
+      "1 cc d’origan",
+      "Poivre",
+      "1 filet de miel optionnel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "0,5 Poivron vert coupé en petits dés",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Poivron vert"
+      },
+      {
+        "raw": "0,5 Tomate coupée en petits dés",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Tomate"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 filet de Miel optionnel",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Miel"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00098",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "200 g de fêta",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "½ poivron vert coupé en petits dés",
+        "quantity": "½",
+        "unit": "",
+        "name": "Poivron vert coupé en petits dés"
+      },
+      {
+        "raw": "½ tomate coupée en petits dés",
+        "quantity": "½",
+        "unit": "",
+        "name": "Tomate coupée en petits dés"
+      },
+      {
+        "raw": "1 cs d’huile d’olive",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cc d’origan",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Origan"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 filet de miel optionnel",
+        "quantity": "1 filet",
+        "unit": "filet",
+        "name": "Miel optionnel"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00098_feta-rotie-au-four-et-poivrons.jpg",
+    "images": [
+      "images/00098_feta-rotie-au-four-et-poivrons.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "0,5 Poivron vert coupé en petits dés",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Poivron vert coupé en petits dés"
+      },
+      {
+        "raw": "0,5 Tomate coupée en petits dés",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Tomate coupée en petits dés"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 filet de Miel optionnel",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Miel optionnel"
+      }
+    ]
+  }
+}

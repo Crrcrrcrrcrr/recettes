@@ -1,0 +1,138 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-tomates-cerises-burrata",
+  "recipe_id": "00063",
+  "file": "recettes/00063_pates-tomates-cerises-burrata.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-tomates-cerises-burrata",
+    "title": "Pâtes tomates cerises / burrata",
+    "original_title": "Pâtes tomates cerises / burrata",
+    "source_file": "Pâtes tomates cerises / burrata.melarecipe",
+    "categories": [
+      "Pâtes",
+      "Plats",
+      "Sans instructions",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Spaghetti",
+      "1 unité de Burrata",
+      "1 unité de Parmesan",
+      "1 unité de Tomate cerise",
+      "1 unité de Ail",
+      "1 unité de Huile d’olive"
+    ],
+    "ingredients_raw": "1 unité de Spaghetti\n1 unité de Burrata\n1 unité de Parmesan\n1 unité de Tomate cerise\n1 unité de Ail\n1 unité de Huile d’olive",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C-st2GkoOxh",
+    "source_id": "instagram.com/reel/C-st2GkoOxh",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Spaghetti",
+      "Burrata",
+      "Parmesan",
+      "Tomates cerises",
+      "Ail",
+      "Huile d’olive"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Spaghetti",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Spaghetti"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Tomate cerise",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00063",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Spaghetti",
+        "quantity": "",
+        "unit": "",
+        "name": "Spaghetti"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "",
+        "unit": "",
+        "name": "Burrata"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "",
+        "unit": "",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Tomates cerises",
+        "quantity": "",
+        "unit": "",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "",
+        "unit": "",
+        "name": "Ail"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00063_pates-tomates-cerises-burrata.jpg",
+    "images": [
+      "images/00063_pates-tomates-cerises-burrata.jpg"
+    ]
+  }
+}

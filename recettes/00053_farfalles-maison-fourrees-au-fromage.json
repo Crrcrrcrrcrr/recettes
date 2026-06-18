@@ -1,0 +1,235 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "farfalles-maison-fourrees-au-fromage",
+  "recipe_id": "00053",
+  "file": "recettes/00053_farfalles-maison-fourrees-au-fromage.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "farfalles-maison-fourrees-au-fromage",
+    "title": "Farfalles maison fourrées au fromage",
+    "original_title": "Farfalles maison fourrées au fromage",
+    "source_file": "Farfalles maison fourrées au fromage.melarecipe",
+    "categories": [
+      "Pâtes",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "100 g de Feta",
+      "80 g de Mozzarella",
+      "2 feuille de Lasagnes fraîches",
+      "150 g de Champignon de Paris",
+      "20 cl de Crème liquide",
+      "1 peu de Ciboulette",
+      "1 peu de Piment d’Espelette",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "100 g de Feta\n80 g de Mozzarella\n2 feuille de Lasagnes fraîches\n150 g de Champignon de Paris\n20 cl de Crème liquide\n1 peu de Ciboulette\n1 peu de Piment d’Espelette\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Mixez la feta et la mozzarella puis déposer la crème, en petits tas, sur la première feuille de lasagnes.\nRecouvrir avec la deuxième et couper en petits carrés.\nFaites revenir les lamelles de champignons de Paris pendant une dizaine de minutes.\nPendant ce temps, pressez les bords avec vos doigts pour former des Farfalle et faites cuire dans une casserole d’eau bouillante pendant quelques minutes (le temps dépend de la pâte à lasagne).\nRajoutez la crème liquide à la poêle de champignons et laissez bouillir quelques minutes.\nIl n’y a plus qu’à mettre les pâtes égouttées dedans, saler, poivrer, rajouter la ciboulette et le piment d’Espelette et c’est prêt.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DBl_7rsokOG",
+    "source_id": "instagram.com/reel/DBl_7rsokOG",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "100 g de feta",
+      "80 g de mozzarella",
+      "2 feuilles de lasagnes FRAÎCHES (soit vous prenez la marque Lioravi qu’on retrouve chez Biocoop, soit vous faites votre propre pâte, c’est super rapide)",
+      "150 g de champignons de Paris",
+      "20 cl de crème liquide",
+      "Un peu de ciboulette",
+      "Un peu de piment d’Espelette",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "100 g de Feta",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "80 g de Mozzarella",
+        "quantity": "80",
+        "unit": "g",
+        "name": "Mozzarella"
+      },
+      {
+        "raw": "2 feuille de Lasagnes FRAÎCHES (soit vous prenez la marque Lioravi qu’on retrouve chez Biocoop, soit vous faites votre propre pâte, c’est super rapide)",
+        "quantity": "2",
+        "unit": "feuille",
+        "name": "Lasagnes fraîches"
+      },
+      {
+        "raw": "150 g de Champignon de Paris",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Champignon de Paris"
+      },
+      {
+        "raw": "20 cl de Crème liquide",
+        "quantity": 200,
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "1 peu de Ciboulette",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "1 peu de Piment d’Espelette",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Piment d’Espelette"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00053",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "100 g de feta",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "80 g de mozzarella",
+        "quantity": "80 g",
+        "unit": "g",
+        "name": "Mozzarella"
+      },
+      {
+        "raw": "2 feuilles de lasagnes FRAÎCHES (soit vous prenez la marque Lioravi qu’on retrouve chez Biocoop, soit vous faites votre propre pâte, c’est super rapide)",
+        "quantity": "2 feuilles",
+        "unit": "feuille",
+        "name": "Lasagnes FRAÎCHES (soit vous prenez la marque Lioravi qu’on retrouve chez Biocoop, soit vous faites votre propre pâte, c’est super rapide)"
+      },
+      {
+        "raw": "150 g de champignons de Paris",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Champignons de Paris"
+      },
+      {
+        "raw": "20 cl de crème liquide",
+        "quantity": "20 cl",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "Un peu de ciboulette",
+        "quantity": "Un",
+        "unit": "",
+        "name": "Peu de ciboulette"
+      },
+      {
+        "raw": "Un peu de piment d’Espelette",
+        "quantity": "Un",
+        "unit": "",
+        "name": "Peu de piment d’Espelette"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00053_farfalles-maison-fourrees-au-fromage.jpg",
+    "images": [
+      "images/00053_farfalles-maison-fourrees-au-fromage.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "100 g de Feta",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "80 g de Mozzarella",
+        "quantity": "80",
+        "unit": "g",
+        "name": "Mozzarella"
+      },
+      {
+        "raw": "2 feuille de Lasagnes FRAÎCHES (soit vous prenez la marque Lioravi qu’on retrouve chez Biocoop, soit vous faites votre propre pâte, c’est super rapide)",
+        "quantity": "2",
+        "unit": "feuille",
+        "name": "Lasagnes FRAÎCHES (soit vous prenez la marque Lioravi qu’on retrouve chez Biocoop, soit vous faites votre propre pâte, c’est super rapide)"
+      },
+      {
+        "raw": "150 g de Champignon de Paris",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Champignon de Paris"
+      },
+      {
+        "raw": "20 cl de Crème liquide",
+        "quantity": 200,
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "1 peu de Ciboulette",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "1 peu de Piment d’Espelette",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Piment d’Espelette"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tortellini-au-pesto-de-pistache",
+  "recipe_id": "00078",
+  "file": "recettes/00078_tortellini-au-pesto-de-pistache.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tortellini-au-pesto-de-pistache",
+    "title": "Tortellini au pesto de pistache",
+    "original_title": "Tortellini au pesto de pistache ",
+    "source_file": "Tortellini au pesto de pistache.melarecipe",
+    "categories": [
+      "Pâtes",
+      "Plats",
+      "Sans instructions",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "250 g de Pistache",
+      "3 gousse de Ail",
+      "1 cuillère à café de Sel",
+      "200 g de Parmesan",
+      "2 tasse de Basilic",
+      "0,5 tasse de Huile d’olive",
+      "1 cuillère à café de Jus de citron",
+      "150 g de Pancetta",
+      "1 unité de Oignon",
+      "1 tasse de Crème entière",
+      "500 g de Tortellinis au fromage"
+    ],
+    "ingredients_raw": "250 g de Pistache\n3 gousse de Ail\n1 cuillère à café de Sel\n200 g de Parmesan\n2 tasse de Basilic\n0,5 tasse de Huile d’olive\n1 cuillère à café de Jus de citron\n150 g de Pancetta\n1 unité de Oignon\n1 tasse de Crème entière\n500 g de Tortellinis au fromage",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C4pjc5YIZr6",
+    "source_id": "instagram.com/reel/C4pjc5YIZr6",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "250g de pistaches",
+      "3 gousses d’ail",
+      "1 cc de sel",
+      "200g de parmesan",
+      "2 tasses de feuilles de basilic",
+      "½ tasse d’huile d’olive",
+      "1 cc de jus de citron",
+      "150g de pancetta",
+      "1 oignon finement haché",
+      "1 tasse de crème entière",
+      "500g de tortellinis au fromage"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "250 g de Pistache",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Pistache"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "200 g de Parmesan",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "2 tasse de Basilic",
+        "quantity": "2",
+        "unit": "tasse",
+        "name": "Basilic"
+      },
+      {
+        "raw": "0,5 tasse de Huile d’olive",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Jus de citron",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "150 g de Pancetta",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Pancetta"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 tasse de Crème entière",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Crème entière"
+      },
+      {
+        "raw": "500 g de Tortellinis au fromage",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Tortellinis au fromage"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00078",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "250g de pistaches",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Pistache"
+      },
+      {
+        "raw": "3 gousses d’ail",
+        "quantity": "3 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1 cc de sel",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Sel"
+      },
+      {
+        "raw": "200g de parmesan",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "2 tasses de feuilles de basilic",
+        "quantity": "2 tasses",
+        "unit": "tasses",
+        "name": "Feuille de basilic"
+      },
+      {
+        "raw": "½ tasse d’huile d’olive",
+        "quantity": "½ tasse",
+        "unit": "tasse",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cc de jus de citron",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "150g de pancetta",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Pancetta"
+      },
+      {
+        "raw": "1 oignon finement haché",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 tasse de crème entière",
+        "quantity": "1 tasse",
+        "unit": "tasse",
+        "name": "Crème entière"
+      },
+      {
+        "raw": "500g de tortellinis au fromage",
+        "quantity": "500 g",
+        "unit": "g",
+        "name": "Tortellinis au fromage"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00078_tortellini-au-pesto-de-pistache.jpg",
+    "images": [
+      "images/00078_tortellini-au-pesto-de-pistache.jpg"
+    ]
+  }
+}

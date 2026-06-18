@@ -1,0 +1,295 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "curry-aux-pois-chiches-et-aux-poireaux",
+  "recipe_id": "00076",
+  "file": "recettes/00076_curry-aux-pois-chiches-et-aux-poireaux.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "curry-aux-pois-chiches-et-aux-poireaux",
+    "title": "Curry aux pois chiches et aux poireaux",
+    "original_title": "Curry aux pois chiches et aux poireaux",
+    "source_file": "Curry aux pois chiches et aux poireaux.melarecipe",
+    "categories": [
+      "Curry/Dahl",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "4 unité de Poireau",
+      "350 g de Pois chiches cuits",
+      "1 cuillère à café de Curcuma",
+      "1 cuillère à soupe de Curry",
+      "1 cuillère à café de Gingembre frais",
+      "2 gousse de Ail",
+      "40 cl de Lait de coco",
+      "10 cl de Eau",
+      "30 g de Beurre",
+      "0,5 bouquet de Coriandre",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "4 unité de Poireau\n350 g de Pois chiches cuits\n1 cuillère à café de Curcuma\n1 cuillère à soupe de Curry\n1 cuillère à café de Gingembre frais\n2 gousse de Ail\n40 cl de Lait de coco\n10 cl de Eau\n30 g de Beurre\n0,5 bouquet de Coriandre\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Nettoyez les poireaux et coupez-les en rondelles.\nEgouttez les pois chiches.\nFaites fondre le beurre dans une marmite. Ajoutez les poireaux, les gousses d’ail, le curcuma et le curry. Mélangez et laissez cuire 5 minutes.\nAjoutez le gingembre râpé et les pois chiches, mélangez.\nAjoutez l’eau et le lait de coco. Couvrez et laissez mijoter pendant 20 minutes.\nHachez la coriandre et ajoutez-la au curry.\nServez chaud avec du riz basmati.",
+    "notes": "",
+    "link": "https://www.instagram.com/p/C4K6J9EBbn8",
+    "source_id": "instagram.com/p/C4K6J9EBbn8",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4 poireaux",
+      "350 g de pois chiches",
+      "1 cc de curcuma",
+      "1 cs de curry",
+      "1 cc de gingembre râpé",
+      "2 gousses d'ail hachées",
+      "40 cl de lait de coco",
+      "10 cl d'eau",
+      "30 g de beurre",
+      "½ bouquet de coriandre",
+      "Sel ou sel fin",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 unité de Poireau",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "350 g de Pois chiches cuits",
+        "quantity": "350",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à soupe de Curry",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cuillère à café de Gingembre râpé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "40 cl de Lait de coco",
+        "quantity": 400,
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "10 cl de Eau",
+        "quantity": 100,
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "30 g de Beurre",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "0,5 bouquet de Coriandre",
+        "quantity": "0,5",
+        "unit": "bouquet",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "Sel ou sel fin",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00076",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "4 poireaux",
+        "quantity": "4",
+        "unit": "",
+        "name": "Poireaux"
+      },
+      {
+        "raw": "350 g de pois chiches",
+        "quantity": "350 g",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "1 cc de curcuma",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cs de curry",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cc de gingembre râpé",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Gingembre râpé"
+      },
+      {
+        "raw": "2 gousses d'ail hachées",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Ail hachées"
+      },
+      {
+        "raw": "40 cl de lait de coco",
+        "quantity": "40 cl",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "10 cl d'eau",
+        "quantity": "10 cl",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "30 g de beurre",
+        "quantity": "30 g",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "½ bouquet de coriandre",
+        "quantity": "½ bouquet",
+        "unit": "bouquet",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "Sel ou sel fin",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel ou sel fin"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00076_curry-aux-pois-chiches-et-aux-poireaux.jpg",
+    "images": [
+      "images/00076_curry-aux-pois-chiches-et-aux-poireaux.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "4 unité de Poireau",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "350 g de Pois chiches cuits",
+        "quantity": "350",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à soupe de Curry",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cuillère à café de Gingembre râpé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre râpé"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "40 cl de Lait de coco",
+        "quantity": 400,
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "10 cl de Eau",
+        "quantity": 100,
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "30 g de Beurre",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "0,5 bouquet de Coriandre",
+        "quantity": "0,5",
+        "unit": "bouquet",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "Sel ou sel fin",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel ou sel fin"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}
