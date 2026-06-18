@@ -1,0 +1,236 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "spaghettis-aux-oignons-caramelises-et-a-lail",
+  "recipe_id": "00089",
+  "file": "recettes/00089_spaghettis-aux-oignons-caramelises-et-a-lail.json",
+  "updated_at": "2026-06-18T18:24:59.614165+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "spaghettis-aux-oignons-caramelises-et-a-lail",
+    "title": "Spaghettis aux oignons caramélisés et à l’ail",
+    "original_title": "Spaghettis aux oignons caramélisés et à l’ail",
+    "source_file": "Spaghettis aux oignons caramélisés et à l’ail.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Oignon",
+      "4 gousse de Ail",
+      "2 cuillère à soupe de Chili crisp",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 tasse de Lait de coco",
+      "1 cuillère à café de Persil séché",
+      "225 g de Pâtes",
+      "1 unité de Huile d’olive"
+    ],
+    "ingredients_raw": "1 unité de Oignon\n4 gousse de Ail\n2 cuillère à soupe de Chili crisp\n1 unité de Sel\n1 unité de Poivre\n1 tasse de Lait de coco\n1 cuillère à café de Persil séché\n225 g de Pâtes\n1 unité de Huile d’olive",
+    "instructions": "Commencez par préparer tous vos ingrédients. Émincez finement l’oignon, hachez l’ail et mesurez le chili crisp à l’ail, le lait ou la crème de coco, ainsi que le persil séché. Mettez de côté.\nDans une grande poêle à feu moyen, ajoutez quelques cuillères à soupe d’huile d’olive. Une fois l’huile chaude, ajoutez les oignons émincés avec une pincée de sel. Faites cuire en remuant de temps en temps pendant 10 à 15 minutes, jusqu’à ce qu’ils soient dorés et caramélisés. Si les oignons commencent à accrocher, ajoutez un peu d’eau pour déglacer la poêle.\nPendant que les oignons caramélisent, portez à ébullition une grande casserole d’eau salée. Ajoutez les pâtes et faites-les cuire selon les instructions du paquet jusqu’à ce qu’elles soient al dente. Égouttez-les et réservez, en gardant un peu d’eau de cuisson pour ajuster la sauce plus tard.\nUne fois les oignons caramélisés, ajoutez l’ail haché dans la poêle. Faites revenir environ 1 minute, jusqu’à ce qu’il soit parfumé. Incorporez ensuite le chili crisp à l’ail et laissez cuire encore une minute. Versez le lait ou la crème de coco, ajoutez le persil séché, puis assaisonnez avec du sel et du poivre selon votre goût. Laissez mijoter quelques minutes pour épaissir légèrement la sauce.\nAjoutez les pâtes cuites dans la poêle et mélangez bien pour les enrober de sauce. Si celle-ci est trop épaisse, ajoutez un peu de l’eau de cuisson réservée jusqu’à obtenir la consistance souhaitée.\nServez les pâtes bien chaudes, avec une cuillerée supplémentaire de chili crisp à l’ail pour ceux qui aiment un peu plus de piquant. Vous pouvez aussi parsemer de persil pour une touche de couleur.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C5mxaeftMKf",
+    "source_id": "instagram.com/reel/C5mxaeftMKf",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 gros oignon, émincé finement",
+      "4 gousses d’ail, hachées, plus un peu plus pour le chili crisp à l’ail",
+      "2 cs de chili crisp à l’ail, plus pour le service (j’utilise l’huile pimentée à l’ail de @ramanokram – un délice)",
+      "Sel",
+      "Poivre",
+      "1 cup de lait de coco ou de crème de coco",
+      "1 cc de persil séché",
+      "225 g de pâtes (forme de votre choix)",
+      "Huile d’olive"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Gros oignon, émincé finement",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 cuillère à soupe de Chili crisp",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Chili crisp"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Cup de lait de coco ou de crème de coco",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1 cuillère à café de Persil séché",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Persil séché"
+      },
+      {
+        "raw": "225 g de Pâtes",
+        "quantity": "225",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00089",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 gros oignon, émincé finement",
+        "quantity": "1",
+        "unit": "",
+        "name": "Gros oignon, émincé finement"
+      },
+      {
+        "raw": "4 gousses d’ail, hachées, plus un peu plus pour le chili crisp à l’ail",
+        "quantity": "4 gousses",
+        "unit": "gousses",
+        "name": "Ail, hachées, plus un peu plus pour le chili crisp à l’ail"
+      },
+      {
+        "raw": "2 cs de chili crisp à l’ail, plus pour le service (j’utilise l’huile pimentée à l’ail de @ramanokram – un délice)",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Chili crisp à l’ail, plus pour le service (j’utilise l’huile pimentée à l’ail de @ramanokram – un délice)"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 cup de lait de coco ou de crème de coco",
+        "quantity": "1",
+        "unit": "",
+        "name": "Cup de lait de coco ou de crème de coco"
+      },
+      {
+        "raw": "1 cc de persil séché",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Persil séché"
+      },
+      {
+        "raw": "225 g de pâtes (forme de votre choix)",
+        "quantity": "225 g",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00089_spaghettis-aux-oignons-caramelises-et-a-lail.jpg",
+    "images": [
+      "images/00089_spaghettis-aux-oignons-caramelises-et-a-lail.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Gros oignon, émincé finement",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Gros oignon, émincé finement"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 cuillère à soupe de Chili crisp à l’ail",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Chili crisp à l’ail"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Cup de lait de coco ou de crème de coco",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cup de lait de coco ou de crème de coco"
+      },
+      {
+        "raw": "1 cuillère à café de Persil séché",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Persil séché"
+      },
+      {
+        "raw": "225 g de Pâtes",
+        "quantity": "225",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "legumes-rotis-sauce-cacahuete-coco",
+  "recipe_id": "00018",
+  "file": "recettes/00018_legumes-rotis-sauce-cacahuete-coco.json",
+  "updated_at": "2026-06-18T18:24:59.587230+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "legumes-rotis-sauce-cacahuete-coco",
+    "title": "Légumes rôtis / sauce cacahuète-coco",
+    "original_title": "Légumes rôtis / sauce cacahuète-coco",
+    "source_file": "Légumes rôtis / sauce cacahuète-coco.melarecipe",
+    "categories": [
+      "Plats",
+      "Légumes rôtis",
+      "Sauces / Assaisonnements",
+      "Sauce",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "300 g de Patate douce",
+      "300 g de Carotte",
+      "5 cuillère à soupe de Huile d’olive",
+      "1 gousse de Ail",
+      "2 cuillère à soupe de Sauce soja salée",
+      "1 cuillère à soupe de Miel",
+      "2 cuillère à soupe de Gomasio",
+      "2 cuillère à café de Crème de sésame",
+      "1 cuillère à café de Paprika fumé",
+      "1 cuillère à soupe de Beurre de cacahuète",
+      "40 cl de Crème de coco",
+      "2 cuillère à soupe de Sauce soja salée",
+      "1 verre de Eau",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "300 g de Patate douce\n300 g de Carotte\n5 cuillère à soupe de Huile d’olive\n1 gousse de Ail\n2 cuillère à soupe de Sauce soja salée\n1 cuillère à soupe de Miel\n2 cuillère à soupe de Gomasio\n2 cuillère à café de Crème de sésame\n1 cuillère à café de Paprika fumé\n1 cuillère à soupe de Beurre de cacahuète\n40 cl de Crème de coco\n2 cuillère à soupe de Sauce soja salée\n1 verre de Eau\n1 unité de Poivre",
+    "instructions": "Légumes : Cuisson 30min à 200 degrés\nSauce : Laisser mijoter la sauce une dizaine de minutes a feu doux",
+    "notes": "Testé avec 1 grosse patate douce et 1/2 butternut pour 3 avec du riz et 1 œuf mollet par personne + j’ai remplacé 1/3 de la sauce soja par de la sauce soja sucrée et pas de gomasio \nDélicieux !!",
+    "link": "https://www.instagram.com/reel/C5K-s7TMJdq",
+    "source_id": "instagram.com/reel/C5K-s7TMJdq",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "300g de patates douces",
+      "300g de carottes",
+      "5 cs d’huile d’olive",
+      "1 gousse d’ail",
+      "2 cs de soja salé",
+      "1 cs de miel",
+      "2 cs de gomasio",
+      "2 cc de crème de sesame (tahin)",
+      "1  cc de paprika fumé",
+      "# SAUCE :",
+      "1 grosse cs de beurre de cacahuète",
+      "40cl de crème de coco",
+      "2 cs de soja salé",
+      "1 verre d’eau",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "300 g de Patate douce",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "300 g de Carotte",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Carotte"
+      },
+      {
+        "raw": "5 cuillère à soupe de Huile d’olive",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja salée",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "2 cuillère à soupe de Gomasio",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Gomasio"
+      },
+      {
+        "raw": "2 cuillère à café de Crème de sésame",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Crème de sésame"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika fumé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 cuillère à soupe de Beurre de cacahuète",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "40 cl de Crème de coco",
+        "quantity": 400,
+        "unit": "ml",
+        "name": "Crème de coco"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja salée",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "1 verre de Eau",
+        "quantity": "1",
+        "unit": "verre",
+        "name": "Eau"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00018",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "300g de patates douces",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "300g de carottes",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Carotte"
+      },
+      {
+        "raw": "5 cs d’huile d’olive",
+        "quantity": "5 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "2 cs de soja salé",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Soja salé"
+      },
+      {
+        "raw": "1 cs de miel",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Miel"
+      },
+      {
+        "raw": "2 cs de gomasio",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Gomasio"
+      },
+      {
+        "raw": "2 cc de crème de sesame (tahin)",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Crème de sésame"
+      },
+      {
+        "raw": "1  cc de paprika fumé",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "# SAUCE :",
+        "type": "section"
+      },
+      {
+        "raw": "1 grosse cs de beurre de cacahuète",
+        "quantity": "1",
+        "unit": "",
+        "name": "Grosse cs de beurre de cacahuète"
+      },
+      {
+        "raw": "40cl de crème de coco",
+        "quantity": "40 cl",
+        "unit": "ml",
+        "name": "Crème de coco"
+      },
+      {
+        "raw": "2 cs de soja salé",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Soja salé"
+      },
+      {
+        "raw": "1 verre d’eau",
+        "quantity": "1 verre",
+        "unit": "verre",
+        "name": "Eau"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00018_legumes-rotis-sauce-cacahuete-coco.jpg",
+    "images": [
+      "images/00018_legumes-rotis-sauce-cacahuete-coco.jpg"
+    ]
+  }
+}

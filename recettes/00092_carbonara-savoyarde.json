@@ -1,0 +1,110 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "carbonara-savoyarde",
+  "recipe_id": "00092",
+  "file": "recettes/00092_carbonara-savoyarde.json",
+  "updated_at": "2026-06-18T18:24:59.615245+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "carbonara-savoyarde",
+    "title": "Carbonara Savoyarde",
+    "original_title": "Carbonara Savoyarde",
+    "source_file": "Carbonara Savoyarde.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "120 g de Beaufort",
+      "3 unité de Jaune d'œuf",
+      "180 g de Poitrine fumée",
+      "300 g de Crozets au sarrasin"
+    ],
+    "ingredients_raw": "120 g de Beaufort\n3 unité de Jaune d'œuf\n180 g de Poitrine fumée\n300 g de Crozets au sarrasin",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C4D0KajIvzP",
+    "source_id": "instagram.com/reel/C4D0KajIvzP",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "120 g de Beaufort",
+      "3 jaunes d’oeufs",
+      "180 g de poitrine fumée",
+      "300 g de crozets au sarrasin"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "120 g de Beaufort",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Beaufort"
+      },
+      {
+        "raw": "3 Jaune d'œuf",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Jaune d'œuf"
+      },
+      {
+        "raw": "180 g de Poitrine fumée",
+        "quantity": "180",
+        "unit": "g",
+        "name": "Poitrine fumée"
+      },
+      {
+        "raw": "300 g de Crozets au sarrasin",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Crozets au sarrasin"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00092",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "120 g de Beaufort",
+        "quantity": "120 g",
+        "unit": "g",
+        "name": "Beaufort"
+      },
+      {
+        "raw": "3 jaunes d’oeufs",
+        "quantity": "3",
+        "unit": "",
+        "name": "Jaune d'œuf"
+      },
+      {
+        "raw": "180 g de poitrine fumée",
+        "quantity": "180 g",
+        "unit": "g",
+        "name": "Poitrine fumée"
+      },
+      {
+        "raw": "300 g de crozets au sarrasin",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Crozets au sarrasin"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00092_carbonara-savoyarde.jpg",
+    "images": [
+      "images/00092_carbonara-savoyarde.jpg"
+    ]
+  }
+}

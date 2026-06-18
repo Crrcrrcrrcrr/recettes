@@ -1,0 +1,159 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pommes-de-terre-crispy-sauce-epinard",
+  "recipe_id": "00080",
+  "file": "recettes/00080_pommes-de-terre-crispy-sauce-epinard.json",
+  "updated_at": "2026-06-18T18:24:59.611361+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pommes-de-terre-crispy-sauce-epinard",
+    "title": "Pommes de terre crispy - sauce épinard",
+    "original_title": "Pommes de terre crispy - sauce épinard",
+    "source_file": "Pommes de terre crispy - sauce épinard.melarecipe",
+    "categories": [
+      "Plats",
+      "Légumes rôtis",
+      "Sauces / Assaisonnements",
+      "Sauce",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "60 g de Épinard",
+      "40 cl de Crème liquide",
+      "2 unité de Échalote",
+      "2 gousse de Ail",
+      "0,5 unité de Bouillon",
+      "15 cl de Vin blanc",
+      "1 poignée de Emmental râpé"
+    ],
+    "ingredients_raw": "60 g de Épinard\n40 cl de Crème liquide\n2 unité de Échalote\n2 gousse de Ail\n0,5 unité de Bouillon\n15 cl de Vin blanc\n1 poignée de Emmental râpé",
+    "instructions": "Cuisson 30 min à 190 degrés",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C5sexwqM5Tw",
+    "source_id": "instagram.com/reel/C5sexwqM5Tw",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "# Sauce :",
+      "60g d’épinards frais",
+      "40cl de crème liquide",
+      "2 échalotes",
+      "2 gousses d’ail",
+      "1/2 bouillon émietté",
+      "15cl de vin blanc",
+      "1 poignée d’emmental râpé"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "60 g de Épinard",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Épinard"
+      },
+      {
+        "raw": "40 cl de Crème liquide",
+        "quantity": 400,
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "0,5 Bouillon",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "15 cl de Vin blanc",
+        "quantity": 150,
+        "unit": "ml",
+        "name": "Vin blanc"
+      },
+      {
+        "raw": "1 poignée de Emmental râpé",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Emmental râpé"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00080",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "# Sauce :",
+        "type": "section"
+      },
+      {
+        "raw": "60g d’épinards frais",
+        "quantity": "60 g",
+        "unit": "g",
+        "name": "Épinards frais"
+      },
+      {
+        "raw": "40cl de crème liquide",
+        "quantity": "40 cl",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "2 échalotes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Échalote"
+      },
+      {
+        "raw": "2 gousses d’ail",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1/2 bouillon émietté",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Bouillon émietté"
+      },
+      {
+        "raw": "15cl de vin blanc",
+        "quantity": "15 cl",
+        "unit": "ml",
+        "name": "Vin blanc"
+      },
+      {
+        "raw": "1 poignée d’emmental râpé",
+        "quantity": "1 poignée",
+        "unit": "poignée",
+        "name": "Emmental râpé"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00080_pommes-de-terre-crispy-sauce-epinard.jpg",
+    "images": [
+      "images/00080_pommes-de-terre-crispy-sauce-epinard.jpg"
+    ]
+  }
+}

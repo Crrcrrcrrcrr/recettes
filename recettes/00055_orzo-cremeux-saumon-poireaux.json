@@ -1,0 +1,137 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "orzo-cremeux-saumon-poireaux",
+  "recipe_id": "00055",
+  "file": "recettes/00055_orzo-cremeux-saumon-poireaux.json",
+  "updated_at": "2026-06-18T18:24:59.601424+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "orzo-cremeux-saumon-poireaux",
+    "title": "Orzo crémeux saumon poireaux",
+    "original_title": "Orzo crémeux saumon poireaux ",
+    "source_file": "Orzo crémeux saumon poireaux.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes"
+    ],
+    "ingredients": [
+      "200 g de Orzo",
+      "2 unité de Blanc de poireau",
+      "2 unité de Pavé de saumon",
+      "1 boîte de Fromage frais ail et fines herbes",
+      "200 ml de Bouillon de légumes",
+      "1 noix de Beurre"
+    ],
+    "ingredients_raw": "200 g de Orzo\n2 unité de Blanc de poireau\n2 unité de Pavé de saumon\n1 boîte de Fromage frais ail et fines herbes\n200 ml de Bouillon de légumes\n1 noix de Beurre",
+    "instructions": "Saisissez le saumon et retirez la peau, reservez\nEmincez les poireaux, puis faire revenir a la poele puis ajoutez un cube bouillon et un fond d’eau\nAjoutez l’orzo, le fromage frais et mouillez à hauteur. Melangez bien pendant 15 min\nRajoutez le saumon emietté les 5 dernieres minutes avec de la ciboulette\nJe rajoute un peu de zeste de citron a la fin avant de deguster",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DBgtlPRol6I",
+    "source_id": "instagram.com/reel/DBgtlPRol6I",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200g d’orzo",
+      "2 blancs de poireaux",
+      "2 pavés de saumon",
+      "1 boite de fromage frais ail et fines herbes",
+      "200ml de bouillon de legume",
+      "Une noix de beurre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de Orzo",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Orzo"
+      },
+      {
+        "raw": "2 unité de Blanc de poireau",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Blanc de poireau"
+      },
+      {
+        "raw": "2 Pavé de saumon",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Pavé de saumon"
+      },
+      {
+        "raw": "1 boîte de Fromage frais ail et fines herbes",
+        "quantity": "1",
+        "unit": "boîte",
+        "name": "Fromage frais ail et fines herbes"
+      },
+      {
+        "raw": "200 ml de Bouillon de légumes",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "1 noix de Beurre",
+        "quantity": "1",
+        "unit": "noix",
+        "name": "Beurre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00055",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "200g d’orzo",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Orzo"
+      },
+      {
+        "raw": "2 blancs de poireaux",
+        "quantity": "2",
+        "unit": "",
+        "name": "Blancs de poireaux"
+      },
+      {
+        "raw": "2 pavés de saumon",
+        "quantity": "2",
+        "unit": "",
+        "name": "Pavé de saumon"
+      },
+      {
+        "raw": "1 boite de fromage frais ail et fines herbes",
+        "quantity": "1 boite",
+        "unit": "boite",
+        "name": "Fromage frais ail et fines herbes"
+      },
+      {
+        "raw": "200ml de bouillon de legume",
+        "quantity": "200 ml",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "Une noix de beurre",
+        "quantity": "Une",
+        "unit": "",
+        "name": "Noix de beurre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00055_orzo-cremeux-saumon-poireaux.jpg",
+    "images": [
+      "images/00055_orzo-cremeux-saumon-poireaux.jpg"
+    ]
+  }
+}

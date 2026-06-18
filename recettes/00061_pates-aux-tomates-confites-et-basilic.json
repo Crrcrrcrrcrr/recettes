@@ -1,0 +1,257 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-aux-tomates-confites-et-basilic",
+  "recipe_id": "00061",
+  "file": "recettes/00061_pates-aux-tomates-confites-et-basilic.json",
+  "updated_at": "2026-06-18T18:24:59.604030+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-aux-tomates-confites-et-basilic",
+    "title": "Pâtes aux tomates confites et basilic",
+    "original_title": "Pâtes aux tomates confites et basilic ",
+    "source_file": "Pâtes aux tomates confites et basilic.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "1 unité de Tomate séchée",
+      "1 unité de Beurre",
+      "1 unité de Ail",
+      "1 unité de Linguine",
+      "1 unité de Basilic séché",
+      "1 unité de Poivre",
+      "1 unité de Bouillon de poulet",
+      "1 unité de Fromage frais",
+      "1 unité de Lait",
+      "1 unité de Parmesan"
+    ],
+    "ingredients_raw": "1 unité de Tomate séchée\n1 unité de Beurre\n1 unité de Ail\n1 unité de Linguine\n1 unité de Basilic séché\n1 unité de Poivre\n1 unité de Bouillon de poulet\n1 unité de Fromage frais\n1 unité de Lait\n1 unité de Parmesan",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DABkj9VoHwa",
+    "source_id": "instagram.com/reel/DABkj9VoHwa",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Tomates séchées",
+      "Beurre",
+      "Ail",
+      "Linguine",
+      "Basilic séché",
+      "Poivre noir",
+      "Bouillon de poulet",
+      "Fromage frais",
+      "Lait",
+      "Parmesan râpé"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Tomate séchée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "raw": "Linguine",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Linguine"
+      },
+      {
+        "raw": "Basilic séché",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Basilic séché"
+      },
+      {
+        "raw": "Poivre noir",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Bouillon de poulet",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "Fromage frais",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fromage frais"
+      },
+      {
+        "raw": "Lait",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Lait"
+      },
+      {
+        "raw": "1 unité de Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00061",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Tomates séchées",
+        "quantity": "",
+        "unit": "",
+        "name": "Tomates séchées"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "",
+        "unit": "",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "",
+        "unit": "",
+        "name": "Ail"
+      },
+      {
+        "raw": "Linguine",
+        "quantity": "",
+        "unit": "",
+        "name": "Linguine"
+      },
+      {
+        "raw": "Basilic séché",
+        "quantity": "",
+        "unit": "",
+        "name": "Basilic séché"
+      },
+      {
+        "raw": "Poivre noir",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre noir"
+      },
+      {
+        "raw": "Bouillon de poulet",
+        "quantity": "",
+        "unit": "",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "Fromage frais",
+        "quantity": "",
+        "unit": "",
+        "name": "Fromage frais"
+      },
+      {
+        "raw": "Lait",
+        "quantity": "",
+        "unit": "",
+        "name": "Lait"
+      },
+      {
+        "raw": "Parmesan râpé",
+        "quantity": "",
+        "unit": "",
+        "name": "Parmesan râpé"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00061_pates-aux-tomates-confites-et-basilic.jpg",
+    "images": [
+      "images/00061_pates-aux-tomates-confites-et-basilic.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "1 unité de Tomate séchée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "raw": "Linguine",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Linguine"
+      },
+      {
+        "raw": "Basilic séché",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Basilic séché"
+      },
+      {
+        "raw": "Poivre noir",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre noir"
+      },
+      {
+        "raw": "Bouillon de poulet",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "Fromage frais",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fromage frais"
+      },
+      {
+        "raw": "Lait",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Lait"
+      },
+      {
+        "raw": "1 unité de Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      }
+    ]
+  }
+}

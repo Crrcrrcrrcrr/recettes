@@ -1,0 +1,151 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "creme-de-feta-a-la-menthe-et-a-la-pistache",
+  "recipe_id": "00085",
+  "file": "recettes/00085_creme-de-feta-a-la-menthe-et-a-la-pistache.json",
+  "updated_at": "2026-06-18T18:24:59.612986+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "creme-de-feta-a-la-menthe-et-a-la-pistache",
+    "title": "Crème de feta à la menthe et à la pistache",
+    "original_title": "Crème de feta à la menthe et à la pistache ",
+    "source_file": "Crème de feta à la menthe et à la pistache.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Dip / Tartinade",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "50 g de Pistaches émondées",
+      "200 g de Feta",
+      "5 branche de Menthe",
+      "1 cuillère à soupe de Jus de citron",
+      "1 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Yaourt nature",
+      "1 gousse de Ail"
+    ],
+    "ingredients_raw": "50 g de Pistaches émondées\n200 g de Feta\n5 branche de Menthe\n1 cuillère à soupe de Jus de citron\n1 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Yaourt nature\n1 gousse de Ail",
+    "instructions": "Placez les pistaches dans le mixeur et mixez longuement jusqu’à ce qu’elles se transforment en pâte.\nAjoutez la feta, les feuilles de menthe et le reste des ingrédients. Mixez jusqu’à obtenir une consistance crémeuse. Au besoin, ajoutez un peu de yaourt.\nA déguster avec un peu d’huile d’olive et des pistaches concassées, à l’apéro ou avec des légumes grillés par-dessus !",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Cx8T-g_s6-2",
+    "source_id": "instagram.com/reel/Cx8T-g_s6-2",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "50g de pistaches émondées",
+      "200g de feta",
+      "5 branches de menthe",
+      "1 cs de jus de citron",
+      "1 cs d’huile d’olive",
+      "2 cs de yaourt",
+      "1 gousse d’ail"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "50 g de Pistaches émondées",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Pistaches émondées"
+      },
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "5 branche de Menthe",
+        "quantity": "5",
+        "unit": "branche",
+        "name": "Menthe"
+      },
+      {
+        "raw": "1 cuillère à soupe de Jus de citron",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Yaourt nature",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00085",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "50g de pistaches émondées",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Pistaches émondées"
+      },
+      {
+        "raw": "200g de feta",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "5 branches de menthe",
+        "quantity": "5 branches",
+        "unit": "branches",
+        "name": "Menthe"
+      },
+      {
+        "raw": "1 cs de jus de citron",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "1 cs d’huile d’olive",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cs de yaourt",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Yaourt"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00085_creme-de-feta-a-la-menthe-et-a-la-pistache.jpg",
+    "images": [
+      "images/00085_creme-de-feta-a-la-menthe-et-a-la-pistache.jpg"
+    ]
+  }
+}

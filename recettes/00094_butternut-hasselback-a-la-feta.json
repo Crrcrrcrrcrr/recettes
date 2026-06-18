@@ -1,0 +1,361 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "butternut-hasselback-a-la-feta",
+  "recipe_id": "00094",
+  "file": "recettes/00094_butternut-hasselback-a-la-feta.json",
+  "updated_at": "2026-06-18T18:24:59.616014+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "butternut-hasselback-a-la-feta",
+    "title": "Butternut Hasselback à la Feta",
+    "original_title": "Butternut Hasselback à la Feta",
+    "source_file": "Butternut Hasselback à la Feta.melarecipe",
+    "categories": [
+      "Plats",
+      "Légumes rôtis",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 kg de Butternut",
+      "2 cuillère à soupe de Huile d’olive",
+      "100 g de Feta",
+      "1 cuillère à soupe de Graine de courge",
+      "1 cuillère à café de Baie de genévrier",
+      "1 unité de Thym",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "2 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Sirop d’érable",
+      "1 gousse de Ail",
+      "1 branche de Thym",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "1 kg de Butternut\n2 cuillère à soupe de Huile d’olive\n100 g de Feta\n1 cuillère à soupe de Graine de courge\n1 cuillère à café de Baie de genévrier\n1 unité de Thym\n1 unité de Sel\n1 unité de Poivre\n2 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Sirop d’érable\n1 gousse de Ail\n1 branche de Thym\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Préchauffer le four à 210°C.\nÉplucher et couper la butternut en deux dans la longueur. Ôter les pépins. Déposer la, face coupée vers le bas, sur une plaque de cuisson recouverte de papier cuisson.\nA l’aide d’un pinceau, huiler toute la surface. \nEnfourner 15min.\nMélanger tous les ingrédients de la marinade. \nSortir la plaque du four. Attendre que la butternut refroidisse un peu pour pouvoir la manipuler.\nCouper des tranches dans la butternut, sans la couper complètement. Vous pouvez vous aider de 2 cuillères en bois. \nÀ l’aide de votre pinceau, enduire généreusement de marinade.\nEnfourner 15min. Sortir la plaque du four et enduire avec le reste de la marinade.\nEnfourner 30min.\nSortir la plaque du four et saupoudrer de feta, graines de courge, de genévrier, et de thym.\nServir tiède.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/ClQll_oD0eG",
+    "source_id": "instagram.com/reel/ClQll_oD0eG",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 petite butternut (env 1kg)",
+      "2 cs d’huile d’olive",
+      "Pour la garniture",
+      "100g de feta émiettée",
+      "1 cs de graines de courge",
+      "1 cc de baie de genévrier",
+      "Thym",
+      "Sel",
+      "Poivre",
+      "Pour la marinade :",
+      "2 cs d’huile d’olive",
+      "2 cs de sirop d’érable",
+      "1 gousse d’ail hachée",
+      "1 branche de thym",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Petite butternut (env 1kg)",
+        "quantity": 1000,
+        "unit": "g",
+        "name": "Butternut"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "100 g de Feta",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "1 cuillère à soupe de Graine de courge",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Graine de courge"
+      },
+      {
+        "raw": "1 cuillère à café de Baie de genévrier",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Baie de genévrier"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sirop d’érable",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 branche de Thym",
+        "quantity": "1",
+        "unit": "branche",
+        "name": "Thym"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00094",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 petite butternut (env 1kg)",
+        "quantity": "1",
+        "unit": "",
+        "name": "Petite butternut (env 1kg)"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Pour la garniture",
+        "quantity": "",
+        "unit": "",
+        "name": "Pour la garniture"
+      },
+      {
+        "raw": "100g de feta émiettée",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "1 cs de graines de courge",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Graines de courge"
+      },
+      {
+        "raw": "1 cc de baie de genévrier",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Baie de genévrier"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "",
+        "unit": "",
+        "name": "Thym"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Pour la marinade :",
+        "quantity": "",
+        "unit": "",
+        "name": "Pour la marinade :"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cs de sirop d’érable",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1 gousse d’ail hachée",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Ail hachée"
+      },
+      {
+        "raw": "1 branche de thym",
+        "quantity": "1 branche",
+        "unit": "branche",
+        "name": "Thym"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00094_butternut-hasselback-a-la-feta.jpg",
+    "images": [
+      "images/00094_butternut-hasselback-a-la-feta.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Petite butternut (env 1kg)",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Petite butternut (env 1kg)"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Pour la garniture",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pour la garniture"
+      },
+      {
+        "raw": "100 g de Feta",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "1 cuillère à soupe de Graine de courge",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Graine de courge"
+      },
+      {
+        "raw": "1 cuillère à café de Baie de genévrier",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Baie de genévrier"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Pour la marinade :",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pour la marinade :"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sirop d’érable",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 branche de Thym",
+        "quantity": "1",
+        "unit": "branche",
+        "name": "Thym"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

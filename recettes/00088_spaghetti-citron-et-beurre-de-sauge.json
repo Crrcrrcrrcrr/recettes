@@ -1,0 +1,156 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "spaghetti-citron-et-beurre-de-sauge",
+  "recipe_id": "00088",
+  "file": "recettes/00088_spaghetti-citron-et-beurre-de-sauge.json",
+  "updated_at": "2026-06-18T18:24:59.613856+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "spaghetti-citron-et-beurre-de-sauge",
+    "title": "Spaghetti citron et beurre de sauge",
+    "original_title": "Spaghetti citron et beurre de sauge",
+    "source_file": "Spaghetti citron et beurre de sauge.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Citron jaune",
+      "8 feuille de Sauge",
+      "1 unité de Beurre",
+      "1 unité de Parmesan",
+      "200 g de Pâtes longues"
+    ],
+    "ingredients_raw": "1 unité de Citron jaune\n8 feuille de Sauge\n1 unité de Beurre\n1 unité de Parmesan\n200 g de Pâtes longues",
+    "instructions": "Zester le citron et prélever son jus. Ciseler finement les feuilles de sauge\nDémarrer la cuisson des pâtes et réaliser la sauce. Dans une poêle, faire fondre un bon morceau de beurre. Ajouter un peu d’eau de cuisson des pâtes et mélanger pour créer une petite sauce onctueuse. Ajouter les zestes de citron et la sauge et laisser mijoter à feu doux en remuant régulièrement.\nVerser les pâtes al dente dans la sauce, ajouter le parmesan, le jus de citron, un peu d’eau de cuisson des pâtes, et remuer l’ensemble pour créer une sauce crémeuse.\nDresser dans l’assiette et ajouter encore un peu de zeste, de sauge et de parmesan.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Cp25QqEOPvC",
+    "source_id": "instagram.com/reel/Cp25QqEOPvC",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 citron non traité",
+      "8 feuilles de sauge",
+      "Beurre",
+      "Parmesan",
+      "200g de pâtes longues"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Citron non traité",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron jaune"
+      },
+      {
+        "raw": "8 feuille de Sauge",
+        "quantity": "8",
+        "unit": "feuille",
+        "name": "Sauge"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "200 g de Pâtes longues",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pâtes longues"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00088",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 citron non traité",
+        "quantity": "1",
+        "unit": "",
+        "name": "Citron non traité"
+      },
+      {
+        "raw": "8 feuilles de sauge",
+        "quantity": "8 feuilles",
+        "unit": "feuille",
+        "name": "Sauge"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "",
+        "unit": "",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "",
+        "unit": "",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "200g de pâtes longues",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Pâtes longues"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00088_spaghetti-citron-et-beurre-de-sauge.jpg",
+    "images": [
+      "images/00088_spaghetti-citron-et-beurre-de-sauge.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Citron non traité",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron non traité"
+      },
+      {
+        "raw": "8 feuille de Sauge",
+        "quantity": "8",
+        "unit": "feuille",
+        "name": "Sauge"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "200 g de Pâtes longues",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pâtes longues"
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-au-chevre",
+  "recipe_id": "00045",
+  "file": "recettes/00045_pates-au-chevre.json",
+  "updated_at": "2026-06-18T18:24:59.597937+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-au-chevre",
+    "title": "Pâtes au chèvre",
+    "original_title": "Pâtes au chèvre ",
+    "source_file": "Pâtes au chèvre.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "1 unité de Linguine",
+      "1 unité de Bacon",
+      "1 unité de Bûche de chèvre",
+      "1 unité de Crème fraîche épaisse",
+      "1 unité de Oignon",
+      "1 unité de Miel",
+      "1 unité de Thym",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "1 unité de Linguine\n1 unité de Bacon\n1 unité de Bûche de chèvre\n1 unité de Crème fraîche épaisse\n1 unité de Oignon\n1 unité de Miel\n1 unité de Thym\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C_n_URqAQ46",
+    "source_id": "instagram.com/reel/C_n_URqAQ46",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Linguine",
+      "Bacon",
+      "Chèvre",
+      "Crème épaisse",
+      "Oignons",
+      "Miel",
+      "Thym",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Linguine",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Linguine"
+      },
+      {
+        "raw": "Bacon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bacon"
+      },
+      {
+        "raw": "1 unité de Bûche de chèvre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bûche de chèvre"
+      },
+      {
+        "raw": "Crème fraîche épaisse",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Crème fraîche épaisse"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00045",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Linguine",
+        "quantity": "",
+        "unit": "",
+        "name": "Linguine"
+      },
+      {
+        "raw": "Bacon",
+        "quantity": "",
+        "unit": "",
+        "name": "Bacon"
+      },
+      {
+        "raw": "Chèvre",
+        "quantity": "",
+        "unit": "",
+        "name": "Chèvre"
+      },
+      {
+        "raw": "Crème épaisse",
+        "quantity": "",
+        "unit": "",
+        "name": "Crème fraîche épaisse"
+      },
+      {
+        "raw": "Oignons",
+        "quantity": "",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "",
+        "unit": "",
+        "name": "Miel"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "",
+        "unit": "",
+        "name": "Thym"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00045_pates-au-chevre.jpg",
+    "images": [
+      "images/00045_pates-au-chevre.jpg"
+    ]
+  }
+}

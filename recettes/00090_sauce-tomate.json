@@ -1,0 +1,46 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "sauce-tomate",
+  "recipe_id": "00090",
+  "file": "recettes/00090_sauce-tomate.json",
+  "updated_at": "2026-06-18T18:24:59.614540+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": false,
+    "units_validated": false,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "sauce-tomate",
+    "title": "Sauce tomate",
+    "original_title": "Sauce tomate",
+    "source_file": "Sauce tomate.melarecipe",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Sauce",
+      "Sans ingrédients"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Monder 6 tomates bien mûres\nLes couper en deux et les faire cuire 20 minutes dans du bouillon de légumes à couvert\nLes presser au pressé purée ou moulinette\nDans une seconde cocotte faire revenir dans de l’huile d’olive 2 oignons rouge, 2 gousse d’ail et des herbes (thym laurier etc). Y rajouter les tomates avec 2 cas de sucre et laisser cuire le plus longtemps possible (minimum 2h, le mieux c’est 4h)\nPasser un coup de mixer si comme moi vous n’aimez pas les trop gros morceaux\nLaisser refroidir et à conserver au frigo dans un bocal en verre",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C29sxdgCKV7",
+    "source_id": "instagram.com/reel/C29sxdgCKV7",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_with_user",
+    "recipe_id": "00090",
+    "image": "images/00090_sauce-tomate.jpg",
+    "images": [
+      "images/00090_sauce-tomate.jpg"
+    ]
+  }
+}

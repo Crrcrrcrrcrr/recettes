@@ -1,0 +1,194 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cake-au-pesto-rosso-epinards-chevre",
+  "recipe_id": "00070",
+  "file": "recettes/00070_cake-au-pesto-rosso-epinards-chevre.json",
+  "updated_at": "2026-06-18T18:24:59.607904+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "cake-au-pesto-rosso-epinards-chevre",
+    "title": "Cake au pesto rosso, épinards & chèvre",
+    "original_title": "Cake au pesto rosso, épinards & chèvre",
+    "source_file": "Cake au pesto rosso, épinards & chèvre.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "140 g de Farine de blé T45",
+      "0,5 sachet de Levure chimique",
+      "2 unité de Œuf",
+      "1 pot de Yaourt nature",
+      "60 g de Pesto rosso (rouge)",
+      "100 g de Épinard cuit",
+      "0,5 unité de Bûche de chèvre"
+    ],
+    "ingredients_raw": "140 g de Farine de blé T45\n0,5 sachet de Levure chimique\n2 unité de Œuf\n1 pot de Yaourt nature\n60 g de Pesto rosso (rouge)\n100 g de Épinard cuit\n0,5 unité de Bûche de chèvre",
+    "instructions": "Préchauffez votre four à 180°C.\nFaites cuire au préalable vos épinards.\nDans un saladier, mélangez la farine, les oeufs, le pesto, le yaourt et la poudre à lever.\nAjoutez les épinards et le chèvre coupé en morceaux.\nVersez la pâte dans un moule à cake chemisé de papier cuisson.\nAjoutez quelques rondelles de bûche de chèvre sur le dessus.\nEnfournez pendant 35 - 40 minutes.\nLaissez refroidir avant de servir.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C6ZMLkzMueM",
+    "source_id": "instagram.com/reel/C6ZMLkzMueM",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "140g de farine de blé",
+      "1/2 sachet de poudre à lever (levure chimique)",
+      "2 oeufs",
+      "1 pot de yaourt nature",
+      "60g de pesto rosso (rouge)",
+      "100g d’épinards cuits",
+      "1/2 bûche de chèvre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "140 g de Farine de blé T45",
+        "quantity": "140",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "0,5 sachet de Poudre à lever (levure chimique)",
+        "quantity": "0,5",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "2 Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 pot de Yaourt nature",
+        "quantity": "1",
+        "unit": "pot",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "60 g de Pesto rosso (rouge)",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Pesto rosso (rouge)"
+      },
+      {
+        "raw": "100 g de Épinard cuit",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Épinard cuit"
+      },
+      {
+        "raw": "0,5 Bûche de chèvre",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Bûche de chèvre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00070",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "140g de farine de blé",
+        "quantity": "140 g",
+        "unit": "g",
+        "name": "Farine de blé"
+      },
+      {
+        "raw": "1/2 sachet de poudre à lever (levure chimique)",
+        "quantity": "1/2 sachet",
+        "unit": "sachet",
+        "name": "Poudre à lever (levure chimique)"
+      },
+      {
+        "raw": "2 oeufs",
+        "quantity": "2",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 pot de yaourt nature",
+        "quantity": "1 pot",
+        "unit": "pot",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "60g de pesto rosso (rouge)",
+        "quantity": "60 g",
+        "unit": "g",
+        "name": "Pesto rosso (rouge)"
+      },
+      {
+        "raw": "100g d’épinards cuits",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Épinards cuits"
+      },
+      {
+        "raw": "1/2 bûche de chèvre",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Bûche de chèvre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00070_cake-au-pesto-rosso-epinards-chevre.jpg",
+    "images": [
+      "images/00070_cake-au-pesto-rosso-epinards-chevre.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "140 g de Farine de blé",
+        "quantity": "140",
+        "unit": "g",
+        "name": "Farine de blé"
+      },
+      {
+        "raw": "0,5 sachet de Poudre à lever (levure chimique)",
+        "quantity": "0,5",
+        "unit": "sachet",
+        "name": "Poudre à lever (levure chimique)"
+      },
+      {
+        "raw": "2 Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 pot de Yaourt nature",
+        "quantity": "1",
+        "unit": "pot",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "60 g de Pesto rosso (rouge)",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Pesto rosso (rouge)"
+      },
+      {
+        "raw": "100 g de Épinard cuit",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Épinard cuit"
+      },
+      {
+        "raw": "0,5 Bûche de chèvre",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Bûche de chèvre"
+      }
+    ]
+  }
+}

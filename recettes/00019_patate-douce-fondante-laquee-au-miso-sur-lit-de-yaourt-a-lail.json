@@ -1,0 +1,195 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "patate-douce-fondante-laquee-au-miso-sur-lit-de-yaourt-a-lail",
+  "recipe_id": "00019",
+  "file": "recettes/00019_patate-douce-fondante-laquee-au-miso-sur-lit-de-yaourt-a-lail.json",
+  "updated_at": "2026-06-18T18:24:59.587581+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "patate-douce-fondante-laquee-au-miso-sur-lit-de-yaourt-a-lail",
+    "title": "Patate douce fondante laquée au miso sur lit de yaourt à l’ail",
+    "original_title": "Patate douce fondante laquée au miso sur lit de yaourt à l’ail",
+    "source_file": "Patate douce fondante laquée au miso sur lit de yaourt à l’ail.melarecipe",
+    "categories": [
+      "Plats",
+      "Légumes rôtis",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Patate douce",
+      "1 cuillère à soupe de Pâte de miso",
+      "1 cuillère à soupe de Sirop d’érable",
+      "0,5 tasse de Eau",
+      "1 cuillère à soupe de Beurre végétal",
+      "1 unité de Yaourt végétal",
+      "1 gousse de Ail"
+    ],
+    "ingredients_raw": "1 unité de Patate douce\n1 cuillère à soupe de Pâte de miso\n1 cuillère à soupe de Sirop d’érable\n0,5 tasse de Eau\n1 cuillère à soupe de Beurre végétal\n1 unité de Yaourt végétal\n1 gousse de Ail",
+    "instructions": "Faites chauffer un peu d’huile dans une poêle et faites dorer la patate douce sur chaque face pendant 3 à 4 minutes jusqu’à ce qu’elle soit bien colorée.\nPendant ce temps, mélangez la pâte de miso, l’eau et le sirop d’érable jusqu’à obtenir une préparation homogène sans grumeaux.\nAjoutez le beurre dans la poêle et laissez-le fondre, puis versez le mélange au miso en veillant à bien l’enrober et à en faire passer sous la patate douce.\nEnfournez à 190°C pendant 15 minutes, en retournant la patate douce à mi-cuisson. Le mélange au miso doit caraméliser et réduire.\nHachez finement l’ail et incorporez-le au yaourt. Assaisonnez, puis dressez dans l’assiette.\nDéposez la patate douce sur le yaourt, ajoutez un peu de sauce miso restante, garnissez selon votre goût et dégustez.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C4274FQqlkp",
+    "source_id": "instagram.com/reel/C4274FQqlkp",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 grande patate douce",
+      "1 cs de pâte de miso",
+      "1 cs de sirop d’érable",
+      "1/2 tasse d’eau",
+      "1 cs de beurre végétal",
+      "Yaourt végétal",
+      "1 gousse d’ail"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Grande patate douce",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "1 cuillère à soupe de Pâte de miso",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Pâte de miso"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sirop d’érable",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "0,5 tasse de Eau",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 cuillère à soupe de Beurre végétal",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Beurre végétal"
+      },
+      {
+        "raw": "Yaourt végétal",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Yaourt végétal"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00019",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 grande patate douce",
+        "quantity": "1",
+        "unit": "",
+        "name": "Grande patate douce"
+      },
+      {
+        "raw": "1 cs de pâte de miso",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Pâte de miso"
+      },
+      {
+        "raw": "1 cs de sirop d’érable",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1/2 tasse d’eau",
+        "quantity": "1/2 tasse",
+        "unit": "tasse",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 cs de beurre végétal",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Beurre végétal"
+      },
+      {
+        "raw": "Yaourt végétal",
+        "quantity": "",
+        "unit": "",
+        "name": "Yaourt végétal"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00019_patate-douce-fondante-laquee-au-miso-sur-lit-de-yaourt-a-lail.jpg",
+    "images": [
+      "images/00019_patate-douce-fondante-laquee-au-miso-sur-lit-de-yaourt-a-lail.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Grande patate douce",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Grande patate douce"
+      },
+      {
+        "raw": "1 cuillère à soupe de Pâte de miso",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Pâte de miso"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sirop d’érable",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "0,5 tasse de Eau",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 cuillère à soupe de Beurre végétal",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Beurre végétal"
+      },
+      {
+        "raw": "Yaourt végétal",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Yaourt végétal"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      }
+    ]
+  }
+}

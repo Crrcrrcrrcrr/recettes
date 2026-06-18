@@ -1,0 +1,48 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-facon-soupe-a-loignon",
+  "recipe_id": "00043",
+  "file": "recettes/00043_pates-facon-soupe-a-loignon.json",
+  "updated_at": "2026-06-18T18:24:59.597265+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": false,
+    "units_validated": false,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-facon-soupe-a-loignon",
+    "title": "Pâtes façon soupe à l’oignon",
+    "original_title": "Pâtes façon soupe à l’oignon",
+    "source_file": "Pâtes façon soupe à l’oignon.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien",
+      "Sans ingrédients"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Découpe 2 gros oignons en lamelles\nFais les revenir dans un gros morceau de beurre et de l’huile, baisse le feu ( et les yeux ) et laisse les caraméliser pendant un petit quart d’heure. Sel poivre.\nDéglace avec une lichette de vinaigre balsamique et ajoute 250g de pâtes.\nLaisse les cuire cru comme ça pendant 3 minutes environ et ajoute 60cl de bouillons de poule.\nLaisse cuire les pâtes à couvert en vérifiant de temps en temps qu’elles ne brûlent pas.\nQuand c’est cuit, ajoute 10cl de crème liquide entiere, mélange un coup et dégage tout le contenu de ta cocotte dans un plat allant au four, garni le tout d’une énorme plâtrée d’emmental et de comté et place sous le grill le temps que le tout soit bien gratiné.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DBtKbqjAJLx",
+    "source_id": "instagram.com/reel/DBtKbqjAJLx",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_with_user",
+    "recipe_id": "00043",
+    "image": "images/00043_pates-facon-soupe-a-loignon.jpg",
+    "images": [
+      "images/00043_pates-facon-soupe-a-loignon.jpg"
+    ]
+  }
+}

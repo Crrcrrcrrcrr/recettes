@@ -1,0 +1,47 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "curry-de-pois-chiche-avec-du-riz",
+  "recipe_id": "00051",
+  "file": "recettes/00051_curry-de-pois-chiche-avec-du-riz.json",
+  "updated_at": "2026-06-18T18:24:59.600233+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": false,
+    "units_validated": false,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "curry-de-pois-chiche-avec-du-riz",
+    "title": "Curry de pois chiche avec du riz",
+    "original_title": "Curry de pois chiche avec du riz",
+    "source_file": "Curry de pois chiche avec du riz.melarecipe",
+    "categories": [
+      "Plats",
+      "Curry / Dahl",
+      "Végétarien",
+      "Sans ingrédients"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Porter une casserole d’eau à ébullition, puis cuire le riz selon les instructions de l’emballage. Réserver.\nDans une poêle, chauffer 1 cuillère à soupe d’huile d’olive. Émincer un oignon et une gousse d’ail, les faire revenir avec 2 cuillères à soupe de curry et 1 cuillère à soupe de gingembre pendant 2 minutes. Ajouter un peu d’eau pour éviter que ça brûle, puis incorporer 1 cuillère à soupe de concentré de tomate.\nAjouter une boîte de pois chiches (265 g, pour environ 2-3 personnes). Verser ensuite 200 ml de lait de coco, un peu de sel, du poivre et du persil haché. Mélanger le tout.\nCouvrir et laisser mijoter à feu doux pendant 20 minutes.\nIl ne vous reste plus qu’à dresser l’assiette.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DBJpI1so4A6",
+    "source_id": "instagram.com/reel/DBJpI1so4A6",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_with_user",
+    "recipe_id": "00051",
+    "image": "images/00051_curry-de-pois-chiche-avec-du-riz.jpg",
+    "images": [
+      "images/00051_curry-de-pois-chiche-avec-du-riz.jpg"
+    ]
+  }
+}

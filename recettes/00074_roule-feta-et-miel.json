@@ -1,0 +1,122 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "roule-feta-et-miel",
+  "recipe_id": "00074",
+  "file": "recettes/00074_roule-feta-et-miel.json",
+  "updated_at": "2026-06-18T18:24:59.609246+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "roule-feta-et-miel",
+    "title": "Roulé feta et miel",
+    "original_title": "Roulé feta et miel",
+    "source_file": "Roulé feta et miel.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "100 g de Pâte filo",
+      "40 g de Feta",
+      "3 cuillère à soupe de Miel",
+      "3 cuillère à soupe de Huile d’olive",
+      "1 cuillère à café de Graine de sésame"
+    ],
+    "ingredients_raw": "100 g de Pâte filo\n40 g de Feta\n3 cuillère à soupe de Miel\n3 cuillère à soupe de Huile d’olive\n1 cuillère à café de Graine de sésame",
+    "instructions": "Pour commencez, étalez de l’huile d’olive entre chaque pâte filo et assaisonnez avec de l’origan\nAu bout des feuilles placez les morceaux de fêta\nRoulez et fermez avec de l’huile d’olive\nCoupez le bouton en petit pâton et placez les dans des moules à muffin avec du miel et des graines de sesame\nEnfournez 15min à 200 degrés \nDégustez",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C6eTxv_M6Ch",
+    "source_id": "instagram.com/reel/C6eTxv_M6Ch",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "100g de pâtes filo",
+      "40g de fêta",
+      "3 cs de miel",
+      "3 cs d’huile d’olive",
+      "1 cc de graine de sesame"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "100 g de Pâte filo",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Pâte filo"
+      },
+      {
+        "raw": "40 g de Feta",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "3 cuillère à soupe de Miel",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile d’olive",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Graine de sésame",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Graine de sésame"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00074",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "100g de pâtes filo",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Pâte filo"
+      },
+      {
+        "raw": "40g de fêta",
+        "quantity": "40 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "3 cs de miel",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Miel"
+      },
+      {
+        "raw": "3 cs d’huile d’olive",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cc de graine de sesame",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Graines de sésame"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00074_roule-feta-et-miel.jpg",
+    "images": [
+      "images/00074_roule-feta-et-miel.jpg"
+    ]
+  }
+}

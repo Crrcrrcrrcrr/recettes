@@ -1,0 +1,175 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "feta-cremeuse-thym-et-ail",
+  "recipe_id": "00093",
+  "file": "recettes/00093_feta-cremeuse-thym-et-ail.json",
+  "updated_at": "2026-06-18T18:24:59.615609+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "feta-cremeuse-thym-et-ail",
+    "title": "Feta crémeuse thym et ail",
+    "original_title": "Feta crémeuse thym et ail",
+    "source_file": "Feta crémeuse thym et ail.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Dip / Tartinade",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "200 g de Feta",
+      "5 branche de Thym frais",
+      "1 gousse de Ail",
+      "1/2 unité de Jus de citron",
+      "3 cuillère à soupe de Yaourt grec",
+      "1 cuillère à soupe de Huile d’olive"
+    ],
+    "ingredients_raw": "200 g de Feta\n5 branche de Thym frais\n1 gousse de Ail\n1/2 unité de Jus de citron\n3 cuillère à soupe de Yaourt grec\n1 cuillère à soupe de Huile d’olive",
+    "instructions": "Dans le bol de votre mixeur, émietter la feta puis ajouter tous les autres ingrédients. Mixer jusqu’à obtenir une consistance assez lisse. Goûter et ajuster l’assaisonnement.\nServez en dip à l’apéro ou en tartinade",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CjfLDLjjHO9",
+    "source_id": "instagram.com/reel/CjfLDLjjHO9",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200 g de feta",
+      "5 branches de thym frais",
+      "1 gousse d’ail",
+      "Jus d’1/2 citron",
+      "3 cs de yaourt grec",
+      "1 cs d’huile d’olive"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "5 branche de Thym frais",
+        "quantity": "5",
+        "unit": "branche",
+        "name": "Thym frais"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Jus d’1/2 citron",
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "3 cuillère à soupe de Yaourt grec",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00093",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "200 g de feta",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "5 branches de thym frais",
+        "quantity": "5 branches",
+        "unit": "branches",
+        "name": "Thym frais"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "Jus d’1/2 citron",
+        "quantity": "",
+        "unit": "",
+        "name": "Jus d’1/2 citron"
+      },
+      {
+        "raw": "3 cs de yaourt grec",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 cs d’huile d’olive",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00093_feta-cremeuse-thym-et-ail.jpg",
+    "images": [
+      "images/00093_feta-cremeuse-thym-et-ail.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "5 branche de Thym frais",
+        "quantity": "5",
+        "unit": "branche",
+        "name": "Thym frais"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Jus d’1/2 citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus d’1/2 citron"
+      },
+      {
+        "raw": "3 cuillère à soupe de Yaourt grec",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      }
+    ]
+  }
+}

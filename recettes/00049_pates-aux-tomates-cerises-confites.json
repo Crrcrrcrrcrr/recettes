@@ -1,0 +1,167 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-aux-tomates-cerises-confites",
+  "recipe_id": "00049",
+  "file": "recettes/00049_pates-aux-tomates-cerises-confites.json",
+  "updated_at": "2026-06-18T18:24:59.599395+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-aux-tomates-cerises-confites",
+    "title": "Pâtes aux tomates cerises confites",
+    "original_title": "Pâtes aux tomates cerises confites",
+    "source_file": "Pâtes aux tomates cerises confites.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "1 unité de Spaghetti",
+      "1 unité de Tomate cerise",
+      "1 unité de Huile d’olive",
+      "1 unité de Ricotta",
+      "1 unité de Basilic",
+      "1 unité de Parmesan",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "1 unité de Spaghetti\n1 unité de Tomate cerise\n1 unité de Huile d’olive\n1 unité de Ricotta\n1 unité de Basilic\n1 unité de Parmesan\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DBRqvSKoX95",
+    "source_id": "instagram.com/reel/DBRqvSKoX95",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Spaghetti",
+      "Tomates cerises",
+      "Huile d’olive",
+      "Ricotta",
+      "Basilic",
+      "Parmesan",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Spaghetti",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Spaghetti"
+      },
+      {
+        "raw": "Tomate cerise",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Ricotta",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ricotta"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00049",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Spaghetti",
+        "quantity": "",
+        "unit": "",
+        "name": "Spaghetti"
+      },
+      {
+        "raw": "Tomates cerises",
+        "quantity": "",
+        "unit": "",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Ricotta",
+        "quantity": "",
+        "unit": "",
+        "name": "Ricotta"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "",
+        "unit": "",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "",
+        "unit": "",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00049_pates-aux-tomates-cerises-confites.jpg",
+    "images": [
+      "images/00049_pates-aux-tomates-cerises-confites.jpg"
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "potimarron-roti-au-miel-sur-une-creme-de-feta-a-la-pistache",
+  "recipe_id": "00023",
+  "file": "recettes/00023_potimarron-roti-au-miel-sur-une-creme-de-feta-a-la-pistache.json",
+  "updated_at": "2026-06-18T18:24:59.589160+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "potimarron-roti-au-miel-sur-une-creme-de-feta-a-la-pistache",
+    "title": "Potimarron rôti au miel sur une crème de feta à la pistache",
+    "original_title": "Potimarron rôti au miel sur une crème de feta à la pistache",
+    "source_file": "Potimarron rôti au miel sur une crème de feta à la pistache.melarecipe",
+    "categories": [
+      "Plats",
+      "Légumes rôtis",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "350 g de Potimarron",
+      "2 cuillère à soupe de Huile d’olive",
+      "1 cuillère à soupe de Vinaigre de vin",
+      "1 cuillère à soupe de Miel",
+      "1 cuillère à café de Graine de sésame",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "50 g de Pistaches émondées",
+      "200 g de Feta",
+      "5 branche de Menthe",
+      "1 cuillère à soupe de Jus de citron",
+      "1 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Yaourt nature",
+      "1 gousse de Ail"
+    ],
+    "ingredients_raw": "350 g de Potimarron\n2 cuillère à soupe de Huile d’olive\n1 cuillère à soupe de Vinaigre de vin\n1 cuillère à soupe de Miel\n1 cuillère à café de Graine de sésame\n1 unité de Sel\n1 unité de Poivre\n50 g de Pistaches émondées\n200 g de Feta\n5 branche de Menthe\n1 cuillère à soupe de Jus de citron\n1 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Yaourt nature\n1 gousse de Ail",
+    "instructions": "#Pour le potimarron\nPréchauffer le four à 190°C.\nPelez (ou pas) le potimarron et coupez-le en tranches.\nDéposez les tranches dans un grand bol et ajoutez les ingrédients de la marinade. Mélangez bien puis transvasez sur une plaque de cuisson.\nEnfournez 30min.\n#Pour la crème\nPlacez les pistaches dans le mixeur et mixez longuement jusqu’à ce qu’elles se transforment en pâte.\nAjoutez la feta, les feuilles de menthe et le reste des ingrédients. Mixez jusqu’à obtenir une consistance crémeuse.\n#Pour l’assemblage\nÉtalez la crème sur une assiette, déposez les tranches de potimarron par-dessus. Ajoutez un filet d’huile d’olive, un filet de miel, quelques pistaches concassées et un peu de fleur de sel !",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Cz51x6eMPhf",
+    "source_id": "instagram.com/reel/Cz51x6eMPhf",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "#Pour le potimarron",
+      "350g de potimarron (env ¼)",
+      "2 cs d’huile d’olive",
+      "1 cs de vinaigre de vin",
+      "1 cs de miel",
+      "1 cc de graines de sésame",
+      "Sel",
+      "Poivre",
+      "#Pour la crème de feta",
+      "50g de pistaches émondées",
+      "200g de feta",
+      "5 branches de menthe",
+      "1 cs de jus de citron",
+      "1 cs d’huile d’olive",
+      "2 cs de yaourt",
+      "1 gousse d’ail"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "350 g de Potimarron (env ¼)",
+        "quantity": "350",
+        "unit": "g",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre de vin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de vin"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cuillère à café de Graine de sésame",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "50 g de Pistaches émondées",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Pistaches émondées"
+      },
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "5 branche de Menthe",
+        "quantity": "5",
+        "unit": "branche",
+        "name": "Menthe"
+      },
+      {
+        "raw": "1 cuillère à soupe de Jus de citron",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Yaourt nature",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00023",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "#Pour le potimarron",
+        "type": "section"
+      },
+      {
+        "raw": "350g de potimarron (env ¼)",
+        "quantity": "350 g",
+        "unit": "g",
+        "name": "Potimarron (env ¼)"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cs de vinaigre de vin",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Vinaigre de vin"
+      },
+      {
+        "raw": "1 cs de miel",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cc de graines de sésame",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Graines de sésame"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "#Pour la crème de feta",
+        "type": "section"
+      },
+      {
+        "raw": "50g de pistaches émondées",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Pistaches émondées"
+      },
+      {
+        "raw": "200g de feta",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "5 branches de menthe",
+        "quantity": "5 branches",
+        "unit": "branches",
+        "name": "Menthe"
+      },
+      {
+        "raw": "1 cs de jus de citron",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "1 cs d’huile d’olive",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cs de yaourt",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Yaourt"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00023_potimarron-roti-au-miel-sur-une-creme-de-feta-a-la-pistache.jpg",
+    "images": [
+      "images/00023_potimarron-roti-au-miel-sur-une-creme-de-feta-a-la-pistache.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "350 g de Potimarron (env ¼)",
+        "quantity": "350",
+        "unit": "g",
+        "name": "Potimarron (env ¼)"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre de vin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de vin"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cuillère à café de Graine de sésame",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "50 g de Pistaches émondées",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Pistaches émondées"
+      },
+      {
+        "raw": "200 g de Feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "5 branche de Menthe",
+        "quantity": "5",
+        "unit": "branche",
+        "name": "Menthe"
+      },
+      {
+        "raw": "1 cuillère à soupe de Jus de citron",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Yaourt",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      }
+    ]
+  }
+}

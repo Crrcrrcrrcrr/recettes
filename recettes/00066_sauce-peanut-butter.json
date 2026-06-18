@@ -1,0 +1,174 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "sauce-peanut-butter",
+  "recipe_id": "00066",
+  "file": "recettes/00066_sauce-peanut-butter.json",
+  "updated_at": "2026-06-18T18:24:59.606234+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "sauce-peanut-butter",
+    "title": "Sauce peanut butter",
+    "original_title": "Sauce peanut butter",
+    "source_file": "Sauce peanut butter.melarecipe",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Sauce"
+    ],
+    "ingredients": [
+      "2 cuillère à soupe de Beurre de cacahuète",
+      "2 cuillère à soupe de Sauce soja",
+      "1 cuillère à soupe de Vinaigre de riz",
+      "1 cuillère à café de Ail",
+      "1 cuillère à café de Gingembre frais",
+      "1 cuillère à soupe de Jus de citron vert"
+    ],
+    "ingredients_raw": "2 cuillère à soupe de Beurre de cacahuète\n2 cuillère à soupe de Sauce soja\n1 cuillère à soupe de Vinaigre de riz\n1 cuillère à café de Ail\n1 cuillère à café de Gingembre frais\n1 cuillère à soupe de Jus de citron vert",
+    "instructions": "Dans un bol, mélangez le beurre de cacahuète et l’eau chaude pour le délayer, avant d’y ajouter le reste des ingrédients en mélangeant bien.\nEn gros, avec deux cuillères à soupe d'eau, vous aurez une consistance dip, plutôt pour tremper et avec 4, vous aurez plutôt une consistance vinaigrette, pour saucer.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C-CrWUkg-U7",
+    "source_id": "instagram.com/reel/C-CrWUkg-U7",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 cs de beurre de cacahuète naturel, non sucré",
+      "2 cs de sauce soja",
+      "1 cs de vinaigre de riz",
+      "1 cc d’ail râpe",
+      "1 cc de gingembre râpé",
+      "1 cs de jus de citron vert frais"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 cuillère à soupe de Beurre de cacahuète",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre de riz",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Gingembre râpé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "1 cuillère à soupe de Jus de citron vert",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Jus de citron vert"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00066",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 cs de beurre de cacahuète naturel, non sucré",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Beurre de cacahuète naturel, non sucré"
+      },
+      {
+        "raw": "2 cs de sauce soja",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cs de vinaigre de riz",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 cc d’ail râpe",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Ail râpe"
+      },
+      {
+        "raw": "1 cc de gingembre râpé",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Gingembre râpé"
+      },
+      {
+        "raw": "1 cs de jus de citron vert frais",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Jus de citron vert"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00066_sauce-peanut-butter.jpg",
+    "images": [
+      "images/00066_sauce-peanut-butter.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "2 cuillère à soupe de Beurre de cacahuète",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre de riz",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Gingembre râpé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gingembre râpé"
+      },
+      {
+        "raw": "1 cuillère à soupe de Jus de citron vert",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Jus de citron vert"
+      }
+    ]
+  }
+}

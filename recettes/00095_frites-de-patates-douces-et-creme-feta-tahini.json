@@ -1,0 +1,383 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "frites-de-patates-douces-et-creme-feta-tahini",
+  "recipe_id": "00095",
+  "file": "recettes/00095_frites-de-patates-douces-et-creme-feta-tahini.json",
+  "updated_at": "2026-06-18T18:24:59.616517+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "frites-de-patates-douces-et-creme-feta-tahini",
+    "title": "Frites de patates douces et crème feta tahini",
+    "original_title": "Frites de patates douces et crème feta tahini",
+    "source_file": "Frites de patates douces et crème feta tahini.melarecipe",
+    "categories": [
+      "Plats",
+      "Légumes rôtis",
+      "Sauces / Assaisonnements",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Patate douce",
+      "1 cuillère à soupe de Huile d’olive",
+      "0,5 cuillère à café de Cumin",
+      "0,5 cuillère à café de Graine de sésame",
+      "0,5 cuillère à café de Ail en poudre",
+      "0,5 cuillère à café de Paprika fumé",
+      "1 pincée de Piment",
+      "1 unité de Sel",
+      "100 g de Feta",
+      "50 g de Tahini",
+      "1 gousse de Ail",
+      "1 unité de Jus de citron",
+      "50 ml de Lait",
+      "1 cuillère à café de Menthe séchée",
+      "0,5 cuillère à café de Cumin"
+    ],
+    "ingredients_raw": "1 unité de Patate douce\n1 cuillère à soupe de Huile d’olive\n0,5 cuillère à café de Cumin\n0,5 cuillère à café de Graine de sésame\n0,5 cuillère à café de Ail en poudre\n0,5 cuillère à café de Paprika fumé\n1 pincée de Piment\n1 unité de Sel\n100 g de Feta\n50 g de Tahini\n1 gousse de Ail\n1 unité de Jus de citron\n50 ml de Lait\n1 cuillère à café de Menthe séchée\n0,5 cuillère à café de Cumin",
+    "instructions": "Pour les frites :\nPréchauffer le four à 200°C.\nÉplucher puis couper la patate douce en frites.\nDans un grand bol, mélanger les frites, l’huile et les épices. Répartir sur une plaque de cuisson recouverte de papier cuisson, pendant 35min.\nPour la crème de feta :\nMettre tous les ingrédients dans un mixeur et mixer jusqu’à obtenir une consistance qui vous plaît. Goûter et ajuster l’assaisonnement.\nService :\nMettre la crème sur une assiette puis déposer les frites tièdes par-dessus.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CnTyH-4DNuf",
+    "source_id": "instagram.com/reel/CnTyH-4DNuf",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Pour les frites :",
+      "1 patate douce (env 300g)",
+      "1 cs d’huile d’olive",
+      "½ cc de cumin en poudre",
+      "½ cc de graines de sésame",
+      "½ cc d’ail semoule",
+      "½ cc de paprika fumé",
+      "1 pincée de piment",
+      "sel",
+      "Pour la crème de feta tahini :",
+      "100g de feta",
+      "50g de tahini semi complet",
+      "1 gousse d’ail",
+      "le jus d’un citron",
+      "50ml de lait (végétal ou pas)",
+      "1 cc de menthe séchée",
+      "½ cc de cumin en poudre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Patate douce",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "0,5 cuillère à café de Cumin en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "0,5 cuillère à café de Graine de sésame",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "0,5 cuillère à café de Ail en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Paprika fumé",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 pincée de Piment",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Piment"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "100 g de Feta",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "50 g de Tahini semi complet",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Tahini"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Le jus d’un citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "50 ml de Lait (végétal ou pas)",
+        "quantity": "50",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "raw": "1 cuillère à café de Menthe séchée",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Menthe séchée"
+      },
+      {
+        "raw": "0,5 cuillère à café de Cumin en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00095",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Pour les frites :",
+        "quantity": "",
+        "unit": "",
+        "name": "Pour les frites :"
+      },
+      {
+        "raw": "1 patate douce (env 300g)",
+        "quantity": "1",
+        "unit": "",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "1 cs d’huile d’olive",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "½ cc de cumin en poudre",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Cumin en poudre"
+      },
+      {
+        "raw": "½ cc de graines de sésame",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Graines de sésame"
+      },
+      {
+        "raw": "½ cc d’ail semoule",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Ail semoule"
+      },
+      {
+        "raw": "½ cc de paprika fumé",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 pincée de piment",
+        "quantity": "1 pincée",
+        "unit": "pincée",
+        "name": "Piment"
+      },
+      {
+        "raw": "sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Pour la crème de feta tahini :",
+        "quantity": "",
+        "unit": "",
+        "name": "Pour la crème de feta tahini :"
+      },
+      {
+        "raw": "100g de feta",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "50g de tahini semi complet",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Tahini semi complet"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "le jus d’un citron",
+        "quantity": "",
+        "unit": "",
+        "name": "Le jus d’un citron"
+      },
+      {
+        "raw": "50ml de lait (végétal ou pas)",
+        "quantity": "50 ml",
+        "unit": "ml",
+        "name": "Lait (végétal ou pas)"
+      },
+      {
+        "raw": "1 cc de menthe séchée",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Menthe séchée"
+      },
+      {
+        "raw": "½ cc de cumin en poudre",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Cumin en poudre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00095_frites-de-patates-douces-et-creme-feta-tahini.jpg",
+    "images": [
+      "images/00095_frites-de-patates-douces-et-creme-feta-tahini.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Pour les frites :",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pour les frites :"
+      },
+      {
+        "raw": "Patate douce",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "0,5 cuillère à café de Cumin en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Cumin en poudre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Graine de sésame",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "0,5 cuillère à café de Ail en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Paprika fumé",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 pincée de Piment",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Piment"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Pour la crème de feta tahini :",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pour la crème de feta tahini :"
+      },
+      {
+        "raw": "100 g de Feta",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "50 g de Tahini semi complet",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Tahini semi complet"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Le jus d’un citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Le jus d’un citron"
+      },
+      {
+        "raw": "50 ml de Lait (végétal ou pas)",
+        "quantity": "50",
+        "unit": "ml",
+        "name": "Lait (végétal ou pas)"
+      },
+      {
+        "raw": "1 cuillère à café de Menthe séchée",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Menthe séchée"
+      },
+      {
+        "raw": "0,5 cuillère à café de Cumin en poudre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Cumin en poudre"
+      }
+    ]
+  }
+}

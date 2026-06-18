@@ -1,0 +1,267 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "patate-douce-rotie-sauce-chevre-miel",
+  "recipe_id": "00077",
+  "file": "recettes/00077_patate-douce-rotie-sauce-chevre-miel.json",
+  "updated_at": "2026-06-18T18:24:59.610324+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "patate-douce-rotie-sauce-chevre-miel",
+    "title": "Patate douce rôtie sauce chèvre miel",
+    "original_title": "Patate douce rôtie sauce chèvre miel",
+    "source_file": "Patate douce rôtie sauce chèvre miel.melarecipe",
+    "categories": [
+      "Plats",
+      "Légumes rôtis",
+      "Sauces / Assaisonnements",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Patate douce",
+      "240 g de Pois chiches cuits",
+      "Quelques gousse de Ail",
+      "1 unité de Oignon rouge",
+      "4 cuillère à soupe de Huile d’olive",
+      "1 unité de Paprika fumé",
+      "1 unité de Fleur de sel",
+      "200 g de Bûche de chèvre",
+      "200 g de Yaourt grec",
+      "un peu Miel"
+    ],
+    "ingredients_raw": "1 unité de Patate douce\n240 g de Pois chiches cuits\nQuelques gousse de Ail\n1 unité de Oignon rouge\n4 cuillère à soupe de Huile d’olive\n1 unité de Paprika fumé\n1 unité de Fleur de sel\n200 g de Bûche de chèvre\n200 g de Yaourt grec\nun peu Miel",
+    "instructions": "#Légumes :\nMélangez tous les ingrédients\nFaites cuire au four 35min à 200 degrés, pensez à mélanger à mi cuisson.\n#Crème de chèvre :\nMixez tous les ingrédients\n#Assemblage :\nDans une assiette versez un peu de crème de chèvre, ajoutez la patate douce rôti par dessus, un peu d’épices et quelques noisettes concassées.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C3A7VbEiCoq",
+    "source_id": "instagram.com/reel/C3A7VbEiCoq",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "#Légumes :",
+      "1 grande patate douce",
+      "240g de pois chiches cuits et égouttés",
+      "Quelques gousses d’ail",
+      "1 oignon rouge",
+      "4 cs d’huile d’olive",
+      "Paprika fumée",
+      "Fleur de sel",
+      "#Crème de chèvre :",
+      "1 bûche de chèvre (200g)",
+      "200g de yaourt grecque",
+      "Un peu de miel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Grande patate douce",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "240 g de Pois chiches cuits",
+        "quantity": "240",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "Quelques gousse de Ail",
+        "quantity": "Quelques",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "4 cuillère à soupe de Huile d’olive",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Paprika fumée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "Fleur de sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fleur de sel"
+      },
+      {
+        "raw": "200 g de Bûche de chèvre",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Bûche de chèvre"
+      },
+      {
+        "raw": "200 g de Yaourt grec",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "un peu Miel",
+        "quantity": "un peu",
+        "unit": "",
+        "name": "Miel"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00077",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "#Légumes :",
+        "type": "section"
+      },
+      {
+        "raw": "1 grande patate douce",
+        "quantity": "1",
+        "unit": "",
+        "name": "Grande patate douce"
+      },
+      {
+        "raw": "240g de pois chiches cuits et égouttés",
+        "quantity": "240 g",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "Quelques gousses d’ail",
+        "quantity": "Quelques gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1 oignon rouge",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "4 cs d’huile d’olive",
+        "quantity": "4 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Paprika fumée",
+        "quantity": "",
+        "unit": "",
+        "name": "Paprika fumée"
+      },
+      {
+        "raw": "Fleur de sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Fleur de sel"
+      },
+      {
+        "raw": "#Crème de chèvre :",
+        "type": "section"
+      },
+      {
+        "raw": "1 bûche de chèvre (200g)",
+        "quantity": "1",
+        "unit": "",
+        "name": "Bûche de chèvre (200g)"
+      },
+      {
+        "raw": "200g de yaourt grecque",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "Un peu de miel",
+        "quantity": "Un",
+        "unit": "",
+        "name": "Peu de miel"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00077_patate-douce-rotie-sauce-chevre-miel.jpg",
+    "images": [
+      "images/00077_patate-douce-rotie-sauce-chevre-miel.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Grande patate douce",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Grande patate douce"
+      },
+      {
+        "raw": "240 g de Pois chiches cuits",
+        "quantity": "240",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "Quelques gousse de Ail",
+        "quantity": "Quelques",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "4 cuillère à soupe de Huile d’olive",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Paprika fumée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika fumée"
+      },
+      {
+        "raw": "Fleur de sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fleur de sel"
+      },
+      {
+        "raw": "200 g de Bûche de chèvre",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Bûche de chèvre"
+      },
+      {
+        "raw": "200 g de Yaourt grec",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 peu de Miel",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Miel"
+      }
+    ]
+  }
+}

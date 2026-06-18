@@ -1,0 +1,195 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "veloute-de-potimarron-au-curry-rouge",
+  "recipe_id": "00059",
+  "file": "recettes/00059_veloute-de-potimarron-au-curry-rouge.json",
+  "updated_at": "2026-06-18T18:24:59.603119+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "veloute-de-potimarron-au-curry-rouge",
+    "title": "Velouté de Potimarron au curry rouge",
+    "original_title": "Velouté de Potimarron au curry rouge",
+    "source_file": "Velouté de Potimarron au curry rouge.melarecipe",
+    "categories": [
+      "Plats",
+      "Soupe / Velouté",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "600 g de Potimarron",
+      "2 unité de Oignon jaune",
+      "4 gousse de Ail",
+      "10 g de Gingembre frais",
+      "2 cuillère à soupe de Pâte de curry rouge",
+      "1 bouquet de Coriandre",
+      "400 ml de Crème de coco"
+    ],
+    "ingredients_raw": "600 g de Potimarron\n2 unité de Oignon jaune\n4 gousse de Ail\n10 g de Gingembre frais\n2 cuillère à soupe de Pâte de curry rouge\n1 bouquet de Coriandre\n400 ml de Crème de coco",
+    "instructions": "Pelez (ou pas) la courge. Coupez-la en gros morceaux.\nPelez puis coupez grossièrement les oignons, l’ail et le gingembre.\nFaites chauffer 1 càs d’huile neutre dans une casserole et faites-y revenir la pâte de curry avec les oignons, l’ail et le gingembre. Ajoutez les tiges de coriandre et le potimarron.\nFaites revenir 5min puis ajoutez la crème de coco et de l’eau pour couvrir les légumes.\nCouvrez et laissez mijoter jusqu’à ce que le potimarron soit tendre, environ 20min.\nMixez la soupe jusqu’à ce qu’elle soit parfaitement lisse et crémeuse.\nServez avec de la coriandre hachée, des flocons de piment et un trait de crème de coco.\nPour les plus gourmands vous pouvez ajoutez des vermicelles de riz cuites au préalable.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DA-mpqUswvq",
+    "source_id": "instagram.com/reel/DA-mpqUswvq",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "600g de potimarron",
+      "2 petits oignons jaunes",
+      "4 gousse d’ail",
+      "10g de gingembre frais",
+      "2 cs de pâte de curry rouge",
+      "un bouquet de coriandre",
+      "400ml de crème de coco"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "600 g de Potimarron",
+        "quantity": "600",
+        "unit": "g",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "2 Petits oignons jaunes",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "10 g de Gingembre frais",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cuillère à soupe de Pâte de curry rouge",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Pâte de curry rouge"
+      },
+      {
+        "raw": "1 bouquet de Coriandre",
+        "quantity": "1",
+        "unit": "bouquet",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "400 ml de Crème de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Crème de coco"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00059",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "600g de potimarron",
+        "quantity": "600 g",
+        "unit": "g",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "2 petits oignons jaunes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Petits oignons jaunes"
+      },
+      {
+        "raw": "4 gousse d’ail",
+        "quantity": "4 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "10g de gingembre frais",
+        "quantity": "10 g",
+        "unit": "g",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cs de pâte de curry rouge",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Pâte de curry rouge"
+      },
+      {
+        "raw": "un bouquet de coriandre",
+        "quantity": "un bouquet",
+        "unit": "bouquet",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "400ml de crème de coco",
+        "quantity": "400 ml",
+        "unit": "ml",
+        "name": "Crème de coco"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00059_veloute-de-potimarron-au-curry-rouge.jpg",
+    "images": [
+      "images/00059_veloute-de-potimarron-au-curry-rouge.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "600 g de Potimarron",
+        "quantity": "600",
+        "unit": "g",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "2 Petits oignons jaunes",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Petits oignons jaunes"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "10 g de Gingembre frais",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cuillère à soupe de Pâte de curry rouge",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Pâte de curry rouge"
+      },
+      {
+        "raw": "1 bouquet de Coriandre",
+        "quantity": "1",
+        "unit": "bouquet",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "400 ml de Crème de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Crème de coco"
+      }
+    ]
+  }
+}

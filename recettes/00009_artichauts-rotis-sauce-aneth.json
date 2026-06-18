@@ -1,0 +1,350 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "artichauts-rotis-sauce-aneth",
+  "recipe_id": "00009",
+  "file": "recettes/00009_artichauts-rotis-sauce-aneth.json",
+  "updated_at": "2026-06-18T18:24:59.583294+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "artichauts-rotis-sauce-aneth",
+    "title": "Artichauts rôtis sauce aneth",
+    "original_title": "Artichauts rôtis sauce aneth",
+    "source_file": "Artichauts rôtis sauce aneth.melarecipe",
+    "categories": [
+      "Plats",
+      "Légumes rôtis",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Citron jaune",
+      "5 unité de Artichaut poivrade",
+      "1 tête de Ail",
+      "1 unité de Huile d’olive",
+      "1 unité de Origan",
+      "1 unité de Sel",
+      "3 cuillère à soupe de Yaourt grec",
+      "1 unité de Jus de citron",
+      "0,5 cuillère à café de Aneth séché",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 unité de Feta",
+      "1 unité de Oignon rouge",
+      "1 unité de Câpre"
+    ],
+    "ingredients_raw": "1 unité de Citron jaune\n5 unité de Artichaut poivrade\n1 tête de Ail\n1 unité de Huile d’olive\n1 unité de Origan\n1 unité de Sel\n3 cuillère à soupe de Yaourt grec\n1 unité de Jus de citron\n0,5 cuillère à café de Aneth séché\n1 unité de Sel\n1 unité de Poivre\n1 unité de Feta\n1 unité de Oignon rouge\n1 unité de Câpre",
+    "instructions": "#Artichauts\nPressez un citron dans un saladier avec de l’eau.\nTournez les artichauts puis coupez-les en deux. Ôtez le foin au centre s’il y en a.\nDéposez les artichauts dans l’eau citronnée au fur et à mesure pour éviter qu’ils ne noircissent.\nPlacez-les dans une cocotte, avec la tête d’ail dont vous aurez coupé le haut. Badigeonner d’huile, d’origan et de sel.\nRefermez la cocotte et enfournez à 200°C pour 45min.\n#Sauce\nUne fois que les artichauts sont cuits. Prélevez la tête d’ail et pressez-la pour en sortir l’ail cuit.\nMélangez le avec le reste des ingrédients de la sauce.\n#Service\nÉtalez la sauce sur une assiette. Déposez les artichauts par-dessus avec la feta, les câpres et l’oignon rouge.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C6GbsJQsMpu",
+    "source_id": "instagram.com/reel/C6GbsJQsMpu",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "#Artichauts rôtis",
+      "1 citron",
+      "5 artichauts poivrade",
+      "1 tête d’ail",
+      "Huile d’olive",
+      "Origan",
+      "Sel",
+      "#Sauce",
+      "3 càs de yaourt grec",
+      "1 jus de citron",
+      "½ cc d’aneth séché",
+      "Sel",
+      "Poivre",
+      "#Toppings",
+      "Feta émiettée",
+      "Oignon rouge émincé",
+      "Câpres"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron jaune"
+      },
+      {
+        "raw": "5 unité de Artichaut poivrade",
+        "quantity": "5",
+        "unit": "unité",
+        "name": "Artichaut poivrade"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Origan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Origan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "3 cuillère à soupe de Yaourt grec",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "Jus de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "0,5 cuillère à café de Aneth séché",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Aneth séché"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Feta",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Feta"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 unité de Câpre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Câpre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00009",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "#Artichauts rôtis",
+        "type": "section"
+      },
+      {
+        "raw": "1 citron",
+        "quantity": "1",
+        "unit": "",
+        "name": "Citron"
+      },
+      {
+        "raw": "5 artichauts poivrade",
+        "quantity": "5",
+        "unit": "",
+        "name": "Artichauts poivrade"
+      },
+      {
+        "raw": "1 tête d’ail",
+        "quantity": "1 tête",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Origan",
+        "quantity": "",
+        "unit": "",
+        "name": "Origan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "#Sauce",
+        "type": "section"
+      },
+      {
+        "raw": "3 càs de yaourt grec",
+        "quantity": "3 càs",
+        "unit": "càs",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 jus de citron",
+        "quantity": "1",
+        "unit": "",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "½ cc d’aneth séché",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Aneth séché"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "#Toppings",
+        "type": "section"
+      },
+      {
+        "raw": "Feta émiettée",
+        "quantity": "",
+        "unit": "",
+        "name": "Feta"
+      },
+      {
+        "raw": "Oignon rouge émincé",
+        "quantity": "",
+        "unit": "",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "Câpres",
+        "quantity": "",
+        "unit": "",
+        "name": "Câpres"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00009_artichauts-rotis-sauce-aneth.jpg",
+    "images": [
+      "images/00009_artichauts-rotis-sauce-aneth.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron"
+      },
+      {
+        "raw": "5 unité de Artichaut poivrade",
+        "quantity": "5",
+        "unit": "unité",
+        "name": "Artichaut poivrade"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Origan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Origan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "3 cuillère à soupe de Yaourt grec",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "Jus de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "0,5 cuillère à café de Aneth séché",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Aneth séché"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Feta",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Feta"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 unité de Câpre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Câpre"
+      }
+    ]
+  }
+}

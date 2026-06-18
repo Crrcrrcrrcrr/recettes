@@ -1,0 +1,151 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "ufs-brouilles-a-la-grecque-strapatsada",
+  "recipe_id": "00087",
+  "file": "recettes/00087_ufs-brouilles-a-la-grecque-strapatsada.json",
+  "updated_at": "2026-06-18T18:24:59.613591+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "ufs-brouilles-a-la-grecque-strapatsada",
+    "title": "Œufs brouillés à la grecque (Strapatsada)",
+    "original_title": "Œufs brouillés à la grecque (Strapatsada)",
+    "source_file": "Œufs brouillés à la grecque (Strapatsada).melarecipe",
+    "categories": [
+      "Plats",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "4 unité de Œuf",
+      "2 unité de Tomate",
+      "0,5 unité de Oignon",
+      "1 gousse de Ail",
+      "1 unité de Feta",
+      "1 unité de Basilic",
+      "1 unité de Origan"
+    ],
+    "ingredients_raw": "4 unité de Œuf\n2 unité de Tomate\n0,5 unité de Oignon\n1 gousse de Ail\n1 unité de Feta\n1 unité de Basilic\n1 unité de Origan",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CjIz9V2v7p9",
+    "source_id": "instagram.com/reel/CjIz9V2v7p9",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4 œufs",
+      "2 tomates",
+      "1/2 oignon",
+      "1 gousse d’ail",
+      "Feta",
+      "Basilic",
+      "Origan"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 Œuf",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "2 Tomate",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Tomate"
+      },
+      {
+        "raw": "0,5 Oignon",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Feta",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Feta"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Origan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Origan"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00087",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "4 œufs",
+        "quantity": "4",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "2 tomates",
+        "quantity": "2",
+        "unit": "",
+        "name": "Tomate"
+      },
+      {
+        "raw": "1/2 oignon",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "Feta",
+        "quantity": "",
+        "unit": "",
+        "name": "Feta"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "",
+        "unit": "",
+        "name": "Basilic"
+      },
+      {
+        "raw": "Origan",
+        "quantity": "",
+        "unit": "",
+        "name": "Origan"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00087_ufs-brouilles-a-la-grecque-strapatsada.jpg",
+    "images": [
+      "images/00087_ufs-brouilles-a-la-grecque-strapatsada.jpg"
+    ]
+  }
+}

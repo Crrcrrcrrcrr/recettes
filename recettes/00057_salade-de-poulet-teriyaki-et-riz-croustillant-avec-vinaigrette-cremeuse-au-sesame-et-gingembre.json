@@ -1,0 +1,456 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-de-poulet-teriyaki-et-riz-croustillant-avec-vinaigrette-cremeuse-au-sesame-et-gingembre",
+  "recipe_id": "00057",
+  "file": "recettes/00057_salade-de-poulet-teriyaki-et-riz-croustillant-avec-vinaigrette-cremeuse-au-sesame-et-gingembre.json",
+  "updated_at": "2026-06-18T18:24:59.602197+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "salade-de-poulet-teriyaki-et-riz-croustillant-avec-vinaigrette-cremeuse-au-sesame-et-gingembre",
+    "title": "Salade de Poulet Teriyaki et Riz Croustillant\n(avec vinaigrette crémeuse au sésame et gingembre)",
+    "original_title": "Salade de Poulet Teriyaki et Riz Croustillant\n(avec vinaigrette crémeuse au sésame et gingembre)",
+    "source_file": "Salade de Poulet Teriyaki et Riz Croustillant (avec vinaigrette crémeuse au sésame et gingembre).melarecipe",
+    "categories": [
+      "Plats",
+      "Salade",
+      "Viande",
+      "Froid"
+    ],
+    "ingredients": [
+      "2 tasse de Riz cuit",
+      "1 cuillère à soupe de Huile de sésame",
+      "2 cuillère à soupe de Sauce teriyaki",
+      "1 unité de Poulet rôti",
+      "1/4 tasse de Sauce teriyaki",
+      "5 unité de Concombre persan",
+      "0,5 tasse de Chou rouge",
+      "0,5 tasse de Coriandre",
+      "1 botte de Oignon vert",
+      "1 unité de Poivron rouge",
+      "0,5 tasse de Cacahuète",
+      "1/4 tasse de Huile d’olive",
+      "3 cuillère à soupe de Huile de sésame",
+      "3 cuillère à soupe de Sauce soja",
+      "3 cuillère à soupe de Vinaigre de riz",
+      "2 cuillère à soupe de Sirop d’érable",
+      "2 cuillère à soupe de Beurre de cajou",
+      "2 gousse de Ail",
+      "1 cuillère à soupe de Gingembre frais"
+    ],
+    "ingredients_raw": "2 tasse de Riz cuit\n1 cuillère à soupe de Huile de sésame\n2 cuillère à soupe de Sauce teriyaki\n1 unité de Poulet rôti\n1/4 tasse de Sauce teriyaki\n5 unité de Concombre persan\n0,5 tasse de Chou rouge\n0,5 tasse de Coriandre\n1 botte de Oignon vert\n1 unité de Poivron rouge\n0,5 tasse de Cacahuète\n1/4 tasse de Huile d’olive\n3 cuillère à soupe de Huile de sésame\n3 cuillère à soupe de Sauce soja\n3 cuillère à soupe de Vinaigre de riz\n2 cuillère à soupe de Sirop d’érable\n2 cuillère à soupe de Beurre de cajou\n2 gousse de Ail\n1 cuillère à soupe de Gingembre frais",
+    "instructions": "Commence par préparer le riz croustillant. Préchauffe le four à 200°C. Tapisse une plaque de cuisson de papier sulfurisé. Ajoute le riz cuit et refroidi sur la plaque. Mélange bien avec l’huile de sésame et la sauce teriyaki, puis étale en une couche uniforme. Fais cuire pendant 30 à 35 minutes en remuant à mi-cuisson (surveille pour éviter qu’il ne brûle).\nPendant ce temps, retire les os du poulet rôti et effiloche-le en petits morceaux. Mélange avec la sauce teriyaki et réserve.\nPrépare ensuite la vinaigrette. Mets tous les ingrédients dans un blender et mixe pendant environ 1 minute jusqu’à obtention d’une texture lisse.\nEnfin, coupe et émince tous les ingrédients de la salade et mets-les dans un grand saladier. Ajoute le poulet effiloché et le riz croustillant par-dessus. Verse la vinaigrette sur la salade, mélange bien et régale-toi !\nSe conserve au réfrigérateur jusqu’à 5 jours.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DBJXzlpPRT0",
+    "source_id": "instagram.com/reel/DBJXzlpPRT0",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "#Riz",
+      "2 tasses de riz cuit et refroidi (j’ai utilisé du riz jasmin)",
+      "1 cs d’huile de sésame",
+      "2 cs de sauce/marinade teriyaki",
+      "#Poulet",
+      "1 poulet rôti",
+      "1/4 de tasse de sauce/marinade teriyaki (même que ci-dessus)",
+      "#Salade",
+      "5 concombres persans, finement tranchés (ou 1 grand concombre anglais)",
+      "1/2 tasse de chou rouge, finement émincé",
+      "1/2 tasse de coriandre, hachée",
+      "1 botte d’oignons verts, finement hachés",
+      "1 poivron rouge, coupé en petits dés",
+      "1/2 tasse de cacahuètes salées, hachées",
+      "#Vinaigrette crémeuse au sésame et gingembre",
+      "1/4 de tasse d’huile d’olive",
+      "3 cs d’huile de sésame toastée",
+      "3 cs de sauce soja",
+      "3 cs de vinaigre de riz",
+      "2 cs de sirop d’érable",
+      "2 cs de beurre de cajou",
+      "2 gousses d’ail, écrasées",
+      "1 cs de gingembre frais, haché"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 tasse de Riz cuit et refroidi (j’ai utilisé du riz jasmin)",
+        "quantity": "2",
+        "unit": "tasse",
+        "name": "Riz cuit"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile de sésame",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce/marinade teriyaki",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce teriyaki"
+      },
+      {
+        "raw": "Poulet rôti",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poulet rôti"
+      },
+      {
+        "raw": "1/4 Tasse de sauce/marinade teriyaki (même que ci-dessus)",
+        "quantity": "1/4",
+        "unit": "tasse",
+        "name": "Sauce teriyaki"
+      },
+      {
+        "raw": "5 Concombres persans, finement tranchés (ou 1 grand concombre anglais)",
+        "quantity": "5",
+        "unit": "unité",
+        "name": "Concombre persan"
+      },
+      {
+        "raw": "0,5 tasse de Chou rouge",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Chou rouge"
+      },
+      {
+        "raw": "0,5 tasse de Coriandre",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "1 botte de Oignon vert",
+        "quantity": "1",
+        "unit": "botte",
+        "name": "Oignon vert"
+      },
+      {
+        "raw": "Poivron rouge, coupé en petits dés",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "0,5 tasse de Cacahuète",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "1/4 Tasse d’huile d’olive",
+        "quantity": "1/4",
+        "unit": "tasse",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile de sésame grillée",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "3 cuillère à soupe de Sauce soja",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "3 cuillère à soupe de Vinaigre de riz",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sirop d’érable",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre de cajou",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cajou"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Gingembre frais",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre frais"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00057",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "#Riz",
+        "type": "section"
+      },
+      {
+        "raw": "2 tasses de riz cuit et refroidi (j’ai utilisé du riz jasmin)",
+        "quantity": "2 tasses",
+        "unit": "tasses",
+        "name": "Riz cuit et refroidi (j’ai utilisé du riz jasmin)"
+      },
+      {
+        "raw": "1 cs d’huile de sésame",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "2 cs de sauce/marinade teriyaki",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Sauce/marinade teriyaki"
+      },
+      {
+        "raw": "#Poulet",
+        "type": "section"
+      },
+      {
+        "raw": "1 poulet rôti",
+        "quantity": "1",
+        "unit": "",
+        "name": "Poulet rôti"
+      },
+      {
+        "raw": "1/4 de tasse de sauce/marinade teriyaki (même que ci-dessus)",
+        "quantity": "1/4",
+        "unit": "",
+        "name": "Tasse de sauce/marinade teriyaki (même que ci-dessus)"
+      },
+      {
+        "raw": "#Salade",
+        "type": "section"
+      },
+      {
+        "raw": "5 concombres persans, finement tranchés (ou 1 grand concombre anglais)",
+        "quantity": "5",
+        "unit": "",
+        "name": "Concombres persans, finement tranchés (ou 1 grand concombre anglais)"
+      },
+      {
+        "raw": "1/2 tasse de chou rouge, finement émincé",
+        "quantity": "1/2 tasse",
+        "unit": "tasse",
+        "name": "Chou rouge, finement émincé"
+      },
+      {
+        "raw": "1/2 tasse de coriandre, hachée",
+        "quantity": "1/2 tasse",
+        "unit": "tasse",
+        "name": "Coriandre hachée"
+      },
+      {
+        "raw": "1 botte d’oignons verts, finement hachés",
+        "quantity": "1",
+        "unit": "",
+        "name": "Botte d’oignons verts, finement hachés"
+      },
+      {
+        "raw": "1 poivron rouge, coupé en petits dés",
+        "quantity": "1",
+        "unit": "",
+        "name": "Poivron rouge, coupé en petits dés"
+      },
+      {
+        "raw": "1/2 tasse de cacahuètes salées, hachées",
+        "quantity": "1/2 tasse",
+        "unit": "tasse",
+        "name": "Cacahuètes salées, hachées"
+      },
+      {
+        "raw": "#Vinaigrette crémeuse au sésame et gingembre",
+        "type": "section"
+      },
+      {
+        "raw": "1/4 de tasse d’huile d’olive",
+        "quantity": "1/4",
+        "unit": "",
+        "name": "Tasse d’huile d’olive"
+      },
+      {
+        "raw": "3 cs d’huile de sésame toastée",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Huile de sésame toastée"
+      },
+      {
+        "raw": "3 cs de sauce soja",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "3 cs de vinaigre de riz",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "2 cs de sirop d’érable",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "2 cs de beurre de cajou",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Beurre de cajou"
+      },
+      {
+        "raw": "2 gousses d’ail, écrasées",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Ail, écrasées"
+      },
+      {
+        "raw": "1 cs de gingembre frais, haché",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Gingembre frais haché"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00057_salade-de-poulet-teriyaki-et-riz-croustillant-avec-vinaigrette-cremeuse-au-sesam.jpg",
+    "images": [
+      "images/00057_salade-de-poulet-teriyaki-et-riz-croustillant-avec-vinaigrette-cremeuse-au-sesam.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "2 tasse de Riz cuit et refroidi (j’ai utilisé du riz jasmin)",
+        "quantity": "2",
+        "unit": "tasse",
+        "name": "Riz cuit et refroidi (j’ai utilisé du riz jasmin)"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile de sésame",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce/marinade teriyaki",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce/marinade teriyaki"
+      },
+      {
+        "raw": "Poulet rôti",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poulet rôti"
+      },
+      {
+        "raw": "1/4 Tasse de sauce/marinade teriyaki (même que ci-dessus)",
+        "quantity": "1/4",
+        "unit": "unité",
+        "name": "Tasse de sauce/marinade teriyaki (même que ci-dessus)"
+      },
+      {
+        "raw": "5 Concombres persans, finement tranchés (ou 1 grand concombre anglais)",
+        "quantity": "5",
+        "unit": "unité",
+        "name": "Concombres persans, finement tranchés (ou 1 grand concombre anglais)"
+      },
+      {
+        "raw": "0,5 tasse de Chou rouge",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Chou rouge"
+      },
+      {
+        "raw": "0,5 tasse de Coriandre",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "1 botte de Oignon vert",
+        "quantity": "1",
+        "unit": "botte",
+        "name": "Oignon vert"
+      },
+      {
+        "raw": "Poivron rouge, coupé en petits dés",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron rouge, coupé en petits dés"
+      },
+      {
+        "raw": "0,5 tasse de Cacahuète",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "1/4 Tasse d’huile d’olive",
+        "quantity": "1/4",
+        "unit": "unité",
+        "name": "Tasse d’huile d’olive"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile de sésame grillée",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame grillée"
+      },
+      {
+        "raw": "3 cuillère à soupe de Sauce soja",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "3 cuillère à soupe de Vinaigre de riz",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sirop d’érable",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre de cajou",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cajou"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Gingembre frais",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre frais"
+      }
+    ]
+  }
+}

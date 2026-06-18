@@ -1,0 +1,300 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "minis-tartelettes-tomates-burrata",
+  "recipe_id": "00072",
+  "file": "recettes/00072_minis-tartelettes-tomates-burrata.json",
+  "updated_at": "2026-06-18T18:24:59.608497+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "minis-tartelettes-tomates-burrata",
+    "title": "Minis tartelettes tomates/burrata",
+    "original_title": "Minis tartelettes tomates/burrata",
+    "source_file": "Minis tartelettes tomates/burrata.melarecipe",
+    "categories": [
+      "Entrée",
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "1 unité de Pâte brisée",
+      "60 g de Fromage frais",
+      "150 g de Tomate cerise",
+      "3 unité de Oignon rouge",
+      "1 unité de Burrata",
+      "2 cuillère à soupe de Huile d’olive",
+      "1 cuillère à soupe de Miel",
+      "1 cuillère à soupe de Vinaigre balsamique",
+      "1 cuillère à soupe de Persillade",
+      "1 pointe de Paprika fumé",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "1 unité de Pâte brisée\n60 g de Fromage frais\n150 g de Tomate cerise\n3 unité de Oignon rouge\n1 unité de Burrata\n2 cuillère à soupe de Huile d’olive\n1 cuillère à soupe de Miel\n1 cuillère à soupe de Vinaigre balsamique\n1 cuillère à soupe de Persillade\n1 pointe de Paprika fumé\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Cuisson 25 min à 200 degrés",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C60htBRszYT",
+    "source_id": "instagram.com/reel/C60htBRszYT",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 pate brisée",
+      "60g de St Moret",
+      "150g de tomates cerises",
+      "3 petits oignons rouges",
+      "1 burrata",
+      "# Marinade oignons :",
+      "2 cs d’huile d’olive",
+      "1 cs de miel",
+      "1 cs de vinaigre balsamique",
+      "1 cs de persillade",
+      "1 pointe de paprika fumé",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Pâte brisée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte brisée"
+      },
+      {
+        "raw": "60 g de Fromage frais",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Fromage frais"
+      },
+      {
+        "raw": "150 g de Tomate cerise",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "3 Petits oignons rouges",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre balsamique",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "1 cuillère à soupe de Persillade",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Persillade"
+      },
+      {
+        "raw": "Pointe de paprika fumé",
+        "quantity": "1",
+        "unit": "pointe",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00072",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 pate brisée",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pâte brisée"
+      },
+      {
+        "raw": "60g de St Moret",
+        "quantity": "60 g",
+        "unit": "g",
+        "name": "St Môret"
+      },
+      {
+        "raw": "150g de tomates cerises",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "3 petits oignons rouges",
+        "quantity": "3",
+        "unit": "",
+        "name": "Petits oignons rouges"
+      },
+      {
+        "raw": "1 burrata",
+        "quantity": "1",
+        "unit": "",
+        "name": "Burrata"
+      },
+      {
+        "raw": "# Marinade oignons :",
+        "type": "section"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cs de miel",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cs de vinaigre balsamique",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "1 cs de persillade",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Persillade"
+      },
+      {
+        "raw": "1 pointe de paprika fumé",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pointe de paprika fumé"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00072_minis-tartelettes-tomates-burrata.jpg",
+    "images": [
+      "images/00072_minis-tartelettes-tomates-burrata.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Pâte brisée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte brisée"
+      },
+      {
+        "raw": "60 g de St Môret",
+        "quantity": "60",
+        "unit": "g",
+        "name": "St Môret"
+      },
+      {
+        "raw": "150 g de Tomate cerise",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "3 Petits oignons rouges",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Petits oignons rouges"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre balsamique",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "1 cuillère à soupe de Persillade",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Persillade"
+      },
+      {
+        "raw": "Pointe de paprika fumé",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pointe de paprika fumé"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

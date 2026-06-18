@@ -1,0 +1,466 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "misir-wat-dahl",
+  "recipe_id": "00003",
+  "file": "recettes/00003_misir-wat-dahl.json",
+  "updated_at": "2026-06-18T18:24:59.572929+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "misir-wat-dahl",
+    "title": "Misir Wat (dahl)",
+    "original_title": "Misir Wat (dahl)",
+    "source_file": "Misir Wat (dahl).melarecipe",
+    "categories": [
+      "Plats",
+      "Curry / Dahl",
+      "Indien",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1,5 cuillère à café de Curcuma",
+      "1 unité de Cardamome",
+      "1 unité de Clou de girofle",
+      "0,5 cuillère à café de Gingembre en poudre",
+      "0,5 cuillère à café de Coriandre",
+      "0,5 cuillère à café de Fenugrec",
+      "0,5 cuillère à café de Poivre",
+      "0,25 cuillère à café de Cannelle",
+      "0,25 cuillère à café de Muscade",
+      "1 unité de Piment",
+      "2 unité de Oignon",
+      "3 gousse de Ail",
+      "2 cuillère à soupe de Gingembre frais",
+      "2 cuillère à soupe de Huile de tournesol",
+      "2 cuillère à café de Paprika",
+      "70 g de Concentré de tomate",
+      "250 g de Lentilles corail",
+      "1 unité de Bouillon de légumes",
+      "700 ml de Eau",
+      "1 unité de Sel"
+    ],
+    "ingredients_raw": "1,5 cuillère à café de Curcuma\n1 unité de Cardamome\n1 unité de Clou de girofle\n0,5 cuillère à café de Gingembre en poudre\n0,5 cuillère à café de Coriandre\n0,5 cuillère à café de Fenugrec\n0,5 cuillère à café de Poivre\n0,25 cuillère à café de Cannelle\n0,25 cuillère à café de Muscade\n1 unité de Piment\n2 unité de Oignon\n3 gousse de Ail\n2 cuillère à soupe de Gingembre frais\n2 cuillère à soupe de Huile de tournesol\n2 cuillère à café de Paprika\n70 g de Concentré de tomate\n250 g de Lentilles corail\n1 unité de Bouillon de légumes\n700 ml de Eau\n1 unité de Sel",
+    "instructions": "Préparez toutes les épices.\nPlacez les oignons, l’ail et le gingembre dans un petit mixeur et mixez jusqu’à obtenir une pâte. Ou hachez-les très finement.\nFaites les revenir 10min dans un faitout ou une cocotte avec l’huile de tournesol.\nAjoutez les épices et faites revenir encore quelques minutes.\nAjoutez le concentré de tomate.\nRincez les lentilles et ajoutez-les au mélange.\nAjoutez le bouillon cube et l’eau et mélangez bien.\nFaites mijotez à petits bouillons à couvert en mélangeant de temps en temps pendant 35 à 40min.\nSalez en fin de cuisson.\nOn le sert traditionnellement avec des galettes nommées Injera, préparées à partir de farine de teff. A défaut, vous pouvez le servir avec du riz ou des galettes de lentilles corail.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C3vIZrDsHAc",
+    "source_id": "instagram.com/reel/C3vIZrDsHAc",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "#Les épices :",
+      "1,5 cc de curcuma",
+      "1 graine de cardamome",
+      "1 clou de girofle",
+      "½ cc de gingembre moulu",
+      "½ cc de coriandre moulue",
+      "½ cc de fenugrec",
+      "½ cc de poivre",
+      "¼ cc de cannelle",
+      "¼ cc de muscade moulue",
+      "piment au goût",
+      "#Le plat :",
+      "2 oignons",
+      "3 gousses d’ail",
+      "2 cs de gingembre frais (25g)",
+      "2 cs d’huile de tournesol",
+      "2 cc de paprika doux",
+      "70g de concentré de tomate",
+      "250g de lentilles corail",
+      "1 bouillon cube de légume",
+      "700ml d’eau",
+      "sel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1,5 cuillère à café de Curcuma",
+        "quantity": "1,5",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 unité de Cardamome",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cardamome"
+      },
+      {
+        "raw": "Clou de girofle",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Clou de girofle"
+      },
+      {
+        "raw": "0,5 cuillère à café de Gingembre moulu",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Coriandre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Fenugrec",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Fenugrec"
+      },
+      {
+        "raw": "0,5 cuillère à café de Poivre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "0,25 cuillère à café de Cannelle",
+        "quantity": "0,25",
+        "unit": "cuillère à café",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "0,25 cuillère à café de Muscade",
+        "quantity": "0,25",
+        "unit": "cuillère à café",
+        "name": "Muscade"
+      },
+      {
+        "raw": "Piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "raw": "2 Oignon",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 cuillère à soupe de Gingembre frais",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile de tournesol",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile de tournesol"
+      },
+      {
+        "raw": "2 cuillère à café de Paprika doux",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "70 g de Concentré de tomate",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "250 g de Lentilles corail",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Lentilles corail"
+      },
+      {
+        "raw": "Bouillon de légumes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "700 ml de Eau",
+        "quantity": "700",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00003",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "#Les épices :",
+        "type": "section"
+      },
+      {
+        "raw": "1,5 cc de curcuma",
+        "quantity": "1,5 cc",
+        "unit": "cc",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 graine de cardamome",
+        "quantity": "1",
+        "unit": "",
+        "name": "Graine de cardamome"
+      },
+      {
+        "raw": "1 clou de girofle",
+        "quantity": "1",
+        "unit": "",
+        "name": "Clou de girofle"
+      },
+      {
+        "raw": "½ cc de gingembre moulu",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Gingembre moulu"
+      },
+      {
+        "raw": "½ cc de coriandre moulue",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Coriandre moulue"
+      },
+      {
+        "raw": "½ cc de fenugrec",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Fenugrec"
+      },
+      {
+        "raw": "½ cc de poivre",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Poivre"
+      },
+      {
+        "raw": "¼ cc de cannelle",
+        "quantity": "¼ cc",
+        "unit": "cc",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "¼ cc de muscade moulue",
+        "quantity": "¼ cc",
+        "unit": "cc",
+        "name": "Muscade"
+      },
+      {
+        "raw": "piment au goût",
+        "quantity": "",
+        "unit": "",
+        "name": "Piment"
+      },
+      {
+        "raw": "#Le plat :",
+        "type": "section"
+      },
+      {
+        "raw": "2 oignons",
+        "quantity": "2",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "3 gousses d’ail",
+        "quantity": "3 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "2 cs de gingembre frais (25g)",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cs d’huile de tournesol",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile de tournesol"
+      },
+      {
+        "raw": "2 cc de paprika doux",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Paprika doux"
+      },
+      {
+        "raw": "70g de concentré de tomate",
+        "quantity": "70 g",
+        "unit": "g",
+        "name": "Concentré de tomates"
+      },
+      {
+        "raw": "250g de lentilles corail",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Lentilles corail"
+      },
+      {
+        "raw": "1 bouillon cube de légume",
+        "quantity": "1",
+        "unit": "",
+        "name": "Bouillon cube de légume"
+      },
+      {
+        "raw": "700ml d’eau",
+        "quantity": "700 ml",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00003_misir-wat-dahl.jpg",
+    "images": [
+      "images/00003_misir-wat-dahl.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "1,5 cuillère à café de Curcuma",
+        "quantity": "1,5",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 unité de Cardamome",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cardamome"
+      },
+      {
+        "raw": "Clou de girofle",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Clou de girofle"
+      },
+      {
+        "raw": "0,5 cuillère à café de Gingembre moulu",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Gingembre moulu"
+      },
+      {
+        "raw": "0,5 cuillère à café de Coriandre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Fenugrec",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Fenugrec"
+      },
+      {
+        "raw": "0,5 cuillère à café de Poivre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "0,25 cuillère à café de Cannelle",
+        "quantity": "0,25",
+        "unit": "cuillère à café",
+        "name": "Cannelle"
+      },
+      {
+        "raw": "0,25 cuillère à café de Muscade",
+        "quantity": "0,25",
+        "unit": "cuillère à café",
+        "name": "Muscade"
+      },
+      {
+        "raw": "Piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "raw": "2 Oignon",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 cuillère à soupe de Gingembre frais",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile de tournesol",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile de tournesol"
+      },
+      {
+        "raw": "2 cuillère à café de Paprika doux",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Paprika doux"
+      },
+      {
+        "raw": "70 g de Concentré de tomate",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "250 g de Lentille corail",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Lentille corail"
+      },
+      {
+        "raw": "Bouillon de légumes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "700 ml de Eau",
+        "quantity": "700",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      }
+    ]
+  }
+}

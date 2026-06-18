@@ -1,0 +1,195 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "sauce-big-mac",
+  "recipe_id": "00033",
+  "file": "recettes/00033_sauce-big-mac.json",
+  "updated_at": "2026-06-18T18:24:59.593345+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "sauce-big-mac",
+    "title": "Sauce big mac",
+    "original_title": "Sauce big mac ",
+    "source_file": "Sauce big mac.melarecipe",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Sauce",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "5 cuillère à soupe de Mayonnaise",
+      "1 cuillère à soupe de Ketchup",
+      "1 cuillère à soupe de Moutarde",
+      "1 cuillère à soupe de Oignon",
+      "1 cuillère à soupe de Cornichon",
+      "1 cuillère à soupe de Jus du bocal de cornichons",
+      "0,5 cuillère à café de Paprika"
+    ],
+    "ingredients_raw": "5 cuillère à soupe de Mayonnaise\n1 cuillère à soupe de Ketchup\n1 cuillère à soupe de Moutarde\n1 cuillère à soupe de Oignon\n1 cuillère à soupe de Cornichon\n1 cuillère à soupe de Jus du bocal de cornichons\n0,5 cuillère à café de Paprika",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DDw6dnbKvGK",
+    "source_id": "instagram.com/reel/DDw6dnbKvGK",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "5 cs de mayo",
+      "1 cs de ketchup",
+      "1 cs de moutarde",
+      "1 cs d’oignon ciselé",
+      "1 cs de cornichon ciselé",
+      "1 cs de jus du bocal de cornichons.",
+      "1/2 cac de paprika (en ajouter si vous voulez une sauce + orangée"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "5 cuillère à soupe de Mayo",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "1 cuillère à soupe de Ketchup",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Ketchup"
+      },
+      {
+        "raw": "1 cuillère à soupe de Moutarde",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "1 cuillère à soupe de Oignon ciselé",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 cuillère à soupe de Cornichon ciselé",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cornichon"
+      },
+      {
+        "raw": "1 cuillère à soupe de Jus du bocal de cornichons",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Jus du bocal de cornichons"
+      },
+      {
+        "raw": "0,5 cuillère à café de Paprika (en ajouter si vous voulez une sauce + orangée",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00033",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "5 cs de mayo",
+        "quantity": "5 cs",
+        "unit": "cs",
+        "name": "Mayo"
+      },
+      {
+        "raw": "1 cs de ketchup",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Ketchup"
+      },
+      {
+        "raw": "1 cs de moutarde",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "1 cs d’oignon ciselé",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Oignon ciselé"
+      },
+      {
+        "raw": "1 cs de cornichon ciselé",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Cornichon ciselé"
+      },
+      {
+        "raw": "1 cs de jus du bocal de cornichons.",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Jus du bocal de cornichons."
+      },
+      {
+        "raw": "1/2 cac de paprika (en ajouter si vous voulez une sauce + orangée",
+        "quantity": "1/2 cac",
+        "unit": "cac",
+        "name": "Paprika (en ajouter si vous voulez une sauce + orangée"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00033_sauce-big-mac.jpg",
+    "images": [
+      "images/00033_sauce-big-mac.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "5 cuillère à soupe de Mayo",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Mayo"
+      },
+      {
+        "raw": "1 cuillère à soupe de Ketchup",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Ketchup"
+      },
+      {
+        "raw": "1 cuillère à soupe de Moutarde",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "1 cuillère à soupe de Oignon ciselé",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Oignon ciselé"
+      },
+      {
+        "raw": "1 cuillère à soupe de Cornichon ciselé",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cornichon ciselé"
+      },
+      {
+        "raw": "1 cuillère à soupe de Jus du bocal de cornichons",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Jus du bocal de cornichons"
+      },
+      {
+        "raw": "0,5 cuillère à café de Paprika (en ajouter si vous voulez une sauce + orangée",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Paprika (en ajouter si vous voulez une sauce + orangée"
+      }
+    ]
+  }
+}

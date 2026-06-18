@@ -1,0 +1,351 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "butter-chicken-healthy",
+  "recipe_id": "00064",
+  "file": "recettes/00064_butter-chicken-healthy.json",
+  "updated_at": "2026-06-18T18:24:59.605418+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "butter-chicken-healthy",
+    "title": "Butter Chicken Healthy",
+    "original_title": "Butter Chicken Healthy",
+    "source_file": "Butter Chicken Healthy.melarecipe",
+    "categories": [
+      "Plats",
+      "Viande"
+    ],
+    "ingredients": [
+      "600 g de Poulet",
+      "0,5 tasse de Yaourt grec",
+      "1 cuillère à soupe de Jus de citron",
+      "2 cuillère à café de Garam masala",
+      "1 cuillère à café de Cumin",
+      "1 cuillère à café de Curcuma",
+      "1/4 cuillère à café de Poivre de Cayenne",
+      "1 cuillère à soupe de Gingembre frais",
+      "2 gousse de Ail",
+      "20 g de Beurre allegé",
+      "1 tasse de Purée de tomate",
+      "1 tasse de Crème légère",
+      "1 cuillère à soupe de Sucre",
+      "1 cuillère à café de Sel",
+      "150 g de Riz"
+    ],
+    "ingredients_raw": "600 g de Poulet\n0,5 tasse de Yaourt grec\n1 cuillère à soupe de Jus de citron\n2 cuillère à café de Garam masala\n1 cuillère à café de Cumin\n1 cuillère à café de Curcuma\n1/4 cuillère à café de Poivre de Cayenne\n1 cuillère à soupe de Gingembre frais\n2 gousse de Ail\n20 g de Beurre allegé\n1 tasse de Purée de tomate\n1 tasse de Crème légère\n1 cuillère à soupe de Sucre\n1 cuillère à café de Sel\n150 g de Riz",
+    "instructions": "Enrober le poulet avec les ingrédients de la marinade restants et laisser reposer au réfrigérateur pendant une heure ou toute une nuit.\nFaire fondre le beurre dans une poêle chaude, puis ajouter le poulet mariné. Cuire pendant 3 à 5 minutes.\nAjouter la purée de tomates, la crème, le sucrant et le sel. Laisser mijoter pendant 15 à 20 minutes jusqu’à ce que le poulet soit bien cuit et que la sauce épaississe.\nServir avec du riz cuit et des légumes.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C8RU4jTvSS-",
+    "source_id": "instagram.com/reel/C8RU4jTvSS-",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "# Marinade",
+      "600 g de poulet",
+      "1/2 tasse de yaourt grec",
+      "1 cs de jus de citron",
+      "2 cc de garam masala",
+      "1 cc de curcuma et de cumin",
+      "1/4 cc de poivre de Cayenne",
+      "1 cs de gingembre frais",
+      "2 gousses d’ail, émincées",
+      "#Curry",
+      "1 1/2 cs de beurre allégé ou d’huile (20 g)",
+      "1 tasse de passata ou purée de tomates",
+      "1 tasse de crème légère pour cuisson",
+      "1 cs de stévia ou de sucre",
+      "1 cc de sel",
+      "150 g de riz cru"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "600 g de Poulet",
+        "quantity": "600",
+        "unit": "g",
+        "name": "Poulet"
+      },
+      {
+        "raw": "0,5 tasse de Yaourt grec",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 cuillère à soupe de Jus de citron",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 cuillère à café de Garam masala",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma et de cumin",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma et de cumin",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1/4 cuillère à café de Poivre de Cayenne",
+        "quantity": "1/4",
+        "unit": "cuillère à café",
+        "name": "Poivre de Cayenne"
+      },
+      {
+        "raw": "1 cuillère à soupe de Gingembre frais",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "20 g de Beurre allegé",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Beurre allegé"
+      },
+      {
+        "raw": "1 tasse de Passata ou purée de tomates",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Purée de tomate"
+      },
+      {
+        "raw": "1 tasse de Crème légère pour cuisson",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Crème légère"
+      },
+      {
+        "raw": "1 cuillère à soupe de Stévia ou de sucre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sucre"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "150 g de Riz cru",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Riz"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00064",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "# Marinade",
+        "type": "section"
+      },
+      {
+        "raw": "600 g de poulet",
+        "quantity": "600 g",
+        "unit": "g",
+        "name": "Poulet"
+      },
+      {
+        "raw": "1/2 tasse de yaourt grec",
+        "quantity": "1/2 tasse",
+        "unit": "tasse",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 cs de jus de citron",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 cc de garam masala",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cc de curcuma et de cumin",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Curcuma et de cumin"
+      },
+      {
+        "raw": "1/4 cc de poivre de Cayenne",
+        "quantity": "1/4 cc",
+        "unit": "cc",
+        "name": "Poivre de Cayenne"
+      },
+      {
+        "raw": "1 cs de gingembre frais",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 gousses d’ail, émincées",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Ail, émincées"
+      },
+      {
+        "raw": "#Curry",
+        "type": "section"
+      },
+      {
+        "raw": "1 1/2 cs de beurre allégé ou d’huile (20 g)",
+        "quantity": "1",
+        "unit": "",
+        "name": "1/2 cs de beurre allégé ou d’huile (20 g)"
+      },
+      {
+        "raw": "1 tasse de passata ou purée de tomates",
+        "quantity": "1 tasse",
+        "unit": "tasse",
+        "name": "Passata ou purée de tomates"
+      },
+      {
+        "raw": "1 tasse de crème légère pour cuisson",
+        "quantity": "1 tasse",
+        "unit": "tasse",
+        "name": "Crème légère pour cuisson"
+      },
+      {
+        "raw": "1 cs de stévia ou de sucre",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Stévia ou de sucre"
+      },
+      {
+        "raw": "1 cc de sel",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Sel"
+      },
+      {
+        "raw": "150 g de riz cru",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Riz cru"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00064_butter-chicken-healthy.jpg",
+    "images": [
+      "images/00064_butter-chicken-healthy.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "600 g de Poulet",
+        "quantity": "600",
+        "unit": "g",
+        "name": "Poulet"
+      },
+      {
+        "raw": "0,5 tasse de Yaourt grec",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 cuillère à soupe de Jus de citron",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 cuillère à café de Garam masala",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma et de cumin",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma et de cumin"
+      },
+      {
+        "raw": "1/4 cuillère à café de Poivre de Cayenne",
+        "quantity": "1/4",
+        "unit": "cuillère à café",
+        "name": "Poivre de Cayenne"
+      },
+      {
+        "raw": "1 cuillère à soupe de Gingembre frais",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "20 g de Beurre allegé",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Beurre allegé"
+      },
+      {
+        "raw": "1 tasse de Passata ou purée de tomates",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Passata ou purée de tomates"
+      },
+      {
+        "raw": "1 tasse de Crème légère pour cuisson",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Crème légère pour cuisson"
+      },
+      {
+        "raw": "1 cuillère à soupe de Stévia ou de sucre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Stévia ou de sucre"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "150 g de Riz cru",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Riz cru"
+      }
+    ]
+  }
+}

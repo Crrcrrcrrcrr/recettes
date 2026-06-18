@@ -1,0 +1,374 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "sauce-satay",
+  "recipe_id": "00037",
+  "file": "recettes/00037_sauce-satay.json",
+  "updated_at": "2026-06-18T18:24:59.595076+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "sauce-satay",
+    "title": "Sauce satay",
+    "original_title": "Sauce satay ",
+    "source_file": "Sauce satay.melarecipe",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Sauce"
+    ],
+    "ingredients": [
+      "250 g de Cacahuète",
+      "1 unité de Piment rouge",
+      "1 unité de Piment oiseau",
+      "1 unité de Piment",
+      "0,5 unité de Oignon",
+      "2 unité de Échalote",
+      "3 gousse de Ail",
+      "1 pouce de Gingembre frais",
+      "2 cuillère à soupe de Eau",
+      "120 ml de Huile",
+      "500 ml de Eau",
+      "50 g de Cassonade",
+      "0,5 cuillère à soupe de Sel",
+      "125 ml de Lait de coco",
+      "1 cuillère à soupe de Tamarin",
+      "1 cuillère à soupe de Sauce soja"
+    ],
+    "ingredients_raw": "250 g de Cacahuète\n1 unité de Piment rouge\n1 unité de Piment oiseau\n1 unité de Piment\n0,5 unité de Oignon\n2 unité de Échalote\n3 gousse de Ail\n1 pouce de Gingembre frais\n2 cuillère à soupe de Eau\n120 ml de Huile\n500 ml de Eau\n50 g de Cassonade\n0,5 cuillère à soupe de Sel\n125 ml de Lait de coco\n1 cuillère à soupe de Tamarin\n1 cuillère à soupe de Sauce soja",
+    "instructions": "Pour une sauce pas trop piquante, ôter les graines des piments. Dans un saladier, couvrir les piments d’eau bouillante et laisser hydrater 15min.\nMixer/broyer les cacahuètes par accoups de manière à garder de la texture, comme dans la vidéo.\nEn parallèle, réduire en purée les échalotes, le gingembre, l’ail, l’oignon, les piments égouttés et l’eau.\nDans une casserole, faire chauffer de l’huile neutre à feu moyen et verser la “purée”.\nDe l’eau + de l’huile chaude, c’est dangereux donc belek à votre peau, baisser le feu si besoin et surtout mélanger continuellement.\nCuire à petite ébullition pendant une 10aine de minutes , vous pouvez ajouter les cachuètes, l’eau, le sucre, le sel, et laisser réduire, 20min minimum, 30 ou 40 min c’est encore mieux.\nPour finaliser la sauce, ajouter le lait de coco et la sauce soja.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DDPZwIBIp2-",
+    "source_id": "instagram.com/reel/DDPZwIBIp2-",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "250g de cacahuètes",
+      "1 gros piment rouge",
+      "1 petit piment oiseau",
+      "1 piment séché",
+      "1/2 onion",
+      "2 échalotes",
+      "3 gousses d’ail",
+      "1 pouce de gingembre",
+      "2 cs d’eau pour mixer",
+      "120ml d’huile (arachides ici)",
+      "500ml d’eau",
+      "50g sucre cassonade",
+      "1/2 cs sel",
+      "125ml de lait de coco",
+      "1 cs de tamarin",
+      "1 cs de sauce soja"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "250 g de Cacahuète",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Gros piment rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment rouge"
+      },
+      {
+        "raw": "Petit piment oiseau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment oiseau"
+      },
+      {
+        "raw": "Piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "raw": "0,5 Onion",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Pouce de gingembre",
+        "quantity": "1",
+        "unit": "pouce",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cuillère à soupe de Eau pour mixer",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      },
+      {
+        "raw": "120 ml de Huile",
+        "quantity": "120",
+        "unit": "ml",
+        "name": "Huile"
+      },
+      {
+        "raw": "500 ml de Eau",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "50 g de Sucre cassonade",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Cassonade"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Sel",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Sel"
+      },
+      {
+        "raw": "125 ml de Lait de coco",
+        "quantity": "125",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1 cuillère à soupe de Tamarin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Tamarin"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce soja",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00037",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "250g de cacahuètes",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "1 gros piment rouge",
+        "quantity": "1",
+        "unit": "",
+        "name": "Gros piment rouge"
+      },
+      {
+        "raw": "1 petit piment oiseau",
+        "quantity": "1",
+        "unit": "",
+        "name": "Petit piment oiseau"
+      },
+      {
+        "raw": "1 piment séché",
+        "quantity": "1",
+        "unit": "",
+        "name": "Piment"
+      },
+      {
+        "raw": "1/2 onion",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Onion"
+      },
+      {
+        "raw": "2 échalotes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Échalote"
+      },
+      {
+        "raw": "3 gousses d’ail",
+        "quantity": "3 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1 pouce de gingembre",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pouce de gingembre"
+      },
+      {
+        "raw": "2 cs d’eau pour mixer",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Eau pour mixer"
+      },
+      {
+        "raw": "120ml d’huile (arachides ici)",
+        "quantity": "120 ml",
+        "unit": "ml",
+        "name": "Huile"
+      },
+      {
+        "raw": "500ml d’eau",
+        "quantity": "500 ml",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "50g sucre cassonade",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Sucre cassonade"
+      },
+      {
+        "raw": "1/2 cs sel",
+        "quantity": "1/2 cs",
+        "unit": "cs",
+        "name": "Sel"
+      },
+      {
+        "raw": "125ml de lait de coco",
+        "quantity": "125 ml",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1 cs de tamarin",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Tamarin"
+      },
+      {
+        "raw": "1 cs de sauce soja",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Sauce soja"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00037_sauce-satay.jpg",
+    "images": [
+      "images/00037_sauce-satay.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "250 g de Cacahuète",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Gros piment rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Gros piment rouge"
+      },
+      {
+        "raw": "Petit piment oiseau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Petit piment oiseau"
+      },
+      {
+        "raw": "Piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "raw": "0,5 Onion",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Onion"
+      },
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Pouce de gingembre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pouce de gingembre"
+      },
+      {
+        "raw": "2 cuillère à soupe de Eau pour mixer",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Eau pour mixer"
+      },
+      {
+        "raw": "120 ml de Huile",
+        "quantity": "120",
+        "unit": "ml",
+        "name": "Huile"
+      },
+      {
+        "raw": "500 ml de Eau",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "50 g de Sucre cassonade",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Sucre cassonade"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Sel",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Sel"
+      },
+      {
+        "raw": "125 ml de Lait de coco",
+        "quantity": "125",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1 cuillère à soupe de Tamarin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Tamarin"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce soja",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      }
+    ]
+  }
+}

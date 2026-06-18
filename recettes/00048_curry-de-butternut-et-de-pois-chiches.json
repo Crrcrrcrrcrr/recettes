@@ -1,0 +1,355 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "curry-de-butternut-et-de-pois-chiches",
+  "recipe_id": "00048",
+  "file": "recettes/00048_curry-de-butternut-et-de-pois-chiches.json",
+  "updated_at": "2026-06-18T18:24:59.598974+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "curry-de-butternut-et-de-pois-chiches",
+    "title": "Curry de butternut et de pois chiches",
+    "original_title": "Curry de butternut et de pois chiches",
+    "source_file": "Curry de butternut et de pois chiches.melarecipe",
+    "categories": [
+      "Plats",
+      "Curry / Dahl",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "500 g de Butternut",
+      "2 unité de Carotte",
+      "1 unité de Oignon",
+      "10 g de Gingembre frais",
+      "4 gousse de Ail",
+      "2 unité de Clou de girofle",
+      "0,5 cuillère à café de Graines de moutarde",
+      "2 unité de Badiane",
+      "1 cuillère à café de Cumin",
+      "0,5 cuillère à café de Curcuma",
+      "1 cuillère à café de Fenugrec",
+      "3 cuillère à soupe de Huile de tournesol",
+      "400 ml de Lait de coco",
+      "200 ml de Eau",
+      "250 g de Pois chiches cuits"
+    ],
+    "ingredients_raw": "500 g de Butternut\n2 unité de Carotte\n1 unité de Oignon\n10 g de Gingembre frais\n4 gousse de Ail\n2 unité de Clou de girofle\n0,5 cuillère à café de Graines de moutarde\n2 unité de Badiane\n1 cuillère à café de Cumin\n0,5 cuillère à café de Curcuma\n1 cuillère à café de Fenugrec\n3 cuillère à soupe de Huile de tournesol\n400 ml de Lait de coco\n200 ml de Eau\n250 g de Pois chiches cuits",
+    "instructions": "Pelez les carottes et la butternut, puis coupez-les en gros morceaux.\nPassez l’oignon, le gingembre et l’ail dans un mixeur pour obtenir une pâte.\nFaites chauffer une casserole avec 3 càs d’huile végétale et déposez-y la badiane, les clous de girofle et les graines de moutarde. Ajoutez la pâte d’oignon, gingembre, ail et toutes les épices.\nFaites revenir le tout pendant 5 minutes à feu moyen.\nAjoutez la courge et la carotte, puis versez le lait de coco et l’eau. Mélangez bien et couvrez. Laissez mijoter jusqu’à ce que les légumes soient tendres, environ 35 minutes.\nRincez et égouttez les pois chiches, puis ajoutez-les au curry. Laissez mijoter encore une dizaine de minutes.\nServez avec du riz et de la coriandre fraîche.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DCE8W2otuA6",
+    "source_id": "instagram.com/reel/DCE8W2otuA6",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "500 g de butternut",
+      "2 carottes",
+      "1 oignon",
+      "10 g de gingembre frais",
+      "4 gousses d’ail",
+      "2 clous de girofle",
+      "½ cc de graines de moutarde",
+      "2 badianes",
+      "1 cc de cumin",
+      "½ cc de curcuma",
+      "1 cc de fenugrec moulu",
+      "3 cs d’huile végétale",
+      "400 ml de lait de coco",
+      "200 ml d’eau",
+      "250g de pois chiche en conserve ou déjà cuits"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "500 g de Butternut",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Butternut"
+      },
+      {
+        "raw": "2 Carotte",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "10 g de Gingembre frais",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 Clous de girofle",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Clou de girofle"
+      },
+      {
+        "raw": "0,5 cuillère à café de Graines de moutarde",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Graines de moutarde"
+      },
+      {
+        "raw": "2 Badiane",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Badiane"
+      },
+      {
+        "raw": "1 cuillère à café de Cumin",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "0,5 cuillère à café de Curcuma",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à café de Fenugrec",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Fenugrec"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile végétale",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile de tournesol"
+      },
+      {
+        "raw": "400 ml de Lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "200 ml de Eau",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "250 g de Pois chiche en conserve ou déjà cuits",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00048",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "500 g de butternut",
+        "quantity": "500 g",
+        "unit": "g",
+        "name": "Butternut"
+      },
+      {
+        "raw": "2 carottes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Carotte"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "10 g de gingembre frais",
+        "quantity": "10 g",
+        "unit": "g",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "4 gousses d’ail",
+        "quantity": "4 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "2 clous de girofle",
+        "quantity": "2",
+        "unit": "",
+        "name": "Clous de girofle"
+      },
+      {
+        "raw": "½ cc de graines de moutarde",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Graines de moutarde"
+      },
+      {
+        "raw": "2 badianes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Badianes"
+      },
+      {
+        "raw": "1 cc de cumin",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Cumin"
+      },
+      {
+        "raw": "½ cc de curcuma",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cc de fenugrec moulu",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Fenugrec"
+      },
+      {
+        "raw": "3 cs d’huile végétale",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "400 ml de lait de coco",
+        "quantity": "400 ml",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "200 ml d’eau",
+        "quantity": "200 ml",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "250g de pois chiche en conserve ou déjà cuits",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Pois chiche en conserve ou déjà cuits"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00048_curry-de-butternut-et-de-pois-chiches.jpg",
+    "images": [
+      "images/00048_curry-de-butternut-et-de-pois-chiches.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "500 g de Butternut",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Butternut"
+      },
+      {
+        "raw": "2 Carotte",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "10 g de Gingembre frais",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 Clous de girofle",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Clous de girofle"
+      },
+      {
+        "raw": "0,5 cuillère à café de Graines de moutarde",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Graines de moutarde"
+      },
+      {
+        "raw": "2 Badiane",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Badiane"
+      },
+      {
+        "raw": "1 cuillère à café de Cumin",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "0,5 cuillère à café de Curcuma",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à café de Fenugrec",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Fenugrec"
+      },
+      {
+        "raw": "3 cuillère à soupe de Huile végétale",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "400 ml de Lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "200 ml de Eau",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "250 g de Pois chiche en conserve ou déjà cuits",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Pois chiche en conserve ou déjà cuits"
+      }
+    ]
+  }
+}

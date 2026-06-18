@@ -1,0 +1,179 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tarte-tatin-de-poireaux",
+  "recipe_id": "00016",
+  "file": "recettes/00016_tarte-tatin-de-poireaux.json",
+  "updated_at": "2026-06-18T18:24:59.586475+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tarte-tatin-de-poireaux",
+    "title": "Tarte tatin de poireaux",
+    "original_title": "Tarte tatin de poireaux",
+    "source_file": "Tarte tatin de poireaux.melarecipe",
+    "categories": [
+      "Plats",
+      "Tarte / Quiche",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "2 unité de Poireau",
+      "1 unité de Pâte feuilletée",
+      "2 cuillère à soupe de Huile d’olive",
+      "1 cuillère à soupe de Vinaigre balsamique",
+      "1 cuillère à soupe de Sirop d’érable",
+      "1 cuillère à café de Herbes de Provence",
+      "50 g de Feta",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "2 unité de Poireau\n1 unité de Pâte feuilletée\n2 cuillère à soupe de Huile d’olive\n1 cuillère à soupe de Vinaigre balsamique\n1 cuillère à soupe de Sirop d’érable\n1 cuillère à café de Herbes de Provence\n50 g de Feta\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Dans un plat à tarte, versez l’huile d’olive, le vinaigre balsamique et le sirop d’érable. Étalez bien avec un pinceau ou le dos d’une cuillère.\nSaupoudrez d’herbes de Provence, puis découpez vos poireaux en tronçons et disposez-les joliment dans le moule.\nDéroulez la pâte feuilletée par-dessus et piquez-la légèrement à la fourchette.\nEnfournez 20 minutes à 200°C jusqu’à ce que la pâte soit bien dorée.\nSortez du four, posez une assiette sur le moule et retournez d’un coup sec.\nAjoutez des morceaux de feta émiettée sur le dessus et servez bien chaud !",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DFdSN-IsyM5",
+    "source_id": "instagram.com/reel/DFdSN-IsyM5",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 poireaux",
+      "1 pâte feuilletée",
+      "2 cs d’huile d’olive",
+      "1 cs de vinaigre balsamique",
+      "1 cs de sirop d’érable",
+      "1 cc d’herbes de Provence",
+      "50g de feta",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 unité de Poireau",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre balsamique",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sirop d’érable",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1 cuillère à café de Herbes de Provence",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Herbes de Provence"
+      },
+      {
+        "raw": "50 g de Feta",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00016",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 poireaux",
+        "quantity": "2",
+        "unit": "",
+        "name": "Poireaux"
+      },
+      {
+        "raw": "1 pâte feuilletée",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cs de vinaigre balsamique",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "1 cs de sirop d’érable",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1 cc d’herbes de Provence",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Herbes de Provence"
+      },
+      {
+        "raw": "50g de feta",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00016_tarte-tatin-de-poireaux.jpg",
+    "images": [
+      "images/00016_tarte-tatin-de-poireaux.jpg"
+    ]
+  }
+}

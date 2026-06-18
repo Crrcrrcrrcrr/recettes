@@ -1,0 +1,263 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "curry-de-poireaux",
+  "recipe_id": "00028",
+  "file": "recettes/00028_curry-de-poireaux.json",
+  "updated_at": "2026-06-18T18:24:59.591234+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "curry-de-poireaux",
+    "title": "Curry de poireaux",
+    "original_title": "Curry de poireaux ",
+    "source_file": "Curry de poireaux.melarecipe",
+    "categories": [
+      "Plats",
+      "Curry / Dahl",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "3 unité de Poireau",
+      "1 unité de Oignon",
+      "1 cuillère à café de Curcuma",
+      "2 cuillère à café de Curry",
+      "1 unité de Cacahuète",
+      "1 unité de Basilic",
+      "1 cuillère à café de Concentré de tomate",
+      "30 ml de Sauce tomate",
+      "100 ml de Lait de coco"
+    ],
+    "ingredients_raw": "3 unité de Poireau\n1 unité de Oignon\n1 cuillère à café de Curcuma\n2 cuillère à café de Curry\n1 unité de Cacahuète\n1 unité de Basilic\n1 cuillère à café de Concentré de tomate\n30 ml de Sauce tomate\n100 ml de Lait de coco",
+    "instructions": "Dans une poêle huile faites revenir l’oignon et les poireaux en ajoutant un filet d’eau pour finir la cuisson des poireaux\nAjoutez les épices ainsi que le concentré de tomate, la sauce tomate, le lait de coco\nServez le tout avec du riz (si vous voulez !! Même avec du quinoa c’est top) des cacahuètes, de la coriandre ou du basilic\nDégustez",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DFxwliuM5wM",
+    "source_id": "instagram.com/reel/DFxwliuM5wM",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "3 poireaux",
+      "1 oignons",
+      "1 cc de curcuma",
+      "2cc de curry",
+      "Cacahuète",
+      "Coriandre ou basilic",
+      "1 cc de concentrée de tomate",
+      "30ml de sauce tomate",
+      "100ml de lait de coco",
+      "1. Dans une poêle huile faites revenir l’oignon et les poireaux en ajoutant un filet d’eau pour finir la cuisson des poireaux",
+      "2. Ajoutez les épices ainsi que le concentré de tomate, la sauce tomate, le lait de coco",
+      "3. Servez le tout avec du riz (si vous voulez !! Même avec du quinoa c’est top) des cacahuètes, de la coriandre ou du basilic",
+      "4. Dégustez"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "3 unité de Poireau",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "2 cuillère à café de Curry",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "Cacahuète",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Basilic"
+      },
+      {
+        "raw": "1 cuillère à café de Concentrée de tomate",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "30 ml de Sauce tomate",
+        "quantity": "30",
+        "unit": "ml",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "100 ml de Lait de coco",
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Lait de coco"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00028",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "3 poireaux",
+        "quantity": "3",
+        "unit": "",
+        "name": "Poireaux"
+      },
+      {
+        "raw": "1 oignons",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 cc de curcuma",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "2cc de curry",
+        "quantity": "2",
+        "unit": "",
+        "name": "Cc de curry"
+      },
+      {
+        "raw": "Cacahuète",
+        "quantity": "",
+        "unit": "",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Coriandre ou basilic",
+        "quantity": "",
+        "unit": "",
+        "name": "Coriandre ou basilic"
+      },
+      {
+        "raw": "1 cc de concentrée de tomate",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Concentrée de tomate"
+      },
+      {
+        "raw": "30ml de sauce tomate",
+        "quantity": "30 ml",
+        "unit": "ml",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "100ml de lait de coco",
+        "quantity": "100 ml",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1. Dans une poêle huile faites revenir l’oignon et les poireaux en ajoutant un filet d’eau pour finir la cuisson des poireaux",
+        "quantity": "1",
+        "unit": "",
+        "name": ". Dans une poêle huile faites revenir l’oignon et les poireaux en ajoutant un filet d’eau pour finir la cuisson des poireaux"
+      },
+      {
+        "raw": "2. Ajoutez les épices ainsi que le concentré de tomate, la sauce tomate, le lait de coco",
+        "quantity": "2",
+        "unit": "",
+        "name": ". Ajoutez les épices ainsi que le concentré de tomate, la sauce tomate, le lait de coco"
+      },
+      {
+        "raw": "3. Servez le tout avec du riz (si vous voulez !! Même avec du quinoa c’est top) des cacahuètes, de la coriandre ou du basilic",
+        "quantity": "3",
+        "unit": "",
+        "name": ". Servez le tout avec du riz (si vous voulez !! Même avec du quinoa c’est top) des cacahuètes, de la coriandre ou du basilic"
+      },
+      {
+        "raw": "4. Dégustez",
+        "quantity": "4",
+        "unit": "",
+        "name": ". Dégustez"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00028_curry-de-poireaux.jpg",
+    "images": [
+      "images/00028_curry-de-poireaux.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "3 unité de Poireau",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "2 cuillère à café de Curry",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "Cacahuète",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Basilic",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Basilic"
+      },
+      {
+        "raw": "1 cuillère à café de Concentrée de tomate",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Concentrée de tomate"
+      },
+      {
+        "raw": "30 ml de Sauce tomate",
+        "quantity": "30",
+        "unit": "ml",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "100 ml de Lait de coco",
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Lait de coco"
+      }
+    ]
+  }
+}

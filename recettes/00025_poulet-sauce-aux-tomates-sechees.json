@@ -1,0 +1,48 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "poulet-sauce-aux-tomates-sechees",
+  "recipe_id": "00025",
+  "file": "recettes/00025_poulet-sauce-aux-tomates-sechees.json",
+  "updated_at": "2026-06-18T18:24:59.589988+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": false,
+    "units_validated": false,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "poulet-sauce-aux-tomates-sechees",
+    "title": "Poulet sauce aux tomates séchées",
+    "original_title": "Poulet sauce aux tomates séchées",
+    "source_file": "Poulet sauce aux tomates séchées.melarecipe",
+    "categories": [
+      "Plats",
+      "Viande",
+      "Sauces / Assaisonnements",
+      "Sauce",
+      "Sans ingrédients"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Retire la peau et les os de 4 hauts de cuisses de poulet.\nBalance ça dans un saladier avec une myriade d’épices. Ici j’ai mis sel, poivre et 1 cs de paprika, 1 cs de cumin, 1 cc de piment séché, 1 cc de thym et 1 cc d’origan.\nAjoute le jus d’un citron et masse le poulet.\nLaisse le de côté le temps de découper en lamelles 1 gros oignon (ou 2 petits), 3 gousses d’ail et 5 ou 6 tomates séchées.\nDans une sauteuse, fais dorer sur feu fort le poulet de chaque côté dans un bon filet d’huile + un peu d’huile des tomates séchées. Il ne doit pas être cuit dedans, on veut juste bien le saisir.\nRéserve le et ajoute les oignons, l’ail et les tomates séchées.\nLaisse dorer 3 minutes et remet le poulet dans la sauteuse avec 40cl de bouillon (volaille, poule…)\nLaisse cuire à couvert sur feu moyen doux 25 minutes environ.\nContinue la cuisson sans le couvercle en remontant le feu et laisse la sauce bien réduire. Elle va épaissir et devenir toute brillante.\nAjoute un petit peu de crème liquide entière (genre même pas 10cl), laisse encore un peu sur le feu et c’est prêt.\nSers ça avec du riz (ou des pommes de terre)",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DF49o25gkzK",
+    "source_id": "instagram.com/reel/DF49o25gkzK",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_with_user",
+    "recipe_id": "00025",
+    "image": "images/00025_poulet-sauce-aux-tomates-sechees.jpg",
+    "images": [
+      "images/00025_poulet-sauce-aux-tomates-sechees.jpg"
+    ]
+  }
+}
