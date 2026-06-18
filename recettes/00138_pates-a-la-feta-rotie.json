@@ -1,0 +1,151 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-a-la-feta-rotie",
+  "recipe_id": "00138",
+  "file": "recettes/00138_pates-a-la-feta-rotie.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-a-la-feta-rotie",
+    "title": "Pâtes à la feta rôtie",
+    "original_title": "Pâtes à la feta rôtie ",
+    "source_file": "Pâtes à la feta rôtie.melarecipe",
+    "categories": [
+      "Pâtes",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "2 pintes de Tomate cerise",
+      "2 cuillère à café de Ail",
+      "1 cuillère à café de Basilic séché",
+      "1 pincée de Sel",
+      "1 bloc de Feta",
+      "2 cuillère à soupe de Huile d’olive",
+      "1 unité de Pâtes"
+    ],
+    "ingredients_raw": "2 pintes de Tomate cerise\n2 cuillère à café de Ail\n1 cuillère à café de Basilic séché\n1 pincée de Sel\n1 bloc de Feta\n2 cuillère à soupe de Huile d’olive\n1 unité de Pâtes",
+    "instructions": "Préchauffez le four à 200°C. Dans un grand plat allant au four, ajoutez les tomates, l’ail, le basilic et l’huile d’olive. Mélangez pour bien enrober, puis placez la feta au centre.\nEnfournez pendant 30 à 35 minutes. Pendant ce temps, faites cuire vos pâtes selon les instructions du paquet.\nUne fois la feta cuite, sortez le plat du four et écrasez le fromage et les tomates à la fourchette jusqu’à obtenir un mélange homogène.\nAjoutez la feta rôtie aux pâtes et mélangez pour bien enrober.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CwDVqf_t1Sr",
+    "source_id": "instagram.com/reel/CwDVqf_t1Sr",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 pintes de tomates cerises",
+      "2 cc d’ail émincé",
+      "1 cc de basilic séché",
+      "1 pincée de sel",
+      "1 bloc de feta",
+      "2 cs d’huile d’olive",
+      "Pâtes au choix"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 pintes de Tomate cerise",
+        "quantity": "2",
+        "unit": "pintes",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "2 cuillère à café de Ail",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Basilic séché",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Basilic séché"
+      },
+      {
+        "raw": "1 pincée de Sel",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 bloc de Feta",
+        "quantity": "1",
+        "unit": "bloc",
+        "name": "Feta"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Pâtes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâtes"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00138",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 pintes de tomates cerises",
+        "quantity": "2 pintes",
+        "unit": "pintes",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "2 cc d’ail émincé",
+        "quantity": "2 cc",
+        "unit": "cc",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cc de basilic séché",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Basilic séché"
+      },
+      {
+        "raw": "1 pincée de sel",
+        "quantity": "1 pincée",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 bloc de feta",
+        "quantity": "1 bloc",
+        "unit": "bloc",
+        "name": "Feta"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Pâtes au choix",
+        "quantity": "",
+        "unit": "",
+        "name": "Pâtes"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00138_pates-a-la-feta-rotie.jpg",
+    "images": [
+      "images/00138_pates-a-la-feta-rotie.jpg"
+    ]
+  }
+}

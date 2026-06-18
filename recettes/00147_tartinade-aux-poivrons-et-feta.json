@@ -1,0 +1,108 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tartinade-aux-poivrons-et-feta",
+  "recipe_id": "00147",
+  "file": "recettes/00147_tartinade-aux-poivrons-et-feta.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tartinade-aux-poivrons-et-feta",
+    "title": "Tartinade aux poivrons et feta",
+    "original_title": "Tartinade aux poivrons et feta",
+    "source_file": "Tartinade aux poivrons et feta.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Dip/Tartinade"
+    ],
+    "ingredients": [
+      "1 bocal de Poivrons marinés",
+      "100 g de Feta",
+      "2 cuillère à soupe de Yaourt grec",
+      "1 gousse de Ail"
+    ],
+    "ingredients_raw": "1 bocal de Poivrons marinés\n100 g de Feta\n2 cuillère à soupe de Yaourt grec\n1 gousse de Ail",
+    "instructions": "Dans un blender mettez les poivrons, la fêta, le yaourt grec, 1 gousse d’ail\nMettez le tout dans un bol. Ajoutez en topping de la fêta et du basilic\nDégustez",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Cvm-4IOu_0e",
+    "source_id": "instagram.com/reel/Cvm-4IOu_0e",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 bocal de poivrons marinés",
+      "100g de fêta",
+      "2 cs de yaourt grec",
+      "1 gousse d’ail"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 bocal de Poivrons marinés",
+        "quantity": "1",
+        "unit": "bocal",
+        "name": "Poivrons marinés"
+      },
+      {
+        "raw": "100 g de Feta",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "2 cuillère à soupe de Yaourt grec",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00147",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 bocal de poivrons marinés",
+        "quantity": "1",
+        "unit": "",
+        "name": "Bocal de poivrons marinés"
+      },
+      {
+        "raw": "100g de fêta",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "2 cs de yaourt grec",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00147_tartinade-aux-poivrons-et-feta.jpg",
+    "images": [
+      "images/00147_tartinade-aux-poivrons-et-feta.jpg"
+    ]
+  }
+}

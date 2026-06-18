@@ -1,0 +1,135 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "grilled-cheese-au-zaatar",
+  "recipe_id": "00108",
+  "file": "recettes/00108_grilled-cheese-au-zaatar.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "grilled-cheese-au-zaatar",
+    "title": "Grilled cheese au Za’atar",
+    "original_title": "Grilled cheese au Za’atar",
+    "source_file": "Grilled cheese au Za’atar.melarecipe",
+    "categories": [
+      "Plats",
+      "Sandwich",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Fromage",
+      "1 unité de Mayonnaise",
+      "1 unité de Za'atar",
+      "1 unité de Pain de mie"
+    ],
+    "ingredients_raw": "1 unité de Fromage\n1 unité de Mayonnaise\n1 unité de Za'atar\n1 unité de Pain de mie",
+    "instructions": "La mayo résiste mieux à la cuisson que le beurre qui peut plus rapidement brûler, donc l’idée ici c’est d’étaler sur les deux faces extérieures, une fine couche de mayo Za’atarée.\nCuisson à feu moyen en pressant bien au début le grilled cheese afin que la face en contact avec la poêle cuise le plus uniformément possible aka avoir un joli pain toasté in fine.\nRetourner le grilled cheese et presser à nouveau quelques secondes puis couvrir pour que le fromage fonde bien. \nQuand la deuxième face commence à bien colorer, verser quelques goutes d’eau dans la poêle et aussitôt couvrir pendant 30 secondes, ça va permettre de faire fondre les derniers morceaux de fromages réfractaires.\nChaque plaque est différente, si vous voyez que ça cuit trop vite/fort, ne pas hésiter à baisser le feu, personne ne veut manger un grilled cheese cramé.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C4kwCTXoTG9",
+    "source_id": "instagram.com/reel/C4kwCTXoTG9",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Fromage au choix (ici comté, parmesan, et de la mozzarella de cuisine (moins gorgée d’eau qu’une mozza classique))",
+      "Mayonnaise",
+      "Za'atar",
+      "Pain de mie"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Fromage au choix",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fromage"
+      },
+      {
+        "raw": "Mayonnaise",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "Za'atar",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Za'atar"
+      },
+      {
+        "raw": "Pain de mie",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pain de mie"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00108",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Fromage au choix (ici comté, parmesan, et de la mozzarella de cuisine (moins gorgée d’eau qu’une mozza classique))",
+        "quantity": "",
+        "unit": "",
+        "name": "Fromage au choix"
+      },
+      {
+        "raw": "Mayonnaise",
+        "quantity": "",
+        "unit": "",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "Za'atar",
+        "quantity": "",
+        "unit": "",
+        "name": "Za'atar"
+      },
+      {
+        "raw": "Pain de mie",
+        "quantity": "",
+        "unit": "",
+        "name": "Pain de mie"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00108_grilled-cheese-au-zaatar.jpg",
+    "images": [
+      "images/00108_grilled-cheese-au-zaatar.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Fromage au choix",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fromage au choix"
+      },
+      {
+        "raw": "Mayonnaise",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "Za'atar",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Za'atar"
+      },
+      {
+        "raw": "Pain de mie",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pain de mie"
+      }
+    ]
+  }
+}

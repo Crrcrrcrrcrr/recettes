@@ -1,0 +1,409 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "beignets-de-papier-de-riz-aux-poireaux",
+  "recipe_id": "00112",
+  "file": "recettes/00112_beignets-de-papier-de-riz-aux-poireaux.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "beignets-de-papier-de-riz-aux-poireaux",
+    "title": "Beignets de papier de riz aux poireaux",
+    "original_title": "Beignets de papier de riz aux poireaux",
+    "source_file": "Beignets de papier de riz aux poireaux.melarecipe",
+    "categories": [
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "200 g de Tofu",
+      "10 g de Gingembre frais",
+      "3 gousse de Ail",
+      "2 unité de Poireau",
+      "1 unité de Carotte",
+      "70 g de Vermicelles de riz",
+      "3 cuillère à soupe de Sauce soja",
+      "0,5 cuillère à soupe de Huile de sésame",
+      "16 feuille de Papier de riz",
+      "1 unité de Huile de tournesol",
+      "2 cuillère à soupe de Sauce soja",
+      "1 cuillère à soupe de Eau",
+      "0,5 cuillère à soupe de Vinaigre de riz",
+      "0,5 cuillère à soupe de Huile de sésame",
+      "0,5 gousse de Ail",
+      "1 unité de Graine de sésame",
+      "1 unité de Flocons de piment"
+    ],
+    "ingredients_raw": "200 g de Tofu\n10 g de Gingembre frais\n3 gousse de Ail\n2 unité de Poireau\n1 unité de Carotte\n70 g de Vermicelles de riz\n3 cuillère à soupe de Sauce soja\n0,5 cuillère à soupe de Huile de sésame\n16 feuille de Papier de riz\n1 unité de Huile de tournesol\n2 cuillère à soupe de Sauce soja\n1 cuillère à soupe de Eau\n0,5 cuillère à soupe de Vinaigre de riz\n0,5 cuillère à soupe de Huile de sésame\n0,5 gousse de Ail\n1 unité de Graine de sésame\n1 unité de Flocons de piment",
+    "instructions": "Préparation de la garniture\nSortez le tofu de son emballage et enveloppez le dans un torchon propre. Pressez-le en déposant quelque chose de lourd par-dessus. Le but est d’en extraire un maximum d’eau.\nHachez finement le gingembre et l’ail (en les passant au mixeur par exemple).\nÉmincez les poireaux et râpez la carotte.\nFaites cuire les vermicelles de riz en suivant les instructions du paquet.\nÉmiettez le tofu du bout des doigts.\nFaites revenir l’ail, le gingembre et le tofu dans une poêle chaude avec un fond d’huile de tournesol pendant 6-7min.\nAjoutez les poireaux et la carotte et faites revenir encore 7-8min.\nHors du feu, ajoutez les vermicelles égouttées, la sauce soja et l’huile de sésame. Mélangez et réservez.\nPréparation des beignets\nDéposez un plat rempli d’eau et un torchon propre humide sur le plan de travail.\nTrempez un 1e feuille de riz dans l’eau jusqu’à ce qu’elle soit suffisamment ramollie pour se plier.\nDéposez la sur le torchon humide et déposez 2 càs de garniture au centre. Repliez les bords pour obtenir un beignets “carré”.\nEnveloppez dans une 2e feuille de riz et réservez sur le côté du torchon humide (attention, ça va coller si vous les réservez sur une surface sèche.\nRecommencez avec le reste des feuilles de riz.\nPréparation de la sauce\nMélangez tous les ingrédients de la sauce.\nCuisson des beignets\nFaites chauffer une poêle anti-adhésive avec un généreux fond d’huile de tournesol. Faites cuire les beignets à feu moyen pendant 8-10min de chaque côté.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C2P744_M0zN",
+    "source_id": "instagram.com/reel/C2P744_M0zN",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "#Pour la garniture :",
+      "200g de tofu",
+      "10g de gingembre",
+      "3 gousses d’ail",
+      "2 poireaux",
+      "1 carotte",
+      "70g de vermicelles de riz",
+      "3 cs de sauce soja",
+      "½ cs d’huile de sésame",
+      "#Pour les beignets :",
+      "16 feuilles de papier de riz",
+      "Huile de tournesol",
+      "#Pour la sauce :",
+      "2 cs de sauce soja tamari",
+      "1 cs d’eau",
+      "½ cs de vinaigre de riz",
+      "½ cs d’huile de sésame",
+      "½ gousse d’ail pressée",
+      "graines de sésames",
+      "flocons de piment au goût"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de Tofu",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Tofu"
+      },
+      {
+        "raw": "10 g de Gingembre",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 unité de Poireau",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "Carotte",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "70 g de Vermicelles de riz",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Vermicelles de riz"
+      },
+      {
+        "raw": "3 cuillère à soupe de Sauce soja",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Huile de sésame",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "16 feuille de Papier de riz",
+        "quantity": "16",
+        "unit": "feuille",
+        "name": "Papier de riz"
+      },
+      {
+        "raw": "Huile de tournesol",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile de tournesol"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja tamari",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Eau",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Vinaigre de riz",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Huile de sésame",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "0,5 gousse de Ail",
+        "quantity": "0,5",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 unité de Graine de sésame",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "Flocons de piment au goût",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Flocons de piment"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00112",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "#Pour la garniture :",
+        "type": "section"
+      },
+      {
+        "raw": "200g de tofu",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Tofu"
+      },
+      {
+        "raw": "10g de gingembre",
+        "quantity": "10 g",
+        "unit": "g",
+        "name": "Gingembre"
+      },
+      {
+        "raw": "3 gousses d’ail",
+        "quantity": "3 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "2 poireaux",
+        "quantity": "2",
+        "unit": "",
+        "name": "Poireaux"
+      },
+      {
+        "raw": "1 carotte",
+        "quantity": "1",
+        "unit": "",
+        "name": "Carotte"
+      },
+      {
+        "raw": "70g de vermicelles de riz",
+        "quantity": "70 g",
+        "unit": "g",
+        "name": "Vermicelles de riz"
+      },
+      {
+        "raw": "3 cs de sauce soja",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "½ cs d’huile de sésame",
+        "quantity": "½ cs",
+        "unit": "cs",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "#Pour les beignets :",
+        "type": "section"
+      },
+      {
+        "raw": "16 feuilles de papier de riz",
+        "quantity": "16 feuilles",
+        "unit": "feuille",
+        "name": "Papier de riz"
+      },
+      {
+        "raw": "Huile de tournesol",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile de tournesol"
+      },
+      {
+        "raw": "#Pour la sauce :",
+        "type": "section"
+      },
+      {
+        "raw": "2 cs de sauce soja tamari",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Sauce soja tamari"
+      },
+      {
+        "raw": "1 cs d’eau",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Eau"
+      },
+      {
+        "raw": "½ cs de vinaigre de riz",
+        "quantity": "½ cs",
+        "unit": "cs",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "½ cs d’huile de sésame",
+        "quantity": "½ cs",
+        "unit": "cs",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "½ gousse d’ail pressée",
+        "quantity": "½ gousse",
+        "unit": "gousse",
+        "name": "Ail pressée"
+      },
+      {
+        "raw": "graines de sésames",
+        "quantity": "",
+        "unit": "",
+        "name": "Graines de sésame"
+      },
+      {
+        "raw": "flocons de piment au goût",
+        "quantity": "",
+        "unit": "",
+        "name": "Flocons de piment au goût"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00112_beignets-de-papier-de-riz-aux-poireaux.jpg",
+    "images": [
+      "images/00112_beignets-de-papier-de-riz-aux-poireaux.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "200 g de Tofu",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Tofu"
+      },
+      {
+        "raw": "10 g de Gingembre",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Gingembre"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 unité de Poireau",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "Carotte",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "70 g de Vermicelles de riz",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Vermicelles de riz"
+      },
+      {
+        "raw": "3 cuillère à soupe de Sauce soja",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Huile de sésame",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "16 feuille de Papier de riz",
+        "quantity": "16",
+        "unit": "feuille",
+        "name": "Papier de riz"
+      },
+      {
+        "raw": "Huile de tournesol",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile de tournesol"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja tamari",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja tamari"
+      },
+      {
+        "raw": "1 cuillère à soupe de Eau",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Vinaigre de riz",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Huile de sésame",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "0,5 gousse de Ail",
+        "quantity": "0,5",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 unité de Graine de sésame",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "Flocons de piment au goût",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Flocons de piment au goût"
+      }
+    ]
+  }
+}

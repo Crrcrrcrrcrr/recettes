@@ -1,0 +1,174 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "gateau-souffle-au-yaourt",
+  "recipe_id": "00181",
+  "file": "recettes/00181_gateau-souffle-au-yaourt.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "gateau-souffle-au-yaourt",
+    "title": "Gâteau soufflé au yaourt",
+    "original_title": "Gâteau soufflé au yaourt",
+    "source_file": "Gâteau soufflé au yaourt.melarecipe",
+    "categories": [
+      "Gâteau",
+      "Sucré"
+    ],
+    "ingredients": [
+      "3 unité de Œuf",
+      "260 g de Yaourt nature",
+      "60 g de Sucre",
+      "45 g de Maïzena",
+      "1 cuillère à café de Levure chimique",
+      "1 unité de Extrait de vanille"
+    ],
+    "ingredients_raw": "3 unité de Œuf\n260 g de Yaourt nature\n60 g de Sucre\n45 g de Maïzena\n1 cuillère à café de Levure chimique\n1 unité de Extrait de vanille",
+    "instructions": "Séparez les jaunes des blancs d’œufs\nMélangez les jaunes d’œufs avec un tiers du sucre, le yaourt, la maïzena, la levure et la vanille.\nMontez les blancs en neige avec 1 pincée de sel et le reste de sucre (ajoutez le sucre petit à petit pour créer une meringue)\nAjoutez très délicatement à la pâte\nVersez dans un  petit moule haut et chemisé (idéalement d’un diamètre de 15cm)\nTapez le plat pour éviter les bulles d’air\nEnfournez 50 min à 170 degrés en versant de l’eau bouillante sur la plaque de cuisson pour créer un bain Marie.\nLaissez refroidir dans le four éteint avant de le démouler et de le mettre au frigo.\nPas de panique ! Le gâteau va retomber en refroidissant (c’est l’effet du soufflé) donc pour conserver une certaine épaisseur et un gâteau bien moelleux ne prenez pas un moule trop grand un moule entre 15 et 18 cm de diamètre sera parfait!\nConserver au frigo sous un film alimentaire",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C4djFqxCcP8",
+    "source_id": "instagram.com/reel/C4djFqxCcP8",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "3 œufs",
+      "260g de yaourt nature (ou skyr, yaourt grec…)",
+      "60g de sucre",
+      "45g de maïzena",
+      "1 cc  de levure",
+      "Extrait de vanille"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "3 Œuf",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "260 g de Yaourt nature (ou skyr, yaourt grec…)",
+        "quantity": "260",
+        "unit": "g",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "60 g de Sucre",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "45 g de Maïzena",
+        "quantity": "45",
+        "unit": "g",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "1 cuillère à café de Levure",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "Extrait de vanille",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Extrait de vanille"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00181",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "3 œufs",
+        "quantity": "3",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "260g de yaourt nature (ou skyr, yaourt grec…)",
+        "quantity": "260 g",
+        "unit": "g",
+        "name": "Yaourt nature (ou skyr, yaourt grec…)"
+      },
+      {
+        "raw": "60g de sucre",
+        "quantity": "60 g",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "45g de maïzena",
+        "quantity": "45 g",
+        "unit": "g",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "1 cc  de levure",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Levure"
+      },
+      {
+        "raw": "Extrait de vanille",
+        "quantity": "",
+        "unit": "",
+        "name": "Extrait de vanille"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00181_gateau-souffle-au-yaourt.jpg",
+    "images": [
+      "images/00181_gateau-souffle-au-yaourt.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "3 Œuf",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "260 g de Yaourt nature (ou skyr, yaourt grec…)",
+        "quantity": "260",
+        "unit": "g",
+        "name": "Yaourt nature (ou skyr, yaourt grec…)"
+      },
+      {
+        "raw": "60 g de Sucre",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "45 g de Maïzena",
+        "quantity": "45",
+        "unit": "g",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "1 cuillère à café de Levure",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Levure"
+      },
+      {
+        "raw": "Extrait de vanille",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Extrait de vanille"
+      }
+    ]
+  }
+}

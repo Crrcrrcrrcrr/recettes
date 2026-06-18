@@ -1,0 +1,415 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "orzotto-poulet-tomate",
+  "recipe_id": "00127",
+  "file": "recettes/00127_orzotto-poulet-tomate.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "orzotto-poulet-tomate",
+    "title": "Orzotto poulet tomate",
+    "original_title": "Orzotto poulet tomate",
+    "source_file": "Orzotto poulet tomate.melarecipe",
+    "categories": [
+      "Plats",
+      "Risotto/Orzotto",
+      "Sans instructions"
+    ],
+    "ingredients": [
+      "2 filet de Blanc de poulet",
+      "1 cuillère à café de Ail",
+      "1 cuillère à café de Origan",
+      "1 cuillère à café de Paprika",
+      "0,5 cuillère à café de Fleur de sel",
+      "0,25 cuillère à café de Poivre",
+      "2 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Beurre",
+      "0,5 tasse de Tomate séchée",
+      "1 tasse de Orzo",
+      "2 tasse de Bouillon de poulet",
+      "1 tasse de Crème fraîche épaisse",
+      "1 cuillère à café de Moutarde",
+      "2 cuillère à soupe de Jus de citron",
+      "2 tasse de Épinard",
+      "0,5 tasse de Parmesan",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "2 filet de Blanc de poulet\n1 cuillère à café de Ail\n1 cuillère à café de Origan\n1 cuillère à café de Paprika\n0,5 cuillère à café de Fleur de sel\n0,25 cuillère à café de Poivre\n2 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Beurre\n0,5 tasse de Tomate séchée\n1 tasse de Orzo\n2 tasse de Bouillon de poulet\n1 tasse de Crème fraîche épaisse\n1 cuillère à café de Moutarde\n2 cuillère à soupe de Jus de citron\n2 tasse de Épinard\n0,5 tasse de Parmesan\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C0ixicMSf89",
+    "source_id": "instagram.com/reel/C0ixicMSf89",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 filets de poulet, coupés en deux dans la longueur (pour obtenir 4 escalopes)",
+      "1 cc d’ail frais, haché",
+      "1 cc de mélange d’herbes italiennes (ou origan séché)",
+      "1 cc de paprika doux",
+      "½ cc de sel en flocons",
+      "¼ cc de poivre noir concassé",
+      "2 cs d’huile d’olive",
+      "2 cs de beurre non salé",
+      "½ tasse de tomates séchées",
+      "1 tasse de risoni/orzo (non cuit)",
+      "2 tasses de bouillon de poulet",
+      "1 tasse de crème épaisse (ou crème liquide entière)",
+      "1 cc de moutarde de Dijon",
+      "2 cs de jus de citron",
+      "2 tasses de pousses d’épinards",
+      "½ tasse de parmesan râpé",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 filet de Poulet, coupés en deux dans la longueur (pour obtenir 4 escalopes)",
+        "quantity": "2",
+        "unit": "filet",
+        "name": "Blanc de poulet"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika doux",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "0,5 cuillère à café de Sel en flocons",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Fleur de sel"
+      },
+      {
+        "raw": "0,25 cuillère à café de Poivre noir concassé",
+        "quantity": "0,25",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre"
+      },
+      {
+        "raw": "0,5 tasse de Tomate séchée",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "1 tasse de Risoni/orzo",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Orzo"
+      },
+      {
+        "raw": "2 tasse de Bouillon de poulet",
+        "quantity": "2",
+        "unit": "tasse",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "1 tasse de Crème fraîche épaisse",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Crème fraîche épaisse"
+      },
+      {
+        "raw": "1 cuillère à café de Moutarde de Dijon",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Moutarde"
+      },
+      {
+        "raw": "2 cuillère à soupe de Jus de citron",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 tasse de Épinard",
+        "quantity": "2",
+        "unit": "tasse",
+        "name": "Épinard"
+      },
+      {
+        "raw": "0,5 tasse de Parmesan",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00127",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 filets de poulet, coupés en deux dans la longueur (pour obtenir 4 escalopes)",
+        "quantity": "2 filets",
+        "unit": "filets",
+        "name": "Poulet, coupés en deux dans la longueur (pour obtenir 4 escalopes)"
+      },
+      {
+        "raw": "1 cc d’ail frais, haché",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cc de mélange d’herbes italiennes (ou origan séché)",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Mélange d’herbes italiennes (ou origan séché)"
+      },
+      {
+        "raw": "1 cc de paprika doux",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Paprika doux"
+      },
+      {
+        "raw": "½ cc de sel en flocons",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Sel en flocons"
+      },
+      {
+        "raw": "¼ cc de poivre noir concassé",
+        "quantity": "¼ cc",
+        "unit": "cc",
+        "name": "Poivre noir concassé"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cs de beurre non salé",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Beurre non salé"
+      },
+      {
+        "raw": "½ tasse de tomates séchées",
+        "quantity": "½ tasse",
+        "unit": "tasse",
+        "name": "Tomates séchées"
+      },
+      {
+        "raw": "1 tasse de risoni/orzo (non cuit)",
+        "quantity": "1 tasse",
+        "unit": "tasse",
+        "name": "Risoni/orzo (non cuit)"
+      },
+      {
+        "raw": "2 tasses de bouillon de poulet",
+        "quantity": "2 tasses",
+        "unit": "tasses",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "1 tasse de crème épaisse (ou crème liquide entière)",
+        "quantity": "1 tasse",
+        "unit": "tasse",
+        "name": "Crème fraîche épaisse"
+      },
+      {
+        "raw": "1 cc de moutarde de Dijon",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Moutarde de Dijon"
+      },
+      {
+        "raw": "2 cs de jus de citron",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 tasses de pousses d’épinards",
+        "quantity": "2 tasses",
+        "unit": "tasses",
+        "name": "Pousses d'épinard"
+      },
+      {
+        "raw": "½ tasse de parmesan râpé",
+        "quantity": "½ tasse",
+        "unit": "tasse",
+        "name": "Parmesan râpé"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00127_orzotto-poulet-tomate.jpg",
+    "images": [
+      "images/00127_orzotto-poulet-tomate.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "2 filet de Poulet, coupés en deux dans la longueur (pour obtenir 4 escalopes)",
+        "quantity": "2",
+        "unit": "filet",
+        "name": "Poulet, coupés en deux dans la longueur (pour obtenir 4 escalopes)"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika doux",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika doux"
+      },
+      {
+        "raw": "0,5 cuillère à café de Sel en flocons",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Sel en flocons"
+      },
+      {
+        "raw": "0,25 cuillère à café de Poivre noir concassé",
+        "quantity": "0,25",
+        "unit": "cuillère à café",
+        "name": "Poivre noir concassé"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre"
+      },
+      {
+        "raw": "0,5 tasse de Tomate séchée",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "1 tasse de Risoni/orzo",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Risoni/orzo"
+      },
+      {
+        "raw": "2 tasse de Bouillon de poulet",
+        "quantity": "2",
+        "unit": "tasse",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "1 tasse de Crème fraîche épaisse",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Crème fraîche épaisse"
+      },
+      {
+        "raw": "1 cuillère à café de Moutarde de Dijon",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Moutarde de Dijon"
+      },
+      {
+        "raw": "2 cuillère à soupe de Jus de citron",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "2 tasse de Épinard",
+        "quantity": "2",
+        "unit": "tasse",
+        "name": "Épinard"
+      },
+      {
+        "raw": "0,5 tasse de Parmesan",
+        "quantity": "0,5",
+        "unit": "tasse",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

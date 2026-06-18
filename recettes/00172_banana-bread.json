@@ -1,0 +1,293 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "banana-bread",
+  "recipe_id": "00172",
+  "file": "recettes/00172_banana-bread.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "banana-bread",
+    "title": "Banana bread",
+    "original_title": "Banana bread",
+    "source_file": "Banana bread 2.melarecipe",
+    "categories": [
+      "Sucré"
+    ],
+    "ingredients": [
+      "3 unité de Banane",
+      "1 unité de Banane",
+      "2 unité de Œuf",
+      "1 unité de Petit suisse",
+      "1 pot de Compote de pommes sans sucre ajouté",
+      "3 cuillère à soupe de Lait végétal",
+      "3 pot de Farine",
+      "1 peu de Arôme de vanille",
+      "200 g de Pépites de chocolat",
+      "1 poignée de Noix de pécan",
+      "0,5 sachet de Levure chimique",
+      "3 cuillère à soupe de Beurre de cacahuète"
+    ],
+    "ingredients_raw": "3 unité de Banane\n1 unité de Banane\n2 unité de Œuf\n1 unité de Petit suisse\n1 pot de Compote de pommes sans sucre ajouté\n3 cuillère à soupe de Lait végétal\n3 pot de Farine\n1 peu de Arôme de vanille\n200 g de Pépites de chocolat\n1 poignée de Noix de pécan\n0,5 sachet de Levure chimique\n3 cuillère à soupe de Beurre de cacahuète",
+    "instructions": "Préchauffez le four à 210° chaleur tournante.\nDans un saladier, écrasez les 3 bananes mûres. Ajoutez les oeufs, le petit suisse, la compote et le lait. Gardez bien le pot en plastique de la compote.\nAjoutez 3 pots de compote de farine. Mélangez bien.\nAjoutez la vanille, les pépites de chocolat et les noix de pécan.\nPuis la levure chimique. Je la mets en dernier pour préserver l’action qu’elle va avoir sur la préparation.\nDans un moule à cake chemisé avec du papier sulfu, versez la moitié de la pâte. Puis ajoutez le peanut butter. Et recouvrez avec le reste de pâte.\nAjoutez les toppings : noix de pécan concassées, la banane restante coupée en 2 dans la longueur, un peu de sucre de coco pour la caramélisation et des pépites de chocolat.\nEnfournez pendant 10 minutes à 210°. ⚠️ Puis baissez le four à 150° et prolongez la cuisson pdt 30 minutes. Je l’aime un peu coulant au centre, mais n’hésitez pas à prolonger la cuisson. À déguster tiède et à conserver ensuite au frigo !",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DFAGDpAgGgC",
+    "source_id": "instagram.com/reel/DFAGDpAgGgC",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "3 bananes bien mûres",
+      "1 banane pour le dessus",
+      "2 oeufs",
+      "1 petit suisse ou 2 cs de fromage blanc ou skyr",
+      "1 pot de compote pomme-banane (ou juste pomme)",
+      "3 cs de lait (ici végétal)",
+      "3 pots de compote de farine (env. 180 g)",
+      "un peu d’arôme vanille",
+      "200 g de pépites de chocolat (ou chocolat coupé en morceaux) + pour le dessus",
+      "1 grosse poignée de noix de pécan + pour le dessus",
+      "1/2 sachet de levure",
+      "3 cs de peanut butterun peu de sucre de coco"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "3 Banane",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "raw": "Banane",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "raw": "2 Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "Petit suisse ou 2 cs de fromage blanc ou skyr",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Petit suisse"
+      },
+      {
+        "raw": "1 pot de Compote pomme-banane (ou juste pomme)",
+        "quantity": "1",
+        "unit": "pot",
+        "name": "Compote de pommes sans sucre ajouté"
+      },
+      {
+        "raw": "3 cuillère à soupe de Lait (ici végétal)",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Lait végétal"
+      },
+      {
+        "raw": "3 pot de Compote de farine (env. 180 g)",
+        "quantity": "3",
+        "unit": "pot",
+        "name": "Farine"
+      },
+      {
+        "raw": "1 peu de Arôme de vanille",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Arôme de vanille"
+      },
+      {
+        "raw": "200 g de Pépites de chocolat (ou chocolat coupé en morceaux) + pour le dessus",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pépites de chocolat"
+      },
+      {
+        "raw": "1 poignée de Noix de pécan",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Noix de pécan"
+      },
+      {
+        "raw": "0,5 sachet de Levure",
+        "quantity": "0,5",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "3 cuillère à soupe de Peanut butter",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00172",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "3 bananes bien mûres",
+        "quantity": "3",
+        "unit": "",
+        "name": "Banane bien mûre"
+      },
+      {
+        "raw": "1 banane pour le dessus",
+        "quantity": "1",
+        "unit": "",
+        "name": "Banane pour le dessus"
+      },
+      {
+        "raw": "2 oeufs",
+        "quantity": "2",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 petit suisse ou 2 cs de fromage blanc ou skyr",
+        "quantity": "1",
+        "unit": "",
+        "name": "Petit suisse ou 2 cs de fromage blanc ou skyr"
+      },
+      {
+        "raw": "1 pot de compote pomme-banane (ou juste pomme)",
+        "quantity": "1 pot",
+        "unit": "pot",
+        "name": "Compote pomme-banane (ou juste pomme)"
+      },
+      {
+        "raw": "3 cs de lait (ici végétal)",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Lait (ici végétal)"
+      },
+      {
+        "raw": "3 pots de compote de farine (env. 180 g)",
+        "quantity": "3 pots",
+        "unit": "pots",
+        "name": "Compote de farine (env. 180 g)"
+      },
+      {
+        "raw": "un peu d’arôme vanille",
+        "quantity": "un",
+        "unit": "",
+        "name": "Peu d’arôme vanille"
+      },
+      {
+        "raw": "200 g de pépites de chocolat (ou chocolat coupé en morceaux) + pour le dessus",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Pépites de chocolat (ou chocolat coupé en morceaux) + pour le dessus"
+      },
+      {
+        "raw": "1 grosse poignée de noix de pécan + pour le dessus",
+        "quantity": "1 grosse poignée",
+        "unit": "grosse poignée",
+        "name": "Noix de pécan + pour le dessus"
+      },
+      {
+        "raw": "1/2 sachet de levure",
+        "quantity": "1/2 sachet",
+        "unit": "sachet",
+        "name": "Levure"
+      },
+      {
+        "raw": "3 cs de peanut butterun peu de sucre de coco",
+        "quantity": "3 cs",
+        "unit": "cs",
+        "name": "Peanut butterun peu de sucre de coco"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00172_banana-bread.jpg",
+    "images": [
+      "images/00172_banana-bread.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "3 Banane",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "raw": "Banane",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "raw": "2 Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "Petit suisse ou 2 cs de fromage blanc ou skyr",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Petit suisse ou 2 cs de fromage blanc ou skyr"
+      },
+      {
+        "raw": "1 pot de Compote pomme-banane (ou juste pomme)",
+        "quantity": "1",
+        "unit": "pot",
+        "name": "Compote pomme-banane (ou juste pomme)"
+      },
+      {
+        "raw": "3 cuillère à soupe de Lait (ici végétal)",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Lait (ici végétal)"
+      },
+      {
+        "raw": "3 pot de Compote de farine (env. 180 g)",
+        "quantity": "3",
+        "unit": "pot",
+        "name": "Compote de farine (env. 180 g)"
+      },
+      {
+        "raw": "1 peu de Arôme de vanille",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Arôme de vanille"
+      },
+      {
+        "raw": "200 g de Pépites de chocolat (ou chocolat coupé en morceaux) + pour le dessus",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pépites de chocolat (ou chocolat coupé en morceaux) + pour le dessus"
+      },
+      {
+        "raw": "1 poignée de Noix de pécan",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Noix de pécan"
+      },
+      {
+        "raw": "0,5 sachet de Levure",
+        "quantity": "0,5",
+        "unit": "sachet",
+        "name": "Levure"
+      },
+      {
+        "raw": "3 cuillère à soupe de Peanut butter",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Peanut butter"
+      }
+    ]
+  }
+}

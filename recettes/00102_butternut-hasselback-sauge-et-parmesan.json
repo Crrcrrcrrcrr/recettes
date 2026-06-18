@@ -1,0 +1,321 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "butternut-hasselback-sauge-et-parmesan",
+  "recipe_id": "00102",
+  "file": "recettes/00102_butternut-hasselback-sauge-et-parmesan.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "butternut-hasselback-sauge-et-parmesan",
+    "title": "Butternut Hasselback sauge et parmesan",
+    "original_title": "Butternut Hasselback sauge et parmesan",
+    "source_file": "Butternut Hasselback sauge et parmesan.melarecipe",
+    "categories": [
+      "Légumes rôtis",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 kg de Butternut",
+      "2 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Sirop d’érable",
+      "1 gousse de Ail",
+      "0,5 cuillère à café de Muscade",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "Quelques feuille de Sauge",
+      "1 peu de Parmesan",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "1 kg de Butternut\n2 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Sirop d’érable\n1 gousse de Ail\n0,5 cuillère à café de Muscade\n1 unité de Sel\n1 unité de Poivre\nQuelques feuille de Sauge\n1 peu de Parmesan\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Préchauffer le four à 210°C.\nÉplucher et couper la butternut en deux dans la longueur. Ôter les pépins.\nLa déposer face coupée vers le bas, sur une plaque de cuisson recouverte de papier cuisson.\nA l’aide d’un pinceau, huiler toute la surface. Enfourner 15min.\nMélanger tous les ingrédients de la marinade.\nSortir la plaque du four.\nAttendre que la butternut refroidisse un peu pour pouvoir la manipuler.\nCouper des tranches dans la butternut, sans la couper complètement. Vous pouvez vous aider de 2 cuillères en bois.\nA l’aide de votre pinceau, enduire généreusement de marinade, placer les feuilles de sauges dans les interstices. Enfourner 15min.\nSortir la plaque du four et enduire avec le reste de la marinade. Enfourner 30min.\nSortir la plaque du four et saupoudrer de parmesan.\nServir tiède.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CzB6PnOMeO6",
+    "source_id": "instagram.com/reel/CzB6PnOMeO6",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 petite butternut (env 1kg)",
+      "2 cs d’huile d’olive",
+      "Pour la marinade :",
+      "2 cs d’huile d’olive",
+      "2 cs de sirop d’érable",
+      "1 gousse d’ail hachée",
+      "½ cc de muscade",
+      "Sel",
+      "Poivre",
+      "quelques feuilles de sauge",
+      "Pour la garniture :",
+      "un peu de parmesan râpé",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Petite butternut (env 1kg)",
+        "quantity": 1000,
+        "unit": "g",
+        "name": "Butternut"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sirop d’érable",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "0,5 cuillère à café de Muscade",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Muscade"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Quelques feuille de Sauge",
+        "quantity": "Quelques",
+        "unit": "feuille",
+        "name": "Sauge"
+      },
+      {
+        "raw": "1 peu de Parmesan",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00102",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 petite butternut (env 1kg)",
+        "quantity": "1",
+        "unit": "",
+        "name": "Petite butternut (env 1kg)"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Pour la marinade :",
+        "quantity": "",
+        "unit": "",
+        "name": "Pour la marinade :"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cs de sirop d’érable",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1 gousse d’ail hachée",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Ail hachée"
+      },
+      {
+        "raw": "½ cc de muscade",
+        "quantity": "½ cc",
+        "unit": "cc",
+        "name": "Muscade"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "quelques feuilles de sauge",
+        "quantity": "quelques feuilles",
+        "unit": "feuille",
+        "name": "Sauge"
+      },
+      {
+        "raw": "Pour la garniture :",
+        "quantity": "",
+        "unit": "",
+        "name": "Pour la garniture :"
+      },
+      {
+        "raw": "un peu de parmesan râpé",
+        "quantity": "un",
+        "unit": "",
+        "name": "Peu de parmesan râpé"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00102_butternut-hasselback-sauge-et-parmesan.jpg",
+    "images": [
+      "images/00102_butternut-hasselback-sauge-et-parmesan.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Petite butternut (env 1kg)",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Petite butternut (env 1kg)"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Pour la marinade :",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pour la marinade :"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sirop d’érable",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "0,5 cuillère à café de Muscade",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Muscade"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Quelques feuille de Sauge",
+        "quantity": "Quelques",
+        "unit": "feuille",
+        "name": "Sauge"
+      },
+      {
+        "raw": "Pour la garniture :",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pour la garniture :"
+      },
+      {
+        "raw": "1 peu de Parmesan",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

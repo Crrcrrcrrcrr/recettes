@@ -1,0 +1,287 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "la-vraie-recette-du-pad-thai",
+  "recipe_id": "00200",
+  "file": "recettes/00200_la-vraie-recette-du-pad-thai.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "la-vraie-recette-du-pad-thai",
+    "title": "LA VRAIE RECETTE DU PAD THAÏ",
+    "original_title": "LA VRAIE RECETTE DU PAD THAÏ",
+    "source_file": "LA VRAIE RECETTE DU PAD THAÏ.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Pâtes",
+      "Plats"
+    ],
+    "ingredients": [
+      "1 cuillère à soupe de Sucre roux",
+      "1 cuillère à soupe de Sauce poisson",
+      "1 cuillère à soupe de Concentré de pimple de tamarin",
+      "1 cuillère à soupe de Sauce soja salée",
+      "1 cuillère à soupe de Sauce huître",
+      "1 cuillère à soupe de Paprika",
+      "1 unité de Huile de tournesol",
+      "1 unité de Tofu / crevettes / poulet ou porc 🐷",
+      "1 unité de Échalote",
+      "1 unité de Œuf",
+      "100 g de Nouilles de riz",
+      "0,5 unité de Carotte",
+      "1 unité de Pousses de soja",
+      "1 branche de Cive",
+      "1 unité de Cacahuète",
+      "1 unité de Citron vert"
+    ],
+    "ingredients_raw": "1 cuillère à soupe de Sucre roux\n1 cuillère à soupe de Sauce poisson\n1 cuillère à soupe de Concentré de pimple de tamarin\n1 cuillère à soupe de Sauce soja salée\n1 cuillère à soupe de Sauce huître\n1 cuillère à soupe de Paprika\n1 unité de Huile de tournesol\n1 unité de Tofu / crevettes / poulet ou porc 🐷\n1 unité de Échalote\n1 unité de Œuf\n100 g de Nouilles de riz\n0,5 unité de Carotte\n1 unité de Pousses de soja\n1 branche de Cive\n1 unité de Cacahuète\n1 unité de Citron vert",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DFLRF6No0h9",
+    "source_id": "instagram.com/reel/DFLRF6No0h9",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "# Pour réaliser la sauce tu auras besoin de :",
+      "1 c.à soupe de sucre de palme, fleur de coco ou sucre roux",
+      "1 c.à soupe de sauce poisson 🐟",
+      "1 c.à soupe de concentré de pimple de tamarin 🌾",
+      "1 c.à soupe de sauce soja claire 💪",
+      "1 c.à soupe de sauce huître 🦪",
+      "1 c.à soupe de paprika 🌶️",
+      "# Pour réaliser le plat :",
+      "Huile de tournesol 🌻",
+      "Tofu / crevettes / poulet ou porc 🐷",
+      "1 échalotes 🧅",
+      "1 œuf 🍳",
+      "100g de nouilles de riz (tremper dans l’eau claire pendant au moins 6h avant de les faire cuire dans le wok)",
+      "1/2 carottes râpée 🥕",
+      "Pousses de soja 🫰",
+      "Branches de cives ou oignons nouveaux 🌿",
+      "Cacahuètes 🥜 (à servir à côté)",
+      "Citron vert 🍋‍🟩 (à servir à côté)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 cuillère à soupe de Sucre roux",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sucre roux"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce poisson",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce poisson"
+      },
+      {
+        "raw": "1 cuillère à soupe de Concentré de pimple de tamarin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de pimple de tamarin"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce soja salée",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja salée"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce huître",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce huître"
+      },
+      {
+        "raw": "1 cuillère à soupe de Paprika",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Huile de tournesol",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile de tournesol"
+      },
+      {
+        "raw": "Tofu / crevettes / poulet ou porc 🐷",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Tofu / crevettes / poulet ou porc 🐷"
+      },
+      {
+        "raw": "Échalote",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "100 g de Nouilles de riz",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "0,5 unité de Carotte",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "Pousses de soja",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pousses de soja"
+      },
+      {
+        "raw": "1 branche de Cive",
+        "quantity": "1",
+        "unit": "branche",
+        "name": "Cive"
+      },
+      {
+        "raw": "Cacahuète",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00200",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "# Pour réaliser la sauce tu auras besoin de :",
+        "type": "section"
+      },
+      {
+        "raw": "1 c.à soupe de sucre de palme, fleur de coco ou sucre roux",
+        "quantity": "1",
+        "unit": "",
+        "name": "C.à soupe de sucre de palme, fleur de coco ou sucre roux"
+      },
+      {
+        "raw": "1 c.à soupe de sauce poisson 🐟",
+        "quantity": "1",
+        "unit": "",
+        "name": "C.à soupe de sauce poisson 🐟"
+      },
+      {
+        "raw": "1 c.à soupe de concentré de pimple de tamarin 🌾",
+        "quantity": "1",
+        "unit": "",
+        "name": "C.à soupe de concentré de pimple de tamarin 🌾"
+      },
+      {
+        "raw": "1 c.à soupe de sauce soja claire 💪",
+        "quantity": "1",
+        "unit": "",
+        "name": "C.à soupe de sauce soja claire 💪"
+      },
+      {
+        "raw": "1 c.à soupe de sauce huître 🦪",
+        "quantity": "1",
+        "unit": "",
+        "name": "C.à soupe de sauce huître 🦪"
+      },
+      {
+        "raw": "1 c.à soupe de paprika 🌶️",
+        "quantity": "1",
+        "unit": "",
+        "name": "C.à soupe de paprika 🌶️"
+      },
+      {
+        "raw": "# Pour réaliser le plat :",
+        "type": "section"
+      },
+      {
+        "raw": "Huile de tournesol 🌻",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile de tournesol"
+      },
+      {
+        "raw": "Tofu / crevettes / poulet ou porc 🐷",
+        "quantity": "",
+        "unit": "",
+        "name": "Tofu / crevettes / poulet ou porc 🐷"
+      },
+      {
+        "raw": "1 échalotes 🧅",
+        "quantity": "1",
+        "unit": "",
+        "name": "Échalote"
+      },
+      {
+        "raw": "1 œuf 🍳",
+        "quantity": "1",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "100g de nouilles de riz (tremper dans l’eau claire pendant au moins 6h avant de les faire cuire dans le wok)",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "1/2 carottes râpée 🥕",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Carottes râpée 🥕"
+      },
+      {
+        "raw": "Pousses de soja 🫰",
+        "quantity": "",
+        "unit": "",
+        "name": "Pousses de soja 🫰"
+      },
+      {
+        "raw": "Branches de cives ou oignons nouveaux 🌿",
+        "quantity": "",
+        "unit": "",
+        "name": "Branches de cives ou oignons nouveaux 🌿"
+      },
+      {
+        "raw": "Cacahuètes 🥜 (à servir à côté)",
+        "quantity": "",
+        "unit": "",
+        "name": "Cacahuète"
+      },
+      {
+        "raw": "Citron vert 🍋‍🟩 (à servir à côté)",
+        "quantity": "",
+        "unit": "",
+        "name": "Citron vert"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00200_la-vraie-recette-du-pad-thai.jpg",
+    "images": [
+      "images/00200_la-vraie-recette-du-pad-thai.jpg"
+    ]
+  }
+}

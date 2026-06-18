@@ -1,0 +1,455 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "riz-au-poulet-acp",
+  "recipe_id": "00122",
+  "file": "recettes/00122_riz-au-poulet-acp.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "riz-au-poulet-acp",
+    "title": "Riz au poulet (ACP)",
+    "original_title": "Riz au poulet (ACP)",
+    "source_file": "Riz au poulet (ACP).melarecipe",
+    "categories": [
+      "Plats",
+      "Viande"
+    ],
+    "ingredients": [
+      "2 tasse de Riz long",
+      "1/8 tasse de Huile",
+      "0,5 unité de Oignon",
+      "225 g de Sauce tomate",
+      "1 cuillère à café de Sel",
+      "1 cuillère à café de Poivre",
+      "1 cuillère à café de Ail",
+      "3 gousse de Ail",
+      "4 tasse de Bouillon de poulet",
+      "1 kg de Blanc de poulet",
+      "2 cuillère à soupe de Huile d’olive",
+      "1 cuillère à soupe de Ail en poudre",
+      "1 cuillère à soupe de Oignon en poudre",
+      "1 cuillère à soupe de Poudre de chili",
+      "1 cuillère à soupe de Cumin",
+      "1 cuillère à soupe de Paprika",
+      "1 cuillère à café de Sel",
+      "1 cuillère à café de Poivre",
+      "1 unité de Fromage",
+      "1 unité de Coriandre"
+    ],
+    "ingredients_raw": "2 tasse de Riz long\n1/8 tasse de Huile\n0,5 unité de Oignon\n225 g de Sauce tomate\n1 cuillère à café de Sel\n1 cuillère à café de Poivre\n1 cuillère à café de Ail\n3 gousse de Ail\n4 tasse de Bouillon de poulet\n1 kg de Blanc de poulet\n2 cuillère à soupe de Huile d’olive\n1 cuillère à soupe de Ail en poudre\n1 cuillère à soupe de Oignon en poudre\n1 cuillère à soupe de Poudre de chili\n1 cuillère à soupe de Cumin\n1 cuillère à soupe de Paprika\n1 cuillère à café de Sel\n1 cuillère à café de Poivre\n1 unité de Fromage\n1 unité de Coriandre",
+    "instructions": "Dans une grande poêle ou une casserole, faites chauffer 1/8 tasse d’huile à feu moyen.\nAjoutez 1/2 oignon coupé en dés et l’ail, faites sauter pendant 3-4 minutes jusqu’à ce que ça devienne parfumé.\nAjoutez le riz, en remuant pour qu’il devienne doré sans brûler.\nAjoutez la sauce tomate, le bouillon de poulet et les épices. Mélangez et couvrez avec un couvercle à feu moyen-doux pendant 20-30 minutes jusqu’à ce que l’eau soit évaporée.\nPendant que le riz cuit, assaisonnez le poulet et faites-le sauter à feu moyen-élevé jusqu’à atteindre une température interne de 165°.\nUne fois le riz cuit, assurez-vous de le fluffier avant de servir.\nPour assembler, ajoutez le riz, le poulet, le fromage et garnissez de coriandre.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C0iFOzOAcZR",
+    "source_id": "instagram.com/reel/C0iFOzOAcZR",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "#Riz :",
+      "2 tasses de riz à grain long",
+      "1/8 tasse d’huile végétale",
+      "1/2 oignon coupé en dés",
+      "225g de sauce tomate",
+      "1 cs de sel, poivre et ail",
+      "3-4 gousses d’ail",
+      "4 tasses de bouillon de poulet",
+      "#Poulet :",
+      "1kg de poitrines de poulet",
+      "2 cs d’huile d’olive",
+      "1 cs de poudre d’ail",
+      "1 cs de poudre d’oignon",
+      "1 cs de poudre de chili",
+      "1 cs de cumin",
+      "1 cs de paprika",
+      "1 cc de sel",
+      "1 cc de poivre",
+      "#Topping :",
+      "Fromage",
+      "Coriandre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 tasse de Riz à grain long",
+        "quantity": "2",
+        "unit": "tasse",
+        "name": "Riz long"
+      },
+      {
+        "raw": "1/8 tasse de Huile végétale",
+        "quantity": "1/8",
+        "unit": "tasse",
+        "name": "Huile"
+      },
+      {
+        "raw": "0,5 Oignon",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "225 g de Sauce tomate",
+        "quantity": "225",
+        "unit": "g",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à café de Poivre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "4 tasse de Bouillon de poulet",
+        "quantity": "4",
+        "unit": "tasse",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "1 kg de Poitrines de poulet",
+        "quantity": 1000,
+        "unit": "g",
+        "name": "Blanc de poulet"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Ail en poudre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Poudre d’oignon",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Oignon en poudre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Poudre de chili",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Poudre de chili"
+      },
+      {
+        "raw": "1 cuillère à soupe de Cumin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à soupe de Paprika",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à café de Poivre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Fromage",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fromage"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00122",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "#Riz :",
+        "type": "section"
+      },
+      {
+        "raw": "2 tasses de riz à grain long",
+        "quantity": "2 tasses",
+        "unit": "tasses",
+        "name": "Riz à grain long"
+      },
+      {
+        "raw": "1/8 tasse d’huile végétale",
+        "quantity": "1/8 tasse",
+        "unit": "tasse",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "1/2 oignon coupé en dés",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Oignon coupé en dés"
+      },
+      {
+        "raw": "225g de sauce tomate",
+        "quantity": "225 g",
+        "unit": "g",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "1 cs de sel, poivre et ail",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Sel, poivre et ail"
+      },
+      {
+        "raw": "3-4 gousses d’ail",
+        "quantity": "3-4 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "4 tasses de bouillon de poulet",
+        "quantity": "4 tasses",
+        "unit": "tasses",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "#Poulet :",
+        "type": "section"
+      },
+      {
+        "raw": "1kg de poitrines de poulet",
+        "quantity": "1 kg",
+        "unit": "g",
+        "name": "Poitrines de poulet"
+      },
+      {
+        "raw": "2 cs d’huile d’olive",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cs de poudre d’ail",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Poudre d’ail"
+      },
+      {
+        "raw": "1 cs de poudre d’oignon",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Poudre d’oignon"
+      },
+      {
+        "raw": "1 cs de poudre de chili",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Poudre de chili"
+      },
+      {
+        "raw": "1 cs de cumin",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cs de paprika",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cc de sel",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cc de poivre",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Poivre"
+      },
+      {
+        "raw": "#Topping :",
+        "type": "section"
+      },
+      {
+        "raw": "Fromage",
+        "quantity": "",
+        "unit": "",
+        "name": "Fromage"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "",
+        "unit": "",
+        "name": "Coriandre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00122_riz-au-poulet-acp.jpg",
+    "images": [
+      "images/00122_riz-au-poulet-acp.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "2 tasse de Riz à grain long",
+        "quantity": "2",
+        "unit": "tasse",
+        "name": "Riz à grain long"
+      },
+      {
+        "raw": "1/8 tasse de Huile végétale",
+        "quantity": "1/8",
+        "unit": "tasse",
+        "name": "Huile végétale"
+      },
+      {
+        "raw": "0,5 Oignon",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "225 g de Sauce tomate",
+        "quantity": "225",
+        "unit": "g",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à café de Poivre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      },
+      {
+        "raw": "3 gousse de Ail",
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "4 tasse de Bouillon de poulet",
+        "quantity": "4",
+        "unit": "tasse",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "1 kg de Poitrines de poulet",
+        "quantity": 1000,
+        "unit": "g",
+        "name": "Poitrines de poulet"
+      },
+      {
+        "raw": "2 cuillère à soupe de Huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à soupe de Ail en poudre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Poudre d’oignon",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Poudre d’oignon"
+      },
+      {
+        "raw": "1 cuillère à soupe de Poudre de chili",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Poudre de chili"
+      },
+      {
+        "raw": "1 cuillère à soupe de Cumin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à soupe de Paprika",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à café de Poivre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Fromage",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Fromage"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      }
+    ]
+  }
+}

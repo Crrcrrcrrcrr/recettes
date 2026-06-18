@@ -1,0 +1,213 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "gyros-halloumi",
+  "recipe_id": "00142",
+  "file": "recettes/00142_gyros-halloumi.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "gyros-halloumi",
+    "title": "Gyros halloumi",
+    "original_title": "Gyros halloumi",
+    "source_file": "Gyros halloumi.melarecipe",
+    "categories": [
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "80 g de Halloumi",
+      "0,5 unité de Poivron rouge",
+      "0,5 unité de Oignon rouge",
+      "1 cuillère à soupe de Miel",
+      "1 cuillère à café de Flocons de piment",
+      "1 cuillère à café de Paprika",
+      "1 cuillère à soupe de Sel",
+      "1 cuillère à soupe de Poivre",
+      "1 unité de Pain pita",
+      "10 ml de Sauce chili douce",
+      "10 ml de Mayonnaise peri-peri",
+      "1 unité de Laitue"
+    ],
+    "ingredients_raw": "80 g de Halloumi\n0,5 unité de Poivron rouge\n0,5 unité de Oignon rouge\n1 cuillère à soupe de Miel\n1 cuillère à café de Flocons de piment\n1 cuillère à café de Paprika\n1 cuillère à soupe de Sel\n1 cuillère à soupe de Poivre\n1 unité de Pain pita\n10 ml de Sauce chili douce\n10 ml de Mayonnaise peri-peri\n1 unité de Laitue",
+    "instructions": "Tranchez le halloumi. \nMélangez le miel, les flocons de piment, le paprika et un peu d’eau. \nEnrobez le halloumi avec cette préparation et faites-le cuire jusqu’à ce qu’il soit collant et doré. \nFaites revenir l’oignon et le poivron jusqu’à ce qu’ils soient tendres, puis assaisonnez avec le mélange sel et poivre. \nFaites chauffer le pain plat. Garnissez-le de laitue, ajoutez le mélange de halloumi et légumes, puis arrosez de mayonnaise peri-peri et de sauce chili douce.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CteAErLgrN0",
+    "source_id": "instagram.com/reel/CteAErLgrN0",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "80 g de halloumi",
+      "1/2 poivron rouge",
+      "1/2 oignon rouge",
+      "1 cs de miel",
+      "1 cc de flocons de piment",
+      "1 cc de paprika",
+      "2 cs d’assaisonnement sel & poivre",
+      "1 pain pita",
+      "10 ml de sauce chili douce",
+      "10 ml de mayonnaise peri-peri",
+      "Laitue"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "80 g de Halloumi",
+        "quantity": "80",
+        "unit": "g",
+        "name": "Halloumi"
+      },
+      {
+        "raw": "0,5 Poivron rouge",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "0,5 Oignon rouge",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cuillère à café de Flocons de piment",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Flocons de piment"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à soupe de Poivre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Pain pita",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pain pita"
+      },
+      {
+        "raw": "10 ml de Sauce chili douce",
+        "quantity": "10",
+        "unit": "ml",
+        "name": "Sauce chili douce"
+      },
+      {
+        "raw": "10 ml de Mayonnaise peri-peri",
+        "quantity": "10",
+        "unit": "ml",
+        "name": "Mayonnaise peri-peri"
+      },
+      {
+        "raw": "Laitue",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Laitue"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00142",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "80 g de halloumi",
+        "quantity": "80 g",
+        "unit": "g",
+        "name": "Halloumi"
+      },
+      {
+        "raw": "1/2 poivron rouge",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "1/2 oignon rouge",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 cs de miel",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Miel"
+      },
+      {
+        "raw": "1 cc de flocons de piment",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Flocons de piment"
+      },
+      {
+        "raw": "1 cc de paprika",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Paprika"
+      },
+      {
+        "raw": "2 cs d’assaisonnement sel & poivre",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Assaisonnement sel & poivre"
+      },
+      {
+        "raw": "1 pain pita",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pain pita"
+      },
+      {
+        "raw": "10 ml de sauce chili douce",
+        "quantity": "10 ml",
+        "unit": "ml",
+        "name": "Sauce chili douce"
+      },
+      {
+        "raw": "10 ml de mayonnaise peri-peri",
+        "quantity": "10 ml",
+        "unit": "ml",
+        "name": "Mayonnaise peri-peri"
+      },
+      {
+        "raw": "Laitue",
+        "quantity": "",
+        "unit": "",
+        "name": "Laitue"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00142_gyros-halloumi.jpg",
+    "images": [
+      "images/00142_gyros-halloumi.jpg"
+    ]
+  }
+}

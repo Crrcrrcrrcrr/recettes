@@ -1,0 +1,196 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tzatziki",
+  "recipe_id": "00137",
+  "file": "recettes/00137_tzatziki.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tzatziki",
+    "title": "Tzatziki",
+    "original_title": "Tzatziki",
+    "source_file": "Tzatziki.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Dip/Tartinade",
+      "Sans instructions",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Concombre",
+      "300 g de Yaourt grec",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 unité de Piment d’Espelette",
+      "1 unité de Ail en poudre",
+      "1 unité de Huile d’olive"
+    ],
+    "ingredients_raw": "1 unité de Concombre\n300 g de Yaourt grec\n1 unité de Sel\n1 unité de Poivre\n1 unité de Piment d’Espelette\n1 unité de Ail en poudre\n1 unité de Huile d’olive",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Cto2dV5ojoc",
+    "source_id": "instagram.com/reel/Cto2dV5ojoc",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 concombre",
+      "300g de yaourt grec",
+      "Sel",
+      "Poivre",
+      "Piment d’espelette",
+      "Ail en poudre",
+      "Huile d’olive"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Concombre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Concombre"
+      },
+      {
+        "raw": "300 g de Yaourt grec",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Piment d'espelette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment d’Espelette"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00137",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 concombre",
+        "quantity": "1",
+        "unit": "",
+        "name": "Concombre"
+      },
+      {
+        "raw": "300g de yaourt grec",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Piment d’espelette",
+        "quantity": "",
+        "unit": "",
+        "name": "Piment d'espelette"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "",
+        "unit": "",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00137_tzatziki.jpg",
+    "images": [
+      "images/00137_tzatziki.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Concombre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Concombre"
+      },
+      {
+        "raw": "300 g de Yaourt grec",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Piment d'espelette",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment d'espelette"
+      },
+      {
+        "raw": "Ail en poudre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail en poudre"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      }
+    ]
+  }
+}

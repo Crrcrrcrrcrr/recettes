@@ -1,0 +1,239 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "gnocchis-de-patate-douce",
+  "recipe_id": "00119",
+  "file": "recettes/00119_gnocchis-de-patate-douce.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "gnocchis-de-patate-douce",
+    "title": "Gnocchis de patate douce",
+    "original_title": "Gnocchis de patate douce ",
+    "source_file": "Gnocchis de patate douce.melarecipe",
+    "categories": [
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "400 g de Patate douce",
+      "360 g de Farine",
+      "1 unité de Sel",
+      "1 cuillère à café de Garam masala",
+      "1 unité de Huile d’olive",
+      "1 branche de Thym",
+      "2 gousse de Ail",
+      "2 unité de Échalote",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "400 g de Patate douce\n360 g de Farine\n1 unité de Sel\n1 cuillère à café de Garam masala\n1 unité de Huile d’olive\n1 branche de Thym\n2 gousse de Ail\n2 unité de Échalote\n1 unité de Poivre",
+    "instructions": "Faire cuire au four à 180°C pendant 1h une belle patate douce entière, lavée mais pas épluchée ni piquée.\nDans un saladier, mélanger à l’aide d’un presse-purée ou d’une fourchette la farine avec la chair pesée de la patate douce (sans la peau), 1/2 cac de sel et (facultatif) 1 cac d’épices (voir liste d’ingrédients). Une fois qu’une boule se forme, mélanger très brièvement à la main jusqu’à l’obtention d’une pâte a peu près homogène. Il ne faut surtout pas pétrir.\nFaire bouillir une grande quantité d’eau avec 1 cac de sel. Lorsque l’eau bout, se placer avec le pâton au dessus de la casserole et à l’aide d’une paire de ciseaux enfarinée, couper des morceaux. Il faut enfariner les lames de ciseaux entre chaque coupe ou presque.\nLaisser les pâtes remonter à la surface (environ 2-4 min de cuisson) puis les égoutter.\nDans une poêle sur feu moyen, faire fondre la margarine puis ajouter les ail en tranches et les échalotes ciselées avec 1 pincée de sel et l’herbe choisie. Après 5 min, ajouter les pâtes et faire revenir 2 min. Servir immédiatement avec du poivre.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C2EvpHaC8rt",
+    "source_id": "instagram.com/reel/C2EvpHaC8rt",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "400g de patate douce",
+      "360g de farine de blé T.45 ou T.55",
+      "Sel",
+      "#Facultatif :",
+      "1 cc de coriandre en poudre ou de garam masala ou de curry",
+      "Margarine sans lait ou huile d’olive",
+      "branches de romarin ou de thym, ou sauge",
+      "2 gousses d’ail",
+      "2 échalotes ou 1 oignon rouge",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "400 g de Patate douce",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "360 g de Farine",
+        "quantity": "360",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à café de Garam masala",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "Huile d'olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 branche de Thym",
+        "quantity": "1",
+        "unit": "branche",
+        "name": "Thym"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 unité de Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00119",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "400g de patate douce",
+        "quantity": "400 g",
+        "unit": "g",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "360g de farine de blé T.45 ou T.55",
+        "quantity": "360 g",
+        "unit": "g",
+        "name": "Farine de blé T.45 ou T.55"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "#Facultatif :",
+        "type": "section"
+      },
+      {
+        "raw": "1 cc de coriandre en poudre ou de garam masala ou de curry",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Coriandre en poudre ou de garam masala ou de curry"
+      },
+      {
+        "raw": "Margarine sans lait ou huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Margarine sans lait ou huile d’olive"
+      },
+      {
+        "raw": "branches de romarin ou de thym, ou sauge",
+        "quantity": "",
+        "unit": "",
+        "name": "Branches de romarin ou de thym, ou sauge"
+      },
+      {
+        "raw": "2 gousses d’ail",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "2 échalotes ou 1 oignon rouge",
+        "quantity": "2",
+        "unit": "",
+        "name": "Échalotes ou 1 oignon rouge"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00119_gnocchis-de-patate-douce.jpg",
+    "images": [
+      "images/00119_gnocchis-de-patate-douce.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "400 g de Patate douce",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "360 g de Farine",
+        "quantity": "360",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "1 cuillère à café de Garam masala",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "Huile d'olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d'olive"
+      },
+      {
+        "raw": "1 branche de Thym",
+        "quantity": "1",
+        "unit": "branche",
+        "name": "Thym"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 unité de Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

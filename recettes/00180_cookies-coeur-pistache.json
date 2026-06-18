@@ -1,0 +1,267 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cookies-coeur-pistache",
+  "recipe_id": "00180",
+  "file": "recettes/00180_cookies-coeur-pistache.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "cookies-coeur-pistache",
+    "title": "Cookies coeur pistache",
+    "original_title": "Cookies coeur pistache",
+    "source_file": "Cookies coeur pistache.melarecipe",
+    "categories": [
+      "Cookies",
+      "Sucré"
+    ],
+    "ingredients": [
+      "1 cuillère à soupe de Pâtes de pistache par cookies",
+      "1 unité de Œuf",
+      "250 g de Farine",
+      "125 g de Beurre",
+      "125 g de Sucre vergoise",
+      "50 g de Sucre",
+      "1 cuillère à café de Levure chimique",
+      "1 cuillère à café de Bicarbonate",
+      "140 g de Chocolat",
+      "50 g de Pistache"
+    ],
+    "ingredients_raw": "1 cuillère à soupe de Pâtes de pistache par cookies\n1 unité de Œuf\n250 g de Farine\n125 g de Beurre\n125 g de Sucre vergoise\n50 g de Sucre\n1 cuillère à café de Levure chimique\n1 cuillère à café de Bicarbonate\n140 g de Chocolat\n50 g de Pistache",
+    "instructions": "Pour commencer, déposez sur une assiette avec du papier cuisson, la pâte de pistache et déposez-la au congélateur.\nPour faire les cookies, il faut que la pâte de pistache soit bien congelée\nMélangez les deux sucres puis ajoutez y le beurre bien mou\nCassez un œuf puis ajoutez la vanille\nAjoutez la farine, la levure et le bicarbonate\nAjoutez le chocolat et les pistaches concassées\nFormez 6 boules et insérez dans le centre la pâte de pistache congelée. Mettez les 20mn au frais\nEnfournez 15mn à 180 degrés \nLaissez refroidir 15 min\nDégustez",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C_TNZb0MyUe",
+    "source_id": "instagram.com/reel/C_TNZb0MyUe",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 cs de pâtes de pistache par cookies",
+      "1 œuf",
+      "250g de farine",
+      "125g de beurre",
+      "125g de sucre roux ou vergeoise",
+      "50g de sucre fin blanc",
+      "1 cc de poudre)",
+      "1 cc de levure",
+      "1 cc de bicarbonate",
+      "140g de chocolat",
+      "50g de pistache concassées"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 cuillère à soupe de Pâtes de pistache par cookies",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Pâtes de pistache par cookies"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "250 g de Farine",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "125 g de Beurre",
+        "quantity": "125",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "125 g de Sucre roux ou vergeoise",
+        "quantity": "125",
+        "unit": "g",
+        "name": "Sucre vergoise"
+      },
+      {
+        "raw": "50 g de Sucre fin blanc",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "1 cuillère à café de Levure",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "1 cuillère à café de Bicarbonate",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Bicarbonate"
+      },
+      {
+        "raw": "140 g de Chocolat",
+        "quantity": "140",
+        "unit": "g",
+        "name": "Chocolat"
+      },
+      {
+        "raw": "50 g de Pistache",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Pistache"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00180",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 cs de pâtes de pistache par cookies",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Pâtes de pistache par cookies"
+      },
+      {
+        "raw": "1 œuf",
+        "quantity": "1",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "250g de farine",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "125g de beurre",
+        "quantity": "125 g",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "125g de sucre roux ou vergeoise",
+        "quantity": "125 g",
+        "unit": "g",
+        "name": "Sucre roux ou vergeoise"
+      },
+      {
+        "raw": "50g de sucre fin blanc",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Sucre fin blanc"
+      },
+      {
+        "raw": "1 cc de poudre)",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Poudre)"
+      },
+      {
+        "raw": "1 cc de levure",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Levure"
+      },
+      {
+        "raw": "1 cc de bicarbonate",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Bicarbonate"
+      },
+      {
+        "raw": "140g de chocolat",
+        "quantity": "140 g",
+        "unit": "g",
+        "name": "Chocolat"
+      },
+      {
+        "raw": "50g de pistache concassées",
+        "quantity": "50 g",
+        "unit": "g",
+        "name": "Pistache"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00180_cookies-coeur-pistache.heic",
+    "images": [
+      "images/00180_cookies-coeur-pistache.heic"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "1 cuillère à soupe de Pâtes de pistache par cookies",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Pâtes de pistache par cookies"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "250 g de Farine",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "125 g de Beurre",
+        "quantity": "125",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "125 g de Sucre roux ou vergeoise",
+        "quantity": "125",
+        "unit": "g",
+        "name": "Sucre roux ou vergeoise"
+      },
+      {
+        "raw": "50 g de Sucre fin blanc",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Sucre fin blanc"
+      },
+      {
+        "raw": "1 cuillère à café de Poudre)",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poudre)"
+      },
+      {
+        "raw": "1 cuillère à café de Levure",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Levure"
+      },
+      {
+        "raw": "1 cuillère à café de Bicarbonate",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Bicarbonate"
+      },
+      {
+        "raw": "140 g de Chocolat",
+        "quantity": "140",
+        "unit": "g",
+        "name": "Chocolat"
+      },
+      {
+        "raw": "50 g de Pistache",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Pistache"
+      }
+    ]
+  }
+}

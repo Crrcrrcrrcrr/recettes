@@ -1,0 +1,47 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "beignets-au-four",
+  "recipe_id": "00186",
+  "file": "recettes/00186_beignets-au-four.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": false,
+    "units_validated": false,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "beignets-au-four",
+    "title": "Beignets au four",
+    "original_title": "Beignets au four",
+    "source_file": "Beignets au four.melarecipe",
+    "categories": [
+      "Beignets",
+      "Sans ingrédients",
+      "Sans instructions",
+      "Sucré"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/p/CjnUBXjjhRn",
+    "source_id": "instagram.com/p/CjnUBXjjhRn",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_with_user",
+    "recipe_id": "00186",
+    "image": "images/00186_beignets-au-four.jpg",
+    "images": [
+      "images/00186_beignets-au-four.jpg"
+    ]
+  }
+}
