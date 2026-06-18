@@ -1,0 +1,54 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "bruschetta-d-ete",
+  "recipe_id": "00267",
+  "file": "recettes/00267_bruschetta-d-ete.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "bruschetta-d-ete",
+    "title": "Bruschetta d’été",
+    "original_title": "Un combo de tout ce que j’aime!! Parce que le soleil est là et qu’il va rester là !",
+    "source_file": "69-Un combo de tout ce que j’aime!! Parce que le soleil est là et qu’il va rester là !.melarecipe",
+    "categories": [
+      "Froid",
+      "Tartine/Bruscetta"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Les bruschetta c’est vraiment la vie !🥰",
+    "notes": "",
+    "link": "https://www.instagram.com/p/Ccx7JPYINGA",
+    "source_id": "instagram.com/p/Ccx7JPYINGA",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00267",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00267_bruschetta-d-ete.jpg",
+    "images": [
+      "images/00267_bruschetta-d-ete.jpg"
+    ],
+    "import_source_index": 13,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Bruschetta d’été",
+      "Aucun ingrédient conservé dans le tableau corrigé."
+    ]
+  }
+}

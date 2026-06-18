@@ -1,0 +1,52 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "creamy-pasta-butternut-et-burrata",
+  "recipe_id": "00259",
+  "file": "recettes/00259_creamy-pasta-butternut-et-burrata.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": false,
+    "units_validated": false,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "creamy-pasta-butternut-et-burrata",
+    "title": "Creamy pasta butternut et burrata",
+    "original_title": "CONCOURS @zwilling_fr",
+    "source_file": "63-CONCOURS @zwilling_fr.melarecipe",
+    "categories": [
+      "Végétarien"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Les aliments gardent leur fraîcheur, arômes et vitamines plus longtemps 😍",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/CkITykMA2u5",
+    "source_id": "instagram.com/reel/CkITykMA2u5",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "no_ingredient_from_import",
+    "recipe_id": "00259",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00259_creamy-pasta-butternut-et-burrata.jpg",
+    "images": [
+      "images/00259_creamy-pasta-butternut-et-burrata.jpg"
+    ],
+    "import_source_index": 5,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Creamy pasta butternut et burrata"
+    ]
+  }
+}

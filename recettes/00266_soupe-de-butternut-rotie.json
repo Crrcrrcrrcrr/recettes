@@ -1,0 +1,55 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "soupe-de-butternut-rotie",
+  "recipe_id": "00266",
+  "file": "recettes/00266_soupe-de-butternut-rotie.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "soupe-de-butternut-rotie",
+    "title": "Soupe de butternut rôtie",
+    "original_title": "Roasted Butternut Squash Soup",
+    "source_file": "60-Roasted Butternut Squash Soup.melarecipe",
+    "categories": [
+      "Légumes rôtis",
+      "Soupe/Velouté",
+      "Végétarien"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DAtgHhFIabZ",
+    "source_id": "instagram.com/reel/DAtgHhFIabZ",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00266",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00266_soupe-de-butternut-rotie.jpg",
+    "images": [
+      "images/00266_soupe-de-butternut-rotie.jpg"
+    ],
+    "import_source_index": 12,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Soupe de butternut rôtie",
+      "Aucun ingrédient conservé dans le tableau corrigé."
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "one-pot-poireau-saumon-et-feta",
+  "recipe_id": "00270",
+  "file": "recettes/00270_one-pot-poireau-saumon-et-feta.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "one-pot-poireau-saumon-et-feta",
+    "title": "One-pot poireau, saumon et feta",
+    "original_title": "Abonne-toi et enregistre la recette !",
+    "source_file": "9-Abonne-toi et enregistre la recette !.melarecipe",
+    "categories": [
+      "One-pot",
+      "Plats",
+      "Poisson",
+      "Pâtes"
+    ],
+    "ingredients": [
+      "300 g de Pâtes",
+      "1 unité de Poireau",
+      "0.5 unité de Oignon rouge",
+      "250 g de Saumon",
+      "1 bloc de Feta",
+      "Tomates cerise",
+      "Miel",
+      "Jus de citron",
+      "Sel"
+    ],
+    "ingredients_raw": "300 g de Pâtes\n1 unité de Poireau\n0.5 unité de Oignon rouge\n250 g de Saumon\n1 bloc de Feta\nTomates cerise\nMiel\nJus de citron\nSel",
+    "instructions": "# 👨‍🍳 Recette : Coupe ton poireau et ton oignon rouge, mets-les directement dans un plat qui va au four. Pose le saumon et le bloc de feta par-dessus. Assaisonn…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DVLF7MzjRe9",
+    "source_id": "instagram.com/reel/DVLF7MzjRe9",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "300 g de pâtes",
+      "1 poireau",
+      "1/2 oignon rouge",
+      "250 g de saumon",
+      "1 bloc de feta Tomates cerises Miel Jus de citron Sel",
+      "1 bloc de feta Tomates cerises Miel Jus de citron Sel",
+      "1 bloc de feta Tomates cerises Miel Jus de citron Sel",
+      "1 bloc de feta Tomates cerises Miel Jus de citron Sel",
+      "1 bloc de feta Tomates cerises Miel Jus de citron Sel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "300 g de Pâtes",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "1 unité de Poireau",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "raw": "0.5 unité de Oignon rouge",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "250 g de Saumon",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Saumon"
+      },
+      {
+        "raw": "1 bloc de Feta",
+        "quantity": "1",
+        "unit": "bloc",
+        "name": "Feta"
+      },
+      {
+        "raw": "Tomates cerise",
+        "quantity": "",
+        "unit": "",
+        "name": "Tomates cerise"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "",
+        "unit": "",
+        "name": "Miel"
+      },
+      {
+        "raw": "Jus de citron",
+        "quantity": "",
+        "unit": "",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00270",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "300 g de pâtes",
+        "quantity": 300,
+        "unit": "g",
+        "ingredient": "Pâtes",
+        "source_table_row": 83,
+        "source_detected": {
+          "quantity": "300",
+          "unit": "g",
+          "ingredient": "pâtes"
+        },
+        "table_decision": {
+          "quantity_proposed": 300,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâtes",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 poireau",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Poireau",
+        "source_table_row": 84,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "poireau"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Poireau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 oignon rouge",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Oignon rouge",
+        "source_table_row": 85,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "oignon rouge"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "250 g de saumon",
+        "quantity": 250,
+        "unit": "g",
+        "ingredient": "Saumon",
+        "source_table_row": 86,
+        "source_detected": {
+          "quantity": "250",
+          "unit": "g",
+          "ingredient": "saumon"
+        },
+        "table_decision": {
+          "quantity_proposed": 250,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Saumon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Tomates cerises Miel Jus de citron Sel",
+        "quantity": 1,
+        "unit": "bloc",
+        "ingredient": "Feta",
+        "source_table_row": 87,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "bloc",
+          "ingredient": "feta Tomates cerises Miel Jus de citron Sel"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "bloc",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Feta",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Tomates cerises Miel Jus de citron Sel",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Tomates cerise",
+        "source_table_row": 88,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Tomates cerises Miel Jus de citron Sel"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Tomates cerise",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Tomates cerises Miel Jus de citron Sel",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Miel",
+        "source_table_row": 89,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Tomates cerises Miel Jus de citron Sel"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Miel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Tomates cerises Miel Jus de citron Sel",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Jus de citron",
+        "source_table_row": 90,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Tomates cerises Miel Jus de citron Sel"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Jus de citron",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Tomates cerises Miel Jus de citron Sel",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 91,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Tomates cerises Miel Jus de citron Sel"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00270_one-pot-poireau-saumon-et-feta.jpg",
+    "images": [
+      "images/00270_one-pot-poireau-saumon-et-feta.jpg"
+    ],
+    "import_source_index": 16,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : One-pot poireau, saumon et feta"
+    ]
+  }
+}

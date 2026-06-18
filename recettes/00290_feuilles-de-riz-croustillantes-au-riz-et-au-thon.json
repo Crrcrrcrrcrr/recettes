@@ -1,0 +1,452 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "feuilles-de-riz-croustillantes-au-riz-et-au-thon",
+  "recipe_id": "00290",
+  "file": "recettes/00290_feuilles-de-riz-croustillantes-au-riz-et-au-thon.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "feuilles-de-riz-croustillantes-au-riz-et-au-thon",
+    "title": "Feuilles de riz croustillantes au riz et au thon",
+    "original_title": "Les feuilles de riz croustillantes, au riz et thon",
+    "source_file": "22-Les feuilles de riz croustillantes, au riz et thon.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Froid",
+      "Plats",
+      "Poisson",
+      "Salade",
+      "Sauce"
+    ],
+    "ingredients": [
+      "1 bol de Riz cuit",
+      "1 boîte de Thon",
+      "Salade",
+      "Oignon frit",
+      "Ciboulette",
+      "Mayonnaise",
+      "Graine de sésame",
+      "Feuille de riz",
+      "Feuille d'algue nori",
+      "1 cuillère à soupe de Mayonnaise",
+      "1 cuillère à café de Sriracha",
+      "1 goutte de Huile de sésame",
+      "1 goutte de Eau"
+    ],
+    "ingredients_raw": "1 bol de Riz cuit\n1 boîte de Thon\nSalade\nOignon frit\nCiboulette\nMayonnaise\nGraine de sésame\nFeuille de riz\nFeuille d'algue nori\n1 cuillère à soupe de Mayonnaise\n1 cuillère à café de Sriracha\n1 goutte de Huile de sésame\n1 goutte de Eau",
+    "instructions": "Dans un saladier, mélanger le riz cuit, le thon, l’oignon frit, les ciboulettes, la mayonnaise. Réhydrater rapidement une feuille de riz, puis superposer avec u…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DT-HkmfjNrh",
+    "source_id": "instagram.com/reel/DT-HkmfjNrh",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 bol de riz cuit",
+      "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+      "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+      "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+      "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+      "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+      "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+      "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+      "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+      "1 cas de mayonnaise ",
+      "- 1 cac de sriracha ",
+      "- 1 goutte d’huile de sésame",
+      "- 1 goutte d’eau "
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 bol de Riz cuit",
+        "quantity": "1",
+        "unit": "bol",
+        "name": "Riz cuit"
+      },
+      {
+        "raw": "1 boîte de Thon",
+        "quantity": "1",
+        "unit": "boîte",
+        "name": "Thon"
+      },
+      {
+        "raw": "Salade",
+        "quantity": "",
+        "unit": "",
+        "name": "Salade"
+      },
+      {
+        "raw": "Oignon frit",
+        "quantity": "",
+        "unit": "",
+        "name": "Oignon frit"
+      },
+      {
+        "raw": "Ciboulette",
+        "quantity": "",
+        "unit": "",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "Mayonnaise",
+        "quantity": "",
+        "unit": "",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "Graine de sésame",
+        "quantity": "",
+        "unit": "",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "Feuille de riz",
+        "quantity": "",
+        "unit": "",
+        "name": "Feuille de riz"
+      },
+      {
+        "raw": "Feuille d'algue nori",
+        "quantity": "",
+        "unit": "",
+        "name": "Feuille d'algue nori"
+      },
+      {
+        "raw": "1 cuillère à soupe de Mayonnaise",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "1 cuillère à café de Sriracha",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sriracha"
+      },
+      {
+        "raw": "1 goutte de Huile de sésame",
+        "quantity": "1",
+        "unit": "goutte",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 goutte de Eau",
+        "quantity": "1",
+        "unit": "goutte",
+        "name": "Eau"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00290",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 bol de riz cuit",
+        "quantity": 1,
+        "unit": "bol",
+        "ingredient": "Riz cuit",
+        "source_table_row": 226,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "bol de riz cuit"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "bol",
+          "unit_action": "Créer",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Riz cuit",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+        "quantity": 1,
+        "unit": "boîte",
+        "ingredient": "Thon",
+        "source_table_row": 227,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "boîte",
+          "ingredient": "thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "boîte",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Thon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Salade",
+        "source_table_row": 228,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Salade",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Oignon frit",
+        "source_table_row": 229,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Oignon frit",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Ciboulette",
+        "source_table_row": 230,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Ciboulette",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Mayonnaise",
+        "source_table_row": 231,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Mayonnaise",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Graine de sésame",
+        "source_table_row": 232,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Graine de sésame",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Feuille de riz",
+        "source_table_row": 233,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Feuille de riz",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 boîte de thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Feuille d'algue nori",
+        "source_table_row": 234,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Feuille d'algue nori",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cas de mayonnaise ",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Mayonnaise",
+        "source_table_row": 235,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "thon @riomarefrance salade oignon frit ciboulette mayonnaise graines de sésame feuilles de riz feuille d’algue Sauce"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": null,
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Mayonnaise",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- 1 cac de sriracha ",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Sriracha",
+        "source_table_row": 236,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cas",
+          "ingredient": "m"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sriracha",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- 1 goutte d’huile de sésame",
+        "quantity": 1,
+        "unit": "goutte",
+        "ingredient": "Huile de sésame",
+        "source_table_row": 237,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "goutte",
+          "unit_action": "Créer",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile de sésame",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- 1 goutte d’eau ",
+        "quantity": 1,
+        "unit": "goutte",
+        "ingredient": "Eau",
+        "source_table_row": 238,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "goutte",
+          "unit_action": "Créer",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00290_feuilles-de-riz-croustillantes-au-riz-et-au-thon.jpg",
+    "images": [
+      "images/00290_feuilles-de-riz-croustillantes-au-riz-et-au-thon.jpg"
+    ],
+    "import_source_index": 37,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Feuilles de riz croustillantes au riz et au thon"
+    ]
+  }
+}

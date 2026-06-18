@@ -1,0 +1,210 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tofu-facon-porc-effiloche",
+  "recipe_id": "00283",
+  "file": "recettes/00283_tofu-facon-porc-effiloche.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tofu-facon-porc-effiloche",
+    "title": "Tofu façon porc effiloché",
+    "original_title": "Tofu façon porc effiloché :",
+    "source_file": "54-Tofu façon porc effiloché :.melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Plats",
+      "Sauce",
+      "Viande"
+    ],
+    "ingredients": [
+      "400 g de Tofu ferme",
+      "3 cuillère à soupe de Sirop d’érable",
+      "5 cuillère à soupe de Sauce soja",
+      "2 cuillère à soupe de Vinaigre de cidre",
+      "4 cuillère à soupe de Sauce chipotle"
+    ],
+    "ingredients_raw": "400 g de Tofu ferme\n3 cuillère à soupe de Sirop d’érable\n5 cuillère à soupe de Sauce soja\n2 cuillère à soupe de Vinaigre de cidre\n4 cuillère à soupe de Sauce chipotle",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DI50rI7sLfy",
+    "source_id": "instagram.com/reel/DI50rI7sLfy",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "400g de tofu ferme",
+      "3 càs de sirop d’érable",
+      "5 càs de sauce soja",
+      "2 càs de vinaigre de cidre",
+      "4 càs de salsa chipotle (ou sauce bbq) 1"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "400 g de Tofu ferme",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Tofu ferme"
+      },
+      {
+        "raw": "3 cuillère à soupe de Sirop d’érable",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "5 cuillère à soupe de Sauce soja",
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "2 cuillère à soupe de Vinaigre de cidre",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "4 cuillère à soupe de Sauce chipotle",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Sauce chipotle"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00283",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "400g de tofu ferme",
+        "quantity": 400,
+        "unit": "g",
+        "ingredient": "Tofu ferme",
+        "source_table_row": 180,
+        "source_detected": {
+          "quantity": "400",
+          "unit": "g",
+          "ingredient": "tofu ferme"
+        },
+        "table_decision": {
+          "quantity_proposed": 400,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Tofu ferme",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "3 càs de sirop d’érable",
+        "quantity": 3,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sirop d’érable",
+        "source_table_row": 181,
+        "source_detected": {
+          "quantity": "3",
+          "unit": "càs",
+          "ingredient": "sirop d’érable"
+        },
+        "table_decision": {
+          "quantity_proposed": 3,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sirop d’érable",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "5 càs de sauce soja",
+        "quantity": 5,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce soja",
+        "source_table_row": 182,
+        "source_detected": {
+          "quantity": "5",
+          "unit": "càs",
+          "ingredient": "sauce soja"
+        },
+        "table_decision": {
+          "quantity_proposed": 5,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sauce soja",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 càs de vinaigre de cidre",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Vinaigre de cidre",
+        "source_table_row": 183,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "càs",
+          "ingredient": "vinaigre de cidre"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Vinaigre de cidre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "4 càs de salsa chipotle (ou sauce bbq) 1",
+        "quantity": 4,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce chipotle",
+        "source_table_row": 184,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "càs",
+          "ingredient": "salsa chipotle (ou sauce bbq) 1"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sauce chipotle",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00283_tofu-facon-porc-effiloche.jpg",
+    "images": [
+      "images/00283_tofu-facon-porc-effiloche.jpg"
+    ],
+    "import_source_index": 30,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Tofu façon porc effiloché"
+    ]
+  }
+}

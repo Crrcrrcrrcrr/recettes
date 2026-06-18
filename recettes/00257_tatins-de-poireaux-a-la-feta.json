@@ -1,0 +1,298 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tatins-de-poireaux-a-la-feta",
+  "recipe_id": "00257",
+  "file": "recettes/00257_tatins-de-poireaux-a-la-feta.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tatins-de-poireaux-a-la-feta",
+    "title": "Tatins de poireaux à la feta",
+    "original_title": "Tu vas tester ?",
+    "source_file": "74-Tu vas tester ?.melarecipe",
+    "categories": [
+      "Plats",
+      "Tarte",
+      "Viande"
+    ],
+    "ingredients": [
+      "quelques unité de Blanc de poireau",
+      "Huile d’olive",
+      "Chèvre frais",
+      "1 unité de Pâte feuilletée",
+      "Miel",
+      "Sel",
+      "Poivre",
+      "1 unité de Jaune d'œuf"
+    ],
+    "ingredients_raw": "quelques unité de Blanc de poireau\nHuile d’olive\nChèvre frais\n1 unité de Pâte feuilletée\nMiel\nSel\nPoivre\n1 unité de Jaune d'œuf",
+    "instructions": "Cuisson env. 30min à 180 degrés.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DWb1IlfiIJo",
+    "source_id": "instagram.com/reel/DWb1IlfiIJo",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+      "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+      "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+      "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+      "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+      "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+      "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+      "1 jaune d’oeuf optionnel : burrata, jambon cru, parmesan, thym"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "quelques unité de Blanc de poireau",
+        "quantity": "quelques",
+        "unit": "unité",
+        "name": "Blanc de poireau"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Chèvre frais",
+        "quantity": "",
+        "unit": "",
+        "name": "Chèvre frais"
+      },
+      {
+        "raw": "1 unité de Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "",
+        "unit": "",
+        "name": "Miel"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 unité de Jaune d'œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jaune d'œuf"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00257",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+        "quantity": "quelques",
+        "unit": "unité",
+        "ingredient": "Blanc de poireau",
+        "source_table_row": 9,
+        "source_detected": {
+          "quantity": "quelques",
+          "unit": "unité",
+          "ingredient": "blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": "quelques",
+          "quantity_validation": "ok",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Blanc de poireau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Huile d’olive",
+        "source_table_row": 10,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Huile d’olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Chèvre frais",
+        "source_table_row": 11,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Chèvre frais",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Pâte feuilletée",
+        "source_table_row": 12,
+        "source_detected": {
+          "quantity": 1,
+          "unit": "unité",
+          "ingredient": "blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâte feuilletée",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Miel",
+        "source_table_row": 13,
+        "source_detected": {
+          "quantity": "quelques",
+          "unit": null,
+          "ingredient": "blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Miel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 14,
+        "source_detected": {
+          "quantity": "quelques",
+          "unit": null,
+          "ingredient": "blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "quelques blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Poivre",
+        "source_table_row": 15,
+        "source_detected": {
+          "quantity": "quelques",
+          "unit": null,
+          "ingredient": "blancs de poireaux miel, huile d’olive chèvre frais pâte feuilletée sel, poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 jaune d’oeuf optionnel : burrata, jambon cru, parmesan, thym",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Jaune d'œuf",
+        "source_table_row": 16,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "jaune d’oeuf optionnel : burrata, jambon cru, parmesan, thym"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Jaune d'œuf",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00257_tatins-de-poireaux-a-la-feta.jpg",
+    "images": [
+      "images/00257_tatins-de-poireaux-a-la-feta.jpg"
+    ],
+    "import_source_index": 3,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Tatins de poireaux à la feta"
+    ]
+  }
+}

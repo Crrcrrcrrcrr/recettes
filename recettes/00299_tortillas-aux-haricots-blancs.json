@@ -1,0 +1,209 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tortillas-aux-haricots-blancs",
+  "recipe_id": "00299",
+  "file": "recettes/00299_tortillas-aux-haricots-blancs.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tortillas-aux-haricots-blancs",
+    "title": "Tortillas aux haricots blancs",
+    "original_title": "Tortillas Fibres et Protéines",
+    "source_file": "12-Tortillas Fibres et Protéines.melarecipe",
+    "categories": [
+      "Froid",
+      "Pains/wraps",
+      "Vegan",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "95 g de Haricots blancs",
+      "125 g de Farine de blé",
+      "55 ml de Eau",
+      "1 cuillère à café de Huile d’olive",
+      "1 cuillère à café de Sel"
+    ],
+    "ingredients_raw": "95 g de Haricots blancs\n125 g de Farine de blé\n55 ml de Eau\n1 cuillère à café de Huile d’olive\n1 cuillère à café de Sel",
+    "instructions": "Tortillas Fibres et Protéines 🌯. Qui avait deviné sans tricher 🙋🏿‍♀️? La team tipeee le sait, j'adore vraiment ces wraps, ils sont trop bons. Les haricots donne…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DVLf9OADASB",
+    "source_id": "instagram.com/reel/DVLf9OADASB",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel .",
+      "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel .",
+      "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel .",
+      "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel .",
+      "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel ."
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "95 g de Haricots blancs",
+        "quantity": "95",
+        "unit": "g",
+        "name": "Haricots blancs"
+      },
+      {
+        "raw": "125 g de Farine de blé",
+        "quantity": "125",
+        "unit": "g",
+        "name": "Farine de blé"
+      },
+      {
+        "raw": "55 ml de Eau",
+        "quantity": "55",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 cuillère à café de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00299",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel .",
+        "quantity": 95,
+        "unit": "g",
+        "ingredient": "Haricots blancs",
+        "source_table_row": 292,
+        "source_detected": {
+          "quantity": "95",
+          "unit": "g",
+          "ingredient": "haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel ."
+        },
+        "table_decision": {
+          "quantity_proposed": 95,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Haricots blancs",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel .",
+        "quantity": 125,
+        "unit": "g",
+        "ingredient": "Farine de blé",
+        "source_table_row": 293,
+        "source_detected": {
+          "quantity": 125,
+          "unit": "g",
+          "ingredient": "haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel ."
+        },
+        "table_decision": {
+          "quantity_proposed": 125,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine de blé",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel .",
+        "quantity": 55,
+        "unit": "ml",
+        "ingredient": "Eau",
+        "source_table_row": 294,
+        "source_detected": {
+          "quantity": 55,
+          "unit": "ml",
+          "ingredient": "haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel ."
+        },
+        "table_decision": {
+          "quantity_proposed": 55,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel .",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Huile d’olive",
+        "source_table_row": 295,
+        "source_detected": {
+          "quantity": 1,
+          "unit": "cuillère à café",
+          "ingredient": "haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel ."
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile d’olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🌯95g haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel .",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Sel",
+        "source_table_row": 296,
+        "source_detected": {
+          "quantity": 1,
+          "unit": "cuillère à café",
+          "ingredient": "haricots blancs cuits ou en conserve rincés et égouttés 🌯125g farine de blé T45 🌯55mL eau bouillante 🌯1cac huile d'olive 🌯1/2cac sel ."
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00299_tortillas-aux-haricots-blancs.jpg",
+    "images": [
+      "images/00299_tortillas-aux-haricots-blancs.jpg"
+    ],
+    "import_source_index": 47,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Tortillas aux haricots blancs"
+    ]
+  }
+}

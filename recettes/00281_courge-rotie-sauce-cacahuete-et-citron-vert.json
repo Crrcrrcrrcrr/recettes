@@ -1,0 +1,599 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "courge-rotie-sauce-cacahuete-et-citron-vert",
+  "recipe_id": "00281",
+  "file": "recettes/00281_courge-rotie-sauce-cacahuete-et-citron-vert.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "courge-rotie-sauce-cacahuete-et-citron-vert",
+    "title": "Courge rôtie sauce cacahuète et citron vert",
+    "original_title": "Sticky soy glazed squash/pumpkin on the creamiest peanut lime sauce (and some steamy rice if that floats your boat)",
+    "source_file": "114-Sticky soy glazed squash_pumpkin on the creamiest peanut lime sauce (and some steamy rice if that floats your boat).melarecipe",
+    "categories": [
+      "Asiatique",
+      "Assaisonnement",
+      "Légumes rôtis",
+      "Sauce"
+    ],
+    "ingredients": [
+      "0.5 unité de Courge crown",
+      "Huile d’olive",
+      "Sel",
+      "2 cuillère à soupe de Sauce Hoisin",
+      "2 cuillère à soupe de Sriracha",
+      "1 cuillère à soupe de Sirop d’agave",
+      "1 cuillère à soupe de Sauce soja",
+      "0.5 cuillère à soupe de Vinaigre de riz",
+      "1 unité de Huile de sésame",
+      "1 gousse de Ail",
+      "1 cm de Gingembre frais",
+      "100 g de Beurre de cacahuète",
+      "2 cuillère à soupe de Eau",
+      "3 cuillère à soupe de Sauce soja",
+      "1 unité de Jus de citron vert",
+      "2 cuillère à soupe de Sirop d’agave",
+      "1 cuillère à soupe de Graine de sésame",
+      "1 cuillère à soupe de Ciboulette"
+    ],
+    "ingredients_raw": "0.5 unité de Courge crown\nHuile d’olive\nSel\n2 cuillère à soupe de Sauce Hoisin\n2 cuillère à soupe de Sriracha\n1 cuillère à soupe de Sirop d’agave\n1 cuillère à soupe de Sauce soja\n0.5 cuillère à soupe de Vinaigre de riz\n1 unité de Huile de sésame\n1 gousse de Ail\n1 cm de Gingembre frais\n100 g de Beurre de cacahuète\n2 cuillère à soupe de Eau\n3 cuillère à soupe de Sauce soja\n1 unité de Jus de citron vert\n2 cuillère à soupe de Sirop d’agave\n1 cuillère à soupe de Graine de sésame\n1 cuillère à soupe de Ciboulette",
+    "instructions": "Preheat the oven to 180 fan or 200C. Take half the squash and remove the seeds. Cut it into 4-5 thick wedges, leaving the skin on. Place the wedges onto a tray,…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQE7kHzjDfR",
+    "source_id": "instagram.com/reel/DQE7kHzjDfR",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "½ Crown Prince pumpkin Olive oil and salt",
+      "½ Crown Prince pumpkin Olive oil and salt",
+      "½ Crown Prince pumpkin Olive oil and salt",
+      "2 tbsp hoisin",
+      "2 tbsp sriracha",
+      "1 tbsp agave",
+      "1 tbsp soy",
+      "½ tbsp rice vinegar",
+      "1 tsp sesame oil",
+      "1 garlic clove, grated",
+      "1 inch piece peeled ginger, grated",
+      "100g smooth peanut butter",
+      "2 tbsp water (more if needed)",
+      "3 tbsp soy sauce",
+      "1 lime juice",
+      "2 tsp agave",
+      "1 tbsp white sesame seeds",
+      "1 tbsp chopped chives"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "0.5 unité de Courge crown",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Courge crown"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce Hoisin",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce Hoisin"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sriracha",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sriracha"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sirop d’agave",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’agave"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce soja",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "0.5 cuillère à soupe de Vinaigre de riz",
+        "quantity": "0.5",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 unité de Huile de sésame",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cm de Gingembre frais",
+        "quantity": "1",
+        "unit": "cm",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "100 g de Beurre de cacahuète",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 cuillère à soupe de Eau",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      },
+      {
+        "raw": "3 cuillère à soupe de Sauce soja",
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 unité de Jus de citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron vert"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sirop d’agave",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’agave"
+      },
+      {
+        "raw": "1 cuillère à soupe de Graine de sésame",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "1 cuillère à soupe de Ciboulette",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Ciboulette"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00281",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "½ Crown Prince pumpkin Olive oil and salt",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Courge crown",
+        "source_table_row": 162,
+        "source_detected": {
+          "quantity": "½",
+          "unit": "unité",
+          "ingredient": "Crown Prince pumpkin Olive oil and salt"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Courge crown",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "½ Crown Prince pumpkin Olive oil and salt",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Huile d’olive",
+        "source_table_row": 163,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Crown Prince pumpkin Olive oil and salt"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Huile d'olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "½ Crown Prince pumpkin Olive oil and salt",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 164,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Crown Prince pumpkin Olive oil and salt"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 tbsp hoisin",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce Hoisin",
+        "source_table_row": 165,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "tbsp hoisin"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Sauce Hoisin",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 tbsp sriracha",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sriracha",
+        "source_table_row": 166,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "tbsp sriracha"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Sriracha",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tbsp agave",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sirop d’agave",
+        "source_table_row": 167,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "tbsp agave"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Sirop d’agave",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tbsp soy",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce soja",
+        "source_table_row": 168,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "tbsp soy"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Sauce soja",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "½ tbsp rice vinegar",
+        "quantity": 0.5,
+        "unit": "cuillère à soupe",
+        "ingredient": "Vinaigre de riz",
+        "source_table_row": 169,
+        "source_detected": {
+          "quantity": "½",
+          "unit": "unité",
+          "ingredient": "tbsp rice vinegar"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "cuillère à soupe",
+          "ingredient_proposed": "Vinaigre de riz",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tsp sesame oil",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Huile de sésame",
+        "source_table_row": 170,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "tsp sesame oil"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile de sésame",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 garlic clove, grated",
+        "quantity": 1,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 171,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "garlic clove, grated"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 inch piece peeled ginger, grated",
+        "quantity": 1,
+        "unit": "cm",
+        "ingredient": "Gingembre frais",
+        "source_table_row": 172,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "in"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cm",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Gingembre frais",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "100g smooth peanut butter",
+        "quantity": 100,
+        "unit": "g",
+        "ingredient": "Beurre de cacahuète",
+        "source_table_row": 173,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 100,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Beurre de cacahuète",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 tbsp water (more if needed)",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Eau",
+        "source_table_row": 174,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "3 tbsp soy sauce",
+        "quantity": 3,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce soja",
+        "source_table_row": 175,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 3,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Sauce soja",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 lime juice",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Jus de citron vert",
+        "source_table_row": 176,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Jus de citron vert",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 tsp agave",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sirop d’agave",
+        "source_table_row": 177,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Sirop d'agave",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tbsp white sesame seeds",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Graine de sésame",
+        "source_table_row": 178,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Graine de sésame",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tbsp chopped chives",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Ciboulette",
+        "source_table_row": 179,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "ok",
+          "ingredient_proposed": "Ciboulette",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00281_courge-rotie-sauce-cacahuete-et-citron-vert.jpg",
+    "images": [
+      "images/00281_courge-rotie-sauce-cacahuete-et-citron-vert.jpg"
+    ],
+    "import_source_index": 28,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Courge rôtie sauce cacahuète et citron vert"
+    ]
+  }
+}

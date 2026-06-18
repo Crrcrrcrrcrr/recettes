@@ -1,0 +1,208 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "gnocchis-de-potimarron-sauce-tomates-sechees",
+  "recipe_id": "00272",
+  "file": "recettes/00272_gnocchis-de-potimarron-sauce-tomates-sechees.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "gnocchis-de-potimarron-sauce-tomates-sechees",
+    "title": "Gnocchis de potimarron sauce tomates séchées",
+    "original_title": "Pour une fois qu’une trend est restée dans mes habitudes ..",
+    "source_file": "16-Pour une fois qu’une trend est restée dans mes habitudes ...melarecipe",
+    "categories": [
+      "Assaisonnement",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "150 g de Potimarron cuit",
+      "1 unité de Échalote",
+      "4 unité de Tomate séchée",
+      "1 cuillère à café de Curcuma",
+      "100 ml de Crème liquide entière"
+    ],
+    "ingredients_raw": "150 g de Potimarron cuit\n1 unité de Échalote\n4 unité de Tomate séchée\n1 cuillère à café de Curcuma\n100 ml de Crème liquide entière",
+    "instructions": "Mixe au robot le potimarron cuit et froid avec la farine, jusqu’à obtenir une boule que tu découpes aux ciseaux et que tu cuis 2 minutes dans une casserole d’ea…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DVOG5gEjTR0",
+    "source_id": "instagram.com/reel/DVOG5gEjTR0",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "150 g de potimarron cuit à la vapeur (ou à l’eau)",
+      "1 échalote",
+      "4 tomates séchées à l’huile",
+      "1 cuillère à café de curcuma",
+      "100 mL de crème liquide entiè"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "150 g de Potimarron cuit",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Potimarron cuit"
+      },
+      {
+        "raw": "1 unité de Échalote",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "4 unité de Tomate séchée",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "100 ml de Crème liquide entière",
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Crème liquide entière"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00272",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "150 g de potimarron cuit à la vapeur (ou à l’eau)",
+        "quantity": 150,
+        "unit": "g",
+        "ingredient": "Potimarron cuit",
+        "source_table_row": 96,
+        "source_detected": {
+          "quantity": "150",
+          "unit": "g",
+          "ingredient": "potimarron cuit à la vapeur (ou à l’eau)"
+        },
+        "table_decision": {
+          "quantity_proposed": 150,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Potimarron cuit",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "créer \"Potimarron cuit\""
+        }
+      },
+      {
+        "raw": "1 échalote",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Échalote",
+        "source_table_row": 97,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "échalote"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Échalote",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "4 tomates séchées à l’huile",
+        "quantity": 4,
+        "unit": "unité",
+        "ingredient": "Tomate séchée",
+        "source_table_row": 98,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "unité",
+          "ingredient": "tomates séchées à l’huile"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Tomate séchée",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cuillère à café de curcuma",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Curcuma",
+        "source_table_row": 99,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cuillère à café",
+          "ingredient": "curcuma"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Curcuma",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "100 mL de crème liquide entiè",
+        "quantity": 100,
+        "unit": "ml",
+        "ingredient": "Crème liquide entière",
+        "source_table_row": 100,
+        "source_detected": {
+          "quantity": "100",
+          "unit": "mL",
+          "ingredient": "crème liquide entiè"
+        },
+        "table_decision": {
+          "quantity_proposed": 100,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Crème liquide entière",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00272_gnocchis-de-potimarron-sauce-tomates-sechees.jpg",
+    "images": [
+      "images/00272_gnocchis-de-potimarron-sauce-tomates-sechees.jpg"
+    ],
+    "import_source_index": 19,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Gnocchis de potimarron sauce tomates séchées"
+    ]
+  }
+}

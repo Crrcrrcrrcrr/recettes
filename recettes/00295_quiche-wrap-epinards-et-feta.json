@@ -1,0 +1,301 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "quiche-wrap-epinards-et-feta",
+  "recipe_id": "00295",
+  "file": "recettes/00295_quiche-wrap-epinards-et-feta.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "quiche-wrap-epinards-et-feta",
+    "title": "Quiche wrap épinards et feta",
+    "original_title": "Spinach & Feta Cheats Quiche Reaction Video – recipe below",
+    "source_file": "106-Spinach & Feta Cheats Quiche Reaction Video – recipe below.melarecipe",
+    "categories": [
+      "Anglais",
+      "Froid",
+      "Pains/wraps",
+      "Plats",
+      "Tarte",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Wrap",
+      "3 unité de Œuf",
+      "45 g de Feta",
+      "40 g de Épinard",
+      "1 poignée de Tomates cerise",
+      "1 poignée de Cébette",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredients_raw": "1 unité de Wrap\n3 unité de Œuf\n45 g de Feta\n40 g de Épinard\n1 poignée de Tomates cerise\n1 poignée de Cébette\nSel\nPoivre",
+    "instructions": "Preheat oven to 180°C. Line a small tin or dish with the wrap. Add ingredients Whisk the eggs, pour it in Bake for 20 mins.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DKnOotBNbm-",
+    "source_id": "instagram.com/reel/DKnOotBNbm-",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 wholemeal wrap (acts as your crust)",
+      "3 medium eggs",
+      "45g feta, crumbled",
+      "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+      "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+      "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+      "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+      "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Wrap",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Wrap"
+      },
+      {
+        "raw": "3 unité de Œuf",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "45 g de Feta",
+        "quantity": "45",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "40 g de Épinard",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Épinard"
+      },
+      {
+        "raw": "1 poignée de Tomates cerise",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Tomates cerise"
+      },
+      {
+        "raw": "1 poignée de Cébette",
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Cébette"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00295",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 wholemeal wrap (acts as your crust)",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Wrap",
+        "source_table_row": 268,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "wholemeal wrap (acts as your crust)"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Wrap",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "3 medium eggs",
+        "quantity": 3,
+        "unit": "unité",
+        "ingredient": "Œuf",
+        "source_table_row": 269,
+        "source_detected": {
+          "quantity": "3",
+          "unit": "unité",
+          "ingredient": "medium eggs"
+        },
+        "table_decision": {
+          "quantity_proposed": 3,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Œuf",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "45g feta, crumbled",
+        "quantity": 45,
+        "unit": "g",
+        "ingredient": "Feta",
+        "source_table_row": 270,
+        "source_detected": {
+          "quantity": "45",
+          "unit": "g",
+          "ingredient": "feta, crumbled"
+        },
+        "table_decision": {
+          "quantity_proposed": 45,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Feta",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+        "quantity": 40,
+        "unit": "g",
+        "ingredient": "Épinard",
+        "source_table_row": 271,
+        "source_detected": {
+          "quantity": "40",
+          "unit": "g",
+          "ingredient": "spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep"
+        },
+        "table_decision": {
+          "quantity_proposed": 40,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Épinard",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+        "quantity": 1,
+        "unit": "poignée",
+        "ingredient": "Tomates cerise",
+        "source_table_row": 272,
+        "source_detected": {
+          "quantity": 1,
+          "unit": "poignée",
+          "ingredient": "spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "poignée",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Tomates cerise",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+        "quantity": 1,
+        "unit": "poignée",
+        "ingredient": "Cébette",
+        "source_table_row": 273,
+        "source_detected": {
+          "quantity": 1,
+          "unit": "poignée",
+          "ingredient": "spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "poignée",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Cébette",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 274,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "40g spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Poivre",
+        "source_table_row": 275,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "spinach, chopped Handful cherry tomatoes, halved Handful scallions, sliced Salt & pep"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00295_quiche-wrap-epinards-et-feta.jpg",
+    "images": [
+      "images/00295_quiche-wrap-epinards-et-feta.jpg"
+    ],
+    "import_source_index": 43,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Quiche wrap épinards et feta"
+    ]
+  }
+}

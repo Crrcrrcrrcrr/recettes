@@ -1,0 +1,55 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "risotto-butternut-lard-et-comte",
+  "recipe_id": "00298",
+  "file": "recettes/00298_risotto-butternut-lard-et-comte.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "risotto-butternut-lard-et-comte",
+    "title": "Risotto butternut, lard et comté",
+    "original_title": "RISOTTO BUTTERNUT LARD ET COMTÉ",
+    "source_file": "64-RISOTTO BUTTERNUT LARD ET COMTÉ.melarecipe",
+    "categories": [
+      "Plats",
+      "Risotto/Orzotto",
+      "Viande"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/Cikv9yiIBsy",
+    "source_id": "instagram.com/reel/Cikv9yiIBsy",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00298",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00298_risotto-butternut-lard-et-comte.jpg",
+    "images": [
+      "images/00298_risotto-butternut-lard-et-comte.jpg"
+    ],
+    "import_source_index": 46,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Risotto butternut, lard et comté",
+      "Aucun ingrédient conservé dans le tableau corrigé."
+    ]
+  }
+}

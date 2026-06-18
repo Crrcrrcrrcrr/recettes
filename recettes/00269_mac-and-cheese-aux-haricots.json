@@ -1,0 +1,57 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "mac-and-cheese-aux-haricots",
+  "recipe_id": "00269",
+  "file": "recettes/00269_mac-and-cheese-aux-haricots.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "mac-and-cheese-aux-haricots",
+    "title": "Mac and cheese aux haricots",
+    "original_title": "mc & cheese haricots",
+    "source_file": "31-mc & cheese haricots.melarecipe",
+    "categories": [
+      "Gratin",
+      "Plats",
+      "Pâtes",
+      "Vegan",
+      "Végétarien"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "mc & cheese haricots 💛 sans macaroni et sans cheese mais gratin de pâtes ça fait moins stylé La recette ➡️ tu prends 800g de haricots que tu mixes (dans le pot …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQ4i88SjHeI",
+    "source_id": "instagram.com/reel/DQ4i88SjHeI",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00269",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00269_mac-and-cheese-aux-haricots.jpg",
+    "images": [
+      "images/00269_mac-and-cheese-aux-haricots.jpg"
+    ],
+    "import_source_index": 15,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Mac and cheese aux haricots",
+      "Aucun ingrédient conservé dans le tableau corrigé."
+    ]
+  }
+}

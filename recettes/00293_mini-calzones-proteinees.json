@@ -1,0 +1,271 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "mini-calzones-proteinees",
+  "recipe_id": "00293",
+  "file": "recettes/00293_mini-calzones-proteinees.json",
+  "updated_at": "2026-06-18T07:50:59.699779+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "mini-calzones-proteinees",
+    "title": "Mini calzones protéinées",
+    "original_title": "Mini Calzone +40g de protéines",
+    "source_file": "108-Mini Calzone +40g de protéines.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Assaisonnement",
+      "Plats",
+      "Sauce",
+      "Tarte",
+      "Viande"
+    ],
+    "ingredients": [
+      "120 g de Skyr",
+      "120 g de Farine",
+      "5 g de Levure chimique",
+      "Sauce tomate",
+      "120 g de Jambon",
+      "75 g de Mozzarella râpée",
+      "2 unité de Œuf"
+    ],
+    "ingredients_raw": "120 g de Skyr\n120 g de Farine\n5 g de Levure chimique\nSauce tomate\n120 g de Jambon\n75 g de Mozzarella râpée\n2 unité de Œuf",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQMCbx_jFNN",
+    "source_id": "instagram.com/reel/DQMCbx_jFNN",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Skyr : 120g ",
+      "🌾 Farine : 120g ",
+      "🍞 Levure chimique : 5g ",
+      "🥫 Sauce tomate : ",
+      "🥓 Jambon : 120g ",
+      "🧀 Mozzarella Rapée : 75g ",
+      "🐣 Oeufs : 2 "
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "120 g de Skyr",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Skyr"
+      },
+      {
+        "raw": "120 g de Farine",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "5 g de Levure chimique",
+        "quantity": "5",
+        "unit": "g",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "Sauce tomate",
+        "quantity": "",
+        "unit": "",
+        "name": "Sauce tomate"
+      },
+      {
+        "raw": "120 g de Jambon",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Jambon"
+      },
+      {
+        "raw": "75 g de Mozzarella râpée",
+        "quantity": "75",
+        "unit": "g",
+        "name": "Mozzarella râpée"
+      },
+      {
+        "raw": "2 unité de Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00293",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Skyr : 120g ",
+        "quantity": 120,
+        "unit": "g",
+        "ingredient": "Skyr",
+        "source_table_row": 253,
+        "source_detected": {
+          "quantity": "120",
+          "unit": "g",
+          "ingredient": "calzones) : 🐄 Skyr"
+        },
+        "table_decision": {
+          "quantity_proposed": 120,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Skyr",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🌾 Farine : 120g ",
+        "quantity": 120,
+        "unit": "g",
+        "ingredient": "Farine",
+        "source_table_row": 254,
+        "source_detected": {
+          "quantity": "120",
+          "unit": "g",
+          "ingredient": "🌾 Farine"
+        },
+        "table_decision": {
+          "quantity_proposed": 120,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🍞 Levure chimique : 5g ",
+        "quantity": 5,
+        "unit": "g",
+        "ingredient": "Levure chimique",
+        "source_table_row": 255,
+        "source_detected": {
+          "quantity": "5",
+          "unit": "g",
+          "ingredient": "🍞 Levure chimique"
+        },
+        "table_decision": {
+          "quantity_proposed": 5,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Levure chimique",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🥫 Sauce tomate : ",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sauce tomate",
+        "source_table_row": 256,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "🥫 Sauce tomate : 🥓 Jambon"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sauce tomate",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🥓 Jambon : 120g ",
+        "quantity": 120,
+        "unit": "g",
+        "ingredient": "Jambon",
+        "source_table_row": 257,
+        "source_detected": {
+          "quantity": null,
+          "unit": "g",
+          "ingredient": "🥫 Sauce tomate : 🥓 Jambon"
+        },
+        "table_decision": {
+          "quantity_proposed": 120,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Jambon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🧀 Mozzarella Rapée : 75g ",
+        "quantity": 75,
+        "unit": "g",
+        "ingredient": "Mozzarella râpée",
+        "source_table_row": 258,
+        "source_detected": {
+          "quantity": null,
+          "unit": "g",
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 75,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Mozzarella râpée",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🐣 Oeufs : 2 ",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Œuf",
+        "source_table_row": 259,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Œuf",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00293_mini-calzones-proteinees.jpg",
+    "images": [
+      "images/00293_mini-calzones-proteinees.jpg"
+    ],
+    "import_source_index": 41,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Mini calzones protéinées"
+    ]
+  }
+}
