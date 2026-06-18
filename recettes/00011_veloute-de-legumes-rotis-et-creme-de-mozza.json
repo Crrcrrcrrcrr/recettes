@@ -1,0 +1,208 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "veloute-de-legumes-rotis-et-creme-de-mozza",
+  "recipe_id": "00011",
+  "file": "recettes/00011_veloute-de-legumes-rotis-et-creme-de-mozza.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "veloute-de-legumes-rotis-et-creme-de-mozza",
+    "title": "Velouté de légumes rôtis et crème de mozza",
+    "original_title": "Velouté de légumes rôtis et crème de mozza",
+    "source_file": "Velouté de légumes rôtis et crème de mozza.melarecipe",
+    "categories": [
+      "Plats",
+      "Sans instructions",
+      "Soupe/Velouté",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Potimarron",
+      "300 g de Tomate cerise",
+      "300 g de Tomate",
+      "1 unité de Poivron rouge",
+      "1 unité de Oignon rouge",
+      "1 tête de Ail",
+      "1 cuillère à soupe de Persillade",
+      "6 cuillère à soupe de Huile d’olive",
+      "1 unité de Sel",
+      "0,5 unité de Bouillon",
+      "500 ml de Eau"
+    ],
+    "ingredients_raw": "1 unité de Potimarron\n300 g de Tomate cerise\n300 g de Tomate\n1 unité de Poivron rouge\n1 unité de Oignon rouge\n1 tête de Ail\n1 cuillère à soupe de Persillade\n6 cuillère à soupe de Huile d’olive\n1 unité de Sel\n0,5 unité de Bouillon\n500 ml de Eau",
+    "instructions": "Cuisson 35 min à 190 degrés",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DA0MyElMM8b",
+    "source_id": "instagram.com/reel/DA0MyElMM8b",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 potimarron",
+      "300g de tomates cerises",
+      "300g de tomates",
+      "1 poivron rouge",
+      "1 oignon rouge",
+      "1 tête d’ail",
+      "1 cs de persillade",
+      "6 cs d’huile d’olive",
+      "Sel",
+      "1/2 bouillon",
+      "500ml d’eau"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Potimarron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "300 g de Tomate cerise",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "300 g de Tomate",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "Poivron rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Persillade",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Persillade"
+      },
+      {
+        "raw": "6 cuillère à soupe de Huile d’olive",
+        "quantity": "6",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "0,5 Bouillon",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "500 ml de Eau",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Eau"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00011",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 potimarron",
+        "quantity": "1",
+        "unit": "",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "300g de tomates cerises",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "raw": "300g de tomates",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "1 poivron rouge",
+        "quantity": "1",
+        "unit": "",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "1 oignon rouge",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 tête d’ail",
+        "quantity": "1 tête",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cs de persillade",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Persillade"
+      },
+      {
+        "raw": "6 cs d’huile d’olive",
+        "quantity": "6 cs",
+        "unit": "cs",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "1/2 bouillon",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "500ml d’eau",
+        "quantity": "500 ml",
+        "unit": "ml",
+        "name": "Eau"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00011_veloute-de-legumes-rotis-et-creme-de-mozza.jpg",
+    "images": [
+      "images/00011_veloute-de-legumes-rotis-et-creme-de-mozza.jpg"
+    ]
+  }
+}

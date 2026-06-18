@@ -1,0 +1,255 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pommes-de-terre-a-la-grecque",
+  "recipe_id": "00058",
+  "file": "recettes/00058_pommes-de-terre-a-la-grecque.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pommes-de-terre-a-la-grecque",
+    "title": "Pommes de terre à la grecque",
+    "original_title": "Pommes de terre à la grecque",
+    "source_file": "Pommes de terre à la grecque.melarecipe",
+    "categories": [
+      "Légumes rôtis",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Pomme de terre",
+      "350 ml de Bouillon de légumes",
+      "1 cuillère à café de Paprika fumé",
+      "1 cuillère à café de Oignon en poudre",
+      "1 cuillère à café de Origan",
+      "1 cuillère à café de Persil",
+      "1 unité de Jus de citron",
+      "5 gousse de Ail",
+      "1 cuillère à soupe de Huile",
+      "Quelques branche de Romarin frais"
+    ],
+    "ingredients_raw": "1 unité de Pomme de terre\n350 ml de Bouillon de légumes\n1 cuillère à café de Paprika fumé\n1 cuillère à café de Oignon en poudre\n1 cuillère à café de Origan\n1 cuillère à café de Persil\n1 unité de Jus de citron\n5 gousse de Ail\n1 cuillère à soupe de Huile\nQuelques branche de Romarin frais",
+    "instructions": "Coupez des petites pommes de terre et placez-les dans un plat à gratin profond.\nMélangez 300-400 ml (ou suffisamment pour recouvrir les pommes de terre dans le plat) de bouillon de “poulet” végétalien, ou utilisez du bouillon de légumes si c’est plus simple.\nAjoutez 1 cuillère à café de paprika fumé, de granulés d’oignon, d’origan, de persil, le jus d’un gros citron, 5 gousses d’ail finement hachées et 1 cuillère à soupe d’huile au bouillon.\nVersez le mélange sur les pommes de terre, ajoutez quelques branches de romarin frais et faites cuire à 200°C pendant environ 1h30.\nSurveillez et remuez régulièrement. Si elles commencent à trop dorer avant d’avoir absorbé tout le bouillon, ajustez la température et couvrez-les avec du papier aluminium.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C9ifa7xKH9r",
+    "source_id": "instagram.com/reel/C9ifa7xKH9r",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Petites pommes de terre",
+      "300-400 ml de bouillon de “poulet” végétalien ou bouillon de légumes",
+      "1 cc de paprika fumé",
+      "1 cc de granulés d’oignon",
+      "1 cc d’origan",
+      "1 cc de persil",
+      "Jus d’un gros citron",
+      "5 gousses d’ail finement hachées",
+      "1 cs d’huile",
+      "Quelques branches de romarin frais"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Petites pommes de terre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pomme de terre"
+      },
+      {
+        "raw": "350 ml de Bouillon de légumes",
+        "quantity": "350",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika fumé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 cuillère à café de Granulés d’oignon",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Oignon en poudre"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "1 cuillère à café de Persil",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Persil"
+      },
+      {
+        "raw": "1 unité de Jus de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "5 gousse de Ail",
+        "quantity": "5",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "Quelques branche de Romarin frais",
+        "quantity": "Quelques",
+        "unit": "branche",
+        "name": "Romarin frais"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00058",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Petites pommes de terre",
+        "quantity": "",
+        "unit": "",
+        "name": "Petites pommes de terre"
+      },
+      {
+        "raw": "300-400 ml de bouillon de “poulet” végétalien ou bouillon de légumes",
+        "quantity": "300-400 ml",
+        "unit": "ml",
+        "name": "Bouillon de “poulet” végétalien ou bouillon de légumes"
+      },
+      {
+        "raw": "1 cc de paprika fumé",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 cc de granulés d’oignon",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Granulés d’oignon"
+      },
+      {
+        "raw": "1 cc d’origan",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Origan"
+      },
+      {
+        "raw": "1 cc de persil",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Persil"
+      },
+      {
+        "raw": "Jus d’un gros citron",
+        "quantity": "",
+        "unit": "",
+        "name": "Jus d’un gros citron"
+      },
+      {
+        "raw": "5 gousses d’ail finement hachées",
+        "quantity": "5 gousses",
+        "unit": "gousses",
+        "name": "Ail finement hachées"
+      },
+      {
+        "raw": "1 cs d’huile",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Huile"
+      },
+      {
+        "raw": "Quelques branches de romarin frais",
+        "quantity": "Quelques branches",
+        "unit": "branches",
+        "name": "Romarin frais"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00058_pommes-de-terre-a-la-grecque.jpg",
+    "images": [
+      "images/00058_pommes-de-terre-a-la-grecque.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Petites pommes de terre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Petites pommes de terre"
+      },
+      {
+        "raw": "350 ml de Bouillon de légumes",
+        "quantity": "350",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika fumé",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika fumé"
+      },
+      {
+        "raw": "1 cuillère à café de Granulés d’oignon",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Granulés d’oignon"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "1 cuillère à café de Persil",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Persil"
+      },
+      {
+        "raw": "1 unité de Jus de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "5 gousse de Ail",
+        "quantity": "5",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile"
+      },
+      {
+        "raw": "Quelques branche de Romarin frais",
+        "quantity": "Quelques",
+        "unit": "branche",
+        "name": "Romarin frais"
+      }
+    ]
+  }
+}

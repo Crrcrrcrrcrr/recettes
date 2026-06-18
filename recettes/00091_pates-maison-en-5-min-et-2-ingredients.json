@@ -1,0 +1,154 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-maison-en-5-min-et-2-ingredients",
+  "recipe_id": "00091",
+  "file": "recettes/00091_pates-maison-en-5-min-et-2-ingredients.json",
+  "updated_at": "2026-06-12T11:34:22.228295+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-maison-en-5-min-et-2-ingredients",
+    "title": "Pâtes maison en 5 min et 2 ingrédients",
+    "original_title": "Pâtes maison en 5 min et 2 ingrédients",
+    "source_file": "Pâtes maison en 5 min et 2 ingrédients.melarecipe",
+    "categories": [
+      "Pâtes",
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Brocoli cuit",
+      "200 g de Farine",
+      "1 peu de Ail",
+      "1 unité de Beurre",
+      "1 unité de Crème",
+      "1 unité de Parmesan"
+    ],
+    "ingredients_raw": "1 unité de Brocoli cuit\n200 g de Farine\n1 peu de Ail\n1 unité de Beurre\n1 unité de Crème\n1 unité de Parmesan",
+    "instructions": "Mixez le brocolis cuit vapeur avec la farine\nFormez une boule puis decoupez à l’aide d’un ciseau comme sur la video dans l’eau bouillante\nFaites cuire jusqu’à ce qu’elles remontent à la surface (environ 3 min)\nVersez les pates dans la sauce de votre choix",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C4u2xAfoEwh",
+    "source_id": "instagram.com/reel/C4u2xAfoEwh",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 brocolis cuit vapeur , puis refroidis",
+      "200g de farine ( si la pate colle trop rajouter un peu tout depend de la taille du brocolis)",
+      "Pour la sauce : vous faites ce que vous voulez pour ma part j’ai fais revenir de l’ail dans du beurre un peu de creme et du parmesan"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Brocoli cuit",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Brocoli cuit"
+      },
+      {
+        "raw": "200 g de Farine ( si la pate colle trop rajouter un peu tout depend de la taille du brocolis)",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Farine"
+      },
+      {
+        "raw": "1 peu de Ail",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Ail"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Crème",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Crème"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00091",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 brocolis cuit vapeur , puis refroidis",
+        "quantity": "1",
+        "unit": "",
+        "name": "Brocolis cuit vapeur , puis refroidis"
+      },
+      {
+        "raw": "200g de farine ( si la pate colle trop rajouter un peu tout depend de la taille du brocolis)",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Farine ( si la pate colle trop rajouter un peu tout depend de la taille du brocolis)"
+      },
+      {
+        "raw": "Pour la sauce : vous faites ce que vous voulez pour ma part j’ai fais revenir de l’ail dans du beurre un peu de creme et du parmesan",
+        "quantity": "",
+        "unit": "",
+        "name": "Pour la sauce : vous faites ce que vous voulez pour ma part j’ai fais revenir de l’ail dans du beurre un peu de creme et du parmesan"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00091_pates-maison-en-5-min-et-2-ingredients.jpg",
+    "images": [
+      "images/00091_pates-maison-en-5-min-et-2-ingredients.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "1 unité de Brocoli cuit",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Brocoli cuit"
+      },
+      {
+        "raw": "200 g de Farine ( si la pate colle trop rajouter un peu tout depend de la taille du brocolis)",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Farine ( si la pate colle trop rajouter un peu tout depend de la taille du brocolis)"
+      },
+      {
+        "raw": "1 peu de Ail",
+        "quantity": "1",
+        "unit": "peu",
+        "name": "Ail"
+      },
+      {
+        "raw": "Beurre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "raw": "Crème",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Crème"
+      },
+      {
+        "raw": "Parmesan",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Parmesan"
+      }
+    ]
+  }
+}
