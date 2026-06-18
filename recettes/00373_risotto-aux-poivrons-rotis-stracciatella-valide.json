@@ -1,0 +1,112 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "risotto-aux-poivrons-rotis-stracciatella",
+  "recipe_id": "00373",
+  "file": "recettes/00373_risotto-aux-poivrons-rotis-stracciatella.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "id": "risotto-aux-poivrons-rotis-stracciatella",
+    "title": "Risotto aux poivrons rôtis et stracciatella",
+    "source": "https://www.instagram.com/reel/DZp0BWtIF5e",
+    "source_id": "instagram.com/reel/DZp0BWtIF5e",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Risotto / Orzotto"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": 4,
+    "image": "images/00373_risotto-aux-poivrons-rotis-stracciatella.jpg",
+    "favorite": false,
+    "want_to_cook": false,
+    "ingredients": [
+      "Riz à risotto",
+      "Poivron rouge",
+      "Ail",
+      "Bouillon de légumes",
+      "Burrata",
+      "Huile d’olive",
+      "Basilic",
+      "Flocons de piment",
+      "Sel",
+      "Poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "300 g de riz arborio",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Riz à risotto"
+      },
+      {
+        "raw": "3 poivrons rouges",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "1 tête d’ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 L de bouillon de légumes chaud",
+        "quantity": "1000",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "1 burrata ou 200 g de stracciatella",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "2 c. à soupe d’huile d’olive",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Quelques feuilles de basilic",
+        "quantity": null,
+        "unit": null,
+        "name": "Basilic"
+      },
+      {
+        "raw": "Flocons de piment",
+        "quantity": null,
+        "unit": null,
+        "name": "Flocons de piment"
+      },
+      {
+        "raw": "Sel",
+        "quantity": null,
+        "unit": null,
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": null,
+        "unit": null,
+        "name": "Poivre"
+      }
+    ],
+    "instructions": "1. Préchauffer le four à 200°C.\n2. Couper les poivrons en morceaux et les déposer sur une plaque avec la tête d’ail entière.\n3. Arroser d’huile d’olive, saler et poivrer.\n4. Enfourner 35 à 40 minutes jusqu’à ce que les poivrons soient tendres.\n5. Presser l’ail rôti puis le mixer avec les poivrons afin d’obtenir une crème lisse.\n6. Faire revenir le riz à risotto 2 minutes dans un filet d’huile d’olive.\n7. Ajouter progressivement le bouillon chaud en remuant régulièrement.\n8. À mi-cuisson, incorporer la crème de poivrons.\n9. Poursuivre la cuisson jusqu’à obtenir un risotto crémeux.\n10. Servir avec la burrata, quelques feuilles de basilic, un filet d’huile d’olive et des flocons de piment.",
+    "notes": "",
+    "duplicate_check": "Aucun doublon détecté"
+  }
+}

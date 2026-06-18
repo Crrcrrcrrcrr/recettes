@@ -1,0 +1,91 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "smoothie-snickers-aux-haricots-blancs",
+  "recipe_id": "00371",
+  "file": "recettes/00371_smoothie-snickers-aux-haricots-blancs.json",
+  "updated_at": "2026-06-18T20:38:52.788007+00:00",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "smoothie-snickers-aux-haricots-blancs",
+    "title": "Smoothie Snickers aux haricots blancs",
+    "source_file": "1-SMOOTHIE \"SNICKERS\" AUX HARICOTS BLANCS.melarecipe",
+    "categories": [
+      "Boissons",
+      "Jus / Smoothies"
+    ],
+    "servings": null,
+    "ingredients": [
+      "200 g de Haricots blancs",
+      "2 cuillère à café de Sucre brun",
+      "2 cuillère à soupe de Beurre de cacahuète",
+      "2 cuillère à café de Arôme de vanille",
+      "1 pincée de Sel",
+      "200 ml de Lait végétal",
+      "1 cuillère à soupe de Cacao en poudre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de haricots blancs (cuits, sans sel, bien rincés)",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Haricots blancs"
+      },
+      {
+        "raw": "2 c. à café au moins de sucre complet ou de sirop d'érable (j'ai complété avec de l'edulcorant)",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Sucre brun"
+      },
+      {
+        "raw": "2 c. à soupe généreuses de peanut butter",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 c. à café d'arôme vanille",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Arôme de vanille"
+      },
+      {
+        "raw": "1 grosse pincée de sel",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "raw": "200 ml de lait végétal",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Lait végétal"
+      },
+      {
+        "raw": "1 c. à soupe bombée de cacao en poudre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cacao en poudre"
+      }
+    ],
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DZfgYyrK8IT",
+    "source_id": "instagram.com/reel/DZfgYyrK8IT",
+    "favorite": false,
+    "want_to_cook": false,
+    "image": "images/00371_smoothie-snickers-aux-haricots-blancs.jpg",
+    "image_count": 1,
+    "duplicate_check": "Aucun doublon détecté"
+  }
+}

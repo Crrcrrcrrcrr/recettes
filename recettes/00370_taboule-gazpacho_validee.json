@@ -1,0 +1,125 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "taboule-gazpacho",
+  "recipe_id": "00370",
+  "file": "recettes/00370_taboule-gazpacho.json",
+  "updated_at": "2026-06-18T20:09:11.774380+00:00",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "taboule-gazpacho",
+    "title": "Taboulé au gazpacho",
+    "original_title": "TABOULÉ GAZPACHO",
+    "source_file": "0-TABOULE#U0301 GAZPACHO.melarecipe",
+    "categories": [
+      "Plats",
+      "Salade",
+      "Froid",
+      "Végétarien"
+    ],
+    "categories_proposed": [
+      "Plats",
+      "Salade",
+      "Froid",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "350 g de semoule",
+      "1000 ml de gazpacho",
+      "1 unité de Jus de citron",
+      "Sel",
+      "Poivre",
+      "Menthe"
+    ],
+    "ingredients_raw": "350 g de semoule\n1000 ml de gazpacho\n1 unité de Jus de citron\nSel\nPoivre\nMenthe",
+    "instructions": "1. Verser la semoule dans un grand saladier.\n2. Ajouter le gazpacho, le jus de citron et la menthe ciselée.\n3. Mélanger soigneusement.\n4. Couvrir le saladier avec un film alimentaire.\n5. Laisser gonfler au réfrigérateur pendant au moins 30 minutes.\n6. Pour un résultat optimal, préparer la veille et laisser reposer toute une nuit au réfrigérateur.\n7. Assaisonner avec le sel et le poivre avant de servir.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DZVEQcQg3WL",
+    "source_id": "instagram.com/reel/DZVEQcQg3WL",
+    "favorite": false,
+    "want_to_cook": false,
+    "image": "images/00370_taboule-gazpacho.jpg",
+    "image_count": 1,
+    "ingredient_items_cleaned": [
+      {
+        "raw": "350 g de semoule",
+        "quantity": "350",
+        "unit": "g",
+        "name": "Semoule"
+      },
+      {
+        "raw": "1000 ml de gazpacho",
+        "quantity": "1000",
+        "unit": "ml",
+        "name": "Gazpacho"
+      },
+      {
+        "raw": "1 unité de Jus de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Menthe",
+        "quantity": "",
+        "unit": "",
+        "name": "Menthe"
+      }
+    ],
+    "ingredient_matching": [
+      {
+        "source": "semoule à couscous de grains moyens",
+        "proposed": "Semoule",
+        "action": "Créer un nouvel ingrédient validé utilisateur"
+      },
+      {
+        "source": "gazpacho",
+        "proposed": "Gazpacho",
+        "action": "Créer un nouvel ingrédient validé utilisateur"
+      },
+      {
+        "source": "jus d’un citron jaune",
+        "proposed": "Jus de citron",
+        "action": "Utiliser l’existant"
+      },
+      {
+        "source": "Sel & poivre",
+        "proposed": "Sel",
+        "action": "Utiliser l’existant"
+      },
+      {
+        "source": "Sel & poivre",
+        "proposed": "Poivre",
+        "action": "Utiliser l’existant"
+      },
+      {
+        "source": "Menthe fraîche ciselée",
+        "proposed": "Menthe",
+        "action": "Utiliser l’existant"
+      }
+    ],
+    "duplicate_check": "Aucun doublon détecté"
+  }
+}

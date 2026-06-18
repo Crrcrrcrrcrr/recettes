@@ -1,0 +1,58 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "biscuits-en-2-ingredients",
+  "recipe_id": "00376",
+  "file": "recettes/00376_biscuits-en-2-ingredients.json",
+  "updated_at": "2026-06-18T21:05:29.949763+00:00",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "id": "biscuits-en-2-ingredients",
+    "title": "Biscuits 2 ingrédients à l’amande et au sirop d’érable",
+    "source_file": "6-#Ufe0f BISCUITS EN 2 INGRE#U0301DIENTS.melarecipe",
+    "categories": [
+      "Sucré",
+      "Biscuits",
+      "Végétarien"
+    ],
+    "servings": 10,
+    "servings_unit": "biscuits",
+    "ingredients": [
+      "150 g de poudre d’amande",
+      "90 g de sirop d’érable"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "150 g de poudre d’amandes",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Poudre d’amande"
+      },
+      {
+        "raw": "90 g de sirop d’érable",
+        "quantity": "90",
+        "unit": "g",
+        "name": "Sirop d’érable"
+      }
+    ],
+    "instructions": "1. Mélanger la poudre d’amande et le sirop d’érable dans un saladier.\n2. Former 10 boules de taille égale avec les mains.\n3. Les placer sur une plaque de cuisson.\n4. Les aplatir doucement avec une fourchette.\n5. Enfourner 12 minutes à 180 °C en surveillant.\n6. Sortir du four lorsque les bords sont dorés.\n7. Laisser refroidir complètement sans manipuler les biscuits.\n8. Déguster ou conserver dans une boîte métallique.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DWCJKvNjOd-",
+    "source_id": "instagram.com/reel/DWCJKvNjOd-",
+    "favorite": false,
+    "want_to_cook": false,
+    "image": "images/00376_biscuits-en-2-ingredients.jpg",
+    "image_count": 1,
+    "duplicate_check": "Aucun doublon détecté"
+  }
+}

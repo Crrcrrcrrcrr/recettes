@@ -1,0 +1,66 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "muffins-healthy",
+  "recipe_id": "00387",
+  "file": "recettes/00387_muffins-healthy.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "id": "muffins-healthy",
+    "title": "Muffins healthy banane et avoine",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "servings": 2,
+    "image": "images/00387_muffins-healthy.jpg",
+    "link": "https://www.instagram.com/reel/DKcRcv_MsKY",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Flocons d'avoine"
+      },
+      {
+        "quantity": "50",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "quelques",
+        "unit": "",
+        "name": "Pépites de chocolat"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d'érable"
+      }
+    ],
+    "instructions": "1. Préchauffer le four à 180 °C.\n2. Mettre dans un blender l'œuf, la demi-banane, le lait, les flocons d'avoine et la levure chimique.\n3. Mixer quelques secondes jusqu'à obtenir une préparation homogène.\n4. Répartir la pâte dans des moules à muffins ou ramequins.\n5. Ajouter quelques pépites de chocolat.\n6. Cuire 20 minutes à 180 °C.\n7. Vérifier la cuisson avec la pointe d'un couteau.\n8. Laisser refroidir avant de démouler et déguster."
+  }
+}

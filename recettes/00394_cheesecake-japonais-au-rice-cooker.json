@@ -1,0 +1,73 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cheesecake-japonais-au-rice-cooker",
+  "recipe_id": "00394",
+  "file": "recettes/00394_cheesecake-japonais-au-rice-cooker.json",
+  "updated_at": "2026-06-18T21:54:46.772820+00:00",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "id": "cheesecake-japonais-au-rice-cooker",
+    "title": "Cheesecake japonais au rice cooker",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "servings": null,
+    "image": "images/00394_alors-vous-etes-plutot-team-cheesecake-japonais-ou-cheesec.jpg",
+    "link": "https://www.instagram.com/reel/DPwV6bLiJPC",
+    "source_id": "instagram.com/reel/DPwV6bLiJPC",
+    "favorite": false,
+    "want_to_cook": false,
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 g de fromage Philadelphia ramolli",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Fromage frais"
+      },
+      {
+        "raw": "200 ml de crème liquide entière",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Crème liquide entière"
+      },
+      {
+        "raw": "4 œufs",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "85 g de sucre",
+        "quantity": "85",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "50 g de farine T45",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "Sucre glace (pour la présentation)",
+        "quantity": null,
+        "unit": null,
+        "name": "Sucre glace"
+      }
+    ],
+    "instructions": "1. Écraser le fromage frais dans un grand bol avec une spatule pour l’assouplir.\n2. Ajouter la crème liquide et mélanger jusqu’à obtenir une texture lisse.\n3. Séparer les blancs des jaunes d’œufs.\n4. Ajouter les jaunes d’œufs et fouetter pour homogénéiser.\n5. Incorporer la farine tamisée.\n6. Monter les blancs en neige en ajoutant le sucre en 3 fois.\n7. Incorporer délicatement les blancs montés à la pâte, en plusieurs fois, avec une spatule.\n8. Beurrer légèrement la cuve du rice cooker.\n9. Lancer la cuisson. Utiliser le mode Brown Rice si disponible, environ 105 minutes. Relancer un cycle si besoin.\n10. Laisser en maintien au chaud 10 à 15 minutes.\n11. Démouler, puis laisser au frais 2 à 4 heures, ou toute une nuit, avant dégustation.",
+    "notes": "",
+    "source_file": "24-Alors vous e#U0302tes pluto#U0302t team : cheesecake japonais ou cheesecake ame#U0301ricain ?.melarecipe"
+  }
+}

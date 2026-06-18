@@ -1,0 +1,92 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cake-marbre-healthy-2",
+  "recipe_id": "00400",
+  "file": "recettes/00400_cake-marbre-healthy-2.json",
+  "updated_at": "2026-06-18T22:05:40.302008+00:00",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "id": "cake-marbre-healthy-2",
+    "title": "Cake marbré healthy",
+    "original_title": "Cake Marbré Healthy",
+    "source_file": "30-Cake Marbre#U0301 Healthy.melarecipe",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "servings": "1 cake de 20 cm",
+    "ingredients": [
+      "200 g de Compote de pommes sans sucre ajouté",
+      "3 unité de Œuf",
+      "30 g de Sirop d’agave",
+      "100 g de Farine de blé T140",
+      "0,5 sachet de Levure chimique",
+      "80 g de Chocolat",
+      "quelques Pépites de chocolat"
+    ],
+    "ingredients_raw": "✅ IG BAS\n✅ sans beurre\n✅ sans sucre raffiné\n✅ faible en calories\n# Ingrédients pour 1 cake de 20cm:\n* 200g de compote de pommes SSA\n* 3 œufs\n* 30g de sirop d’agave\n* 100g de farine de blé ou épeautre T110\n* 1/2 sachet de levure chimique\n* 80g de chocolat noir 74%\n* quelques pépites de chocolat noir",
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200g de compote de pommes SSA",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Compote de pommes sans sucre ajouté"
+      },
+      {
+        "raw": "3 œufs",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "30g de sirop d’agave",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Sirop d’agave"
+      },
+      {
+        "raw": "100g de farine de blé ou épeautre T110",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Farine de blé T140"
+      },
+      {
+        "raw": "1/2 sachet de levure chimique",
+        "quantity": "0,5",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "80g de chocolat noir 74%",
+        "quantity": "80",
+        "unit": "g",
+        "name": "Chocolat"
+      },
+      {
+        "raw": "quelques pépites de chocolat noir",
+        "quantity": "quelques",
+        "unit": "",
+        "name": "Pépites de chocolat"
+      }
+    ],
+    "instructions": "Cuisson au four 35’ à 180 degrés",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DRfTOfPDJ3p",
+    "source_id": "instagram.com/reel/DRfTOfPDJ3p",
+    "favorite": false,
+    "want_to_cook": false,
+    "image": "images/00400_cake-marbre-healthy-2.jpg",
+    "image_count": 1,
+    "duplicate_check": "Aucun doublon détecté"
+  }
+}
