@@ -1,0 +1,359 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-cremeuses-feta-et-butternut",
+  "recipe_id": "00260",
+  "file": "recettes/00260_pates-cremeuses-feta-et-butternut.json",
+  "updated_at": "2026-06-18T18:24:59.694130+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-cremeuses-feta-et-butternut",
+    "title": "Pâtes crémeuses feta et butternut",
+    "original_title": "PÂTES CRÉMEUSES FETA & BUTTERNUT",
+    "source_file": "93-PÂTES CRÉMEUSES FETA & BUTTERNUT.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Butternut",
+      "1 bloc de Feta",
+      "1 filet de Huile d’olive",
+      "Paprika",
+      "Sel",
+      "Poivre",
+      "Origan",
+      "Romarin",
+      "Lardons",
+      "Persil"
+    ],
+    "ingredients_raw": "1 unité de Butternut\n1 bloc de Feta\n1 filet de Huile d’olive\nPaprika\nSel\nPoivre\nOrigan\nRomarin\nLardons\nPersil",
+    "instructions": "Préchauffe ton four à 180 °C. Épluche et coupe la butternut en petits cubes. Dispose-les dans un plat allant au four. Ajoute le bloc de feta au centre du plat. …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPgJFpzjL9n",
+    "source_id": "instagram.com/reel/DPgJFpzjL9n",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 butternut",
+      "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+      "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+      "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+      "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+      "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+      "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+      "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+      "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+      "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Butternut",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Butternut"
+      },
+      {
+        "raw": "1 bloc de Feta",
+        "quantity": "1",
+        "unit": "bloc",
+        "name": "Feta"
+      },
+      {
+        "raw": "1 filet de Huile d’olive",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "",
+        "unit": "",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Origan",
+        "quantity": "",
+        "unit": "",
+        "name": "Origan"
+      },
+      {
+        "raw": "Romarin",
+        "quantity": "",
+        "unit": "",
+        "name": "Romarin"
+      },
+      {
+        "raw": "Lardons",
+        "quantity": "",
+        "unit": "",
+        "name": "Lardons"
+      },
+      {
+        "raw": "Persil",
+        "quantity": "",
+        "unit": "",
+        "name": "Persil"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00260",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 butternut",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Butternut",
+        "source_table_row": 31,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "butternut"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Butternut",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+        "quantity": 1,
+        "unit": "bloc",
+        "ingredient": "Feta",
+        "source_table_row": 32,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "bloc",
+          "ingredient": "feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "bloc",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Feta",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+        "quantity": 1,
+        "unit": "filet",
+        "ingredient": "Huile d’olive",
+        "source_table_row": 33,
+        "source_detected": {
+          "quantity": 1,
+          "unit": "filet",
+          "ingredient": "feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "filet",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile d’olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Paprika",
+        "source_table_row": 34,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Paprika",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Sel",
+        "source_table_row": 35,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Poivre",
+        "source_table_row": 36,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Origan",
+        "source_table_row": 37,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Origan",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Romarin",
+        "source_table_row": 38,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Romarin",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Lardons",
+        "source_table_row": 39,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Lardons",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 bloc de feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Persil",
+        "source_table_row": 40,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "feta Assaisonnement : filet d’huile d’olive, paprika, sel, poivre, origan et romarin Lardons Persil frais"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Persil",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00260_pates-cremeuses-feta-et-butternut.jpg",
+    "images": [
+      "images/00260_pates-cremeuses-feta-et-butternut.jpg"
+    ],
+    "import_source_index": 6,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Pâtes crémeuses feta et butternut"
+    ]
+  }
+}

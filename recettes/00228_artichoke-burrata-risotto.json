@@ -1,0 +1,407 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "artichoke-burrata-risotto",
+  "recipe_id": "00228",
+  "file": "recettes/00228_artichoke-burrata-risotto.json",
+  "updated_at": "2026-06-18T18:24:59.677547+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "artichoke-burrata-risotto",
+    "title": "Artichoke & Burrata Risotto",
+    "original_title": "Artichoke & Burrata Risotto",
+    "source_file": "Artichoke & Burrata Risotto.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Risotto / Orzotto",
+      "Recette en anglais",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Échalote",
+      "2 gousse de Ail",
+      "4 cuillère à soupe de Huile d’olive",
+      "2 cuillère à soupe de Beurre",
+      "1 cups de Riz à risotto",
+      "0,25 cups de Vin blanc",
+      "3/4 cups de Bouillon de légumes",
+      "2 boîte de Cœur d'artichaut",
+      "1/2 cups de Parmesan",
+      "1 unité de Sel",
+      "0,5 cuillère à soupe de Poivre",
+      "1 unité de Zeste de citron",
+      "8 feuilles de Basilic",
+      "2 cuillère à soupe de Persil",
+      "2 unité de Burrata",
+      "1 unité de Huile d’olive",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "1 unité de Échalote\n2 gousse de Ail\n4 cuillère à soupe de Huile d’olive\n2 cuillère à soupe de Beurre\n1 cups de Riz à risotto\n0,25 cups de Vin blanc\n3/4 cups de Bouillon de légumes\n2 boîte de Cœur d'artichaut\n1/2 cups de Parmesan\n1 unité de Sel\n0,5 cuillère à soupe de Poivre\n1 unité de Zeste de citron\n8 feuilles de Basilic\n2 cuillère à soupe de Persil\n2 unité de Burrata\n1 unité de Huile d’olive\n1 unité de Poivre",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DN3X1LvXE6G",
+    "source_id": "instagram.com/reel/DN3X1LvXE6G",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "# For the risotto:",
+      "1-2 shallots, finely chopped",
+      "2 cloves garlic, peeled",
+      "4 tbsp Colavita Extra Virgin Olive Oil, divided",
+      "2 tbsp unsalted butter",
+      "1 cup Colavita Arborio Rice",
+      "¼ cup dry white wine, such as Chardonnay",
+      "3-4 cups vegetable broth (see Notes)",
+      "2 jars (9.87 oz each) Colavita Artichoke Hearts in Extra Virgin Olive Oil, halved",
+      "About 1/2 cup grated Parmigiano Reggiano, plus extra for garnish",
+      "Fine sea salt, to taste",
+      "½ tsp freshly ground black pepper (optional)",
+      "Zeste of 1 lemon",
+      "8 basil leaves, chopped just before adding",
+      "# For serving:",
+      "2 tbsp fresh parsley, chopped",
+      "2 burrata, torn",
+      "Drizzle of Colavita Extra Virgin Olive Oil, optional",
+      "Freshly ground black pepper, to taste"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Echalottes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "4 cuillère à soupe de Huile d'olive",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre"
+      },
+      {
+        "raw": "1 cups de Riz à risotto",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Riz à risotto"
+      },
+      {
+        "raw": "0,25 cups de Vin blanc",
+        "quantity": "0,25",
+        "unit": "tasse",
+        "name": "Vin blanc"
+      },
+      {
+        "raw": "3/4 cups de Bouillon de légumes",
+        "quantity": "3/4",
+        "unit": "tasse",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "2 Jars (9.87 oz each) Colavita Artichoke Hearts in Extra Virgin Olive Oil, halved",
+        "quantity": "2",
+        "unit": "boîte",
+        "name": "Cœur d'artichaut"
+      },
+      {
+        "raw": "1/2 cups de Parmesan",
+        "quantity": "1/2",
+        "unit": "tasse",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Poivre",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Zeste de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Zeste de citron"
+      },
+      {
+        "raw": "8 feuilles de Basilic",
+        "quantity": "8",
+        "unit": "feuille",
+        "name": "Basilic"
+      },
+      {
+        "raw": "2 cuillère à soupe de Persil",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Persil"
+      },
+      {
+        "raw": "2 Burrata",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "Huile d'olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00228",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "# For the risotto:",
+        "type": "section"
+      },
+      {
+        "raw": "1-2 shallots, finely chopped",
+        "quantity": "1-2",
+        "unit": "",
+        "name": "Shallots, finely chopped"
+      },
+      {
+        "raw": "2 cloves garlic, peeled",
+        "quantity": "2",
+        "unit": "",
+        "name": "Cloves garlic, peeled"
+      },
+      {
+        "raw": "4 tbsp Colavita Extra Virgin Olive Oil, divided",
+        "quantity": "4",
+        "unit": "",
+        "name": "Tbsp Colavita Extra Virgin Olive Oil, divided"
+      },
+      {
+        "raw": "2 tbsp unsalted butter",
+        "quantity": "2",
+        "unit": "",
+        "name": "Tbsp unsalted butter"
+      },
+      {
+        "raw": "1 cup Colavita Arborio Rice",
+        "quantity": "1",
+        "unit": "",
+        "name": "Cup Colavita Arborio Rice"
+      },
+      {
+        "raw": "¼ cup dry white wine, such as Chardonnay",
+        "quantity": "¼",
+        "unit": "",
+        "name": "Cup dry white wine, such as Chardonnay"
+      },
+      {
+        "raw": "3-4 cups vegetable broth (see Notes)",
+        "quantity": "3-4",
+        "unit": "",
+        "name": "Cups vegetable broth (see Notes)"
+      },
+      {
+        "raw": "2 jars (9.87 oz each) Colavita Artichoke Hearts in Extra Virgin Olive Oil, halved",
+        "quantity": "2",
+        "unit": "",
+        "name": "Jars (9.87 oz each) Colavita Artichoke Hearts in Extra Virgin Olive Oil, halved"
+      },
+      {
+        "raw": "About 1/2 cup grated Parmigiano Reggiano, plus extra for garnish",
+        "quantity": "",
+        "unit": "",
+        "name": "About 1/2 cup grated Parmigiano Reggiano, plus extra for garnish"
+      },
+      {
+        "raw": "Fine sea salt, to taste",
+        "quantity": "",
+        "unit": "",
+        "name": "Fine sea salt, to taste"
+      },
+      {
+        "raw": "½ tsp freshly ground black pepper (optional)",
+        "quantity": "½",
+        "unit": "",
+        "name": "Tsp freshly ground black pepper (optional)"
+      },
+      {
+        "raw": "Zeste of 1 lemon",
+        "quantity": "",
+        "unit": "",
+        "name": "Zeste of 1 lemon"
+      },
+      {
+        "raw": "8 basil leaves, chopped just before adding",
+        "quantity": "8",
+        "unit": "",
+        "name": "Basil leaves, chopped just before adding"
+      },
+      {
+        "raw": "# For serving:",
+        "type": "section"
+      },
+      {
+        "raw": "2 tbsp fresh parsley, chopped",
+        "quantity": "2",
+        "unit": "",
+        "name": "Tbsp fresh parsley, chopped"
+      },
+      {
+        "raw": "2 burrata, torn",
+        "quantity": "2",
+        "unit": "",
+        "name": "Burrata, torn"
+      },
+      {
+        "raw": "Drizzle of Colavita Extra Virgin Olive Oil, optional",
+        "quantity": "",
+        "unit": "",
+        "name": "Drizzle of Colavita Extra Virgin Olive Oil, optional"
+      },
+      {
+        "raw": "Freshly ground black pepper, to taste",
+        "quantity": "",
+        "unit": "",
+        "name": "Freshly ground black pepper, to taste"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00228_artichoke-burrata-risotto.jpg",
+    "images": [
+      "images/00228_artichoke-burrata-risotto.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Echalottes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Echalottes"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "4 cuillère à soupe de Huile d'olive",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Huile d'olive"
+      },
+      {
+        "raw": "2 cuillère à soupe de Beurre",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre"
+      },
+      {
+        "raw": "1 cups de Riz à risotto",
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Riz à risotto"
+      },
+      {
+        "raw": "0,25 cups de Vin blanc",
+        "quantity": "0,25",
+        "unit": "tasse",
+        "name": "Vin blanc"
+      },
+      {
+        "raw": "3/4 cups de Bouillon de légumes",
+        "quantity": "3/4",
+        "unit": "tasse",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "2 Jars (9.87 oz each) Colavita Artichoke Hearts in Extra Virgin Olive Oil, halved",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Jars (9.87 oz each) Colavita Artichoke Hearts in Extra Virgin Olive Oil, halved"
+      },
+      {
+        "raw": "1/2 cups de Parmesan",
+        "quantity": "1/2",
+        "unit": "tasse",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "0,5 cuillère à soupe de Poivre",
+        "quantity": "0,5",
+        "unit": "cuillère à soupe",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Zeste de citron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Zeste de citron"
+      },
+      {
+        "raw": "8 feuilles de Basilic",
+        "quantity": "8",
+        "unit": "feuille",
+        "name": "Basilic"
+      },
+      {
+        "raw": "2 cuillère à soupe de Persil",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Persil"
+      },
+      {
+        "raw": "2 Burrata",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "Huile d'olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d'olive"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

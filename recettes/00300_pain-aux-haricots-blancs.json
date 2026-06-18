@@ -1,0 +1,237 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pain-aux-haricots-blancs",
+  "recipe_id": "00300",
+  "file": "recettes/00300_pain-aux-haricots-blancs.json",
+  "updated_at": "2026-06-18T18:24:59.714219+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pain-aux-haricots-blancs",
+    "title": "Pain aux haricots blancs",
+    "original_title": "Pain aux Haricots Blancs",
+    "source_file": "103-Pain aux Haricots Blancs.melarecipe",
+    "categories": [
+      "Pain / Wraps",
+      "Pain"
+    ],
+    "ingredients": [
+      "370 g de Farine de blé T45",
+      "20 g de Huile d’olive",
+      "160 ml de Eau",
+      "300 g de Haricots blancs",
+      "1 cuillère à soupe de Levure de boulanger",
+      "5 g de Sel"
+    ],
+    "ingredients_raw": "370 g de Farine de blé T45\n20 g de Huile d’olive\n160 ml de Eau\n300 g de Haricots blancs\n1 cuillère à soupe de Levure de boulanger\n5 g de Sel",
+    "instructions": "*Rincez et egouttez bien les haricots # ⚠️Détails importants : J'écrase les haricots avec une fourchette tout simplement. Pas besoin de mixer pour ne pas que ça…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DHYRUMKM2n5",
+    "source_id": "instagram.com/reel/DHYRUMKM2n5",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+      "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+      "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+      "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+      "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+      "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "370 g de Farine de blé T45",
+        "quantity": "370",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "20 g de Huile d’olive",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "160 ml de Eau",
+        "quantity": "160",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "300 g de Haricots blancs",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Haricots blancs"
+      },
+      {
+        "raw": "1 cuillère à soupe de Levure de boulanger",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "5 g de Sel",
+        "quantity": "5",
+        "unit": "g",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00300",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+        "quantity": 370,
+        "unit": "g",
+        "ingredient": "Farine de blé",
+        "source_table_row": 297,
+        "source_detected": {
+          "quantity": "370",
+          "unit": "g",
+          "ingredient": "farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le"
+        },
+        "table_decision": {
+          "quantity_proposed": 370,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine de blé",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+        "quantity": 20,
+        "unit": "g",
+        "ingredient": "Huile d’olive",
+        "source_table_row": 298,
+        "source_detected": {
+          "quantity": 20,
+          "unit": "g",
+          "ingredient": "farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le"
+        },
+        "table_decision": {
+          "quantity_proposed": 20,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile d’olive",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+        "quantity": 160,
+        "unit": "ml",
+        "ingredient": "Eau",
+        "source_table_row": 299,
+        "source_detected": {
+          "quantity": 160,
+          "unit": "ml",
+          "ingredient": "farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le"
+        },
+        "table_decision": {
+          "quantity_proposed": 160,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+        "quantity": 300,
+        "unit": "g",
+        "ingredient": "Haricots blancs",
+        "source_table_row": 300,
+        "source_detected": {
+          "quantity": 300,
+          "unit": "g",
+          "ingredient": "farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le"
+        },
+        "table_decision": {
+          "quantity_proposed": 300,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Haricots blancs",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Levure de boulanger",
+        "source_table_row": 301,
+        "source_detected": {
+          "quantity": 1,
+          "unit": "cuillère à soupe",
+          "ingredient": "farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Levure de boulanger",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "🍞370g farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le",
+        "quantity": 5,
+        "unit": "g",
+        "ingredient": "Sel",
+        "source_table_row": 302,
+        "source_detected": {
+          "quantity": 20,
+          "unit": "g",
+          "ingredient": "farine de blé blanche T45 🍞20g huile d'olive 🍞160mL eau à temp ambiante 🍞300g haricots blancs cuits ou en conserve 🍞1CAS bombée le"
+        },
+        "table_decision": {
+          "quantity_proposed": 5,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00300_pain-aux-haricots-blancs.jpg",
+    "images": [
+      "images/00300_pain-aux-haricots-blancs.jpg"
+    ],
+    "import_source_index": 48,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Pain aux haricots blancs"
+    ]
+  }
+}

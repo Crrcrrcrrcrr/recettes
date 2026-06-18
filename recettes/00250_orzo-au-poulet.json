@@ -1,0 +1,222 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "orzo-au-poulet",
+  "recipe_id": "00250",
+  "file": "recettes/00250_orzo-au-poulet.json",
+  "updated_at": "2026-06-18T18:24:59.689280+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "orzo-au-poulet",
+    "title": "Orzo au poulet",
+    "original_title": "Orzo au poulet",
+    "source_file": "Orzo au poulet.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Viande"
+    ],
+    "ingredients": [
+      "2 filet de Poulet",
+      "1 unité de Paprika",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 unité de Herbes de Provence",
+      "1 unité de Oignon",
+      "120 g de Orzo",
+      "2 cuillère à soupe de Concentré de tomate",
+      "200 ml de Bouillon",
+      "20 cl de Crème fleurette",
+      "30 g de Parmesan",
+      "1 unité de Épinard"
+    ],
+    "ingredients_raw": "2 filet de Poulet\n1 unité de Paprika\n1 unité de Sel\n1 unité de Poivre\n1 unité de Herbes de Provence\n1 unité de Oignon\n120 g de Orzo\n2 cuillère à soupe de Concentré de tomate\n200 ml de Bouillon\n20 cl de Crème fleurette\n30 g de Parmesan\n1 unité de Épinard",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DMF6rYaoRZv",
+    "source_id": "instagram.com/reel/DMF6rYaoRZv",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 filets de poulet",
+      "Paprika",
+      "sel",
+      "Poivre",
+      "herbes de Provence",
+      "1 oignon",
+      "120g orzo",
+      "2 cs de concentré de tomate",
+      "200ml de bouillon de légumes ou de volaille",
+      "20cl de crème fleurette",
+      "30g de parmesan",
+      "Pousses d’épinards"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 filet de Poulet",
+        "quantity": "2",
+        "unit": "filet",
+        "name": "Poulet"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Herbes de Provence",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Herbes de Provence"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "120 g de Orzo",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Orzo"
+      },
+      {
+        "raw": "2 cuillère à soupe de Concentré de tomate",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "200 ml de Bouillon",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Bouillon"
+      },
+      {
+        "raw": "20 cl de Crème fleurette",
+        "quantity": 200,
+        "unit": "ml",
+        "name": "Crème fleurette"
+      },
+      {
+        "raw": "30 g de Parmesan",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "1 unité de Épinard",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Épinard"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00250",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 filets de poulet",
+        "quantity": "2 filets",
+        "unit": "filets",
+        "name": "Poulet"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "",
+        "unit": "",
+        "name": "Paprika"
+      },
+      {
+        "raw": "sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "herbes de Provence",
+        "quantity": "",
+        "unit": "",
+        "name": "Herbes de Provence"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "120g orzo",
+        "quantity": "120 g",
+        "unit": "g",
+        "name": "Orzo"
+      },
+      {
+        "raw": "2 cs de concentré de tomate",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Concentré de tomates"
+      },
+      {
+        "raw": "200ml de bouillon de légumes ou de volaille",
+        "quantity": "200 ml",
+        "unit": "ml",
+        "name": "Bouillon de légumes ou de volaille"
+      },
+      {
+        "raw": "20cl de crème fleurette",
+        "quantity": "20 cl",
+        "unit": "ml",
+        "name": "Crème fleurette"
+      },
+      {
+        "raw": "30g de parmesan",
+        "quantity": "30 g",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "Pousses d’épinards",
+        "quantity": "",
+        "unit": "",
+        "name": "Pousses d'épinard"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00250_orzo-au-poulet.jpg",
+    "images": [
+      "images/00250_orzo-au-poulet.jpg"
+    ]
+  }
+}

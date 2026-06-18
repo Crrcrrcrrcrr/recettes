@@ -1,0 +1,237 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "oeufs-cocotte-au-curry",
+  "recipe_id": "00280",
+  "file": "recettes/00280_oeufs-cocotte-au-curry.json",
+  "updated_at": "2026-06-18T18:24:59.704525+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "oeufs-cocotte-au-curry",
+    "title": "Œufs cocotte au curry",
+    "original_title": "Recettes en moins de 30 minutes",
+    "source_file": "113-Recettes en moins de 30 minutes.melarecipe",
+    "categories": [
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "6 unité de Œuf",
+      "pot de Crème fraîche",
+      "1 cuillère à café de Curry",
+      "1 cuillère à café de Sel",
+      "0.5 unité de Oignon",
+      "unité de Parmesan"
+    ],
+    "ingredients_raw": "6 unité de Œuf\npot de Crème fraîche\n1 cuillère à café de Curry\n1 cuillère à café de Sel\n0.5 unité de Oignon\nunité de Parmesan",
+    "instructions": "# Etapes: Faire fondre les oignons dans une poêle Mélanger la crème et le curry puis saler Dans un ramequin, mettre les oignons, de la crème, un oeuf, de la crè…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQJ9z5PjBNg",
+    "source_id": "instagram.com/reel/DQJ9z5PjBNg",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "6 oeufs Un pot de crème",
+      "6 oeufs Un pot de crème",
+      "1 CAC de curry, sel",
+      "1 CAC de curry, sel",
+      "1/2 oignon Parmesan",
+      "1/2 oignon Parmesan"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "6 unité de Œuf",
+        "quantity": "6",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "pot de Crème fraîche",
+        "quantity": "",
+        "unit": "pot",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "1 cuillère à café de Curry",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "0.5 unité de Oignon",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "unité de Parmesan",
+        "quantity": "",
+        "unit": "unité",
+        "name": "Parmesan"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00280",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "6 oeufs Un pot de crème",
+        "quantity": 6,
+        "unit": "unité",
+        "ingredient": "Œuf",
+        "source_table_row": 156,
+        "source_detected": {
+          "quantity": "6",
+          "unit": "unité",
+          "ingredient": "oeufs Un pot de crème"
+        },
+        "table_decision": {
+          "quantity_proposed": 6,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Œuf",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "6 oeufs Un pot de crème",
+        "quantity": null,
+        "unit": "pot",
+        "ingredient": "Crème",
+        "source_table_row": 157,
+        "source_detected": {
+          "quantity": "6",
+          "unit": "unité",
+          "ingredient": "oeufs Un pot de crème"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": 1,
+          "unit_proposed": "pot",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "pot",
+          "ingredient_proposed": "Crème",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 CAC de curry, sel",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Curry",
+        "source_table_row": 158,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "CAC",
+          "ingredient": "curry, sel"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Curry",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 CAC de curry, sel",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Sel",
+        "source_table_row": 159,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "CAC",
+          "ingredient": "curry, sel"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 oignon Parmesan",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Oignon",
+        "source_table_row": 160,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "oignon Parmesan"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 oignon Parmesan",
+        "quantity": null,
+        "unit": "unité",
+        "ingredient": "Parmesan",
+        "source_table_row": 161,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": "oignon Parmesan"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Parmesan",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00280_oeufs-cocotte-au-curry.jpg",
+    "images": [
+      "images/00280_oeufs-cocotte-au-curry.jpg"
+    ],
+    "import_source_index": 27,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Œufs cocotte au curry"
+    ]
+  }
+}

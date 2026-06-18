@@ -1,0 +1,299 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "dahls-potimarron-et-chevre-frais",
+  "recipe_id": "00292",
+  "file": "recettes/00292_dahls-potimarron-et-chevre-frais.json",
+  "updated_at": "2026-06-18T18:24:59.709746+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "dahls-potimarron-et-chevre-frais",
+    "title": "Dahls potimarron et chèvre frais",
+    "original_title": "Recette",
+    "source_file": "109-Recette.melarecipe",
+    "categories": [
+      "Plats",
+      "Curry / Dahl",
+      "Indien",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Potimarron",
+      "0.5 unité de Oignon jaune",
+      "1 gousse de Ail",
+      "1 cm de Gingembre frais",
+      "2 cuillère à soupe de Garam masala",
+      "1 cuillère à soupe de Cumin",
+      "1 cuillère à café de Curcuma",
+      "1 cuillère à soupe de Concentré de tomate"
+    ],
+    "ingredients_raw": "1 unité de Potimarron\n0.5 unité de Oignon jaune\n1 gousse de Ail\n1 cm de Gingembre frais\n2 cuillère à soupe de Garam masala\n1 cuillère à soupe de Cumin\n1 cuillère à café de Curcuma\n1 cuillère à soupe de Concentré de tomate",
+    "instructions": "Lavez, coupez en deux et videz le potimarron. Laissez une moitié entière et recoupez l’autre en lamelles. Ajoutez huile d’olive sel poivre et enfournez environ …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQHajm0DPd2",
+    "source_id": "instagram.com/reel/DQHajm0DPd2",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 potimarron moyen",
+      "1/2 oignon jaune",
+      "1 gousse d’ail",
+      "1 cm de gingembre frais râpé 1-2 cas de garam masala",
+      "1 cm de gingembre frais râpé 1-2 cas de garam masala",
+      "1 cas de cumin",
+      "1 cac de curcuma",
+      "1 cas de concentré de to"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Potimarron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Potimarron"
+      },
+      {
+        "raw": "0.5 unité de Oignon jaune",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cm de Gingembre frais",
+        "quantity": "1",
+        "unit": "cm",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cuillère à soupe de Garam masala",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à soupe de Cumin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à soupe de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00292",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 potimarron moyen",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Potimarron",
+        "source_table_row": 245,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "potimarron moyen"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Potimarron",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 oignon jaune",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Oignon jaune",
+        "source_table_row": 246,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "oignon jaune"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon jaune",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": 1,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 247,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "gousse",
+          "ingredient": "ail"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cm de gingembre frais râpé 1-2 cas de garam masala",
+        "quantity": 1,
+        "unit": "cm",
+        "ingredient": "Gingembre frais",
+        "source_table_row": 248,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cm",
+          "ingredient": "cm de gingembre frais râpé 1-2 cas de garam masala"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cm",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Gingembre frais",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cm de gingembre frais râpé 1-2 cas de garam masala",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "Garam masala",
+        "source_table_row": 249,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "cm de gingembre frais râpé 1-2 cas de garam masala"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Garam masala",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cas de cumin",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Cumin",
+        "source_table_row": 250,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cas",
+          "ingredient": "cumin"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Cumin",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cac de curcuma",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Curcuma",
+        "source_table_row": 251,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cac",
+          "ingredient": "curcuma"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Curcuma",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cas de concentré de to",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Concentré de tomate",
+        "source_table_row": 252,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "cas",
+          "ingredient": "concentré de to"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Concentré de tomate",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00292_dahls-potimarron-et-chevre-frais.jpg",
+    "images": [
+      "images/00292_dahls-potimarron-et-chevre-frais.jpg"
+    ],
+    "import_source_index": 39,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Dahls potimarron et chèvre frais"
+    ]
+  }
+}

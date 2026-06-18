@@ -1,0 +1,240 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "one-pot-orzo-aux-pois-chiches-et-lait-de-coco",
+  "recipe_id": "00291",
+  "file": "recettes/00291_one-pot-orzo-aux-pois-chiches-et-lait-de-coco.json",
+  "updated_at": "2026-06-18T18:24:59.709271+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "one-pot-orzo-aux-pois-chiches-et-lait-de-coco",
+    "title": "One-pot orzo aux pois chiches et lait de coco",
+    "original_title": "Le genre de plat que tu prépares en 5 minutes… et le four fait tout",
+    "source_file": "25-Le genre de plat que tu prépares en 5 minutes… et le four fait tout.melarecipe",
+    "categories": [
+      "Plats",
+      "One-pot",
+      "Riz et pâtes",
+      "Risotto / Orzotto",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 verre de Orzo",
+      "1 boîte de Pois chiches cuits",
+      "400 g de Pulpe de tomate",
+      "200 ml de Lait de coco",
+      "2 verre de Eau",
+      "1 cube de Bouillon"
+    ],
+    "ingredients_raw": "1 verre de Orzo\n1 boîte de Pois chiches cuits\n400 g de Pulpe de tomate\n200 ml de Lait de coco\n2 verre de Eau\n1 cube de Bouillon",
+    "instructions": "## 👩‍🍳 Préparation Mettre tous les ingrédients dans un plat. Mélanger rapidement. Enfourner **45 min à 200°C**. Mélanger en fin de cuisson… et servir bien chaud…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DSK9tBljX1g",
+    "source_id": "instagram.com/reel/DSK9tBljX1g",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 verre d’orzo",
+      "1 boîte moyenne de pois chiches (égouttés)",
+      "400 g de pulpe de tomate",
+      "200 ml de lait de coco",
+      "2 verres d’eau",
+      "1 cube de bouillon émi"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 verre de Orzo",
+        "quantity": "1",
+        "unit": "verre",
+        "name": "Orzo"
+      },
+      {
+        "raw": "1 boîte de Pois chiches cuits",
+        "quantity": "1",
+        "unit": "boîte",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "400 g de Pulpe de tomate",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Pulpe de tomate"
+      },
+      {
+        "raw": "200 ml de Lait de coco",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "2 verre de Eau",
+        "quantity": "2",
+        "unit": "verre",
+        "name": "Eau"
+      },
+      {
+        "raw": "1 cube de Bouillon",
+        "quantity": "1",
+        "unit": "cube",
+        "name": "Bouillon"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00291",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 verre d’orzo",
+        "quantity": 1,
+        "unit": "verre",
+        "ingredient": "Orzo",
+        "source_table_row": 239,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "verre d’orzo"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "verre",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Orzo",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 boîte moyenne de pois chiches (égouttés)",
+        "quantity": 1,
+        "unit": "boîte",
+        "ingredient": "Pois chiches cuits",
+        "source_table_row": 240,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "boîte",
+          "ingredient": "moyenne de pois chiches (égouttés)"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "boîte",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pois chiches cuits",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "400 g de pulpe de tomate",
+        "quantity": 400,
+        "unit": "g",
+        "ingredient": "Pulpe de tomate",
+        "source_table_row": 241,
+        "source_detected": {
+          "quantity": "400",
+          "unit": "g",
+          "ingredient": "pulpe de tomate"
+        },
+        "table_decision": {
+          "quantity_proposed": 400,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pulpe de tomate",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "200 ml de lait de coco",
+        "quantity": 200,
+        "unit": "ml",
+        "ingredient": "Lait de coco",
+        "source_table_row": 242,
+        "source_detected": {
+          "quantity": "200",
+          "unit": "ml",
+          "ingredient": "lait de coco"
+        },
+        "table_decision": {
+          "quantity_proposed": 200,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Lait de coco",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 verres d’eau",
+        "quantity": 2,
+        "unit": "verre",
+        "ingredient": "Eau",
+        "source_table_row": 243,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "verres d’eau"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "verre",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 cube de bouillon émi",
+        "quantity": 1,
+        "unit": "cube",
+        "ingredient": "Bouillon",
+        "source_table_row": 244,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "cube de bouillon émi"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cube",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Bouillon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00291_one-pot-orzo-aux-pois-chiches-et-lait-de-coco.jpg",
+    "images": [
+      "images/00291_one-pot-orzo-aux-pois-chiches-et-lait-de-coco.jpg"
+    ],
+    "import_source_index": 38,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : One-pot orzo aux pois chiches et lait de coco"
+    ]
+  }
+}

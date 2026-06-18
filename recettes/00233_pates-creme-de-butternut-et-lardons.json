@@ -1,0 +1,193 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-creme-de-butternut-et-lardons",
+  "recipe_id": "00233",
+  "file": "recettes/00233_pates-creme-de-butternut-et-lardons.json",
+  "updated_at": "2026-06-18T18:24:59.682149+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-creme-de-butternut-et-lardons",
+    "title": "Pâtes crème de butternut et lardons",
+    "original_title": "Pâtes crème de butternut et lardons ",
+    "source_file": "Pâtes crème de butternut et lardons.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes"
+    ],
+    "ingredients": [
+      "0,5 unité de Butternut",
+      "2 cuillère à soupe de Crème semi épaisse",
+      "1 portion de Pâtes perlées",
+      "1 unité de Oignon",
+      "1 barquette de Lardons",
+      "1 unité de Huile d’olive",
+      "1 unité de Paprika",
+      "1 unité de Thym",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "0,5 unité de Butternut\n2 cuillère à soupe de Crème semi épaisse\n1 portion de Pâtes perlées\n1 unité de Oignon\n1 barquette de Lardons\n1 unité de Huile d’olive\n1 unité de Paprika\n1 unité de Thym\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPBt-YpiH85",
+    "source_id": "instagram.com/reel/DPBt-YpiH85",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1/2 butternut",
+      "2 cs de crème semi épaisse",
+      "une portion de pates perles",
+      "1 oignon",
+      "1 barquette de lardons",
+      "huile d’olive",
+      "paprika",
+      "thym",
+      "sel",
+      "poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "0,5 Butternut",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Butternut"
+      },
+      {
+        "raw": "2 cuillère à soupe de Crème semi épaisse",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Crème semi épaisse"
+      },
+      {
+        "raw": "1 portion de Pâtes perlées",
+        "quantity": "1",
+        "unit": "portion",
+        "name": "Pâtes perlées"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 barquette de Lardons",
+        "quantity": "1",
+        "unit": "barquette",
+        "name": "Lardons"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Paprika",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00233",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1/2 butternut",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Butternut"
+      },
+      {
+        "raw": "2 cs de crème semi épaisse",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Crème semi épaisse"
+      },
+      {
+        "raw": "une portion de pates perles",
+        "quantity": "une",
+        "unit": "",
+        "name": "Portion de pates perles"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "1 barquette de lardons",
+        "quantity": "1",
+        "unit": "",
+        "name": "Barquette de lardons"
+      },
+      {
+        "raw": "huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "paprika",
+        "quantity": "",
+        "unit": "",
+        "name": "Paprika"
+      },
+      {
+        "raw": "thym",
+        "quantity": "",
+        "unit": "",
+        "name": "Thym"
+      },
+      {
+        "raw": "sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00233_pates-creme-de-butternut-et-lardons.jpg",
+    "images": [
+      "images/00233_pates-creme-de-butternut-et-lardons.jpg"
+    ]
+  }
+}

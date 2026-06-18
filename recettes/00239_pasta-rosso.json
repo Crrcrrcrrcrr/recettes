@@ -1,0 +1,275 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pasta-rosso",
+  "recipe_id": "00239",
+  "file": "recettes/00239_pasta-rosso.json",
+  "updated_at": "2026-06-18T18:24:59.684881+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pasta-rosso",
+    "title": "Pasta Rosso",
+    "original_title": "Pasta Rosso",
+    "source_file": "Pasta Rosso.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Pâtes",
+      "800 g de Tomate",
+      "1 unité de Poivron rouge",
+      "1 unité de Oignon rouge",
+      "1 tête de Ail",
+      "1 unité de Piment",
+      "1 unité de Thym frais",
+      "1 unité de Huile d’olive",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 unité de Burrata"
+    ],
+    "ingredients_raw": "1 unité de Pâtes\n800 g de Tomate\n1 unité de Poivron rouge\n1 unité de Oignon rouge\n1 tête de Ail\n1 unité de Piment\n1 unité de Thym frais\n1 unité de Huile d’olive\n1 unité de Sel\n1 unité de Poivre\n1 unité de Burrata",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/C-VXa7fIKHz",
+    "source_id": "instagram.com/reel/C-VXa7fIKHz",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Pâtes",
+      "800g de tomates",
+      "1 poivron rouge",
+      "1 oignon rouge",
+      "1 tête d’ail",
+      "1 petit piment",
+      "Thym frais",
+      "Huile d’olive",
+      "Sel et poivre",
+      "1 burrata"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Pâtes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "800 g de Tomate",
+        "quantity": "800",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "Poivron rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "Petit piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "raw": "Thym frais",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym frais"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00239",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Pâtes",
+        "quantity": "",
+        "unit": "",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "800g de tomates",
+        "quantity": "800 g",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "1 poivron rouge",
+        "quantity": "1",
+        "unit": "",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "1 oignon rouge",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 tête d’ail",
+        "quantity": "1 tête",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 petit piment",
+        "quantity": "1",
+        "unit": "",
+        "name": "Petit piment"
+      },
+      {
+        "raw": "Thym frais",
+        "quantity": "",
+        "unit": "",
+        "name": "Thym frais"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel et poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Sel et poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1 burrata",
+        "quantity": "1",
+        "unit": "",
+        "name": "Burrata"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00239_pasta-rosso.jpg",
+    "images": [
+      "images/00239_pasta-rosso.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Pâtes",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "800 g de Tomate",
+        "quantity": "800",
+        "unit": "g",
+        "name": "Tomate"
+      },
+      {
+        "raw": "Poivron rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron rouge"
+      },
+      {
+        "raw": "Oignon rouge",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "Petit piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Petit piment"
+      },
+      {
+        "raw": "Thym frais",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym frais"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      }
+    ]
+  }
+}

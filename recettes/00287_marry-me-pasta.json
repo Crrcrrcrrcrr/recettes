@@ -1,0 +1,299 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "marry-me-pasta",
+  "recipe_id": "00287",
+  "file": "recettes/00287_marry-me-pasta.json",
+  "updated_at": "2026-06-18T18:24:59.707584+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "marry-me-pasta",
+    "title": "Marry me pasta",
+    "original_title": "Recettes en moins de 30 minutes",
+    "source_file": "118-Recettes en moins de 30 minutes.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "2 unité de Pâtes",
+      "0.5 unité de Oignon",
+      "0.5 unité de Ail",
+      "1 cuillère à soupe de Concentré de tomate",
+      "1 cuillère à café de Maïzena",
+      "1 cuillère à café de Paprika",
+      "2 louche de Bouillon de poulet",
+      "2 unité de Crème fraîche"
+    ],
+    "ingredients_raw": "2 unité de Pâtes\n0.5 unité de Oignon\n0.5 unité de Ail\n1 cuillère à soupe de Concentré de tomate\n1 cuillère à café de Maïzena\n1 cuillère à café de Paprika\n2 louche de Bouillon de poulet\n2 unité de Crème fraîche",
+    "instructions": "Faire cuire les pâtes Faire fondre l’oignon et l’ail Ajouter le concentré de tomate, paprika, maizena et mélanger Ajouter le bouillon et laisser cuire 5 min à f…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPyyG7cDAuI",
+    "source_id": "instagram.com/reel/DPyyG7cDAuI",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 personnes: Pâtes",
+      "1/2 oignon ail",
+      "1/2 oignon ail",
+      "1 CAS de concentré de tomates",
+      "1 CAC maizena, paprika",
+      "1 CAC maizena, paprika",
+      "2 bonnes louches de bouillon de volaille Crème fraiche",
+      "2 bonnes louches de bouillon de volaille Crème fraiche"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 unité de Pâtes",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Pâtes"
+      },
+      {
+        "raw": "0.5 unité de Oignon",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "0.5 unité de Ail",
+        "quantity": "0.5",
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 cuillère à soupe de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "1 cuillère à café de Maïzena",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "2 louche de Bouillon de poulet",
+        "quantity": "2",
+        "unit": "louche",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "raw": "2 unité de Crème fraîche",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Crème fraîche"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00287",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 personnes: Pâtes",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Pâtes",
+        "source_table_row": 214,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "personnes: Pâtes"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâtes",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 oignon ail",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Oignon",
+        "source_table_row": 215,
+        "source_detected": {
+          "quantity": "1/2",
+          "unit": "unité",
+          "ingredient": "oignon ail"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1/2 oignon ail",
+        "quantity": 0.5,
+        "unit": "unité",
+        "ingredient": "Ail",
+        "source_table_row": 216,
+        "source_detected": {
+          "quantity": 0.5,
+          "unit": "unité",
+          "ingredient": "oignon ail"
+        },
+        "table_decision": {
+          "quantity_proposed": 0.5,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 CAS de concentré de tomates",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Concentré de tomate",
+        "source_table_row": 217,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "CAS",
+          "ingredient": "concentré de tomates"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Concentré de tomate",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 CAC maizena, paprika",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Maïzena",
+        "source_table_row": 218,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "CAC",
+          "ingredient": "maizena, paprika"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Maizena",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 CAC maizena, paprika",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "ingredient": "Paprika",
+        "source_table_row": 219,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "CAC",
+          "ingredient": "maizena, paprika"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Paprika",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 bonnes louches de bouillon de volaille Crème fraiche",
+        "quantity": 2,
+        "unit": "louche",
+        "ingredient": "Bouillon de poulet",
+        "source_table_row": 220,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "louche",
+          "ingredient": "bonnes louches de bouillon de volaille Crème fraiche"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "louche",
+          "unit_action": "Créer",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Bouillon de poulet",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 bonnes louches de bouillon de volaille Crème fraiche",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Crème fraîche",
+        "source_table_row": 221,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "bonnes louches de bouillon de volaille Crème fraiche"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Crème fraîche",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00287_marry-me-pasta.jpg",
+    "images": [
+      "images/00287_marry-me-pasta.jpg"
+    ],
+    "import_source_index": 34,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Marry me pasta"
+    ]
+  }
+}

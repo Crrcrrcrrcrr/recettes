@@ -1,0 +1,194 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pickles-de-graine-de-moutarde",
+  "recipe_id": "00238",
+  "file": "recettes/00238_pickles-de-graine-de-moutarde.json",
+  "updated_at": "2026-06-18T18:24:59.684550+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pickles-de-graine-de-moutarde",
+    "title": "Pickles de graine de moutarde",
+    "original_title": "Pickles de graine de moutarde ",
+    "source_file": "Pickles de graine de moutarde.melarecipe",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Assaisonnement"
+    ],
+    "ingredients": [
+      "100 g de Graines de moutarde",
+      "15 cl de Vinaigre de cidre",
+      "10 cl de Eau",
+      "100 g de Sucre de canne",
+      "1 cuillère à café de Sel",
+      "0,5 cuillère à café de Poivre",
+      "0,5 cuillère à café de Piment d’Espelette"
+    ],
+    "ingredients_raw": "100 g de Graines de moutarde\n15 cl de Vinaigre de cidre\n10 cl de Eau\n100 g de Sucre de canne\n1 cuillère à café de Sel\n0,5 cuillère à café de Poivre\n0,5 cuillère à café de Piment d’Espelette",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DCByZAJICa6",
+    "source_id": "instagram.com/reel/DCByZAJICa6",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "100g de graines de moutarde",
+      "15cl de vinaigre de cidre",
+      "10cl d’eau",
+      "100g de sucre de canne",
+      "1 cc de sel",
+      "1/2 cc de poivre",
+      "1/2 cc de piment d’Espelette"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "100 g de Graines de moutarde",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Graines de moutarde"
+      },
+      {
+        "raw": "15 cl de Vinaigre de cidre",
+        "quantity": 150,
+        "unit": "ml",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "10 cl de Eau",
+        "quantity": 100,
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "100 g de Sucre de canne",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Sucre de canne"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "0,5 cuillère à café de Poivre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Piment d'espelette",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Piment d’Espelette"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00238",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "100g de graines de moutarde",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Graines de moutarde"
+      },
+      {
+        "raw": "15cl de vinaigre de cidre",
+        "quantity": "15 cl",
+        "unit": "ml",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "10cl d’eau",
+        "quantity": "10 cl",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "100g de sucre de canne",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Sucre de canne"
+      },
+      {
+        "raw": "1 cc de sel",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Sel"
+      },
+      {
+        "raw": "1/2 cc de poivre",
+        "quantity": "1/2 cc",
+        "unit": "cc",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1/2 cc de piment d’Espelette",
+        "quantity": "1/2 cc",
+        "unit": "cc",
+        "name": "Piment d'espelette"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00238_pickles-de-graine-de-moutarde.jpg",
+    "images": [
+      "images/00238_pickles-de-graine-de-moutarde.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "100 g de Graines de moutarde",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Graines de moutarde"
+      },
+      {
+        "raw": "15 cl de Vinaigre de cidre",
+        "quantity": 150,
+        "unit": "ml",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "10 cl de Eau",
+        "quantity": 100,
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "100 g de Sucre de canne",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Sucre de canne"
+      },
+      {
+        "raw": "1 cuillère à café de Sel",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "0,5 cuillère à café de Poivre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Piment d'espelette",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Piment d'espelette"
+      }
+    ]
+  }
+}

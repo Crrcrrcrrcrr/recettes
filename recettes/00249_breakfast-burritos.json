@@ -1,0 +1,164 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "breakfast-burritos",
+  "recipe_id": "00249",
+  "file": "recettes/00249_breakfast-burritos.json",
+  "updated_at": "2026-06-18T18:24:59.688931+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "breakfast-burritos",
+    "title": "Breakfast burritos",
+    "original_title": "Breakfast burritos",
+    "source_file": "Breakfast burritos.melarecipe",
+    "categories": [
+      "Plats",
+      "Sandwich"
+    ],
+    "ingredients": [
+      "8 unité de Œuf",
+      "1 bloc de Feta",
+      "5 unité de Wrap",
+      "2 tranche de Jambon",
+      "2 unité de Poivron",
+      "1 unité de Huile d’olive",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "8 unité de Œuf\n1 bloc de Feta\n5 unité de Wrap\n2 tranche de Jambon\n2 unité de Poivron\n1 unité de Huile d’olive\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Dans un plat allant au four, placez le bloc de fêta et cassez vos œufs. Ajoutez un peu d’huile olive, sel et poivre (vous pouvez aussi ajouter des herbes). Enfournez à 180ºC pendant environ 12min. Écrasez directement le tout à la sortie du four de manière à garder un peu de texture comme des œufs brouillés.\nFaites revenir vos poivrons lavés et découpés dans une poêle à feu mi-fort à couvert, pendant 15 à 20min pour qu’ils soient tendres en remuant de temps en temps et en ajoutant un peu d’eau si besoin.\nAssemblez le wrap avec le jambon, les œufs et les poivrons. Pliez puis faites dorer dans une poêle avec un peu d’huile ou de ghee pendant quelques secondes avant de mètre dans un papier.\nVous pouvez les garder 2-3 jours au frigo ou les congeler directement. Vous aurez juste à les faire réchauffer à l’airfryer le matin.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPbnUztCEvB",
+    "source_id": "instagram.com/reel/DPbnUztCEvB",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "8 œufs",
+      "1 bloc de fêta",
+      "5 wraps",
+      "2 tranches de jambon",
+      "2 poivrons",
+      "huile d’olive",
+      "sel",
+      "poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "8 Œuf",
+        "quantity": "8",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 bloc de Feta",
+        "quantity": "1",
+        "unit": "bloc",
+        "name": "Feta"
+      },
+      {
+        "raw": "5 Wrap",
+        "quantity": "5",
+        "unit": "unité",
+        "name": "Wrap"
+      },
+      {
+        "raw": "2 tranche de Jambon",
+        "quantity": "2",
+        "unit": "tranche",
+        "name": "Jambon"
+      },
+      {
+        "raw": "2 Poivron",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Poivron"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00249",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "8 œufs",
+        "quantity": "8",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 bloc de fêta",
+        "quantity": "1 bloc",
+        "unit": "bloc",
+        "name": "Feta"
+      },
+      {
+        "raw": "5 wraps",
+        "quantity": "5",
+        "unit": "",
+        "name": "Wrap"
+      },
+      {
+        "raw": "2 tranches de jambon",
+        "quantity": "2 tranches",
+        "unit": "tranches",
+        "name": "Jambon"
+      },
+      {
+        "raw": "2 poivrons",
+        "quantity": "2",
+        "unit": "",
+        "name": "Poivron"
+      },
+      {
+        "raw": "huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00249_breakfast-burritos.jpg",
+    "images": [
+      "images/00249_breakfast-burritos.jpg"
+    ]
+  }
+}

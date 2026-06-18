@@ -1,0 +1,276 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "banana-bread-mon-classique-indetronable",
+  "recipe_id": "00218",
+  "file": "recettes/00218_banana-bread-mon-classique-indetronable.json",
+  "updated_at": "2026-06-18T18:24:59.673415+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "banana-bread-mon-classique-indetronable",
+    "title": "BANANA BREAD (mon classique indétrônable)",
+    "original_title": "BANANA BREAD (mon classique indétrônable)",
+    "source_file": "BANANA BREAD (mon classique indétrônable).melarecipe",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "ingredients": [
+      "3 unité de Banane",
+      "2 unité de Œuf",
+      "80 ml de Lait",
+      "50 g de Compote de pommes sans sucre ajouté",
+      "60 ml de Sirop d’érable",
+      "1 cuillère à café de Extrait de vanille",
+      "200 g de Farine de blé T45",
+      "1 cuillère à café de Levure chimique",
+      "1/2 unité de Fève de tonka",
+      "100 g de Pépites de chocolat"
+    ],
+    "ingredients_raw": "3 unité de Banane\n2 unité de Œuf\n80 ml de Lait\n50 g de Compote de pommes sans sucre ajouté\n60 ml de Sirop d’érable\n1 cuillère à café de Extrait de vanille\n200 g de Farine de blé T45\n1 cuillère à café de Levure chimique\n1/2 unité de Fève de tonka\n100 g de Pépites de chocolat",
+    "instructions": "Écrase 2 bananes bien mûres.\nAjoute les œufs, le lait, la compote, le sirop d’érable et la vanille. Mélange.\nIncorpore la farine tamisée, la levure, puis râpe la fève de tonka.\nAjoute généreusement les pépites de chocolat.\nVerse dans un moule beurré ou chemisé.\nDépose la 3ᵉ banane coupée en deux par-dessus.\nEnfourne à 200°C pendant 25 minutes environ.\n👉 Résultat : un banana bread doré, fondant et chocolaté… qui disparaît beaucoup trop vite 😍",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPEEZ61iIZp",
+    "source_id": "instagram.com/reel/DPEEZ61iIZp",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "🍌✨ BANANA BREAD (mon classique indétrônable) ✨🍌",
+      "Mes proches me le réclament non-stop, donc voici enfin la recette ! Ultra simple, moelleuse et gourmande 💛",
+      "📝 Ingrédients",
+      "* 3 bananes mûres (2 pour la pâte + 1 pour le dessus)",
+      "* 2 œufs",
+      "* 80 ml de lait (végétal ou non)",
+      "* 50 g de compote de pommes (sans sucre ajouté de préférence)",
+      "* 60 ml de sirop d’érable (ou miel)",
+      "* 1 c. à c. d’extrait de vanille",
+      "* 200 g de farine",
+      "* 1 c. à c. de levure chimique",
+      "* 1/2 fève de tonka râpée (ou cannelle si tu n’en as pas)",
+      "* 100 g de pépites de chocolat (ou plus 👀)",
+      "👩‍🍳 Instructions",
+      "1. Écrase 2 bananes bien mûres.",
+      "2. Ajoute les œufs, le lait, la compote, le sirop d’érable et la vanille. Mélange.",
+      "3. Incorpore la farine tamisée, la levure, puis râpe la fève de tonka.",
+      "4. Ajoute généreusement les pépites de chocolat.",
+      "5. Verse dans un moule beurré ou chemisé.",
+      "6. Dépose la 3ᵉ banane coupée en deux par-dessus.",
+      "7. Enfourne à 200°C pendant 25 minutes environ.",
+      "👉 Résultat : un banana bread doré, fondant et chocolaté… qui disparaît beaucoup trop vite 😍"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "3 Banane",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "raw": "2 unité de Œuf",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "80 ml de Lait",
+        "quantity": "80",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "raw": "50 g de Compote de pommes sans sucre ajouté",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Compote de pommes sans sucre ajouté"
+      },
+      {
+        "raw": "60 ml de Sirop d’érable",
+        "quantity": "60",
+        "unit": "ml",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1 cuillère à café de Extrait de vanille",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Extrait de vanille"
+      },
+      {
+        "raw": "200 g de Farine de blé T45",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "1 cuillère à café de Levure chimique",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Levure chimique"
+      },
+      {
+        "raw": "1/2 Fève de tonka",
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Fève de tonka"
+      },
+      {
+        "raw": "100 g de Pépites de chocolat",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Pépites de chocolat"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00218",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "🍌✨ BANANA BREAD (mon classique indétrônable) ✨🍌",
+        "quantity": "",
+        "unit": "",
+        "name": "🍌✨ BANANA BREAD (mon classique indétrônable) ✨🍌"
+      },
+      {
+        "raw": "Mes proches me le réclament non-stop, donc voici enfin la recette ! Ultra simple, moelleuse et gourmande 💛",
+        "quantity": "",
+        "unit": "",
+        "name": "Mes proches me le réclament non-stop, donc voici enfin la recette ! Ultra simple, moelleuse et gourmande 💛"
+      },
+      {
+        "raw": "📝 Ingrédients",
+        "quantity": "",
+        "unit": "",
+        "name": "📝 Ingrédients"
+      },
+      {
+        "raw": "* 3 bananes mûres (2 pour la pâte + 1 pour le dessus)",
+        "quantity": "",
+        "unit": "",
+        "name": "* 3 bananes mûres (2 pour la pâte + 1 pour le dessus)"
+      },
+      {
+        "raw": "* 2 œufs",
+        "quantity": "",
+        "unit": "",
+        "name": "* 2 œufs"
+      },
+      {
+        "raw": "* 80 ml de lait (végétal ou non)",
+        "quantity": "",
+        "unit": "",
+        "name": "* 80 ml de lait (végétal ou non)"
+      },
+      {
+        "raw": "* 50 g de compote de pommes (sans sucre ajouté de préférence)",
+        "quantity": "",
+        "unit": "",
+        "name": "* 50 g de compote de pommes (sans sucre ajouté de préférence)"
+      },
+      {
+        "raw": "* 60 ml de sirop d’érable (ou miel)",
+        "quantity": "",
+        "unit": "",
+        "name": "* 60 ml de sirop d’érable (ou miel)"
+      },
+      {
+        "raw": "* 1 c. à c. d’extrait de vanille",
+        "quantity": "",
+        "unit": "",
+        "name": "* 1 c. à c. d’extrait de vanille"
+      },
+      {
+        "raw": "* 200 g de farine",
+        "quantity": "",
+        "unit": "",
+        "name": "* 200 g de farine"
+      },
+      {
+        "raw": "* 1 c. à c. de levure chimique",
+        "quantity": "",
+        "unit": "",
+        "name": "* 1 c. à c. de levure chimique"
+      },
+      {
+        "raw": "* 1/2 fève de tonka râpée (ou cannelle si tu n’en as pas)",
+        "quantity": "",
+        "unit": "",
+        "name": "* 1/2 fève de tonka râpée (ou cannelle si tu n’en as pas)"
+      },
+      {
+        "raw": "* 100 g de pépites de chocolat (ou plus 👀)",
+        "quantity": "",
+        "unit": "",
+        "name": "* 100 g de pépites de chocolat (ou plus 👀)"
+      },
+      {
+        "raw": "👩‍🍳 Instructions",
+        "quantity": "",
+        "unit": "",
+        "name": "👩‍🍳 Instructions"
+      },
+      {
+        "raw": "1. Écrase 2 bananes bien mûres.",
+        "quantity": "1",
+        "unit": "",
+        "name": ". Écrase 2 bananes bien mûres."
+      },
+      {
+        "raw": "2. Ajoute les œufs, le lait, la compote, le sirop d’érable et la vanille. Mélange.",
+        "quantity": "2",
+        "unit": "",
+        "name": ". Ajoute les œufs, le lait, la compote, le sirop d’érable et la vanille. Mélange."
+      },
+      {
+        "raw": "3. Incorpore la farine tamisée, la levure, puis râpe la fève de tonka.",
+        "quantity": "3",
+        "unit": "",
+        "name": ". Incorpore la farine tamisée, la levure, puis râpe la fève de tonka."
+      },
+      {
+        "raw": "4. Ajoute généreusement les pépites de chocolat.",
+        "quantity": "4",
+        "unit": "",
+        "name": ". Ajoute généreusement les pépites de chocolat."
+      },
+      {
+        "raw": "5. Verse dans un moule beurré ou chemisé.",
+        "quantity": "5",
+        "unit": "",
+        "name": ". Verse dans un moule beurré ou chemisé."
+      },
+      {
+        "raw": "6. Dépose la 3ᵉ banane coupée en deux par-dessus.",
+        "quantity": "6",
+        "unit": "",
+        "name": ". Dépose la 3ᵉ banane coupée en deux par-dessus."
+      },
+      {
+        "raw": "7. Enfourne à 200°C pendant 25 minutes environ.",
+        "quantity": "7",
+        "unit": "",
+        "name": ". Enfourne à 200°C pendant 25 minutes environ."
+      },
+      {
+        "raw": "👉 Résultat : un banana bread doré, fondant et chocolaté… qui disparaît beaucoup trop vite 😍",
+        "quantity": "",
+        "unit": "",
+        "name": "👉 Résultat : un banana bread doré, fondant et chocolaté… qui disparaît beaucoup trop vite 😍"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00218_banana-bread-mon-classique-indetronable.jpg",
+    "images": [
+      "images/00218_banana-bread-mon-classique-indetronable.jpg"
+    ]
+  }
+}

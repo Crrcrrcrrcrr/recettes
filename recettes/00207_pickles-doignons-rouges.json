@@ -1,0 +1,259 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pickles-doignons-rouges",
+  "recipe_id": "00207",
+  "file": "recettes/00207_pickles-doignons-rouges.json",
+  "updated_at": "2026-06-18T18:24:59.668573+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pickles-doignons-rouges",
+    "title": "Pickles d’oignons rouges",
+    "original_title": "Pickles d’oignons rouges",
+    "source_file": "Pickles d’oignons rouges.melarecipe",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Assaisonnement"
+    ],
+    "ingredients": [
+      "15 cl de Vinaigre de cidre",
+      "20 cl de Eau",
+      "80 g de Sucre",
+      "0,5 cuillère à café de Sel",
+      "0,5 cuillère à café de Poivre",
+      "0,5 cuillère à café de Piment d’Espelette",
+      "1 gousse de Ail",
+      "3 feuille de Laurier",
+      "1 cuillère à soupe de Cumin",
+      "1 cuillère à café de Graines de coriandre"
+    ],
+    "ingredients_raw": "15 cl de Vinaigre de cidre\n20 cl de Eau\n80 g de Sucre\n0,5 cuillère à café de Sel\n0,5 cuillère à café de Poivre\n0,5 cuillère à café de Piment d’Espelette\n1 gousse de Ail\n3 feuille de Laurier\n1 cuillère à soupe de Cumin\n1 cuillère à café de Graines de coriandre",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DGSvmEpID18",
+    "source_id": "instagram.com/reel/DGSvmEpID18",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "# Les ingrédients :",
+      "15cl de vinaigre de cidre",
+      "20cl d’eau",
+      "80g de sucre",
+      "1/2 càc de sel",
+      "1/2 càc de poivre",
+      "1/2 càc de piment d’Espelette",
+      "1 gousse d’ail",
+      "3 feuilles de laurier",
+      "1 cas de cumin",
+      "1 càc de graines de coriandre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "15 cl de Vinaigre de cidre",
+        "quantity": 150,
+        "unit": "ml",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "20 cl de Eau",
+        "quantity": 200,
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "80 g de Sucre",
+        "quantity": "80",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Sel",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "0,5 cuillère à café de Poivre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Piment d'espelette",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Piment d’Espelette"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "3 feuille de Laurier",
+        "quantity": "3",
+        "unit": "feuille",
+        "name": "Laurier"
+      },
+      {
+        "raw": "1 cuillère à soupe de Cumin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à café de Graines de coriandre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Graines de coriandre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00207",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "# Les ingrédients :",
+        "type": "section"
+      },
+      {
+        "raw": "15cl de vinaigre de cidre",
+        "quantity": "15 cl",
+        "unit": "ml",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "20cl d’eau",
+        "quantity": "20 cl",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "80g de sucre",
+        "quantity": "80 g",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "1/2 càc de sel",
+        "quantity": "1/2 càc",
+        "unit": "càc",
+        "name": "Sel"
+      },
+      {
+        "raw": "1/2 càc de poivre",
+        "quantity": "1/2 càc",
+        "unit": "càc",
+        "name": "Poivre"
+      },
+      {
+        "raw": "1/2 càc de piment d’Espelette",
+        "quantity": "1/2 càc",
+        "unit": "càc",
+        "name": "Piment d'espelette"
+      },
+      {
+        "raw": "1 gousse d’ail",
+        "quantity": "1 gousse",
+        "unit": "gousse",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "3 feuilles de laurier",
+        "quantity": "3 feuilles",
+        "unit": "feuille",
+        "name": "Laurier"
+      },
+      {
+        "raw": "1 cas de cumin",
+        "quantity": "1 cas",
+        "unit": "cas",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 càc de graines de coriandre",
+        "quantity": "1 càc",
+        "unit": "càc",
+        "name": "Graines de coriandre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00207_pickles-doignons-rouges.jpg",
+    "images": [
+      "images/00207_pickles-doignons-rouges.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "15 cl de Vinaigre de cidre",
+        "quantity": 150,
+        "unit": "ml",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "20 cl de Eau",
+        "quantity": 200,
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "80 g de Sucre",
+        "quantity": "80",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Sel",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "raw": "0,5 cuillère à café de Poivre",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "raw": "0,5 cuillère à café de Piment d'espelette",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Piment d'espelette"
+      },
+      {
+        "raw": "1 gousse de Ail",
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "3 feuille de Laurier",
+        "quantity": "3",
+        "unit": "feuille",
+        "name": "Laurier"
+      },
+      {
+        "raw": "1 cuillère à soupe de Cumin",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à café de Graines de coriandre",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Graines de coriandre"
+      }
+    ]
+  }
+}

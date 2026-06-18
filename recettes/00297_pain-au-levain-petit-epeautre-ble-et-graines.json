@@ -1,0 +1,268 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pain-au-levain-petit-epeautre-ble-et-graines",
+  "recipe_id": "00297",
+  "file": "recettes/00297_pain-au-levain-petit-epeautre-ble-et-graines.json",
+  "updated_at": "2026-06-18T18:24:59.712741+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pain-au-levain-petit-epeautre-ble-et-graines",
+    "title": "Pain au levain petit épeautre, blé et graines",
+    "original_title": "Pain au levain petit épeautre, blé et graines",
+    "source_file": "80-Pain au levain petit épeautre, blé et graines.melarecipe",
+    "categories": [
+      "Pain / Wraps",
+      "Pain",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "230 g de Petit épeautre",
+      "330 g de Farine de blé T80",
+      "40 g de Farine de blé T140",
+      "75 g de Graines",
+      "100 g de Levain",
+      "360 g de Eau",
+      "10 g de Sel"
+    ],
+    "ingredients_raw": "230 g de Petit épeautre\n330 g de Farine de blé T80\n40 g de Farine de blé T140\n75 g de Graines\n100 g de Levain\n360 g de Eau\n10 g de Sel",
+    "instructions": "Autolyse de 1h (mélange des farines et de l’eau). Je réhydrate mes graines dans 75g d’eau bouillante pendant 1h aussi. J’ajoute le levain au farines puis 20min …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DWI_rs7DE0_",
+    "source_id": "instagram.com/reel/DWI_rs7DE0_",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "230g de petit épeautre T110",
+      "330 g de farine de blé T80",
+      "40 g de farine de blé T140",
+      "75 g de mélange de graines",
+      "100 g de levain",
+      "360 g d’eau",
+      "10 g de sel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "230 g de Petit épeautre",
+        "quantity": "230",
+        "unit": "g",
+        "name": "Petit épeautre"
+      },
+      {
+        "raw": "330 g de Farine de blé T80",
+        "quantity": "330",
+        "unit": "g",
+        "name": "Farine de blé T80"
+      },
+      {
+        "raw": "40 g de Farine de blé T140",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Farine de blé T140"
+      },
+      {
+        "raw": "75 g de Graines",
+        "quantity": "75",
+        "unit": "g",
+        "name": "Graines"
+      },
+      {
+        "raw": "100 g de Levain",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Levain"
+      },
+      {
+        "raw": "360 g de Eau",
+        "quantity": "360",
+        "unit": "g",
+        "name": "Eau"
+      },
+      {
+        "raw": "10 g de Sel",
+        "quantity": "10",
+        "unit": "g",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00297",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "230g de petit épeautre T110",
+        "quantity": 230,
+        "unit": "g",
+        "ingredient": "Petit épeautre",
+        "source_table_row": 284,
+        "source_detected": {
+          "quantity": "230",
+          "unit": "g",
+          "ingredient": "petit épeautre T110"
+        },
+        "table_decision": {
+          "quantity_proposed": 230,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Petit épeautre",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "330 g de farine de blé T80",
+        "quantity": 330,
+        "unit": "g",
+        "ingredient": "Farine de blé T80",
+        "source_table_row": 285,
+        "source_detected": {
+          "quantity": "330",
+          "unit": "g",
+          "ingredient": "farine de blé T80"
+        },
+        "table_decision": {
+          "quantity_proposed": 330,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine de blé T80",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "40 g de farine de blé T140",
+        "quantity": 40,
+        "unit": "g",
+        "ingredient": "Farine de blé T140",
+        "source_table_row": 286,
+        "source_detected": {
+          "quantity": "40",
+          "unit": "g",
+          "ingredient": "farine de blé T140"
+        },
+        "table_decision": {
+          "quantity_proposed": 40,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine de blé T140",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "75 g de mélange de graines",
+        "quantity": 75,
+        "unit": "g",
+        "ingredient": "Graines",
+        "source_table_row": 287,
+        "source_detected": {
+          "quantity": "75",
+          "unit": "g",
+          "ingredient": "mélange de graines"
+        },
+        "table_decision": {
+          "quantity_proposed": 75,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Graines",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "100 g de levain",
+        "quantity": 100,
+        "unit": "g",
+        "ingredient": "Levain",
+        "source_table_row": 288,
+        "source_detected": {
+          "quantity": "100",
+          "unit": "g",
+          "ingredient": "levain"
+        },
+        "table_decision": {
+          "quantity_proposed": 100,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Levain",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "360 g d’eau",
+        "quantity": 360,
+        "unit": "g",
+        "ingredient": "Eau",
+        "source_table_row": 289,
+        "source_detected": {
+          "quantity": "360",
+          "unit": "g",
+          "ingredient": "eau"
+        },
+        "table_decision": {
+          "quantity_proposed": 360,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "10 g de sel",
+        "quantity": 10,
+        "unit": "g",
+        "ingredient": "Sel",
+        "source_table_row": 290,
+        "source_detected": {
+          "quantity": "10",
+          "unit": "g",
+          "ingredient": "sel"
+        },
+        "table_decision": {
+          "quantity_proposed": 10,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00297_pain-au-levain-petit-epeautre-ble-et-graines.jpg",
+    "images": [
+      "images/00297_pain-au-levain-petit-epeautre-ble-et-graines.jpg"
+    ],
+    "import_source_index": 45,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Pain au levain petit épeautre, blé et graines"
+    ]
+  }
+}

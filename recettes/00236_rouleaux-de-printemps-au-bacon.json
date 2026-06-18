@@ -1,0 +1,253 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "rouleaux-de-printemps-au-bacon",
+  "recipe_id": "00236",
+  "file": "recettes/00236_rouleaux-de-printemps-au-bacon.json",
+  "updated_at": "2026-06-18T18:24:59.683741+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "rouleaux-de-printemps-au-bacon",
+    "title": "Rouleaux de printemps au bacon",
+    "original_title": "Rouleaux de printemps au bacon",
+    "source_file": "Rouleaux de printemps au bacon.melarecipe",
+    "categories": [
+      "Plats",
+      "Asiatique"
+    ],
+    "ingredients": [
+      "4 feuille de Riz",
+      "200 g de Nouilles de riz",
+      "1 unité de Avocat",
+      "1 unité de Mayonnaise",
+      "1 unité de Pomme granny smith",
+      "20 feuille de Basilic",
+      "8 tranche de Lard fumé",
+      "12 feuille de Laitue",
+      "1 pincée de Sésame",
+      "4 cuillère à soupe de Beurre de cacahuète",
+      "2 cuillère à soupe de Sauce soja",
+      "1 cuillère à soupe de Vinaigre de riz",
+      "1 cuillère à soupe de Huile pimentée",
+      "un peu Eau"
+    ],
+    "ingredients_raw": "4 feuille de Riz\n200 g de Nouilles de riz\n1 unité de Avocat\n1 unité de Mayonnaise\n1 unité de Pomme granny smith\n20 feuille de Basilic\n8 tranche de Lard fumé\n12 feuille de Laitue\n1 pincée de Sésame\n4 cuillère à soupe de Beurre de cacahuète\n2 cuillère à soupe de Sauce soja\n1 cuillère à soupe de Vinaigre de riz\n1 cuillère à soupe de Huile pimentée\nun peu Eau",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DO-9jnqjJx3",
+    "source_id": "instagram.com/reel/DO-9jnqjJx3",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4 feuilles de riz",
+      "200g de nouilles de riz",
+      "1 avocat",
+      "Mayonnaise",
+      "1 pomme granny smith",
+      "20 feuilles de basilic",
+      "8 tranches de lard fumé",
+      "12 feuilles de laitue",
+      "1 pincée de sésame",
+      "# Sauce cacahuète :",
+      "4 càs de beurre de cacahuète",
+      "2 càs de sauce soja",
+      "1 càs de vinaigre de riz",
+      "1 càs d’huile pimentée (facultatif)",
+      "Un peu d’eau pour ajuster la texture"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 feuille de Riz",
+        "quantity": "4",
+        "unit": "feuille",
+        "name": "Riz"
+      },
+      {
+        "raw": "200 g de Nouilles de riz",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "Avocat",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Avocat"
+      },
+      {
+        "raw": "Mayonnaise",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "Pomme granny smith",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pomme granny smith"
+      },
+      {
+        "raw": "20 feuille de Basilic",
+        "quantity": "20",
+        "unit": "feuille",
+        "name": "Basilic"
+      },
+      {
+        "raw": "8 tranche de Lard fumé",
+        "quantity": "8",
+        "unit": "tranche",
+        "name": "Lard fumé"
+      },
+      {
+        "raw": "12 feuille de Laitue",
+        "quantity": "12",
+        "unit": "feuille",
+        "name": "Laitue"
+      },
+      {
+        "raw": "1 pincée de Sésame",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sésame"
+      },
+      {
+        "raw": "4 cuillère à soupe de Beurre de cacahuète",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre de riz",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile pimentée",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile pimentée"
+      },
+      {
+        "raw": "un peu Eau",
+        "quantity": "un peu",
+        "unit": "",
+        "name": "Eau"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00236",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "4 feuilles de riz",
+        "quantity": "4 feuilles",
+        "unit": "feuille",
+        "name": "Riz"
+      },
+      {
+        "raw": "200g de nouilles de riz",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "1 avocat",
+        "quantity": "1",
+        "unit": "",
+        "name": "Avocat"
+      },
+      {
+        "raw": "Mayonnaise",
+        "quantity": "",
+        "unit": "",
+        "name": "Mayonnaise"
+      },
+      {
+        "raw": "1 pomme granny smith",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pomme granny smith"
+      },
+      {
+        "raw": "20 feuilles de basilic",
+        "quantity": "20 feuilles",
+        "unit": "feuille",
+        "name": "Basilic"
+      },
+      {
+        "raw": "8 tranches de lard fumé",
+        "quantity": "8 tranches",
+        "unit": "tranches",
+        "name": "Lard fumé"
+      },
+      {
+        "raw": "12 feuilles de laitue",
+        "quantity": "12 feuilles",
+        "unit": "feuille",
+        "name": "Laitue"
+      },
+      {
+        "raw": "1 pincée de sésame",
+        "quantity": "1 pincée",
+        "unit": "pincée",
+        "name": "Sésame"
+      },
+      {
+        "raw": "# Sauce cacahuète :",
+        "type": "section"
+      },
+      {
+        "raw": "4 càs de beurre de cacahuète",
+        "quantity": "4 càs",
+        "unit": "càs",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 càs de sauce soja",
+        "quantity": "2 càs",
+        "unit": "càs",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 càs de vinaigre de riz",
+        "quantity": "1 càs",
+        "unit": "càs",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "raw": "1 càs d’huile pimentée (facultatif)",
+        "quantity": "1 càs",
+        "unit": "càs",
+        "name": "Huile pimentée"
+      },
+      {
+        "raw": "Un peu d’eau pour ajuster la texture",
+        "quantity": "Un",
+        "unit": "",
+        "name": "Peu d’eau pour ajuster la texture"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00236_rouleaux-de-printemps-au-bacon.jpg",
+    "images": [
+      "images/00236_rouleaux-de-printemps-au-bacon.jpg"
+    ]
+  }
+}

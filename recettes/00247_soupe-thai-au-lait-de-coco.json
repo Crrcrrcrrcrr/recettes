@@ -1,0 +1,335 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "soupe-thai-au-lait-de-coco",
+  "recipe_id": "00247",
+  "file": "recettes/00247_soupe-thai-au-lait-de-coco.json",
+  "updated_at": "2026-06-18T18:24:59.687991+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "soupe-thai-au-lait-de-coco",
+    "title": "Soupe thaï au lait de coco",
+    "original_title": "Soupe thaï au lait de coco",
+    "source_file": "Soupe thaï au lait de coco.melarecipe",
+    "categories": [
+      "Plats",
+      "Soupe / Velouté",
+      "Asiatique"
+    ],
+    "ingredients": [
+      "400 ml de Lait de coco",
+      "400 ml de Bouillon de légumes",
+      "4 gousse de Ail",
+      "2 unité de Échalote",
+      "1 unité de Pétales de paprika doux",
+      "1 unité de Pétales de piment",
+      "1 bloc de Tofu",
+      "quelques Crevette",
+      "1 cuillère à soupe de Concentré de tomate",
+      "1 unité de Sauce soja",
+      "1 unité de Curry",
+      "1 unité de Sauce pimentée citron & jalapeño",
+      "1 unité de Jus de citron vert",
+      "1 unité de Coriandre"
+    ],
+    "ingredients_raw": "400 ml de Lait de coco\n400 ml de Bouillon de légumes\n4 gousse de Ail\n2 unité de Échalote\n1 unité de Pétales de paprika doux\n1 unité de Pétales de piment\n1 bloc de Tofu\nquelques Crevette\n1 cuillère à soupe de Concentré de tomate\n1 unité de Sauce soja\n1 unité de Curry\n1 unité de Sauce pimentée citron & jalapeño\n1 unité de Jus de citron vert\n1 unité de Coriandre",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPdTEIlDCC4",
+    "source_id": "instagram.com/reel/DPdTEIlDCC4",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "400 ml de lait de coco 🥥",
+      "400 ml de bouillon de légumes",
+      "4 gousses d’ail",
+      "2 échalotes",
+      "Pétales de paprika doux",
+      "Pétales de piment",
+      "1 bloc de tofu",
+      "Quelques crevettes 🍤",
+      "1 cs de concentré de tomates",
+      "Sauce soja",
+      "Curry indien",
+      "Sauce pimentée citron & jalapeño",
+      "Jus de citron vert",
+      "Coriandre fraîche"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "400 ml de Lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "400 ml de Bouillon de légumes",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Pétales de paprika doux",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pétales de paprika doux"
+      },
+      {
+        "raw": "Pétales de piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pétales de piment"
+      },
+      {
+        "raw": "1 bloc de Tofu",
+        "quantity": "1",
+        "unit": "bloc",
+        "name": "Tofu"
+      },
+      {
+        "raw": "quelques Crevette",
+        "quantity": "quelques",
+        "unit": "",
+        "name": "Crevette"
+      },
+      {
+        "raw": "1 cuillère à soupe de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "Sauce soja",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "Curry indien",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Curry"
+      },
+      {
+        "raw": "Sauce pimentée citron & jalapeño",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce pimentée citron & jalapeño"
+      },
+      {
+        "raw": "Jus de citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron vert"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00247",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "400 ml de lait de coco 🥥",
+        "quantity": "400 ml",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "400 ml de bouillon de légumes",
+        "quantity": "400 ml",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "4 gousses d’ail",
+        "quantity": "4 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "2 échalotes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Pétales de paprika doux",
+        "quantity": "",
+        "unit": "",
+        "name": "Pétales de paprika doux"
+      },
+      {
+        "raw": "Pétales de piment",
+        "quantity": "",
+        "unit": "",
+        "name": "Pétales de piment"
+      },
+      {
+        "raw": "1 bloc de tofu",
+        "quantity": "1 bloc",
+        "unit": "bloc",
+        "name": "Tofu"
+      },
+      {
+        "raw": "Quelques crevettes 🍤",
+        "quantity": "Quelques",
+        "unit": "",
+        "name": "Crevettes 🍤"
+      },
+      {
+        "raw": "1 cs de concentré de tomates",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Concentré de tomates"
+      },
+      {
+        "raw": "Sauce soja",
+        "quantity": "",
+        "unit": "",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "Curry indien",
+        "quantity": "",
+        "unit": "",
+        "name": "Curry indien"
+      },
+      {
+        "raw": "Sauce pimentée citron & jalapeño",
+        "quantity": "",
+        "unit": "",
+        "name": "Sauce pimentée citron & jalapeño"
+      },
+      {
+        "raw": "Jus de citron vert",
+        "quantity": "",
+        "unit": "",
+        "name": "Jus de citron vert"
+      },
+      {
+        "raw": "Coriandre fraîche",
+        "quantity": "",
+        "unit": "",
+        "name": "Coriandre fraîche"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00247_soupe-thai-au-lait-de-coco.jpg",
+    "images": [
+      "images/00247_soupe-thai-au-lait-de-coco.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "400 ml de Lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "400 ml de Bouillon de légumes",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "raw": "4 gousse de Ail",
+        "quantity": "4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 Échalote",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "raw": "Pétales de paprika doux",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pétales de paprika doux"
+      },
+      {
+        "raw": "Pétales de piment",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pétales de piment"
+      },
+      {
+        "raw": "1 bloc de Tofu",
+        "quantity": "1",
+        "unit": "bloc",
+        "name": "Tofu"
+      },
+      {
+        "raw": "1 quelques de Crevette",
+        "quantity": "1",
+        "unit": "quelques",
+        "name": "Crevette"
+      },
+      {
+        "raw": "1 cuillère à soupe de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "Sauce soja",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "Curry indien",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Curry indien"
+      },
+      {
+        "raw": "Sauce pimentée citron & jalapeño",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce pimentée citron & jalapeño"
+      },
+      {
+        "raw": "Jus de citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron vert"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      }
+    ]
+  }
+}

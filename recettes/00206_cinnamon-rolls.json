@@ -1,0 +1,49 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cinnamon-rolls",
+  "recipe_id": "00206",
+  "file": "recettes/00206_cinnamon-rolls.json",
+  "updated_at": "2026-06-18T18:24:59.668122+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "cinnamon-rolls",
+    "title": "Cinnamon Rolls",
+    "original_title": "Alors bonjour déjà",
+    "source_file": "Alors bonjour déjà.melarecipe",
+    "categories": [
+      "Sucré",
+      "Brioche"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "si tu manges les 10 cinnamon rolls en une journée, grand bien te fasse. Personnellement je fais beaucoup de recettes et avouons que c’est quand même pas super équilibré de manger 10 cinnamon rolls d’un coup. Ne venez pas m’agresser pour autant, chacun sa vie, je suis ravie que tu aimes les cinnamon rolls. 🫶\nil se peut qu’après l’ajout de farine votre pâte reste semi-liquide (cela dépend de la consistance du yaourt: certains sont fermes et d’autres liquides, il est donc normal d’obtenir des résultats légèrement variables) Je vous invite à rajouter progressivement de la farine dans ce cas. Attention à ne pas trop en mettre tout de même: la pâte est censée rester un peu collante. C’est normal, on ne veut pas que le cinnamon roll soit sec.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DC64o85oOBp",
+    "source_id": "instagram.com/reel/DC64o85oOBp",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "3) pourquoi mon beurre est blanc ? Tout simplement parce que votre créatrice de contenu est absolument nulle et a acheté par mégarde du beurre allégé en MG (c’est pas bon, plus jamais 🙂)"
+    ],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00206",
+    "yield": "",
+    "portions": "",
+    "image": "images/00206_cinnamon-rolls.jpg",
+    "images": [
+      "images/00206_cinnamon-rolls.jpg"
+    ]
+  }
+}

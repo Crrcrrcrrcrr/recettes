@@ -1,0 +1,451 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-sauce-butternut-ail-roti-oignons-caramelises-et-noisettes",
+  "recipe_id": "00286",
+  "file": "recettes/00286_pates-sauce-butternut-ail-roti-oignons-caramelises-et-noisettes.json",
+  "updated_at": "2026-06-18T18:24:59.707069+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-sauce-butternut-ail-roti-oignons-caramelises-et-noisettes",
+    "title": "Pâtes sauce butternut, ail rôti, oignons caramélisés et noisettes",
+    "original_title": "Pâtes, sauce butternut et ail rôti, oignons caramélisés et croustillant de noisettes",
+    "source_file": "95-Pâtes, sauce butternut et ail rôti, oignons caramélisés et croustillant de noisettes.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Sauces / Assaisonnements",
+      "Sauce",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Butternut",
+      "1 tête de Ail",
+      "50 g de Crème liquide",
+      "2 unité de Oignon rouge",
+      "20 g de Beurre",
+      "1 cuillère à soupe de Vinaigre balsamique",
+      "1 cuillère à soupe de Miel",
+      "Herbes de Provence",
+      "40 g de Parmesan",
+      "30 g de Chapelure",
+      "30 g de Noisettes",
+      "Ciboulette",
+      "Pâtes"
+    ],
+    "ingredients_raw": "1 unité de Butternut\n1 tête de Ail\n50 g de Crème liquide\n2 unité de Oignon rouge\n20 g de Beurre\n1 cuillère à soupe de Vinaigre balsamique\n1 cuillère à soupe de Miel\nHerbes de Provence\n40 g de Parmesan\n30 g de Chapelure\n30 g de Noisettes\nCiboulette\nPâtes",
+    "instructions": "Préchauffez le four à 200°C. Coupez la courge dans le sens de la longueur puis videz-la. Arrosez les deux faces d’huile d’olive, de sel, de poivre et d’herbes d…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQ7HyABiGAb",
+    "source_id": "instagram.com/reel/DQ7HyABiGAb",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1 butternut moyenne (après cuisson j’ai obtenu",
+      "1 tête d’ail",
+      "50g de crème liquide",
+      "2 oignons rouges",
+      "20g de beurre",
+      "1 càs de vinaigre balsamique",
+      "1 càs de miel",
+      "- Des herbes de provence",
+      "- 40g de parmesan",
+      "- 30g de chapelure panko",
+      "- 30g noisette",
+      "- De la ciboulette",
+      "- Les pâtes de votre choix"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1 unité de Butternut",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Butternut"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "50 g de Crème liquide",
+        "quantity": "50",
+        "unit": "g",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "2 unité de Oignon rouge",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "20 g de Beurre",
+        "quantity": "20",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "1 cuillère à soupe de Vinaigre balsamique",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre balsamique"
+      },
+      {
+        "raw": "1 cuillère à soupe de Miel",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "raw": "Herbes de Provence",
+        "quantity": "",
+        "unit": "",
+        "name": "Herbes de Provence"
+      },
+      {
+        "raw": "40 g de Parmesan",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "raw": "30 g de Chapelure",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Chapelure"
+      },
+      {
+        "raw": "30 g de Noisettes",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Noisettes"
+      },
+      {
+        "raw": "Ciboulette",
+        "quantity": "",
+        "unit": "",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "Pâtes",
+        "quantity": "",
+        "unit": "",
+        "name": "Pâtes"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00286",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1 butternut moyenne (après cuisson j’ai obtenu",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Butternut",
+        "source_table_row": 201,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "butternut moyenne (après cuisson j’ai obtenu"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Butternut",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 tête d’ail",
+        "quantity": 1,
+        "unit": "tête",
+        "ingredient": "Ail",
+        "source_table_row": 202,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "tête",
+          "ingredient": "ail"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "tête",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "50g de crème liquide",
+        "quantity": 50,
+        "unit": "g",
+        "ingredient": "Crème liquide",
+        "source_table_row": 203,
+        "source_detected": {
+          "quantity": "50",
+          "unit": "g",
+          "ingredient": "crème liquide"
+        },
+        "table_decision": {
+          "quantity_proposed": 50,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Crème liquide",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 oignons rouges",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Oignon rouge",
+        "source_table_row": 204,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "oignons rouges"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "20g de beurre",
+        "quantity": 20,
+        "unit": "g",
+        "ingredient": "Beurre",
+        "source_table_row": 205,
+        "source_detected": {
+          "quantity": "20",
+          "unit": "g",
+          "ingredient": "beurre"
+        },
+        "table_decision": {
+          "quantity_proposed": 20,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Beurre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 càs de vinaigre balsamique",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Vinaigre balsamique",
+        "source_table_row": 206,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "càs",
+          "ingredient": "vinaigre balsamique"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Vinaigre balsamique",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 càs de miel",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Miel",
+        "source_table_row": 207,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Miel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- Des herbes de provence",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Herbes de Provence",
+        "source_table_row": 208,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Herbes de Provence",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- 40g de parmesan",
+        "quantity": 40,
+        "unit": "g",
+        "ingredient": "Parmesan",
+        "source_table_row": 209,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 40,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Parmesan",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- 30g de chapelure panko",
+        "quantity": 30,
+        "unit": "g",
+        "ingredient": "Chapelure",
+        "source_table_row": 210,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 30,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Chapelure",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- 30g noisette",
+        "quantity": 30,
+        "unit": "g",
+        "ingredient": "Noisette",
+        "source_table_row": 211,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 30,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Noisette",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- De la ciboulette",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Ciboulette",
+        "source_table_row": 212,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ciboulette",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "- Les pâtes de votre choix",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Pâtes",
+        "source_table_row": 213,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": "OK",
+          "unit_proposed": null,
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâtes",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00286_pates-sauce-butternut-ail-roti-oignons-caramelises-et-noisettes.jpg",
+    "images": [
+      "images/00286_pates-sauce-butternut-ail-roti-oignons-caramelises-et-noisettes.jpg"
+    ],
+    "import_source_index": 33,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Pâtes sauce butternut, ail rôti, oignons caramélisés et noisettes"
+    ]
+  }
+}

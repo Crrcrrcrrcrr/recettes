@@ -1,0 +1,107 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "biko",
+  "recipe_id": "00214",
+  "file": "recettes/00214_biko.json",
+  "updated_at": "2026-06-18T18:24:59.671653+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "biko",
+    "title": "Biko",
+    "original_title": "Biko",
+    "source_file": "Biko.melarecipe",
+    "categories": [
+      "Sucré"
+    ],
+    "ingredients": [
+      "535 g de Riz gluant",
+      "800 ml de Lait de coco",
+      "200 g de Cassonade",
+      "1 pincée de Sel"
+    ],
+    "ingredients_raw": "535 g de Riz gluant\n800 ml de Lait de coco\n200 g de Cassonade\n1 pincée de Sel",
+    "instructions": "La veille, faire tremper le riz dans une grande quantité d’eau froide.\nLe jour même, égoutter et rincer le riz.\nDans une casserole, mettre 620ml de lait de coco, 240ml d’eau bouillante et 100g de sucre ainsi que le sel, faire chauffer sur feu moyen-fort, lorsque le lait frémit, ajouter le riz et mélanger constamment pendant environ 7 min. Le riz doit être cuit.\nVerser dans un plat allant au four recouvert de papier sulfurisé (le mien fait 20x26cm).\nPréchauffer le four à 180°C.\nDans la casserole, verser les 180ml de lait de coco avec le sucre restant. Porter à ébullition tout en mélangeant puis baisser le feu sur feu moyen et laisser épaissir pendant environ 5 min.\nVerser alors sur le riz gluant dans le plat et enfourner pour 1h. Éteindre le four et laisser le biko dans le four encore 5 à 10 min.\nLaisser partiellement refroidir avant de servir.\nLe biko se conserve plusieurs jours sous film alimentaire au réfrigérateur, mais il est meilleur si légèrement réchauffé avant de servir.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DGvm7FACsuC",
+    "source_id": "instagram.com/reel/DGvm7FACsuC",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "535g de riz gluant",
+      "2x 400ml de lait de coco (soit 2 boîtes, 800ml)",
+      "200g de sucre roux complet (type cassonade)",
+      "1 pincée de sel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "535 g de Riz gluant",
+        "quantity": "535",
+        "unit": "g",
+        "name": "Riz gluant"
+      },
+      {
+        "raw": "800 ml de Lait de coco",
+        "quantity": "800",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "200 g de Cassonade",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Cassonade"
+      },
+      {
+        "raw": "1 pincée de Sel",
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00214",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "535g de riz gluant",
+        "quantity": "535 g",
+        "unit": "g",
+        "name": "Riz gluant"
+      },
+      {
+        "raw": "2x 400ml de lait de coco (soit 2 boîtes, 800ml)",
+        "quantity": "2",
+        "unit": "",
+        "name": "X 400ml de lait de coco (soit 2 boîtes, 800ml)"
+      },
+      {
+        "raw": "200g de sucre roux complet (type cassonade)",
+        "quantity": "200 g",
+        "unit": "g",
+        "name": "Sucre roux complet (type cassonade)"
+      },
+      {
+        "raw": "1 pincée de sel",
+        "quantity": "1 pincée",
+        "unit": "pincée",
+        "name": "Sel"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00214_biko.jpg",
+    "images": [
+      "images/00214_biko.jpg"
+    ]
+  }
+}

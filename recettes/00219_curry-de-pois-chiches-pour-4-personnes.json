@@ -1,0 +1,388 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "curry-de-pois-chiches-pour-4-personnes",
+  "recipe_id": "00219",
+  "file": "recettes/00219_curry-de-pois-chiches-pour-4-personnes.json",
+  "updated_at": "2026-06-18T18:24:59.673881+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "curry-de-pois-chiches-pour-4-personnes",
+    "title": "Curry de pois chiches (pour 4 personnes)",
+    "original_title": "Curry de pois chiches (pour 4 personnes)",
+    "source_file": "Curry de pois chiches (pour 4 personnes).melarecipe",
+    "categories": [
+      "Plats",
+      "Curry / Dahl",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Oignon",
+      "2 gousse de Ail",
+      "1 morceau de Gingembre frais",
+      "2 cuillère à café de Curry",
+      "1 cuillère à café de Paprika",
+      "0,5 cuillère à café de Curcuma",
+      "400 g de Pois chiches cuits",
+      "2 cuillère à soupe de Concentré de tomate",
+      "400 ml de Lait de coco",
+      "1 cuillère à soupe de Huile d’olive",
+      "1 unité de Sel",
+      "1 unité de Poivre",
+      "1 unité de Riz basmati",
+      "1 unité de Yaourt nature",
+      "1 unité de Coriandre",
+      "1 filet de Huile pimentée"
+    ],
+    "ingredients_raw": "1 unité de Oignon\n2 gousse de Ail\n1 morceau de Gingembre frais\n2 cuillère à café de Curry\n1 cuillère à café de Paprika\n0,5 cuillère à café de Curcuma\n400 g de Pois chiches cuits\n2 cuillère à soupe de Concentré de tomate\n400 ml de Lait de coco\n1 cuillère à soupe de Huile d’olive\n1 unité de Sel\n1 unité de Poivre\n1 unité de Riz basmati\n1 unité de Yaourt nature\n1 unité de Coriandre\n1 filet de Huile pimentée",
+    "instructions": "👩‍🍳 Instructions\nDans une poêle chaude avec un filet d’huile, fais revenir l’oignon émincé.\nAjoute l’ail et le gingembre râpés, laisse revenir 1 min.\nAjoute les épices (curry, paprika, curcuma) et laisse-les griller 30 sec pour libérer tous les arômes.\nIncorpore les pois chiches, le concentré de tomate et le lait de coco. Mélange bien.\nLaisse mijoter 10-15 min à feu doux, jusqu’à ce que la sauce épaississe et devienne bien parfumée.\nGoûte, ajuste l’assaisonnement.\n🍛 Sers avec du riz, une cuillère de yaourt, une pluie de coriandre et un filet d’huile pimentée… et profite ✨",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPGWt-ZiCkC",
+    "source_id": "instagram.com/reel/DPGWt-ZiCkC",
+    "favorite": false,
+    "want_to_cook": true,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "🥘 Ingrédients",
+      "1 oignon",
+      "2 gousses d’ail",
+      "1 morceau de gingembre frais (2 cm)",
+      "2 c. à café de curry",
+      "1 c. à café de paprika",
+      "½ c. à café de curcuma",
+      "400 g de pois chiches cuits (en boîte, rincés et égouttés)",
+      "2 c. à soupe de concentré de tomate",
+      "400 ml de lait de coco",
+      "1 c. à soupe d’huile d’olive (ou coco)",
+      "Sel, poivre",
+      "🌿 Pour servir",
+      "Riz basmati",
+      "Yaourt nature ou végétal",
+      "Coriandre fraîche (beaucoup 😏)",
+      "Un filet d’huile pimentée (optionnel, mais conseillé 🔥)"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 morceau de Gingembre frais",
+        "quantity": "1",
+        "unit": "morceau",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cuillère à café de Curry",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "0,5 cuillère à café de Curcuma",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "400 g de Pois chiches cuits",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "2 cuillère à soupe de Concentré de tomate",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "400 ml de Lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Riz basmati",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Riz basmati"
+      },
+      {
+        "raw": "Yaourt nature ou végétal",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "1 filet de Huile pimentée",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Huile pimentée"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00219",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "🥘 Ingrédients",
+        "quantity": "",
+        "unit": "",
+        "name": "🥘 Ingrédients"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 gousses d’ail",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1 morceau de gingembre frais (2 cm)",
+        "quantity": "1",
+        "unit": "",
+        "name": "Morceau de gingembre frais (2 cm)"
+      },
+      {
+        "raw": "2 c. à café de curry",
+        "quantity": "2 c. à café",
+        "unit": "c. à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 c. à café de paprika",
+        "quantity": "1 c. à café",
+        "unit": "c. à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "½ c. à café de curcuma",
+        "quantity": "½ c. à café",
+        "unit": "c. à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "400 g de pois chiches cuits (en boîte, rincés et égouttés)",
+        "quantity": "400 g",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "2 c. à soupe de concentré de tomate",
+        "quantity": "2 c. à soupe",
+        "unit": "c. à soupe",
+        "name": "Concentré de tomates"
+      },
+      {
+        "raw": "400 ml de lait de coco",
+        "quantity": "400 ml",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1 c. à soupe d’huile d’olive (ou coco)",
+        "quantity": "1 c. à soupe",
+        "unit": "c. à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel, poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "Sel, poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      },
+      {
+        "raw": "🌿 Pour servir",
+        "quantity": "",
+        "unit": "",
+        "name": "🌿 Pour servir"
+      },
+      {
+        "raw": "Riz basmati",
+        "quantity": "",
+        "unit": "",
+        "name": "Riz basmati"
+      },
+      {
+        "raw": "Yaourt nature ou végétal",
+        "quantity": "",
+        "unit": "",
+        "name": "Yaourt nature ou végétal"
+      },
+      {
+        "raw": "Coriandre fraîche (beaucoup 😏)",
+        "quantity": "",
+        "unit": "",
+        "name": "Coriandre fraîche"
+      },
+      {
+        "raw": "Un filet d’huile pimentée (optionnel, mais conseillé 🔥)",
+        "quantity": "Un filet",
+        "unit": "filet",
+        "name": "Huile pimentée"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00219_curry-de-pois-chiches-pour-4-personnes.jpg",
+    "images": [
+      "images/00219_curry-de-pois-chiches-pour-4-personnes.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 morceau de Gingembre frais",
+        "quantity": "1",
+        "unit": "morceau",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cuillère à café de Curry",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "0,5 cuillère à café de Curcuma",
+        "quantity": "0,5",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "400 g de Pois chiches cuits",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "2 cuillère à soupe de Concentré de tomate",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "400 ml de Lait de coco",
+        "quantity": "400",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "1 cuillère à soupe de Huile d’olive",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "raw": "Riz basmati",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Riz basmati"
+      },
+      {
+        "raw": "Yaourt nature ou végétal",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Yaourt nature ou végétal"
+      },
+      {
+        "raw": "Coriandre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "1 filet de Huile pimentée",
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Huile pimentée"
+      }
+    ]
+  }
+}

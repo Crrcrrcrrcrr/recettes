@@ -1,0 +1,56 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-a-la-creme-de-courge",
+  "recipe_id": "00268",
+  "file": "recettes/00268_pates-a-la-creme-de-courge.json",
+  "updated_at": "2026-06-18T18:24:59.697318+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pates-a-la-creme-de-courge",
+    "title": "Pâtes à la crème de courge",
+    "original_title": "Vous aimez les pâtes ?",
+    "source_file": "68-Vous aimez les pâtes ?.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes",
+      "Végétarien"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Vous aimez les pâtes ? 😀 Vous avez un vieux morceau de courge qui traine dans le frigo ? 🤔 Et pourquoi pas en faire une bonne sauce ? Voici une façon sympa de m…",
+    "notes": "",
+    "link": "https://www.instagram.com/p/CVVwnI1IWx7",
+    "source_id": "instagram.com/p/CVVwnI1IWx7",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00268",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00268_pates-a-la-creme-de-courge.jpg",
+    "images": [
+      "images/00268_pates-a-la-creme-de-courge.jpg"
+    ],
+    "import_source_index": 14,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Pâtes à la crème de courge",
+      "Aucun ingrédient conservé dans le tableau corrigé."
+    ]
+  }
+}

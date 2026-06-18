@@ -1,0 +1,298 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tarte-tatin-d-echalotes-et-burrata",
+  "recipe_id": "00296",
+  "file": "recettes/00296_tarte-tatin-d-echalotes-et-burrata.json",
+  "updated_at": "2026-06-18T18:24:59.712211+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "tarte-tatin-d-echalotes-et-burrata",
+    "title": "Tarte tatin d’échalotes et burrata",
+    "original_title": "Tarte tatin d’échalotes & burrata (4 personnes)",
+    "source_file": "41-Tarte tatin d’échalotes & burrata (4 personnes).melarecipe",
+    "categories": [
+      "Plats",
+      "Tarte / Quiche",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "600 g de Échalote",
+      "1 unité de Pâte feuilletée",
+      "30 g de Beurre",
+      "2 unité de Sirop d’érable",
+      "1 branche de Romarin",
+      "1 unité de Burrata",
+      "unité de Sel",
+      "unité de Poivre"
+    ],
+    "ingredients_raw": "600 g de Échalote\n1 unité de Pâte feuilletée\n30 g de Beurre\n2 unité de Sirop d’érable\n1 branche de Romarin\n1 unité de Burrata\nunité de Sel\nunité de Poivre",
+    "instructions": "Épluchez et coupez les échalotes en deux. Dans une poêle allant au four, faites fondre le beurre avec le romarin et le sirop d’érable. Ajoutez les échalotes et …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DOBwj3HiKwj",
+    "source_id": "instagram.com/reel/DOBwj3HiKwj",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "600 g d’échalotes 🧅",
+      "1 pâte feuilletée",
+      "30 g de beurre",
+      "2 c. à soupe de sirop d’érable 🍁",
+      "1 branche de romarin",
+      "1 burrata bien fraîche 🤍 Sel & poivre",
+      "1 burrata bien fraîche 🤍 Sel & poivre",
+      "1 burrata bien fraîche 🤍 Sel & poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "600 g de Échalote",
+        "quantity": "600",
+        "unit": "g",
+        "name": "Échalote"
+      },
+      {
+        "raw": "1 unité de Pâte feuilletée",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "raw": "30 g de Beurre",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "2 unité de Sirop d’érable",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Sirop d’érable"
+      },
+      {
+        "raw": "1 branche de Romarin",
+        "quantity": "1",
+        "unit": "branche",
+        "name": "Romarin"
+      },
+      {
+        "raw": "1 unité de Burrata",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Burrata"
+      },
+      {
+        "raw": "unité de Sel",
+        "quantity": "",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "unité de Poivre",
+        "quantity": "",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00296",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "600 g d’échalotes 🧅",
+        "quantity": 600,
+        "unit": "g",
+        "ingredient": "Échalote",
+        "source_table_row": 276,
+        "source_detected": {
+          "quantity": "600",
+          "unit": "g",
+          "ingredient": "échalotes 🧅"
+        },
+        "table_decision": {
+          "quantity_proposed": 600,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Échalote",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 pâte feuilletée",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Pâte feuilletée",
+        "source_table_row": 277,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "pâte feuilletée"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Pâte feuilletée",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "30 g de beurre",
+        "quantity": 30,
+        "unit": "g",
+        "ingredient": "Beurre",
+        "source_table_row": 278,
+        "source_detected": {
+          "quantity": "30",
+          "unit": "g",
+          "ingredient": "beurre"
+        },
+        "table_decision": {
+          "quantity_proposed": 30,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Beurre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 c. à soupe de sirop d’érable 🍁",
+        "quantity": 2,
+        "unit": "unité",
+        "ingredient": "Sirop d’érable",
+        "source_table_row": 279,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "unité",
+          "ingredient": "c. à soupe de sirop d’érable 🍁"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sirop d’érable",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 branche de romarin",
+        "quantity": 1,
+        "unit": "branche",
+        "ingredient": "Romarin",
+        "source_table_row": 280,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "branche",
+          "ingredient": "romarin"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "branche",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Romarin",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 burrata bien fraîche 🤍 Sel & poivre",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Burrata",
+        "source_table_row": 281,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "burrata bien fraîche 🤍 Sel & poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Burrata",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 burrata bien fraîche 🤍 Sel & poivre",
+        "quantity": null,
+        "unit": "unité",
+        "ingredient": "Sel",
+        "source_table_row": 282,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": "burrata bien fraîche 🤍 Sel & poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 burrata bien fraîche 🤍 Sel & poivre",
+        "quantity": null,
+        "unit": "unité",
+        "ingredient": "Poivre",
+        "source_table_row": 283,
+        "source_detected": {
+          "quantity": null,
+          "unit": "unité",
+          "ingredient": "burrata bien fraîche 🤍 Sel & poivre"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Poivre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00296_tarte-tatin-d-echalotes-et-burrata.jpg",
+    "images": [
+      "images/00296_tarte-tatin-d-echalotes-et-burrata.jpg"
+    ],
+    "import_source_index": 44,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Tarte tatin d’échalotes et burrata"
+    ]
+  }
+}

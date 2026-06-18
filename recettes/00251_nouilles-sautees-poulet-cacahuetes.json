@@ -1,0 +1,316 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "nouilles-sautees-poulet-cacahuetes",
+  "recipe_id": "00251",
+  "file": "recettes/00251_nouilles-sautees-poulet-cacahuetes.json",
+  "updated_at": "2026-06-18T18:24:59.689619+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "nouilles-sautees-poulet-cacahuetes",
+    "title": "Nouilles sautées poulet cacahuètes",
+    "original_title": "Nouilles sautées poulet cacahuètes",
+    "source_file": "Nouilles sautées poulet cacahuètes.melarecipe",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Nouilles asiatiques",
+      "Asiatique"
+    ],
+    "ingredients": [
+      "1 unité de Nouilles de riz",
+      "1 unité de Poulet",
+      "1 unité de Oignon",
+      "1 unité de Ail",
+      "1 unité de Poivron",
+      "1 cuillère à café de Gochujang",
+      "1 cuillère à café de Beurre de cacahuète",
+      "2 cuillère à soupe de Sauce soja",
+      "1 cuillère à soupe de Sauce huître",
+      "1 unité de Eau",
+      "1 unité de Gingembre frais",
+      "1 unité de Graine de sésame",
+      "1 unité de Citron vert"
+    ],
+    "ingredients_raw": "1 unité de Nouilles de riz\n1 unité de Poulet\n1 unité de Oignon\n1 unité de Ail\n1 unité de Poivron\n1 cuillère à café de Gochujang\n1 cuillère à café de Beurre de cacahuète\n2 cuillère à soupe de Sauce soja\n1 cuillère à soupe de Sauce huître\n1 unité de Eau\n1 unité de Gingembre frais\n1 unité de Graine de sésame\n1 unité de Citron vert",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DOxzV1jCAIu",
+    "source_id": "instagram.com/reel/DOxzV1jCAIu",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Nouilles de riz",
+      "Poulet",
+      "Oignon",
+      "Ail",
+      "Poivron",
+      "1 cc de gochujang",
+      "1 cc Beurre de cacahuète",
+      "2 cs Sauce Soja",
+      "1 cs Sauce Huitre",
+      "Eau chaude pour diluer",
+      "Gingembre",
+      "Graine de sésame",
+      "Citron vert"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Nouilles de riz",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "Poulet",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poulet"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "raw": "Poivron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron"
+      },
+      {
+        "raw": "1 cuillère à café de Gochujang",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gochujang"
+      },
+      {
+        "raw": "1 cuillère à café de Beurre de cacahuète",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce huître",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce huître"
+      },
+      {
+        "raw": "Eau chaude pour diluer",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Eau"
+      },
+      {
+        "raw": "Gingembre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "1 unité de Graine de sésame",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00251",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Nouilles de riz",
+        "quantity": "",
+        "unit": "",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "Poulet",
+        "quantity": "",
+        "unit": "",
+        "name": "Poulet"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "",
+        "unit": "",
+        "name": "Ail"
+      },
+      {
+        "raw": "Poivron",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivron"
+      },
+      {
+        "raw": "1 cc de gochujang",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Gochujang"
+      },
+      {
+        "raw": "1 cc Beurre de cacahuète",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 cs Sauce Soja",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cs Sauce Huitre",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Sauce Huitre"
+      },
+      {
+        "raw": "Eau chaude pour diluer",
+        "quantity": "",
+        "unit": "",
+        "name": "Eau chaude pour diluer"
+      },
+      {
+        "raw": "Gingembre",
+        "quantity": "",
+        "unit": "",
+        "name": "Gingembre"
+      },
+      {
+        "raw": "Graine de sésame",
+        "quantity": "",
+        "unit": "",
+        "name": "Graines de sésame"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "",
+        "unit": "",
+        "name": "Citron vert"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00251_nouilles-sautees-poulet-cacahuetes.jpg",
+    "images": [
+      "images/00251_nouilles-sautees-poulet-cacahuetes.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Nouilles de riz",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Nouilles de riz"
+      },
+      {
+        "raw": "Poulet",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poulet"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "Ail",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "raw": "Poivron",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivron"
+      },
+      {
+        "raw": "1 cuillère à café de Gochujang",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Gochujang"
+      },
+      {
+        "raw": "1 cuillère à café de Beurre de cacahuète",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "raw": "2 cuillère à soupe de Sauce soja",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sauce Huitre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce Huitre"
+      },
+      {
+        "raw": "Eau chaude pour diluer",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Eau chaude pour diluer"
+      },
+      {
+        "raw": "Gingembre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Gingembre"
+      },
+      {
+        "raw": "1 unité de Graine de sésame",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Graine de sésame"
+      },
+      {
+        "raw": "Citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      }
+    ]
+  }
+}

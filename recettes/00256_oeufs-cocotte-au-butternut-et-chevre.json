@@ -1,0 +1,267 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "oeufs-cocotte-au-butternut-et-chevre",
+  "recipe_id": "00256",
+  "file": "recettes/00256_oeufs-cocotte-au-butternut-et-chevre.json",
+  "updated_at": "2026-06-18T18:24:59.691937+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "oeufs-cocotte-au-butternut-et-chevre",
+    "title": "Œufs cocotte au butternut et chèvre",
+    "original_title": "Œufs cocottes, butternut & chèvre : une recette toute simple prête en 20 min",
+    "source_file": "99-Œufs cocottes, butternut & chèvre : une recette toute simple prête en 20 min.melarecipe",
+    "categories": [
+      "Entrée",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "500 g de Butternut",
+      "2 cuillère à soupe de Fromage frais",
+      "3 unité de Chèvre Rocamadour",
+      "4 unité de Œuf",
+      "200 ml de Crème légère",
+      "Ciboulette",
+      "Châtaignes grillées"
+    ],
+    "ingredients_raw": "500 g de Butternut\n2 cuillère à soupe de Fromage frais\n3 unité de Chèvre Rocamadour\n4 unité de Œuf\n200 ml de Crème légère\nCiboulette\nChâtaignes grillées",
+    "instructions": "Faire cuire des morceaux de butternut à la vapeur ou dans une casserole d’eau bouillante pendant 18 min. Écraser les morceaux de butternut à la fourchette avec …",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQ4jQFGjEMg",
+    "source_id": "instagram.com/reel/DQ4jQFGjEMg",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "500g de butternut",
+      "2 cas de fromage frais (St Morêt)",
+      "3 chèvres Rocamadour",
+      "4 œufs",
+      "20cl de crème légère Ciboulette Châtaignes grillées",
+      "20cl de crème légère Ciboulette Châtaignes grillées",
+      "20cl de crème légère Ciboulette Châtaignes grillées"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "500 g de Butternut",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Butternut"
+      },
+      {
+        "raw": "2 cuillère à soupe de Fromage frais",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Fromage frais"
+      },
+      {
+        "raw": "3 unité de Chèvre Rocamadour",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Chèvre Rocamadour"
+      },
+      {
+        "raw": "4 unité de Œuf",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "200 ml de Crème légère",
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Crème légère"
+      },
+      {
+        "raw": "Ciboulette",
+        "quantity": "",
+        "unit": "",
+        "name": "Ciboulette"
+      },
+      {
+        "raw": "Châtaignes grillées",
+        "quantity": "",
+        "unit": "",
+        "name": "Châtaignes grillées"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00256",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "500g de butternut",
+        "quantity": 500,
+        "unit": "g",
+        "ingredient": "Butternut",
+        "source_table_row": 2,
+        "source_detected": {
+          "quantity": "500",
+          "unit": "g",
+          "ingredient": "butternut"
+        },
+        "table_decision": {
+          "quantity_proposed": 500,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Butternut",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "2 cas de fromage frais (St Morêt)",
+        "quantity": 2,
+        "unit": "cuillère à soupe",
+        "ingredient": "St Môret",
+        "source_table_row": 3,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "cas",
+          "ingredient": "fromage frais (St Morêt)"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "St Môret",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "3 chèvres Rocamadour",
+        "quantity": 3,
+        "unit": "unité",
+        "ingredient": "Chèvre Rocamadour",
+        "source_table_row": 4,
+        "source_detected": {
+          "quantity": "3",
+          "unit": "unité",
+          "ingredient": "chèvres Rocamadour"
+        },
+        "table_decision": {
+          "quantity_proposed": 3,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Chèvre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "Non, créer \"Chèvre Rocamadour\""
+        }
+      },
+      {
+        "raw": "4 œufs",
+        "quantity": 4,
+        "unit": "unité",
+        "ingredient": "Œuf",
+        "source_table_row": 5,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "unité",
+          "ingredient": "œufs"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Œuf",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "OK"
+        }
+      },
+      {
+        "raw": "20cl de crème légère Ciboulette Châtaignes grillées",
+        "quantity": 200,
+        "unit": "ml",
+        "ingredient": "Crème légère",
+        "source_table_row": 6,
+        "source_detected": {
+          "quantity": "20",
+          "unit": "cl",
+          "ingredient": "crème légère Ciboulette Châtaignes grillées"
+        },
+        "table_decision": {
+          "quantity_proposed": 200,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Crème légère",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "20cl de crème légère Ciboulette Châtaignes grillées",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Ciboulette",
+        "source_table_row": 7,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "crème légère Ciboulette Châtaignes grillées"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Ciboulette",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "20cl de crème légère Ciboulette Châtaignes grillées",
+        "quantity": null,
+        "unit": null,
+        "ingredient": "Châtaignes grillées",
+        "source_table_row": 8,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "crème légère Ciboulette Châtaignes grillées"
+        },
+        "table_decision": {
+          "quantity_proposed": null,
+          "quantity_validation": null,
+          "unit_proposed": null,
+          "unit_action": null,
+          "unit_validation_or_correction": null,
+          "ingredient_proposed": "Châtaignes grillées",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00256_oeufs-cocotte-au-butternut-et-chevre.jpg",
+    "images": [
+      "images/00256_oeufs-cocotte-au-butternut-et-chevre.jpg"
+    ],
+    "import_source_index": 1,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Œufs cocotte au butternut et chèvre"
+    ]
+  }
+}

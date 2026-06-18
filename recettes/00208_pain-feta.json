@@ -1,0 +1,154 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pain-feta",
+  "recipe_id": "00208",
+  "file": "recettes/00208_pain-feta.json",
+  "updated_at": "2026-06-18T18:24:59.669166+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pain-feta",
+    "title": "Pain feta",
+    "original_title": "Pourquoi on m’a pas dit avant",
+    "source_file": "Pourquoi on m’a pas dit avant.melarecipe",
+    "categories": [
+      "Apéritif",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "200 g de Feta",
+      "60 g de Farine de blé T45",
+      "1 unité de Œuf",
+      "1 Cuillère à soupe de Herbes de Provence",
+      "2 cuillère à soupe de Eau"
+    ],
+    "ingredients_raw": "200 g de Feta\n60 g de Farine de blé T45\n1 unité de Œuf\n1 Cuillère à soupe de Herbes de Provence\n2 cuillère à soupe de Eau",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DGdnsPHCmBO",
+    "source_id": "instagram.com/reel/DGdnsPHCmBO",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "200 gr de feta",
+      "60 gr de farine",
+      "1 œuf",
+      "Une cuillère d’herbes de Provence",
+      "(2 cuillères à soupe d’eau si besoin )"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "200 Gr de feta",
+        "quantity": "200",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "60 Gr de Farine de blé T45",
+        "quantity": "60",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 Cuillère à soupe de Herbes de Provence",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Herbes de Provence"
+      },
+      {
+        "raw": "2 cuillère à soupe de Eau",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00208",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "200 gr de feta",
+        "quantity": "200",
+        "unit": "",
+        "name": "Gr de feta"
+      },
+      {
+        "raw": "60 gr de farine",
+        "quantity": "60",
+        "unit": "",
+        "name": "Gr de farine"
+      },
+      {
+        "raw": "1 œuf",
+        "quantity": "1",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "Une cuillère d’herbes de Provence",
+        "quantity": "Une",
+        "unit": "",
+        "name": "Cuillère d’herbes de Provence"
+      },
+      {
+        "raw": "(2 cuillères à soupe d’eau si besoin )",
+        "quantity": "",
+        "unit": "",
+        "name": "(2 cuillères à soupe d’eau si besoin )"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00208_pain-feta.jpg",
+    "images": [
+      "images/00208_pain-feta.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "200 Gr de feta",
+        "quantity": "200",
+        "unit": "unité",
+        "name": "Gr de feta"
+      },
+      {
+        "raw": "60 Gr de farine",
+        "quantity": "60",
+        "unit": "unité",
+        "name": "Gr de farine"
+      },
+      {
+        "raw": "Œuf",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "1 Cuillère à soupe de Herbes de Provence",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Herbes de Provence"
+      },
+      {
+        "raw": "2 cuillère à soupe de Eau",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Eau"
+      }
+    ]
+  }
+}

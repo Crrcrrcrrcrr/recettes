@@ -1,0 +1,150 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "one-pot-orzo-poulet-et-citron",
+  "recipe_id": "00288",
+  "file": "recettes/00288_one-pot-orzo-poulet-et-citron.json",
+  "updated_at": "2026-06-18T18:24:59.708007+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "one-pot-orzo-poulet-et-citron",
+    "title": "One-pot orzo, poulet et citron",
+    "original_title": "One pot zorzo, poulet & citron",
+    "source_file": "98-One pot zorzo, poulet & citron.melarecipe",
+    "categories": [
+      "Plats",
+      "One-pot",
+      "Riz et pâtes",
+      "Risotto / Orzotto",
+      "Viande"
+    ],
+    "ingredients": [
+      "6 unité de Haut de cuisse de poulet",
+      "1 morceau de Beurre",
+      "250 g de Orzo"
+    ],
+    "ingredients_raw": "6 unité de Haut de cuisse de poulet\n1 morceau de Beurre\n250 g de Orzo",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQwtksbiE3U",
+    "source_id": "instagram.com/reel/DQwtksbiE3U",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "6 hauts de cuisses de poulet désossés 🐔",
+      "1 morceau de beurre 🧈",
+      "250g d’Orzo ou langue d’oiseau 👀"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "6 unité de Haut de cuisse de poulet",
+        "quantity": "6",
+        "unit": "unité",
+        "name": "Haut de cuisse de poulet"
+      },
+      {
+        "raw": "1 morceau de Beurre",
+        "quantity": "1",
+        "unit": "morceau",
+        "name": "Beurre"
+      },
+      {
+        "raw": "250 g de Orzo",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Orzo"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00288",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "6 hauts de cuisses de poulet désossés 🐔",
+        "quantity": 6,
+        "unit": "unité",
+        "ingredient": "Haut de cuisse de poulet",
+        "source_table_row": 222,
+        "source_detected": {
+          "quantity": "6",
+          "unit": "unité",
+          "ingredient": "hauts de cuisses de poulet désossés 🐔"
+        },
+        "table_decision": {
+          "quantity_proposed": 6,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Haut de cuisse de poulet",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 morceau de beurre 🧈",
+        "quantity": 1,
+        "unit": "morceau",
+        "ingredient": "Beurre",
+        "source_table_row": 223,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "morceau de beurre 🧈"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "morceau",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Beurre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "250g d’Orzo ou langue d’oiseau 👀",
+        "quantity": 250,
+        "unit": "g",
+        "ingredient": "Orzo",
+        "source_table_row": 224,
+        "source_detected": {
+          "quantity": "250",
+          "unit": "g",
+          "ingredient": "Orzo ou langue d’oiseau 👀"
+        },
+        "table_decision": {
+          "quantity_proposed": 250,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Orzo",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00288_one-pot-orzo-poulet-et-citron.jpg",
+    "images": [
+      "images/00288_one-pot-orzo-poulet-et-citron.jpg"
+    ],
+    "import_source_index": 35,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : One-pot orzo, poulet et citron"
+    ]
+  }
+}

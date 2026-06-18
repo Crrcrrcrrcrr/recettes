@@ -1,0 +1,147 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "oeufs-mollets-marines-a-la-sauce-soja",
+  "recipe_id": "00285",
+  "file": "recettes/00285_oeufs-mollets-marines-a-la-sauce-soja.json",
+  "updated_at": "2026-06-18T18:24:59.706729+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "oeufs-mollets-marines-a-la-sauce-soja",
+    "title": "Œufs mollets marinés à la sauce soja",
+    "original_title": "Œufs mollets marinés",
+    "source_file": "107-Œufs mollets marinés.melarecipe",
+    "categories": [
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "4 cuillère à soupe de Sauce soja",
+      "2 cuillère à café de Huile de sésame",
+      "1 cuillère à soupe de Sriracha"
+    ],
+    "ingredients_raw": "4 cuillère à soupe de Sauce soja\n2 cuillère à café de Huile de sésame\n1 cuillère à soupe de Sriracha",
+    "instructions": "# 👉 Pour 6 œufs mollets : # Cuire les œufs dans l’eau bouillante : ⏱️ 5 min 30 pour un jaune très coulant ⏱️ 6 min pour un jaune crémeux Stopper la cuisson dans…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQE67TWDBKq",
+    "source_id": "instagram.com/reel/DQE67TWDBKq",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "4 c. à s. de sauce soja",
+      "2 c. à c. d’huile de sésame grillé",
+      "1 c. à s. de sriracha (optionnel — perso, ça dépend de mon humeur ) U"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "4 cuillère à soupe de Sauce soja",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "2 cuillère à café de Huile de sésame",
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Huile de sésame"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sriracha",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sriracha"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00285",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "4 c. à s. de sauce soja",
+        "quantity": 4,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sauce soja",
+        "source_table_row": 198,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "c. à s.",
+          "ingredient": "sauce soja"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sauce soja",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "2 c. à c. d’huile de sésame grillé",
+        "quantity": 2,
+        "unit": "cuillère à café",
+        "ingredient": "Huile de sésame",
+        "source_table_row": 199,
+        "source_detected": {
+          "quantity": "2",
+          "unit": "c. à c.",
+          "ingredient": "huile de sésame grillé"
+        },
+        "table_decision": {
+          "quantity_proposed": 2,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à café",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Huile de sésame",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 c. à s. de sriracha (optionnel — perso, ça dépend de mon humeur ) U",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sriracha",
+        "source_table_row": 200,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "c. à s.",
+          "ingredient": "sriracha (optionnel — perso, ça dépend de mon humeur ) U"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sriracha",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00285_oeufs-mollets-marines-a-la-sauce-soja.jpg",
+    "images": [
+      "images/00285_oeufs-mollets-marines-a-la-sauce-soja.jpg"
+    ],
+    "import_source_index": 32,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Œufs mollets marinés à la sauce soja"
+    ]
+  }
+}

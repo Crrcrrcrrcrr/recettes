@@ -1,0 +1,177 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "baguettes-maison",
+  "recipe_id": "00271",
+  "file": "recettes/00271_baguettes-maison.json",
+  "updated_at": "2026-06-18T18:24:59.699229+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "baguettes-maison",
+    "title": "Baguettes maison",
+    "original_title": "Baguettes maison",
+    "source_file": "104-Baguettes maison.melarecipe",
+    "categories": [
+      "Pain / Wraps",
+      "Pain"
+    ],
+    "ingredients": [
+      "350 g de Farine de blé T45",
+      "230 ml de Eau",
+      "5 g de Levure de boulanger",
+      "5 g de Sel"
+    ],
+    "ingredients_raw": "350 g de Farine de blé T45\n230 ml de Eau\n5 g de Levure de boulanger\n5 g de Sel",
+    "instructions": "# ⚠️ Détails super importants : On ne met pas le sel tout de suite ce qui permet une micro autolyse (ça aide le gluten à se former naturellement et permet de se…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DQG9WG6jFlQ",
+    "source_id": "instagram.com/reel/DQG9WG6jFlQ",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "350g farine de blé T65 de préférence (rayon bio) ou T55",
+      "230mL eau",
+      "5g levure de boulanger sèche",
+      "5g sel"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "350 g de Farine de blé T45",
+        "quantity": "350",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "raw": "230 ml de Eau",
+        "quantity": "230",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "5 g de Levure de boulanger",
+        "quantity": "5",
+        "unit": "g",
+        "name": "Levure de boulanger"
+      },
+      {
+        "raw": "5 g de Sel",
+        "quantity": "5",
+        "unit": "g",
+        "name": "Sel"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00271",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "350g farine de blé T65 de préférence (rayon bio) ou T55",
+        "quantity": 350,
+        "unit": "g",
+        "ingredient": "Farine de blé",
+        "source_table_row": 92,
+        "source_detected": {
+          "quantity": "350",
+          "unit": "g",
+          "ingredient": "farine de blé T65 de préférence (rayon bio) ou T55"
+        },
+        "table_decision": {
+          "quantity_proposed": 350,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Farine de blé",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "230mL eau",
+        "quantity": 230,
+        "unit": "ml",
+        "ingredient": "Eau",
+        "source_table_row": 93,
+        "source_detected": {
+          "quantity": "230",
+          "unit": "mL",
+          "ingredient": "eau"
+        },
+        "table_decision": {
+          "quantity_proposed": 230,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "5g levure de boulanger sèche",
+        "quantity": 5,
+        "unit": "g",
+        "ingredient": "Levure de boulanger",
+        "source_table_row": 94,
+        "source_detected": {
+          "quantity": "5",
+          "unit": "g",
+          "ingredient": "levure de boulanger sèche"
+        },
+        "table_decision": {
+          "quantity_proposed": 5,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Levure de boulanger",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "5g sel",
+        "quantity": 5,
+        "unit": "g",
+        "ingredient": "Sel",
+        "source_table_row": 95,
+        "source_detected": {
+          "quantity": "5",
+          "unit": "g",
+          "ingredient": "sel"
+        },
+        "table_decision": {
+          "quantity_proposed": 5,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00271_baguettes-maison.jpg",
+    "images": [
+      "images/00271_baguettes-maison.jpg"
+    ],
+    "import_source_index": 18,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre validé depuis CSV : Baguettes maison"
+    ]
+  }
+}

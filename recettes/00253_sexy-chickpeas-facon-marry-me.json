@@ -1,0 +1,314 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "sexy-chickpeas-facon-marry-me",
+  "recipe_id": "00253",
+  "file": "recettes/00253_sexy-chickpeas-facon-marry-me.json",
+  "updated_at": "2026-06-18T18:24:59.690427+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "sexy-chickpeas-facon-marry-me",
+    "title": "Sexy chickpeas façon marry me",
+    "original_title": "Sexy chickpeas façon marry me",
+    "source_file": "Sexy chickpeas façon marry me.melarecipe",
+    "categories": [
+      "Plats",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "400 g de Pois chiches cuits",
+      "0,5 unité de Oignon jaune",
+      "2 gousse de Ail",
+      "2 cm de Gingembre frais",
+      "2 cuillère à soupe de Garam masala",
+      "1 cuillère à soupe de Cumin",
+      "1 cuillère à café de Curcuma",
+      "1 cuillère à soupe de Concentré de tomate",
+      "400 g de Purée de tomate",
+      "1 cuillère à soupe de Sirop d’agave",
+      "130 ml de Lait de coco",
+      "1 unité de Sel",
+      "1 unité de Poivre"
+    ],
+    "ingredients_raw": "400 g de Pois chiches cuits\n0,5 unité de Oignon jaune\n2 gousse de Ail\n2 cm de Gingembre frais\n2 cuillère à soupe de Garam masala\n1 cuillère à soupe de Cumin\n1 cuillère à café de Curcuma\n1 cuillère à soupe de Concentré de tomate\n400 g de Purée de tomate\n1 cuillère à soupe de Sirop d’agave\n130 ml de Lait de coco\n1 unité de Sel\n1 unité de Poivre",
+    "instructions": "Accompagnements au choix : riz, un peu de crème fraîche, coriandre, piment, brocoli ou salade pour un peu de vert, comme vous voulezzz\nCiselez finement l’oignon. Faites-le revenir à feu doux environ 5-6min - il ne faut pas qu’il grille ! Ajoutez plus d’huile si besoin.\nRâpez l’ail et gingembre et faites revenir une minute. Ajoutez les épices et faites torréfier 1 min. Ajoutez le concentré et faites torréfier 1 min également. Ajoutez ensuite la passata, le sirop d’agave, salez poivrez et faites chauffer 10min sur feu doux pour qu’elle épaississe doucement.\nAjoutez le lait de coco, mélangez et faites chauffer, goûtez et ajustez l’assaisonnement / les épices si besoin. Puis mixez si vous le souhaitez ou ajoutez directement les pois chiches !\nServez avec coriandre, riz, un peu de légumes & enjoy 🫶🏻",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPt4gCBDEtJ",
+    "source_id": "instagram.com/reel/DPt4gCBDEtJ",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "400g de pois chiches cuits égouttés (de qualité)",
+      "1/2 oignon jaune",
+      "2 gousses d’ail",
+      "1 cm de gingembre frais râpé",
+      "2 cs de garam masala",
+      "1 cs de cumin en poudre",
+      "1 cc de curcuma",
+      "1 cs de concentré de tomate",
+      "400g de passata",
+      "1 cs de sirop d’agave ou sucre",
+      "130ml de lait de coco",
+      "Sel",
+      "poivre"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "400 g de Pois chiches cuits",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "0,5 Oignon jaune",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 cm de Gingembre",
+        "quantity": "2",
+        "unit": "cm",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "2 cuillère à soupe de Garam masala",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à soupe de Cumin en poudre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à soupe de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "400 g de Passata",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Purée de tomate"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sirop d’agave ou sucre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’agave"
+      },
+      {
+        "raw": "130 ml de Lait de coco",
+        "quantity": "130",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00253",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "400g de pois chiches cuits égouttés (de qualité)",
+        "quantity": "400 g",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "1/2 oignon jaune",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "2 gousses d’ail",
+        "quantity": "2 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1 cm de gingembre frais râpé",
+        "quantity": "1",
+        "unit": "",
+        "name": "Cm de gingembre frais râpé"
+      },
+      {
+        "raw": "2 cs de garam masala",
+        "quantity": "2 cs",
+        "unit": "cs",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cs de cumin en poudre",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Cumin en poudre"
+      },
+      {
+        "raw": "1 cc de curcuma",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cs de concentré de tomate",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Concentré de tomates"
+      },
+      {
+        "raw": "400g de passata",
+        "quantity": "400 g",
+        "unit": "g",
+        "name": "Passata"
+      },
+      {
+        "raw": "1 cs de sirop d’agave ou sucre",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Sirop d’agave ou sucre"
+      },
+      {
+        "raw": "130ml de lait de coco",
+        "quantity": "130 ml",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "",
+        "unit": "",
+        "name": "Sel"
+      },
+      {
+        "raw": "poivre",
+        "quantity": "",
+        "unit": "",
+        "name": "Poivre"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00253_sexy-chickpeas-facon-marry-me.jpg",
+    "images": [
+      "images/00253_sexy-chickpeas-facon-marry-me.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "400 g de Pois chiches cuits",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "raw": "0,5 Oignon jaune",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "2 gousse de Ail",
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "2 cm de Gingembre",
+        "quantity": "2",
+        "unit": "cm",
+        "name": "Gingembre"
+      },
+      {
+        "raw": "2 cuillère à soupe de Garam masala",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à soupe de Cumin en poudre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cumin en poudre"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      },
+      {
+        "raw": "1 cuillère à soupe de Concentré de tomate",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "raw": "400 g de Passata",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Passata"
+      },
+      {
+        "raw": "1 cuillère à soupe de Sirop d’agave ou sucre",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’agave ou sucre"
+      },
+      {
+        "raw": "130 ml de Lait de coco",
+        "quantity": "130",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "raw": "Sel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "Poivre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ]
+  }
+}

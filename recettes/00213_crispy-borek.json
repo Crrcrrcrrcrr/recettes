@@ -1,0 +1,274 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "crispy-borek",
+  "recipe_id": "00213",
+  "file": "recettes/00213_crispy-borek.json",
+  "updated_at": "2026-06-18T18:24:59.671192+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "crispy-borek",
+    "title": "CRISPY BÖREK",
+    "original_title": "CRISPY BÖREK",
+    "source_file": "CRISPY BÖREK.melarecipe",
+    "categories": [
+      "Entrée",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1 unité de Pâte filo",
+      "70 g de Feta",
+      "70 g de Tomate séchée",
+      "30 g de Épinard",
+      "40 g de Emmental râpé",
+      "2 cuillère à soupe de Fromage frais",
+      "1 unité de Oignon",
+      "120 g de Viande hachée",
+      "1 cuillère à café de Paprika",
+      "1 cuillère à café de Origan",
+      "1 cuillère à café de Ail"
+    ],
+    "ingredients_raw": "1 unité de Pâte filo\n70 g de Feta\n70 g de Tomate séchée\n30 g de Épinard\n40 g de Emmental râpé\n2 cuillère à soupe de Fromage frais\n1 unité de Oignon\n120 g de Viande hachée\n1 cuillère à café de Paprika\n1 cuillère à café de Origan\n1 cuillère à café de Ail",
+    "instructions": "Faire revenir dans une poêle avec un filet d’huile un oignon émincé avec les épices et la viande hachée. Laisser cuire 5 min et réserver.\nDans un saladier, mélanger le fromage frais avec les épinards, l’emmental râpé, la viande cuite, la fêta émiettée, les tomates séchées coupées en petits morceaux et la ciboulette ciselée.\nSuperposer 3 feuilles filo et les couper dans la largeur. Garnir chaque rectangle avec de la farce et les plier de la forme souhaitée. Ici j’ai opté pour des cigares. Un peu d’huile sur le dessus pour le côté bien croustillant et des graines de sésame noir.\nCuisson au four 20min à 190 degrés. Un filet de miel à la sortie du four, de la ciboulette et tu n’as plus qu’à te régaler.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DGvmHyzMj5U",
+    "source_id": "instagram.com/reel/DGvmHyzMj5U",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Feuilles filo (yufka)",
+      "70g de féta",
+      "70g de tomates séchées",
+      "30g d’épinards",
+      "40g d’emmental râpé",
+      "2 cas de St Moret",
+      "1 oignon",
+      "120g de viande hachée",
+      "1 cac de paprika",
+      "1 cac d’origan",
+      "1 cac d’ail"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "Feuilles filo (yufka)",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte filo"
+      },
+      {
+        "raw": "70 g de Feta",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "70 g de Tomate séchée",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "30 g de Épinard",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Épinard"
+      },
+      {
+        "raw": "40 g de Emmental râpé",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Emmental râpé"
+      },
+      {
+        "raw": "2 cuillère à soupe de Fromage frais",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Fromage frais"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "120 g de Viande hachée",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Viande hachée"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00213",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Feuilles filo (yufka)",
+        "quantity": "",
+        "unit": "",
+        "name": "Feuilles filo (yufka)"
+      },
+      {
+        "raw": "70g de féta",
+        "quantity": "70 g",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "70g de tomates séchées",
+        "quantity": "70 g",
+        "unit": "g",
+        "name": "Tomates séchées"
+      },
+      {
+        "raw": "30g d’épinards",
+        "quantity": "30 g",
+        "unit": "g",
+        "name": "Épinards"
+      },
+      {
+        "raw": "40g d’emmental râpé",
+        "quantity": "40 g",
+        "unit": "g",
+        "name": "Emmental râpé"
+      },
+      {
+        "raw": "2 cas de St Moret",
+        "quantity": "2 cas",
+        "unit": "cas",
+        "name": "St Môret"
+      },
+      {
+        "raw": "1 oignon",
+        "quantity": "1",
+        "unit": "",
+        "name": "Oignon"
+      },
+      {
+        "raw": "120g de viande hachée",
+        "quantity": "120 g",
+        "unit": "g",
+        "name": "Viande hachée"
+      },
+      {
+        "raw": "1 cac de paprika",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cac d’origan",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Origan"
+      },
+      {
+        "raw": "1 cac d’ail",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Ail"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00213_crispy-borek.jpg",
+    "images": [
+      "images/00213_crispy-borek.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "Feuilles filo (yufka)",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Feuilles filo (yufka)"
+      },
+      {
+        "raw": "70 g de Feta",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "raw": "70 g de Tomate séchée",
+        "quantity": "70",
+        "unit": "g",
+        "name": "Tomate séchée"
+      },
+      {
+        "raw": "30 g de Épinard",
+        "quantity": "30",
+        "unit": "g",
+        "name": "Épinard"
+      },
+      {
+        "raw": "40 g de Emmental râpé",
+        "quantity": "40",
+        "unit": "g",
+        "name": "Emmental râpé"
+      },
+      {
+        "raw": "2 cuillère à soupe de St Môret",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "St Môret"
+      },
+      {
+        "raw": "Oignon",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "raw": "120 g de Viande hachée",
+        "quantity": "120",
+        "unit": "g",
+        "name": "Viande hachée"
+      },
+      {
+        "raw": "1 cuillère à café de Paprika",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "raw": "1 cuillère à café de Origan",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Origan"
+      },
+      {
+        "raw": "1 cuillère à café de Ail",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail"
+      }
+    ]
+  }
+}

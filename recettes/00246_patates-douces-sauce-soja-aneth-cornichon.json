@@ -1,0 +1,235 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "patates-douces-sauce-soja-aneth-cornichon",
+  "recipe_id": "00246",
+  "file": "recettes/00246_patates-douces-sauce-soja-aneth-cornichon.json",
+  "updated_at": "2026-06-18T18:24:59.687526+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "patates-douces-sauce-soja-aneth-cornichon",
+    "title": "Patates douces sauce soja aneth cornichon",
+    "original_title": "Patates douces sauce soja aneth cornichon",
+    "source_file": "Patates douces sauce soja aneth cornichon.melarecipe",
+    "categories": [
+      "Plats",
+      "Légumes rôtis",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "2 unité de Patate douce",
+      "1 unité de Huile d’olive",
+      "1 unité de Miel",
+      "1 unité de Thym",
+      "1 unité de Yaourt grec",
+      "1 unité de Cornichon",
+      "1 unité de Sauce soja",
+      "1 unité de Moutarde à l'ancienne",
+      "1 unité de Aneth frais"
+    ],
+    "ingredients_raw": "2 unité de Patate douce\n1 unité de Huile d’olive\n1 unité de Miel\n1 unité de Thym\n1 unité de Yaourt grec\n1 unité de Cornichon\n1 unité de Sauce soja\n1 unité de Moutarde à l'ancienne\n1 unité de Aneth frais",
+    "instructions": "Coupe les patates douces en deux dans la longueur.\nSur une plaque : ajoute un filet d’huile d’olive, du miel et du thym.\nPose les patates face contre la marinade, frotte bien.\nEnfourne à 200°C pendant 30 min.\nPrépare la sauce : yaourt grec, moutarde à l’ancienne, sauce soja, cornichons hachés, beaucoup d’aneth.\nQuand les patates sont bien fondantes, ajoute la sauce par-dessus et régale-toi.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPvUr48DDuj",
+    "source_id": "instagram.com/reel/DPvUr48DDuj",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "2 patates douces",
+      "huile d’olive",
+      "miel",
+      "thym",
+      "yaourt grec",
+      "cornichons",
+      "sauce soja",
+      "moutarde à l’ancienne",
+      "aneth frais"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "2 Patate douce",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "raw": "Yaourt grec",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "Cornichons",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cornichon"
+      },
+      {
+        "raw": "Sauce soja",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "Moutarde à l'ancienne",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Moutarde à l'ancienne"
+      },
+      {
+        "raw": "Aneth frais",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Aneth frais"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00246",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "2 patates douces",
+        "quantity": "2",
+        "unit": "",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "huile d’olive",
+        "quantity": "",
+        "unit": "",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "miel",
+        "quantity": "",
+        "unit": "",
+        "name": "Miel"
+      },
+      {
+        "raw": "thym",
+        "quantity": "",
+        "unit": "",
+        "name": "Thym"
+      },
+      {
+        "raw": "yaourt grec",
+        "quantity": "",
+        "unit": "",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "cornichons",
+        "quantity": "",
+        "unit": "",
+        "name": "Cornichons"
+      },
+      {
+        "raw": "sauce soja",
+        "quantity": "",
+        "unit": "",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "moutarde à l’ancienne",
+        "quantity": "",
+        "unit": "",
+        "name": "Moutarde à l'ancienne"
+      },
+      {
+        "raw": "aneth frais",
+        "quantity": "",
+        "unit": "",
+        "name": "Aneth frais"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00246_patates-douces-sauce-soja-aneth-cornichon.jpg",
+    "images": [
+      "images/00246_patates-douces-sauce-soja-aneth-cornichon.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "2 Patate douce",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Patate douce"
+      },
+      {
+        "raw": "Huile d’olive",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "raw": "Miel",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "raw": "Thym",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "raw": "Yaourt grec",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Yaourt grec"
+      },
+      {
+        "raw": "Cornichons",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Cornichons"
+      },
+      {
+        "raw": "Sauce soja",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Sauce soja"
+      },
+      {
+        "raw": "Moutarde à l'ancienne",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Moutarde à l'ancienne"
+      },
+      {
+        "raw": "Aneth frais",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Aneth frais"
+      }
+    ]
+  }
+}

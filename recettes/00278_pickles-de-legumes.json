@@ -1,0 +1,478 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pickles-de-legumes",
+  "recipe_id": "00278",
+  "file": "recettes/00278_pickles-de-legumes.json",
+  "updated_at": "2026-06-18T18:24:59.703530+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "pickles-de-legumes",
+    "title": "Pickles de légumes",
+    "original_title": "PICKELS de LÉGUMES",
+    "source_file": "81-PICKELS de LÉGUMES.melarecipe",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Assaisonnement",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "3 unité de Oignon rouge",
+      "3 unité de Carotte",
+      "1 unité de Betterave crue",
+      "1 unité de Brocoli",
+      "500 ml de Vinaigre de cidre",
+      "500 ml de Vinaigre de vin blanc",
+      "1000 ml de Eau",
+      "4 cuillère à soupe de Sucre",
+      "4 unité de Sel",
+      "5 g de Poivre en grain",
+      "1 branche de Aneth frais",
+      "8 gousse de Ail",
+      "1 unité de Citron jaune",
+      "1 unité de Jus de citron vert"
+    ],
+    "ingredients_raw": "3 unité de Oignon rouge\n3 unité de Carotte\n1 unité de Betterave crue\n1 unité de Brocoli\n500 ml de Vinaigre de cidre\n500 ml de Vinaigre de vin blanc\n1000 ml de Eau\n4 cuillère à soupe de Sucre\n4 unité de Sel\n5 g de Poivre en grain\n1 branche de Aneth frais\n8 gousse de Ail\n1 unité de Citron jaune\n1 unité de Jus de citron vert",
+    "instructions": "Couoer les légumes finement pour remplir les bocaux avec. Ajouter 3 morceaux de betterave dans le bocal des oignons pour accentuer la couleur rose. Ajouter l’an…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DV31jOqDC16",
+    "source_id": "instagram.com/reel/DV31jOqDC16",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "3 oignons rouges",
+      "3 carottes",
+      "1 grosse betterave",
+      "1 brocolis",
+      "500ml de vinaigre de cidre",
+      "500ml de vinaigre blanc",
+      "1L d’eau",
+      "4 cas de sucre",
+      "4 cac de sel ",
+      "5g de grains de poivre",
+      "1 branche d’aneth ",
+      "8 gousses d’ail",
+      "1 citron jaune ",
+      "Jus d’1 citron vert "
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "3 unité de Oignon rouge",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Oignon rouge"
+      },
+      {
+        "raw": "3 unité de Carotte",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "raw": "1 unité de Betterave crue",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Betterave crue"
+      },
+      {
+        "raw": "1 unité de Brocoli",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Brocoli"
+      },
+      {
+        "raw": "500 ml de Vinaigre de cidre",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "raw": "500 ml de Vinaigre de vin blanc",
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Vinaigre de vin blanc"
+      },
+      {
+        "raw": "1000 ml de Eau",
+        "quantity": "1000",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "raw": "4 cuillère à soupe de Sucre",
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Sucre"
+      },
+      {
+        "raw": "4 unité de Sel",
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "raw": "5 g de Poivre en grain",
+        "quantity": "5",
+        "unit": "g",
+        "name": "Poivre en grain"
+      },
+      {
+        "raw": "1 branche de Aneth frais",
+        "quantity": "1",
+        "unit": "branche",
+        "name": "Aneth frais"
+      },
+      {
+        "raw": "8 gousse de Ail",
+        "quantity": "8",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "1 unité de Citron jaune",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron jaune"
+      },
+      {
+        "raw": "1 unité de Jus de citron vert",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron vert"
+      }
+    ],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00278",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "3 oignons rouges",
+        "quantity": 3,
+        "unit": "unité",
+        "ingredient": "Oignon rouge",
+        "source_table_row": 138,
+        "source_detected": {
+          "quantity": "3",
+          "unit": "unité",
+          "ingredient": "oignons rouges"
+        },
+        "table_decision": {
+          "quantity_proposed": 3,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Oignon rouge",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "3 carottes",
+        "quantity": 3,
+        "unit": "unité",
+        "ingredient": "Carotte",
+        "source_table_row": 139,
+        "source_detected": {
+          "quantity": "3",
+          "unit": "unité",
+          "ingredient": "carottes"
+        },
+        "table_decision": {
+          "quantity_proposed": 3,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Carotte",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 grosse betterave",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Betterave",
+        "source_table_row": 140,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "grosse betterave"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Betterave",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 brocolis",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Brocoli",
+        "source_table_row": 141,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "unité",
+          "ingredient": "brocolis"
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Brocoli",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "500ml de vinaigre de cidre",
+        "quantity": 500,
+        "unit": "ml",
+        "ingredient": "Vinaigre de cidre",
+        "source_table_row": 142,
+        "source_detected": {
+          "quantity": "500",
+          "unit": "ml",
+          "ingredient": "vinaigre de cidre"
+        },
+        "table_decision": {
+          "quantity_proposed": 500,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Vinaigre de cidre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "500ml de vinaigre blanc",
+        "quantity": 500,
+        "unit": "ml",
+        "ingredient": "Vinaigre blanc",
+        "source_table_row": 143,
+        "source_detected": {
+          "quantity": "500",
+          "unit": "ml",
+          "ingredient": "vinaigre blanc"
+        },
+        "table_decision": {
+          "quantity_proposed": 500,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Vinaigre blanc",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1L d’eau",
+        "quantity": 1000,
+        "unit": "ml",
+        "ingredient": "Eau",
+        "source_table_row": 144,
+        "source_detected": {
+          "quantity": "1",
+          "unit": "L",
+          "ingredient": "eau"
+        },
+        "table_decision": {
+          "quantity_proposed": 1000,
+          "quantity_validation": "OK",
+          "unit_proposed": "ml",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Eau",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "4 cas de sucre",
+        "quantity": 4,
+        "unit": "cuillère à soupe",
+        "ingredient": "Sucre",
+        "source_table_row": 145,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "cas",
+          "ingredient": "sucre"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "cuillère à soupe",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sucre",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "4 cac de sel ",
+        "quantity": 4,
+        "unit": "unité",
+        "ingredient": "Sel",
+        "source_table_row": 146,
+        "source_detected": {
+          "quantity": "4",
+          "unit": "unité",
+          "ingredient": "c"
+        },
+        "table_decision": {
+          "quantity_proposed": 4,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Sel",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "5g de grains de poivre",
+        "quantity": 5,
+        "unit": "g",
+        "ingredient": "Poivre en grain",
+        "source_table_row": 147,
+        "source_detected": {
+          "quantity": 5,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 5,
+          "quantity_validation": "OK",
+          "unit_proposed": "g",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Poivre en grain",
+          "ingredient_action": "Créer",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 branche d’aneth ",
+        "quantity": 1,
+        "unit": "branche",
+        "ingredient": "Aneth",
+        "source_table_row": 148,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "branche",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Aneth",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "8 gousses d’ail",
+        "quantity": 8,
+        "unit": "gousse",
+        "ingredient": "Ail",
+        "source_table_row": 149,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 8,
+          "quantity_validation": "OK",
+          "unit_proposed": "gousse",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Ail",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "1 citron jaune ",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Citron",
+        "source_table_row": 150,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Citron",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      },
+      {
+        "raw": "Jus d’1 citron vert ",
+        "quantity": 1,
+        "unit": "unité",
+        "ingredient": "Jus de citron vert",
+        "source_table_row": 151,
+        "source_detected": {
+          "quantity": null,
+          "unit": null,
+          "ingredient": null
+        },
+        "table_decision": {
+          "quantity_proposed": 1,
+          "quantity_validation": "OK",
+          "unit_proposed": "unité",
+          "unit_action": "Utiliser l'existant",
+          "unit_validation_or_correction": "OK",
+          "ingredient_proposed": "Jus de citron vert",
+          "ingredient_action": "Utiliser l'existant",
+          "ingredient_validation_or_correction": "ok"
+        }
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00278_pickles-de-legumes.jpg",
+    "images": [
+      "images/00278_pickles-de-legumes.jpg"
+    ],
+    "import_source_index": 25,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Pickles de légumes"
+    ]
+  }
+}

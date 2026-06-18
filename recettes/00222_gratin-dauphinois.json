@@ -1,0 +1,165 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "gratin-dauphinois",
+  "recipe_id": "00222",
+  "file": "recettes/00222_gratin-dauphinois.json",
+  "updated_at": "2026-06-18T18:24:59.675183+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "gratin-dauphinois",
+    "title": "Gratin dauphinois",
+    "original_title": "Gratin dauphinois",
+    "source_file": "Gratin dauphinois.melarecipe",
+    "categories": [
+      "Plats",
+      "Gratin",
+      "Végétarien"
+    ],
+    "ingredients": [
+      "1,2 kg de Pomme de terre",
+      "1 tête de Ail",
+      "300 g de Crème liquide",
+      "2 cuillère à soupe de Crème fraîche",
+      "15 g de Beurre",
+      "1 cuillère à café de Noix de muscade",
+      "1 cuillère à soupe de Thym",
+      "80 g de Comté"
+    ],
+    "ingredients_raw": "1,2 kg de Pomme de terre\n1 tête de Ail\n300 g de Crème liquide\n2 cuillère à soupe de Crème fraîche\n15 g de Beurre\n1 cuillère à café de Noix de muscade\n1 cuillère à soupe de Thym\n80 g de Comté",
+    "instructions": "Couper le chapeau de la tête d’ail, la mettre dans une mini cocotte ou en papillote (enveloppée dans du papier cuisson) avec une pincée de sel et un filet de d’huile. Cuisson 35 min à 200 degrés.\nLaver et couper les pommes de terre en rondelles assez fines. Les disposer dans un plat les unes collées aux autres. Dans une casserole, faire fondre le beurre avec la crème liquide, la crème épaisse, ajouter la noix de muscade, le thym, la tête d’ail, le tiers du comté, un peu de sel et du poivre. Mixer le tout et verser la sauce dans le plat pour recouvrir toutes les pommes de terre. Recouvrir le plat en superposant une feuille de papier cuisson et une feuille d’allu. Cuisson 1h à 190 degrés.\nAu bout d’une heure, retirer les feuilles et ajouter le reste du comté pour 15 min supplémentaires en mode grill. Il sera parfaitement gratiné et surtout bien tendre et fondant à l’intérieur.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DPlRpQ-DOXh",
+    "source_id": "instagram.com/reel/DPlRpQ-DOXh",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "1,2 kilos de pomme de terre",
+      "1 tête d’ail",
+      "300g de crème liquide",
+      "2 cas de crème fraîche",
+      "15g de beurre",
+      "1 cac de noix de muscade",
+      "1 cas de thym",
+      "80g de comté"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "1,2 kg de Pomme de terre",
+        "quantity": "1,2",
+        "unit": "g",
+        "name": "Pomme de terre"
+      },
+      {
+        "raw": "1 tête de Ail",
+        "quantity": "1",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "300 g de Crème liquide",
+        "quantity": "300",
+        "unit": "g",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "2 cuillère à soupe de Crème fraîche",
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "15 g de Beurre",
+        "quantity": "15",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "1 cuillère à café de Noix de muscade",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Noix de muscade"
+      },
+      {
+        "raw": "1 cuillère à soupe de Thym",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Thym"
+      },
+      {
+        "raw": "80 g de Comté",
+        "quantity": "80",
+        "unit": "g",
+        "name": "Comté"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00222",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "1,2 kilos de pomme de terre",
+        "quantity": "1,2",
+        "unit": "",
+        "name": "Kilos de pomme de terre"
+      },
+      {
+        "raw": "1 tête d’ail",
+        "quantity": "1 tête",
+        "unit": "tête",
+        "name": "Ail"
+      },
+      {
+        "raw": "300g de crème liquide",
+        "quantity": "300 g",
+        "unit": "g",
+        "name": "Crème liquide"
+      },
+      {
+        "raw": "2 cas de crème fraîche",
+        "quantity": "2 cas",
+        "unit": "cas",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "15g de beurre",
+        "quantity": "15 g",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "raw": "1 cac de noix de muscade",
+        "quantity": "1 cac",
+        "unit": "cac",
+        "name": "Noix de muscade"
+      },
+      {
+        "raw": "1 cas de thym",
+        "quantity": "1 cas",
+        "unit": "cas",
+        "name": "Thym"
+      },
+      {
+        "raw": "80g de comté",
+        "quantity": "80 g",
+        "unit": "g",
+        "name": "Comté"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00222_gratin-dauphinois.jpg",
+    "images": [
+      "images/00222_gratin-dauphinois.jpg"
+    ]
+  }
+}

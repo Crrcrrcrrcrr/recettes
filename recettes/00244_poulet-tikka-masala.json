@@ -1,0 +1,335 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "poulet-tikka-masala",
+  "recipe_id": "00244",
+  "file": "recettes/00244_poulet-tikka-masala.json",
+  "updated_at": "2026-06-18T18:24:59.686803+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "poulet-tikka-masala",
+    "title": "Poulet tikka masala",
+    "original_title": "Poulet tikka masala",
+    "source_file": "Poulet tikka masala.melarecipe",
+    "categories": [
+      "Plats",
+      "Viande",
+      "Indien"
+    ],
+    "ingredients": [
+      "400 g de Poulet",
+      "250 g de Tomates concassées",
+      "3/4 gousse de Ail",
+      "1 pouce de Gingembre frais",
+      "0,5 unité de Piment",
+      "2 unité de Oignon jaune",
+      "100 g de Crème fraîche",
+      "0,5 botte de Coriandre",
+      "150 g de Yaourt nature",
+      "1 cuillère à soupe de Piment",
+      "1 cuillère à soupe de Garam masala",
+      "1 cuillère à café de Curry",
+      "1 cuillère à café de Cumin",
+      "1 cuillère à café de Curcuma"
+    ],
+    "ingredients_raw": "400 g de Poulet\n250 g de Tomates concassées\n3/4 gousse de Ail\n1 pouce de Gingembre frais\n0,5 unité de Piment\n2 unité de Oignon jaune\n100 g de Crème fraîche\n0,5 botte de Coriandre\n150 g de Yaourt nature\n1 cuillère à soupe de Piment\n1 cuillère à soupe de Garam masala\n1 cuillère à café de Curry\n1 cuillère à café de Cumin\n1 cuillère à café de Curcuma",
+    "instructions": "",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/ConDeVsKBM8",
+    "source_id": "instagram.com/reel/ConDeVsKBM8",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "400g de poulet",
+      "250g de tomate en conserve",
+      "3/4 gousses d’ail",
+      "1 pouce de gingembre",
+      "1/2 piment (facultatif)",
+      "2 petits oignons jaunes",
+      "100g de crème fraiche",
+      "1/2 botte de coriandre",
+      "150g de yaourt",
+      "1 cs de piment (poudre)",
+      "1 cas de garam masala",
+      "1 cc de curry",
+      "1 cc de cumin",
+      "1 cc de curcuma"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "400 g de Poulet",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Poulet"
+      },
+      {
+        "raw": "250 g de Tomate en conserve",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Tomates concassées"
+      },
+      {
+        "raw": "3/4 gousse de Ail",
+        "quantity": "3/4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Pouce de gingembre",
+        "quantity": "1",
+        "unit": "pouce",
+        "name": "Gingembre frais"
+      },
+      {
+        "raw": "0,5 Piment",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "raw": "2 Petits oignons jaunes",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon jaune"
+      },
+      {
+        "raw": "100 g de Crème fraîche",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "0,5 botte de Coriandre",
+        "quantity": "0,5",
+        "unit": "botte",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "150 g de Yaourt nature",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "1 cuillère à soupe de Piment",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Piment"
+      },
+      {
+        "raw": "1 cuillère à soupe de Garam masala",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à café de Curry",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cuillère à café de Cumin",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_csv",
+    "recipe_id": "00244",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "400g de poulet",
+        "quantity": "400 g",
+        "unit": "g",
+        "name": "Poulet"
+      },
+      {
+        "raw": "250g de tomate en conserve",
+        "quantity": "250 g",
+        "unit": "g",
+        "name": "Tomate en conserve"
+      },
+      {
+        "raw": "3/4 gousses d’ail",
+        "quantity": "3/4 gousses",
+        "unit": "gousses",
+        "name": "Gousse d'ail"
+      },
+      {
+        "raw": "1 pouce de gingembre",
+        "quantity": "1",
+        "unit": "",
+        "name": "Pouce de gingembre"
+      },
+      {
+        "raw": "1/2 piment (facultatif)",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Piment"
+      },
+      {
+        "raw": "2 petits oignons jaunes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Petits oignons jaunes"
+      },
+      {
+        "raw": "100g de crème fraiche",
+        "quantity": "100 g",
+        "unit": "g",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "1/2 botte de coriandre",
+        "quantity": "1/2",
+        "unit": "",
+        "name": "Botte de coriandre"
+      },
+      {
+        "raw": "150g de yaourt",
+        "quantity": "150 g",
+        "unit": "g",
+        "name": "Yaourt"
+      },
+      {
+        "raw": "1 cs de piment (poudre)",
+        "quantity": "1 cs",
+        "unit": "cs",
+        "name": "Piment"
+      },
+      {
+        "raw": "1 cas de garam masala",
+        "quantity": "1 cas",
+        "unit": "cas",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cc de curry",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cc de cumin",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cc de curcuma",
+        "quantity": "1 cc",
+        "unit": "cc",
+        "name": "Curcuma"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00244_poulet-tikka-masala.jpg",
+    "images": [
+      "images/00244_poulet-tikka-masala.jpg"
+    ],
+    "ingredient_items_before_csv_update": [
+      {
+        "raw": "400 g de Poulet",
+        "quantity": "400",
+        "unit": "g",
+        "name": "Poulet"
+      },
+      {
+        "raw": "250 g de Tomate en conserve",
+        "quantity": "250",
+        "unit": "g",
+        "name": "Tomate en conserve"
+      },
+      {
+        "raw": "3/4 gousse de Ail",
+        "quantity": "3/4",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "raw": "Pouce de gingembre",
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pouce de gingembre"
+      },
+      {
+        "raw": "0,5 Piment",
+        "quantity": "0,5",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "raw": "2 Petits oignons jaunes",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Petits oignons jaunes"
+      },
+      {
+        "raw": "100 g de Crème fraîche",
+        "quantity": "100",
+        "unit": "g",
+        "name": "Crème fraîche"
+      },
+      {
+        "raw": "0,5 botte de Coriandre",
+        "quantity": "0,5",
+        "unit": "botte",
+        "name": "Coriandre"
+      },
+      {
+        "raw": "150 g de Yaourt",
+        "quantity": "150",
+        "unit": "g",
+        "name": "Yaourt"
+      },
+      {
+        "raw": "1 cuillère à soupe de Piment",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Piment"
+      },
+      {
+        "raw": "1 cuillère à soupe de Garam masala",
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Garam masala"
+      },
+      {
+        "raw": "1 cuillère à café de Curry",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "raw": "1 cuillère à café de Cumin",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "raw": "1 cuillère à café de Curcuma",
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curcuma"
+      }
+    ]
+  }
+}

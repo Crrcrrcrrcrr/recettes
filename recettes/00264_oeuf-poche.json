@@ -1,0 +1,54 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "oeuf-poche",
+  "recipe_id": "00264",
+  "file": "recettes/00264_oeuf-poche.json",
+  "updated_at": "2026-06-18T18:24:59.696329+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": false,
+    "image_validated": false,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "oeuf-poche",
+    "title": "Œuf poché",
+    "original_title": "Tu connaissais cette technique ?",
+    "source_file": "30-Tu connaissais cette technique ?.melarecipe",
+    "categories": [
+      "Entrée",
+      "Végétarien"
+    ],
+    "ingredients": [],
+    "ingredients_raw": "",
+    "instructions": "Tu connaissais cette technique ? Les œufs poché vont devenir le truc le plus simple de l’histoire après que tu aies utilisé cette astuce! Fini la pression au mo…",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DRuLjyGCBne",
+    "source_id": "instagram.com/reel/DRuLjyGCBne",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [],
+    "ingredient_items_cleaned": [],
+    "ingredients_cleaning_status": "Validé depuis tableau corrigé",
+    "recipe_id": "00264",
+    "ingredient_items_before_table_import": [],
+    "yield": "",
+    "portions": "",
+    "image": "images/00264_oeuf-poche.jpg",
+    "images": [
+      "images/00264_oeuf-poche.jpg"
+    ],
+    "import_source_index": 10,
+    "duplicate_status": "Non doublon confirmé",
+    "comments": [
+      "Titre corrigé/validé depuis CSV : Œuf poché",
+      "Aucun ingrédient conservé dans le tableau corrigé."
+    ]
+  }
+}

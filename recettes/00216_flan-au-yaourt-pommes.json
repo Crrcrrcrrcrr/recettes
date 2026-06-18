@@ -1,0 +1,143 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "flan-au-yaourt-pommes",
+  "recipe_id": "00216",
+  "file": "recettes/00216_flan-au-yaourt-pommes.json",
+  "updated_at": "2026-06-18T18:24:59.672671+00:00",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "portions_validated": false,
+    "instructions_validated": true,
+    "image_validated": true,
+    "quick_add": false
+  },
+  "recipe": {
+    "id": "flan-au-yaourt-pommes",
+    "title": "FLAN AU YAOURT & POMMES",
+    "original_title": "FLAN AU YAOURT & POMMES",
+    "source_file": "FLAN AU YAOURT & POMMES.melarecipe",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "ingredients": [
+      "3 unité de Œuf",
+      "500 g de Yaourt nature",
+      "45 g de Sucre",
+      "75 g de Maïzena",
+      "2 unité de Pomme",
+      "1 bouchon de Extrait de vanille"
+    ],
+    "ingredients_raw": "3 unité de Œuf\n500 g de Yaourt nature\n45 g de Sucre\n75 g de Maïzena\n2 unité de Pomme\n1 bouchon de Extrait de vanille",
+    "instructions": "Commencez par battre les œufs avec le sucre jusqu’à ce que le mélange devienne mousseux. Ajoutez ensuite les yaourts et l’extrait de vanille. Mélangez jusqu’à obtenir un mélange homogène. Ajoutez ensuite la maïzena et mélangez à nouveau. Épluchez et coupez les pommes en petits morceaux. Ajoutez-les à la préparation et mélangez une dernière fois. Versez la pâte dans un moule à gâteau préalablement chemisé. Ajoutez des amandes effilées si vous en avez (optionnel). Faites cuire 50 minutes à 180°. Une fois cuit, sortez le flan du four et laissez totalement refroidir avant de démouler ou couper.",
+    "notes": "",
+    "link": "https://www.instagram.com/reel/DNQlk37se1J",
+    "source_id": "instagram.com/reel/DNQlk37se1J",
+    "favorite": false,
+    "want_to_cook": false,
+    "image_count": 1,
+    "ingredients_original_before_cleaning": [
+      "Ingrédients (moule de 20 cm)",
+      "3 œufs",
+      "500 g de yaourt nature",
+      "45 g de sucre",
+      "75 g de maïzena",
+      "2 pommes",
+      "1 bouchon d’extrait de vanille"
+    ],
+    "ingredient_items_cleaned": [
+      {
+        "raw": "3 Œuf",
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "raw": "500 g de Yaourt nature",
+        "quantity": "500",
+        "unit": "g",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "45 g de Sucre",
+        "quantity": "45",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "75 g de Maïzena",
+        "quantity": "75",
+        "unit": "g",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "2 Pomme",
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Pomme"
+      },
+      {
+        "raw": "1 bouchon de Extrait de vanille",
+        "quantity": "1",
+        "unit": "bouchon",
+        "name": "Extrait de vanille"
+      }
+    ],
+    "ingredients_cleaning_status": "validated_from_corrected_excel",
+    "recipe_id": "00216",
+    "ingredient_items_before_table_import": [
+      {
+        "raw": "Ingrédients (moule de 20 cm)",
+        "quantity": "",
+        "unit": "",
+        "name": "Ingrédients (moule de 20 cm)"
+      },
+      {
+        "raw": "3 œufs",
+        "quantity": "3",
+        "unit": "",
+        "name": "Œuf"
+      },
+      {
+        "raw": "500 g de yaourt nature",
+        "quantity": "500 g",
+        "unit": "g",
+        "name": "Yaourt nature"
+      },
+      {
+        "raw": "45 g de sucre",
+        "quantity": "45 g",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "raw": "75 g de maïzena",
+        "quantity": "75 g",
+        "unit": "g",
+        "name": "Maïzena"
+      },
+      {
+        "raw": "2 pommes",
+        "quantity": "2",
+        "unit": "",
+        "name": "Pomme"
+      },
+      {
+        "raw": "1 bouchon d’extrait de vanille",
+        "quantity": "1",
+        "unit": "",
+        "name": "Bouchon d’extrait de vanille"
+      }
+    ],
+    "yield": "",
+    "portions": "",
+    "image": "images/00216_flan-au-yaourt-pommes.jpg",
+    "images": [
+      "images/00216_flan-au-yaourt-pommes.jpg"
+    ]
+  }
+}
