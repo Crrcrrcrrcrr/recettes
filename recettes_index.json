@@ -222,7 +222,7 @@
         "Viande"
       ],
       "file": "recettes/00002_nuggets-maison.json",
-      "image": "images/00002_nuggets-maison.heic",
+      "image": "images/00002_nuggets-maison.jpg",
       "source": "https://www.instagram.com/reel/C1_v1mwuzQn",
       "favorite": false,
       "want_to_cook": false,
@@ -273,7 +273,7 @@
         "Végétarien"
       ],
       "file": "recettes/00004_tartines-ail-tomates-confites-burrata.json",
-      "image": "images/00004_tartines-ail-tomates-confites-burrata.heic",
+      "image": "images/00004_tartines-ail-tomates-confites-burrata.jpg",
       "source": "https://www.instagram.com/reel/C9E2ppsMEL-",
       "favorite": false,
       "want_to_cook": false,
@@ -432,7 +432,7 @@
         "Végétarien"
       ],
       "file": "recettes/00010_tarte-poireaux-caramelises.json",
-      "image": "images/00010_tarte-poireaux-caramelises.heic",
+      "image": "images/00010_tarte-poireaux-caramelises.jpg",
       "source": "https://www.instagram.com/reel/C6a_QAEsbQf",
       "favorite": false,
       "want_to_cook": false,
@@ -458,7 +458,7 @@
         "Végétarien"
       ],
       "file": "recettes/00011_veloute-de-legumes-rotis-et-creme-de-mozza.json",
-      "image": "images/00011_veloute-de-legumes-rotis-et-creme-de-mozza.heic",
+      "image": "images/00011_veloute-de-legumes-rotis-et-creme-de-mozza.jpg",
       "source": "https://www.instagram.com/reel/DA0MyElMM8b",
       "favorite": false,
       "want_to_cook": false,
@@ -510,7 +510,7 @@
         "Végétarien"
       ],
       "file": "recettes/00013_gratin-butternut-epinards-comte.json",
-      "image": "images/00013_gratin-butternut-epinards-comte.heic",
+      "image": "images/00013_gratin-butternut-epinards-comte.jpg",
       "source": "https://www.instagram.com/reel/DAnSgb7M2Za",
       "favorite": false,
       "want_to_cook": false,
@@ -842,7 +842,7 @@
         "Sandwich"
       ],
       "file": "recettes/00026_wraps-epinards.json",
-      "image": "images/00026_wraps-epinards.heic",
+      "image": "images/00026_wraps-epinards.jpg",
       "source": "https://www.instagram.com/reel/DFXeg0lsGGH",
       "favorite": false,
       "want_to_cook": false,
@@ -916,7 +916,7 @@
         "Sauce"
       ],
       "file": "recettes/00029_sauce-curry-mc-do.json",
-      "image": "images/00029_sauce-curry-mc-do.heic",
+      "image": "images/00029_sauce-curry-mc-do.jpg",
       "source": "https://www.instagram.com/reel/DE78jNXo0aO",
       "favorite": false,
       "want_to_cook": false,
@@ -1536,7 +1536,7 @@
         "Végétarien"
       ],
       "file": "recettes/00054_pommes-de-terre-roties-parfaites.json",
-      "image": "images/00054_pommes-de-terre-roties-parfaites.heic",
+      "image": "images/00054_pommes-de-terre-roties-parfaites.jpg",
       "source": "https://www.instagram.com/reel/DBispK9SeEK",
       "favorite": false,
       "want_to_cook": false,
@@ -1635,7 +1635,7 @@
         "Végétarien"
       ],
       "file": "recettes/00058_pommes-de-terre-a-la-grecque.json",
-      "image": "images/00058_pommes-de-terre-a-la-grecque.heic",
+      "image": "images/00058_pommes-de-terre-a-la-grecque.jpg",
       "source": "https://www.instagram.com/reel/C9ifa7xKH9r",
       "favorite": false,
       "want_to_cook": false,
@@ -2163,7 +2163,7 @@
         "Végétarien"
       ],
       "file": "recettes/00079_orzo-pistache-courgette-et-burrata.json",
-      "image": "images/00079_orzo-pistache-courgette-et-burrata.heic",
+      "image": "images/00079_orzo-pistache-courgette-et-burrata.jpg",
       "source": "https://www.instagram.com/reel/C6WkJKasnC8",
       "favorite": false,
       "want_to_cook": false,
@@ -2461,7 +2461,7 @@
         "Végétarien"
       ],
       "file": "recettes/00091_pates-maison-en-5-min-et-2-ingredients.json",
-      "image": "images/00091_pates-maison-en-5-min-et-2-ingredients.heic",
+      "image": "images/00091_pates-maison-en-5-min-et-2-ingredients.jpg",
       "source": "https://www.instagram.com/reel/C4u2xAfoEwh",
       "favorite": false,
       "want_to_cook": false,
@@ -2930,7 +2930,7 @@
         "Végétarien"
       ],
       "file": "recettes/00110_risotto-aux-asperges-et-comte.json",
-      "image": "images/00110_risotto-aux-asperges-et-comte.heic",
+      "image": "images/00110_risotto-aux-asperges-et-comte.jpg",
       "source": "https://www.instagram.com/reel/C4DiXGkNg9W",
       "favorite": false,
       "want_to_cook": true,
@@ -3556,7 +3556,7 @@
         "Pains/wraps"
       ],
       "file": "recettes/00135_pain-pita.json",
-      "image": "images/00135_pain-pita.heic",
+      "image": "images/00135_pain-pita.jpg",
       "source": "https://www.instagram.com/reel/CxL1axTKYPg",
       "favorite": false,
       "want_to_cook": false,
@@ -3579,7 +3579,7 @@
         "Apéritif"
       ],
       "file": "recettes/00136_burrata-au-citron-et-tomate-glacee.json",
-      "image": "images/00136_burrata-au-citron-et-tomate-glacee.heic",
+      "image": "images/00136_burrata-au-citron-et-tomate-glacee.jpg",
       "source": "https://www.instagram.com/reel/Cw2vSskMmKN",
       "favorite": false,
       "want_to_cook": false,
@@ -4514,7 +4514,7 @@
         "Poisson"
       ],
       "file": "recettes/00174_sushi-balls.json",
-      "image": "images/00174_sushi-balls.heic",
+      "image": "images/00174_sushi-balls.jpg",
       "source": "https://www.instagram.com/reel/DCwv5FlINjf",
       "favorite": false,
       "want_to_cook": false,
@@ -4657,7 +4657,7 @@
         "Sucré"
       ],
       "file": "recettes/00180_cookies-coeur-pistache.json",
-      "image": "images/00180_cookies-coeur-pistache.heic",
+      "image": "images/00180_cookies-coeur-pistache.jpg",
       "source": "https://www.instagram.com/reel/C_TNZb0MyUe",
       "favorite": false,
       "want_to_cook": false,
