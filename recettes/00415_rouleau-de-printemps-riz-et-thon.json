@@ -1,0 +1,90 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "rouleau-de-printemps-riz-et-thon",
+  "recipe_id": "00415",
+  "file": "recettes/00415_rouleau-de-printemps-riz-et-thon.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Rouleau de printemps riz et thon",
+    "categories": [
+      "Plats",
+      "Sandwich"
+    ],
+    "tags": [
+      "Asiatique",
+      "Froid"
+    ],
+    "servings": null,
+    "image": "images/00415_rouleau-de-printemps-riz-et-thon.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Feuille de riz"
+      },
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Feuille d'algue nori"
+      },
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Riz cuit"
+      },
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Pickles viet (đồ chua)"
+      },
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Avocat"
+      },
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Thon"
+      },
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Mayonnaise"
+      },
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Chou rouge"
+      },
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Jus de citron"
+      },
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Gomasio"
+      },
+      {
+        "quantity": null,
+        "unit": null,
+        "name": "Graine de sésame"
+      }
+    ],
+    "instructions": "1. Réhydrater deux feuilles de riz.\n2. Déposer une feuille de nori sur les feuilles de riz.\n3. Répartir le riz cuit.\n4. Ajouter les pickles viet, l’avocat et le thon mélangé à la mayonnaise.\n5. Ajouter le chou rouge assaisonné avec le jus de citron.\n6. Rouler fermement.\n7. Optionnel : poêler légèrement pour apporter du croustillant.\n8. Servir immédiatement.",
+    "source": "https://www.instagram.com/reel/DWLlGlWgmDJ/"
+  }
+}
