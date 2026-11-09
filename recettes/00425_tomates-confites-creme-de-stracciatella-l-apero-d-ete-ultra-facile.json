@@ -1,0 +1,128 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tomates-confites-creme-de-stracciatella-l-apero-d-ete-ultra-facile",
+  "recipe_id": "00425",
+  "file": "recettes/00425_tomates-confites-creme-de-stracciatella-l-apero-d-ete-ultra-facile.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Tomates confites & crème de stracciatella",
+    "categories": [
+      "Apéritif"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00425_tomates-confites-creme-de-stracciatella-l-apero-d-ete-ultra-facile.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Tomate séchée"
+      },
+      {
+        "quantity": "400",
+        "unit": "g",
+        "name": "Tomate cerise"
+      },
+      {
+        "quantity": "300",
+        "unit": "ml",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": "3",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": "2",
+        "unit": "branche",
+        "name": "Romarin frais"
+      },
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Clou de girofle"
+      },
+      {
+        "quantity": "2",
+        "unit": "cm",
+        "name": "Gingembre frais"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Stracciatella"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Zeste de citron"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Cébette"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Pickles oignon rouge"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sumac"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Piment"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Zeste de citron"
+      },
+      {
+        "quantity": null,
+        "unit": "filet",
+        "name": "Huile des tomates séchées"
+      }
+    ],
+    "instructions": "Faites cuire les tomates cerises dans l’huile d’olive avec l’ail, le romarin, les clous de girofle et le gingembre à feu doux pendant 30 à 40 minutes (ou 1 heure au four à 140°C).\nÉgouttez les tomates en conservant l’huile parfumée.\nMélangez le yaourt grec, la stracciatella, les zestes de citron, le sel et le poivre jusqu’à obtenir une crème lisse.\nÉtalez la crème dans une assiette. Déposez les tomates confites puis ajoutez les cébettes, les pickles, le sumac, le piment chipotle, quelques zestes de citron et un filet d’huile parfumée.\nServez avec une focaccia, du pain grillé ou des crackers.\n\nUne recette parfaite pour un apéro d’été, un brunch, une burrata revisitée ou une entrée fraîche à partager.",
+    "source": {
+      "type": "Mela",
+      "file": "9-Tomates confites & crème de stracciatella : l’apéro d’été ultra facile !.melarecipe",
+      "link": "https://www.instagram.com/reel/DaS-9qpo-KQ",
+      "source_id": "instagram.com/reel/DaS-9qpo-KQ"
+    }
+  }
+}

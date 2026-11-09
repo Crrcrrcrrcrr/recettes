@@ -1,0 +1,32 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "mix-sans-gluten-maison",
+  "recipe_id": "00384",
+  "file": "recettes/00384_mix-sans-gluten-maison.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Mix sans gluten maison",
+    "categories": [
+      "Sucré"
+    ],
+    "tags": [
+      "Sans ingrédients"
+    ],
+    "servings": null,
+    "image": "images/00384_mix-sans-gluten-maison.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "Mix sans gluten maison :\nPour remplir votre bocal, mettez le même poids de poudre d’amande, farine de riz, fécule de maïs ou de pommes de terre ou de tapioca et farine de sarrasin.\nJ’utilise ce mélange en remplacement de la farine de blé dans n’importe quelle recette de gâteau.",
+    "source": "https://www.instagram.com/reel/DRKjVO8jPC_"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "gateau-a-l-orange-rachel",
+  "recipe_id": "00448",
+  "file": "recettes/00448_gateau-a-l-orange-rachel.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Gâteau à l’orange Rachel",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": null,
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "1",
+        "unit": "pot",
+        "name": "Yaourt grec"
+      },
+      {
+        "quantity": "2.25",
+        "unit": "pot",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "1",
+        "unit": "pot",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "pot",
+        "name": "Huile de tournesol"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Vanille"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oranges bio"
+      }
+    ],
+    "instructions": "Gâteau :\nMélanger sucre + zest orange + 1 sachet vanille. Laisser poser 5 minutes\nAjouter les œufs au mélange précédent, bien battre jusqu’à ce que le mélange devienne blanchâtre\nAjouter le yaourt grec, puis l’huile, puis la farine + 1 sachet de levure\nAjouter le jus d’une orange\nMettre au four à 170°C pendant 35 à 40 minutes, au milieu du four (cuisson haut et bas)\nSirop :\nMélange le zest et le jus de la 2ème orange et quelques gouttes de vanille\nAjouter 2 cs de sucre et laisser sur le feu pendant 5 minutes\nQuand le gâteau est cuit, le piquer avec un cure-dent sur toute la surface et verser le sirop dessus.",
+    "source": {
+      "type": "Mela",
+      "file": "32-Gâteau à l’orange Rachel.melarecipe",
+      "link": "",
+      "source_id": "9F80CD71-A651-4858-88F9-30FE867100FD"
+    }
+  }
+}

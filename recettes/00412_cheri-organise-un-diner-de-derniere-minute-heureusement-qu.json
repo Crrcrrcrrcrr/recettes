@@ -1,0 +1,64 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cheri-organise-un-diner-de-derniere-minute-heureusement-qu",
+  "recipe_id": "00412",
+  "file": "recettes/00412_cheri-organise-un-diner-de-derniere-minute-heureusement-qu.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Tarte aux oignons et chèvre frais",
+    "categories": [
+      "Plats",
+      "Tarte / Quiche"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00412_cheri-organise-un-diner-de-derniere-minute-heureusement-qu.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte brisée"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Fraise"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Thym"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "instructions": "",
+    "source": "https://www.instagram.com/reel/DY6qrB3IpI-"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "gateau-moelleux-gout-frangipane",
+  "recipe_id": "00399",
+  "file": "recettes/00399_gateau-moelleux-gout-frangipane.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Gâteau moelleux goût frangipane",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00399_gateau-moelleux-gout-frangipane.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Compote de pommes sans sucre ajouté"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Sucre de coco"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Poudre d’amande"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Farine de blé T80"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Extrait d'amande amère"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Amande effilée"
+      }
+    ],
+    "instructions": "Je verse ça dans un moule carré (18x18cm) avec papier cuisson.\nCuisson au four 20/25min à 200 degrés (je mets sans chaleur tournante)\nJe laisse tiédir un peu avant de couper les parts et ajouter du sucre glace\n\n👉 Version au chocolat : mettre 100g de pépites de chocolat à la place de l’arôme d’amande, c’est aussi délicieux !",
+    "source": "https://www.instagram.com/reel/DRKjGT1DKzi"
+  }
+}

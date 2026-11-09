@@ -1,0 +1,67 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "brioche-myrtille",
+  "recipe_id": "00413",
+  "file": "recettes/00413_brioche-myrtille.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Brioche myrtille",
+    "categories": [
+      "Sucré",
+      "Brioche"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00413_brioche-myrtille.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "500",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "80",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Vanille"
+      },
+      {
+        "quantity": "2",
+        "unit": "sachet",
+        "name": "Levure de boulanger"
+      },
+      {
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "quantity": "80",
+        "unit": "g",
+        "name": "Beurre"
+      }
+    ],
+    "instructions": "Dans le bol du robot pétrir la farine +les sucre + les deux œufs + la levure boulangère et le lait. ajouter le beurre pétrir de nouveau. Repos 2h à température ambiante, étaler puis déposer la compoté de myrtille. Couper en quadrillage et superposer les couches pour faire une jolie marbrure.\nLaissez reposer 15 min et cuire 30min à 160 degrés.",
+    "source": "https://www.instagram.com/reel/DZpO8a9oX8S"
+  }
+}

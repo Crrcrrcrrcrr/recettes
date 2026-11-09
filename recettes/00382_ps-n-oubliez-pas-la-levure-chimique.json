@@ -1,0 +1,33 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "ps-n-oubliez-pas-la-levure-chimique",
+  "recipe_id": "00382",
+  "file": "recettes/00382_ps-n-oubliez-pas-la-levure-chimique.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Banana bread",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00382_ps-n-oubliez-pas-la-levure-chimique.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "",
+    "source": "https://www.instagram.com/reel/DRZ739uiuTP"
+  }
+}

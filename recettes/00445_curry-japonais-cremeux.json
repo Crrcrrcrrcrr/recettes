@@ -1,0 +1,38 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "curry-japonais-cremeux",
+  "recipe_id": "00445",
+  "file": "recettes/00445_curry-japonais-cremeux.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Curry Japonais crémeux",
+    "categories": [
+      "Plats",
+      "Curry / Dahl"
+    ],
+    "tags": [
+      "Indien"
+    ],
+    "servings": null,
+    "image": "images/00445_curry-japonais-cremeux.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "- Le poulet\nAssaisonne 400 g de hauts de cuisse désossés avec 1 c.à.c de curry, 1 c.à.c de paprika, 1/2 c.à.c d’ail en poudre, 1/4 c.à.c de curcuma, sel et poivre.\nDépose côté peau dans une poêle froide, sans huile. Fais chauffer progressivement pour laisser le gras fondre et obtenir une belle peau croustillante. Retourne, termine la cuisson puis réserve.\n\n- La sauce\nDans la même poêle, fais revenir 100 g d’oignon en cubes dans les sucs du poulet.\nAjoute 10 g de sauce soja, puis 200 ml de lait de coco light et 2 cubes de Golden Curry (36-40 g).\nLaisse fondre et épaissir à feu doux. Ajoute un peu d’eau uniquement si nécessaire, jusqu’à une sauce bien crémeuse et nappante.\n\n- Dressage\nCoupe le poulet en lamelles, dresse et noie-le dans la sauce",
+    "source": {
+      "type": "Mela",
+      "file": "29-CURRY JAPONAIS CRÉMEUX.melarecipe",
+      "link": "https://www.instagram.com/reel/Dcv2FWpMKoJ",
+      "source_id": "instagram.com/reel/Dcv2FWpMKoJ"
+    }
+  }
+}

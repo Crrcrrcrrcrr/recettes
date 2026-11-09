@@ -1,0 +1,38 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "rediffusion-francois-regis-gaudry-frgaudry-prepare-un-banana-bread-d-anthologie-sa-re",
+  "recipe_id": "00446",
+  "file": "recettes/00446_rediffusion-francois-regis-gaudry-frgaudry-prepare-un-banana-bread-d-anthologie-sa-re.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Banana bread",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [
+      "Sans ingrédients"
+    ],
+    "servings": null,
+    "image": "images/00446_rediffusion-francois-regis-gaudry-frgaudry-prepare-un-banana-bread-d-anthologie-sa-re.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "Dans une casserole, faire fondre à feu moyen le beurre jusqu’à ce qu’il obtienne une couleur noisette.⁠\nMélanger les œufs, le sucre et le yaourt grec. Ajouter 3 bananes en purée, la farine, le bicarbonate de soude, le sel et le 4-épices. Mélanger.⁠\nAjouter le beurre noisette refroidi. Ajouter les noix concassées à la fin.⁠\nVerser la préparation dans un moule à cake recouvert de papier sulfurisé.⁠\nDisposer la dernière banane coupée en deux sur le dessus du gâteau, puis saupoudrer de sucre blanc. Cuire pendant 1h15 à 160 °C (si la lame du couteau ne ressort pas tout à fait sèche, prolonger la cuisson de 10 minutes).⁠\nOter le papier sulfuriser et laisser refroidir avant de déguster.⁠",
+    "source": {
+      "type": "Mela",
+      "file": "30-[Rediffusion] François-Régis Gaudry (@frgaudry) prépare un banana bread d’anthologie ! Sa recette, il la tient de Tina et de sa fille Lisa du café Bleuet (@bleuetcoffee), son coffee shop préféré, Pari.melarecipe",
+      "link": "https://www.instagram.com/reel/DdIt8pbD33Y",
+      "source_id": "instagram.com/reel/DdIt8pbD33Y"
+    }
+  }
+}

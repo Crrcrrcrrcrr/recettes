@@ -1,0 +1,87 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cramique",
+  "recipe_id": "00424",
+  "file": "recettes/00424_cramique.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Cramique",
+    "categories": [
+      "Sucré",
+      "Brioche"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00424_cramique.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "130",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure de boulanger fraîche"
+      },
+      {
+        "quantity": "350",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Sucre vanillé"
+      },
+      {
+        "quantity": "70",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Boeuf"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Sucre perlé"
+      }
+    ],
+    "instructions": "La veille, dans le robot muni du couteau pour pétrir/concasser, mettez le lait et la levure. Verrouillez le couvercle avec le bouchon et appuyez sur 'Start'.\nAjoutez la farine, le sel, l'œuf, le sucre, le sucre vanillé et le beurre. Verrouillez le couvercle avec le bouchon et appuyez sur 'Start'. A la fin du pétrissage, laissez pousser la pâte à 30°C pendant les 40minutes indiquées.\nSortez la pâte et ajoutez les raisins secs. Formez une boule, mettez-la dans un saladier et recouvrez de film alimentaire.\nLaissez reposer 12 heures au réfrigérateur.\nAprès le repos, formez 8 boules de pâte. Mettez-les dans un moule à cake.\nLaissez reposer 1 heure 30 à l’abri des courants d’air.\nPréchauffez le four à 180°C (th. 6).\nBattez un oeuf et badigeonnez-le sur la la brioche. Couvrez de sucre perlé.\nEnfournez pendant 40 minutes.\nLaissez refroidir avant de déguster.",
+    "source": {
+      "type": "Mela",
+      "file": "8-Cramique.melarecipe",
+      "link": "https://www.moulinex.be/fr/recette/detail/PRO/Cramique/2446681",
+      "source_id": "moulinex.be/fr/recette/detail/PRO/Cramique/2446681"
+    }
+  }
+}

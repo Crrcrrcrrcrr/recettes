@@ -1,0 +1,39 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "creamy-zucchini-dip",
+  "recipe_id": "00430",
+  "file": "recettes/00430_creamy-zucchini-dip.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Dip crémeux de courgette",
+    "categories": [
+      "Apéritif",
+      "Dip / Tartinade"
+    ],
+    "tags": [
+      "Végétarien",
+      "Sans ingrédients"
+    ],
+    "servings": null,
+    "image": "images/00430_creamy-zucchini-dip.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "14-Creamy Zucchini Dip.melarecipe",
+      "link": "https://www.instagram.com/reel/DaDiduMov2a",
+      "source_id": "instagram.com/reel/DaDiduMov2a"
+    }
+  }
+}

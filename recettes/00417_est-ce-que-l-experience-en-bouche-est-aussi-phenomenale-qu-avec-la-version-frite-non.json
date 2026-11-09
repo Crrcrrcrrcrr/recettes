@@ -1,0 +1,123 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "est-ce-que-l-experience-en-bouche-est-aussi-phenomenale-qu-avec-la-version-frite-non",
+  "recipe_id": "00417",
+  "file": "recettes/00417_est-ce-que-l-experience-en-bouche-est-aussi-phenomenale-qu-avec-la-version-frite-non.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Falafels sans friture",
+    "categories": [
+      "Plats"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00417_est-ce-que-l-experience-en-bouche-est-aussi-phenomenale-qu-avec-la-version-frite-non.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pois chiches secs"
+      },
+      {
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Persil"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Coriandre"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Zeste de citron"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cumin"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Coriandre en poudre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Menthe séchée"
+      },
+      {
+        "quantity": "1/4",
+        "unit": "cuillère à café",
+        "name": "Cannelle"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Za'atar"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Farine de pois chiches"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      }
+    ],
+    "instructions": "La veille, faire tremper les pois chiches dans de l’eau avec un peu de bicarbonate de soude alimentaire (je crois que ça permet entre autres une meilleure digestion)\nLe jour-même, commencer par mixer la moitié des pois chiches avec l’ail, l’oignon, les herbes fraîches, les épices, le zest de citron. Assez finement mais pas trop non plus, voire vidéo.\nDébarasser puis mixer l’autre moitié des pois chiches seule, légèrement plus grossièrement.\nMélanger ensuite les deux préparations, en ajoutant la farine, la levure chimique et l’huile d’olive. Réserver au frais au moins 30 min.\nFaçonner ensuite les falafels en pressant légèrement pour leur donner la forme souhaitée, disposer sur une plaque allant au four, et badigeonner d’huile neutre à l’aide d’un pinceau.\nEnfourner une vingtaine de minutes à 200 degrés.\nVous pouvez légèrement les sous-cuire si vous comptez les congeler, et donc finir leur cuisson le jour j, ou bien les cuire complètement si dégustés directement.\nEn apéro, dans une assiette composée, ou dans un sandwich, à vous de voir pour la suite.",
+    "source": {
+      "type": "Mela",
+      "file": "1-Est-ce que l’expérience en bouche est aussi phénoménale qu’avec la version frite ? Non..melarecipe",
+      "link": "https://www.instagram.com/reel/DHYy0t-IhlY",
+      "source_id": "instagram.com/reel/DHYy0t-IhlY"
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "smoked-tofu-vietnamese-summer-rolls",
+  "recipe_id": "00421",
+  "file": "recettes/00421_smoked-tofu-vietnamese-summer-rolls.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Rouleaux de printemps vietnamiens au tofu fumé",
+    "categories": [
+      "Plats",
+      "Rouleaux de printemps / Maki"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00421_smoked-tofu-vietnamese-summer-rolls.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Tofu"
+      },
+      {
+        "quantity": "6",
+        "unit": "unité",
+        "name": "Feuille de riz"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Concombre"
+      },
+      {
+        "quantity": "1",
+        "unit": "tasse",
+        "name": "Chou rouge"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Avocat"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Nouilles cuites"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Menthe"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Coriandre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Laitue"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sirop d’érable"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Huile de sésame"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Jus de citron vert"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce Hoisin"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron vert"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sirop d’érable"
+      },
+      {
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Eau"
+      }
+    ],
+    "instructions": "Slice the smoked tofu thinly.\nAdd to a hot pan with soy sauce, maple, sesame oil, lime, and black pepper. Cook for 3–4 minutes until glossy and caramelised.\nPrep the carrot, cucumber, red cabbage, avocado and herbs.\nMix all peanut sauce ingredients until smooth and creamy.\nDip rice paper into warm water for 5 seconds until soft.\nLayer lettuce, noodles, veg, herbs, avocado, and tofu.\nRoll tightly like a burrito.\nServe with the peanut lime sauce and prepare for maximum crunch.",
+    "source": {
+      "type": "Mela",
+      "file": "5-SMOKED TOFU VIETNAMESE SUMMER ROLLS.melarecipe",
+      "link": "https://www.instagram.com/reel/DY5DaKvsFWA",
+      "source_id": "instagram.com/reel/DY5DaKvsFWA"
+    }
+  }
+}

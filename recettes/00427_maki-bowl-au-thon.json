@@ -1,0 +1,125 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "maki-bowl-au-thon",
+  "recipe_id": "00427",
+  "file": "recettes/00427_maki-bowl-au-thon.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Maki bowl au thon",
+    "categories": [
+      "Plats",
+      "Rouleaux de printemps / Maki"
+    ],
+    "tags": [
+      "Froid",
+      "Asiatique"
+    ],
+    "servings": null,
+    "image": "images/00427_maki-bowl-au-thon.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "160",
+        "unit": "g",
+        "name": "Riz à sushi"
+      },
+      {
+        "quantity": "140",
+        "unit": "g",
+        "name": "Thon"
+      },
+      {
+        "quantity": "150",
+        "unit": "g",
+        "name": "Skyr"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Moutarde"
+      },
+      {
+        "quantity": "1-2",
+        "unit": "cuillère à café",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Huile de sésame"
+      },
+      {
+        "quantity": null,
+        "unit": "brin",
+        "name": "Ciboulette"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Concombre"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Avocat"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Huile de sésame"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Graine de sésame"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Feuille d'algue nori"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Gingembre mariné"
+      }
+    ],
+    "instructions": "Faites cuire le riz à sushi selon les indications du paquet, puis laissez-le tiédir ou refroidir. Ou utilisez un reste de riz à sushi.\nFaites cuire les oeufs 6 min 30 dans l’eau bouillante, puis passez-les sous l’eau froide avant de les écaler.\nÉcrasez le thon, le skyr, les oeufs mollet, la moutarde, le vinaigre de cidre, l’huile de sésame, la ciboulette, le sel et le poivre jusqu’à obtenir des rillettes bien crémeuses. Ajustez l’assaisonnement.\nCoupez le concombre en bâtonnets et l’avocat en fines lamelles.\nMélangez la sauce soja avec l’huile et les graines de sésame.\nRépartissez le riz dans deux bols, ajoutez les rillettes de thon, le concombre, l’avocat et le gingembre mariné. Servez avec les feuilles de nori et la sauce. Garnissez chaque feuille d’algue au fur et à mesure pour réaliser de petits makis à déguster à la main.",
+    "source": {
+      "type": "Mela",
+      "file": "11-Maki bowl au thon.melarecipe",
+      "link": "https://www.instagram.com/reel/DaS4xT0Itox",
+      "source_id": "instagram.com/reel/DaS4xT0Itox"
+    }
+  }
+}

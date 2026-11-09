@@ -1,0 +1,59 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "vraiment-la-meilleure-recette-pour-remplacer-les-gateaux-i",
+  "recipe_id": "00405",
+  "file": "recettes/00405_vraiment-la-meilleure-recette-pour-remplacer-les-gateaux-i.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Petits gâteaux au fromage blanc",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00405_vraiment-la-meilleure-recette-pour-remplacer-les-gateaux-i.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Fromage blanc"
+      },
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      }
+    ],
+    "instructions": "",
+    "source": "https://www.instagram.com/reel/DNvrLWHWPBo"
+  }
+}

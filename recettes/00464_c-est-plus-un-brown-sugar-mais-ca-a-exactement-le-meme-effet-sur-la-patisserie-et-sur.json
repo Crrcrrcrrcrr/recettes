@@ -1,0 +1,48 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "c-est-plus-un-brown-sugar-mais-ca-a-exactement-le-meme-effet-sur-la-patisserie-et-sur",
+  "recipe_id": "00464",
+  "file": "recettes/00464_c-est-plus-un-brown-sugar-mais-ca-a-exactement-le-meme-effet-sur-la-patisserie-et-sur.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Sucre brun maison à la mélasse",
+    "categories": [
+      "Sucré"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00464_c-est-plus-un-brown-sugar-mais-ca-a-exactement-le-meme-effet-sur-la-patisserie-et-sur.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1000",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "125",
+        "unit": "g",
+        "name": "Mélasse de canne à sucre"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "48-C’est plus un Brown sugar mais ça a exactement le même effet sur la pâtisserie et surtout sur les cookies!! Tu obtiendras des cookies juste exceptionnel avec cette recette..melarecipe",
+      "link": "https://www.instagram.com/reel/DfdUiE3s2US",
+      "source_id": "instagram.com/reel/DfdUiE3s2US"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "en-30-minutes-t-as-tes-bagels-pour-tout-le-mois",
+  "recipe_id": "00423",
+  "file": "recettes/00423_en-30-minutes-t-as-tes-bagels-pour-tout-le-mois.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Bagels maison express",
+    "categories": [
+      "Pain / Wraps",
+      "Pain"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00423_en-30-minutes-t-as-tes-bagels-pour-tout-le-mois.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "500",
+        "unit": "g",
+        "name": "Skyr"
+      },
+      {
+        "quantity": "350",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Everything bagel seasoning"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "7-En 30 minutes t’as tes bagels pour tout le mois.melarecipe",
+      "link": "https://www.instagram.com/reel/DZj-wZetISO",
+      "source_id": "instagram.com/reel/DZj-wZetISO"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "meilleur-fondant-d-anniversaire",
+  "recipe_id": "00378",
+  "file": "recettes/00378_meilleur-fondant-d-anniversaire.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Fondant au chocolat sans gluten",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00378_meilleur-fondant-d-anniversaire.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Chocolat"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Huile de tournesol"
+      },
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "125",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "175",
+        "unit": "g",
+        "name": "Amande"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Maïzena"
+      }
+    ],
+    "instructions": "",
+    "source": "https://www.instagram.com/reel/DRmydCKDIhS"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "fondant-a-la-noisette-creme-erable-noisette",
+  "recipe_id": "00401",
+  "file": "recettes/00401_fondant-a-la-noisette-creme-erable-noisette.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Fondant à la noisette & crème érable/noisette",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00401_fondant-a-la-noisette-creme-erable-noisette.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "120",
+        "unit": "g",
+        "name": "Noisettes"
+      },
+      {
+        "quantity": "40",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "40",
+        "unit": "g",
+        "name": "Sucre de coco"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "140",
+        "unit": "ml",
+        "name": "Noisettes"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Noisettes"
+      },
+      {
+        "quantity": "40",
+        "unit": "ml",
+        "name": "Huile de tournesol"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Vanille"
+      },
+      {
+        "quantity": "1",
+        "unit": "pot",
+        "name": "Crème fraîche"
+      },
+      {
+        "quantity": "5",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "quantity": "4",
+        "unit": "cuillère à soupe",
+        "name": "Noisettes"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Vanille"
+      }
+    ],
+    "instructions": "Max 25 minutes à 165° ou 20 minutes à 180°.\nLaissez refroidir au frigo avant de le démouler\nFouettez la crème et laissez la poser au frais minimum 40 minutes.",
+    "source": "https://www.instagram.com/reel/DREsuddDH7O"
+  }
+}

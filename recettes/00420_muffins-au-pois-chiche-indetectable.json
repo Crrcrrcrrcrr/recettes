@@ -1,0 +1,102 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "muffins-au-pois-chiche-indetectable",
+  "recipe_id": "00420",
+  "file": "recettes/00420_muffins-au-pois-chiche-indetectable.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Muffins aux pois chiches indétectables",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": "Pour 6 à 10 muffins",
+    "image": "images/00420_muffins-au-pois-chiche-indetectable.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "210",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "quantity": "240",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "165",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "quantity": "90",
+        "unit": "g",
+        "name": "Cassonade"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Sirop d’agave"
+      },
+      {
+        "quantity": "120",
+        "unit": "g",
+        "name": "Huile de tournesol"
+      },
+      {
+        "quantity": "12",
+        "unit": "g",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Vanille"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Cannelle"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Zeste de citron"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Pépites de chocolat"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "4-Muffins au Pois Chiche Indétectable.melarecipe",
+      "link": "https://www.instagram.com/reel/DYjryVSsO9p",
+      "source_id": "instagram.com/reel/DYjryVSsO9p"
+    }
+  }
+}

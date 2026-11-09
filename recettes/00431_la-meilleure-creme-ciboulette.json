@@ -1,0 +1,79 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "la-meilleure-creme-ciboulette",
+  "recipe_id": "00431",
+  "file": "recettes/00431_la-meilleure-creme-ciboulette.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "La meilleure crème ciboulette",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Sauce"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": "pour 8 personnes",
+    "image": "images/00431_la-meilleure-creme-ciboulette.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1000",
+        "unit": "g",
+        "name": "Crème fraîche épaisse"
+      },
+      {
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "quantity": "1",
+        "unit": "botte",
+        "name": "Ciboulette"
+      },
+      {
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Fleur de sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "15-La meilleure crème ciboulette.melarecipe",
+      "link": "https://www.instagram.com/reel/Da5eCsLtnLK",
+      "source_id": "instagram.com/reel/Da5eCsLtnLK"
+    }
+  }
+}

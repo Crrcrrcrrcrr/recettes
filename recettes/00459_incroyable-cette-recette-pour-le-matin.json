@@ -1,0 +1,38 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "incroyable-cette-recette-pour-le-matin",
+  "recipe_id": "00459",
+  "file": "recettes/00459_incroyable-cette-recette-pour-le-matin.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Eggs muffins",
+    "categories": [
+      "Petit-déjeuner",
+      "Protéiné"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00459_incroyable-cette-recette-pour-le-matin.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "43-Incroyable cette recette pour le matin.melarecipe",
+      "link": "https://www.instagram.com/reel/De7ThNztDhW",
+      "source_id": "instagram.com/reel/De7ThNztDhW"
+    }
+  }
+}

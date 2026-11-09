@@ -1,0 +1,77 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cheesecake-souffle-japonais",
+  "recipe_id": "00407",
+  "file": "recettes/00407_cheesecake-souffle-japonais.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Cheesecake soufflé japonais",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00407_cheesecake-souffle-japonais.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "6",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "280",
+        "unit": "g",
+        "name": "Cream cheese"
+      },
+      {
+        "quantity": "75",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "quantity": "55",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "30",
+        "unit": "g",
+        "name": "Maïzena"
+      },
+      {
+        "quantity": "6",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "cuillère à soupe",
+        "name": "Jus de citron"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Sucre"
+      }
+    ],
+    "instructions": "Séparer les blancs des jaunes. Laisser les blancs au frigo.\nAu bain marie, faire fondre le cream cheese avec le lait et le beurre. Attendre que ça refroidisse puis les incorporer aux jaunes d’œufs. Rajouter et tamiser la farine et la maïzena.\nMonter les blancs en neige en ajoutant progressivement le sucre et le jus de citron. Incorporer à la préparation précédente délicatement.\nDans un moule de 18cm de diamètre et 10cm de hauteur, rajouter du papier sulfurisé puis y verser le mélange. Tapoter la préparation puis déposer le moule dans un plus grand moule et y verser de l’eau. Une cuisson au bain marie apportera un moelleux inégalable au gâteau.\nEnfourner à 160 degrés pendant environ 70 minutes ! Une fois cuit, éteindre le four et laisser la porte ouverte. Attendre 30 minutes avant de sortir le gâteau. Saupoudrer avec un peu sucre glace sur le dessus.",
+    "source": "https://www.instagram.com/reel/DQRFF5iDMTd"
+  }
+}

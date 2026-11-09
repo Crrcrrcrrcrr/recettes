@@ -1,0 +1,109 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "curry-coco-cacahuete",
+  "recipe_id": "00439",
+  "file": "recettes/00439_curry-coco-cacahuete.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Curry coco cacahuète",
+    "categories": [
+      "Plats",
+      "Curry / Dahl"
+    ],
+    "tags": [
+      "Indien"
+    ],
+    "servings": null,
+    "image": "images/00439_curry-coco-cacahuete.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Curry"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Garam masala"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Herbes de Provence"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Poivre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Concentré de tomate"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "quantity": "300",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "quantity": "400",
+        "unit": "g",
+        "name": "Pois chiches cuits"
+      },
+      {
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Épinard"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "23-Curry coco cacahuète.melarecipe",
+      "link": "https://www.instagram.com/reel/DZsO4syM0Bn",
+      "source_id": "instagram.com/reel/DZsO4syM0Bn"
+    }
+  }
+}

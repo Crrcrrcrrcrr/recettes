@@ -1,0 +1,55 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "dis-moi-si-ils-devinent",
+  "recipe_id": "00379",
+  "file": "recettes/00379_dis-moi-si-ils-devinent.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Gâteau chocolat healthy sans gluten",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [
+      "Sans instructions",
+      "Healthy"
+    ],
+    "servings": null,
+    "image": "images/00379_dis-moi-si-ils-devinent.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Pomme"
+      },
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Cacao en poudre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Maïzena"
+      }
+    ],
+    "instructions": "",
+    "source": "https://www.instagram.com/reel/DOWQpHOjDFu"
+  }
+}

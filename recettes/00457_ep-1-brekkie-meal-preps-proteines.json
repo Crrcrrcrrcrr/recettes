@@ -1,0 +1,89 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "ep-1-brekkie-meal-preps-proteines",
+  "recipe_id": "00457",
+  "file": "recettes/00457_ep-1-brekkie-meal-preps-proteines.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Bagels protéinés aux œufs et cheddar",
+    "categories": [
+      "Petit-déjeuner",
+      "Protéiné"
+    ],
+    "tags": [
+      "Healthy"
+    ],
+    "servings": "pour 4 bagels",
+    "image": "images/00457_ep-1-brekkie-meal-preps-proteines.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Bagel"
+      },
+      {
+        "quantity": "4",
+        "unit": "tranche",
+        "name": "Cheddar"
+      },
+      {
+        "quantity": "6",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "250",
+        "unit": "g",
+        "name": "Cottage cheese"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde à l'ancienne"
+      },
+      {
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Tomate séchée"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Cornichon"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Aneth frais"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "41-Ep. 1 : Brekkie Meal Preps Protéinés.melarecipe",
+      "link": "https://www.instagram.com/reel/Dc5eV9ABwXm",
+      "source_id": "instagram.com/reel/Dc5eV9ABwXm"
+    }
+  }
+}

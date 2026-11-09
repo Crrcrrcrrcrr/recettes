@@ -1,0 +1,47 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "flan-coco-express",
+  "recipe_id": "00402",
+  "file": "recettes/00402_flan-coco-express.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Flan coco express",
+    "categories": [
+      "Sucré",
+      "Flan"
+    ],
+    "tags": [],
+    "servings": "pour 6 parts",
+    "image": "images/00402_flan-coco-express.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Yaourt coco"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Noix de coco râpée"
+      }
+    ],
+    "instructions": "Mélange les œufs et le yaourt.\nAjoute la noix de coco et mélange bien.\nVerse dans un moule beurré (ou huilé).\nEnfourne 35 à 40 min à 180°C.\nLaisse refroidir puis mets au frais au moins 1 h avant de déguster.",
+    "source": "https://www.instagram.com/reel/DQ93H8KgpF7"
+  }
+}

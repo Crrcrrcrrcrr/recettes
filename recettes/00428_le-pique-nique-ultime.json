@@ -1,0 +1,132 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "le-pique-nique-ultime",
+  "recipe_id": "00428",
+  "file": "recettes/00428_le-pique-nique-ultime.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Boulettes de riz coréennes (jumeokbap)",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Riz"
+    ],
+    "tags": [
+      "Froid",
+      "Asiatique",
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00428_le-pique-nique-ultime.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Riz à sushi"
+      },
+      {
+        "quantity": "250",
+        "unit": "g",
+        "name": "Riz à sushi"
+      },
+      {
+        "quantity": "25",
+        "unit": "g",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "quantity": "10",
+        "unit": "g",
+        "name": "Sucre glace"
+      },
+      {
+        "quantity": "2",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Crème de soja"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde"
+      },
+      {
+        "quantity": "15",
+        "unit": "ml",
+        "name": "Huile de tournesol"
+      },
+      {
+        "quantity": "4",
+        "unit": "feuille",
+        "name": "Feuille d'algue nori"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "quantity": "1/4",
+        "unit": "botte",
+        "name": "Aneth frais"
+      },
+      {
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Satay en poudre"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "botte",
+        "name": "Ciboulette"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce teriyaki"
+      },
+      {
+        "quantity": "30",
+        "unit": "g",
+        "name": "Oignon frit"
+      }
+    ],
+    "instructions": "Faire cuire le riz à sushi après l’avoir laver 3 fois. Mélanger le vinaigre, le sucre glace et le sel.\nMettre le mélange sur le riz cuit et bien mélanger.\nMixer dans un verre haut tous les ingrédients sauf l’huile. Ajouter l’huile puis mixer au mixeur plongeant.\nVerser de l’eau bouillante sur 100 gr de protéines texturées (soja ou pois) et laisser 10 minutes avec un couvercle.\nDiviser la mayonnaise en 3 portions et ajouter les ingrédients pour chaque jumeokbap.\nPuis ajouter les protéines texturées (haché si besoin).\nFormer des boules farcis avec les 3 mélanges puis rouler dans la boule de riz dans la ciboulette, les oignons frits ou les algues nori.",
+    "source": {
+      "type": "Mela",
+      "file": "12-Le pique-nique ultime ?.melarecipe",
+      "link": "https://www.instagram.com/reel/DYEllJBs4bz",
+      "source_id": "instagram.com/reel/DYEllJBs4bz"
+    }
+  }
+}

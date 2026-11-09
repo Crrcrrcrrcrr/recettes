@@ -1,0 +1,63 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "4-ingredient-cheesy-pumpkin-bread",
+  "recipe_id": "00455",
+  "file": "recettes/00455_4-ingredient-cheesy-pumpkin-bread.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Pain au potiron et fromage",
+    "categories": [
+      "Apéritif"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00455_4-ingredient-cheesy-pumpkin-bread.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "3/4",
+        "unit": "tasse",
+        "name": "Potimarron cuit"
+      },
+      {
+        "quantity": "1⅓",
+        "unit": "tasse",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Mozzarella"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Huile d’olive"
+      }
+    ],
+    "instructions": "Add pumpkin puree and flour to a bowl.\nKneed until the dough comes together.\n(Add water if the dough is too tough and add flour if the dough is too soft)\nRoll out the dough and put cheese in the center.\nFold and shape it round.\nCook in a pan until cooked through.\nApply some garlic butter or olive oil on the surface.",
+    "source": {
+      "type": "Mela",
+      "file": "39-4-ingredient cheesy pumpkin bread.melarecipe",
+      "link": "https://www.instagram.com/reel/DewQRorTit3",
+      "source_id": "instagram.com/reel/DewQRorTit3"
+    }
+  }
+}

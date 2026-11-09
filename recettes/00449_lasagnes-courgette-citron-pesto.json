@@ -1,0 +1,115 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "lasagnes-courgette-citron-pesto",
+  "recipe_id": "00449",
+  "file": "recettes/00449_lasagnes-courgette-citron-pesto.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Lasagnes courgettes, citron & pesto",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Lasagnes"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": "Pour 4 personnes",
+    "image": "images/00449_lasagnes-courgette-citron-pesto.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "9",
+        "unit": "unité",
+        "name": "Feuille de lasagne"
+      },
+      {
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Courgette"
+      },
+      {
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Pesto"
+      },
+      {
+        "quantity": "125",
+        "unit": "g",
+        "name": "Mozzarella"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "500",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Zeste de citron"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      }
+    ],
+    "instructions": "Coupez les courgettes en fines rondelles puis faites-les revenir quelques minutes dans l’huile d’olive avec l’ail. Elles doivent rester légèrement fermes.\nPour la béchamel, faites fondre le beurre puis ajoutez la farine. Mélangez pour former un roux et versez progressivement le lait en fouettant jusqu’à obtenir une béchamel bien crémeuse. Ajoutez le zeste de citron, du sel et généreusement de poivre.\nDans un plat légèrement huilé, alternez feuilles de lasagnes, courgettes, béchamel citronnée et quelques touches de pesto. Répétez jusqu’en haut du plat puis terminez avec la mozzarella et le parmesan.\nEnfournez environ 30 à 35 min à 180°C, jusqu’à ce que le dessus soit bien doré.",
+    "source": {
+      "type": "Mela",
+      "file": "33-LASAGNES COURGETTE, CITRON & PESTO.melarecipe",
+      "link": "https://www.instagram.com/reel/Dd1l0WSIHAV",
+      "source_id": "instagram.com/reel/Dd1l0WSIHAV"
+    }
+  }
+}

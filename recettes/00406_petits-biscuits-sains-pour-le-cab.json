@@ -1,0 +1,49 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "petits-biscuits-sains-pour-le-cab",
+  "recipe_id": "00406",
+  "file": "recettes/00406_petits-biscuits-sains-pour-le-cab.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Biscuits sains pomme et amande",
+    "categories": [
+      "Sucré",
+      "Biscuits"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00406_petits-biscuits-sains-pour-le-cab.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pomme"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Poudre d’amande"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      }
+    ],
+    "instructions": "",
+    "source": "https://www.instagram.com/reel/DLxOe7mCSMr"
+  }
+}

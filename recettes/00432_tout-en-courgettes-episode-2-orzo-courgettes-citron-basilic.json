@@ -1,0 +1,90 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tout-en-courgettes-episode-2-orzo-courgettes-citron-basilic",
+  "recipe_id": "00432",
+  "file": "recettes/00432_tout-en-courgettes-episode-2-orzo-courgettes-citron-basilic.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Orzo aux courgettes, citron et basilic",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Risotto / Orzotto"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00432_tout-en-courgettes-episode-2-orzo-courgettes-citron-basilic.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Courgette"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "quantity": "4",
+        "unit": "poignée",
+        "name": "Orzo"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Bouillon de légumes"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Parmesan"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Citron jaune"
+      },
+      {
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Crème fraîche"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Basilic"
+      }
+    ],
+    "instructions": "Raper les courgettes\nLes faire fondre dans une poêle avec du sel, du poivre et de l’ail\nAjouter l’orzo et mélanger\nRecouvrir avec du bouillon, couvrir et laisser m cuire à feu doux\nLorsque le bouillon est absorbé, en rajouter et continuer cela jusqu’à ce que l’orzo soit  cuit\nAjouter la crème, le parmesan, le citron, le basilic\nServir dans une assiette avec quelques feuilles de basilic et une bourras\nC’est prêt !",
+    "source": {
+      "type": "Mela",
+      "file": "16-Tout en courgettes - ÉPISODE 2 : Orzo courgettes, citron & basilic.melarecipe",
+      "link": "https://www.instagram.com/reel/DbFytSAsNoV",
+      "source_id": "instagram.com/reel/DbFytSAsNoV"
+    }
+  }
+}

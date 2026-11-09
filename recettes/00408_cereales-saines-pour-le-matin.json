@@ -1,0 +1,76 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cereales-saines-pour-le-matin",
+  "recipe_id": "00408",
+  "file": "recettes/00408_cereales-saines-pour-le-matin.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Céréales saines pour le matin",
+    "categories": [
+      "Petit-déjeuner"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00408_cereales-saines-pour-le-matin.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Flocons d’avoine"
+      },
+      {
+        "quantity": "30",
+        "unit": "g",
+        "name": "Quinoa soufflé"
+      },
+      {
+        "quantity": "120",
+        "unit": "g",
+        "name": "Compote de pommes sans sucre ajouté"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Purée de noisette"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Miel"
+      },
+      {
+        "quantity": "40",
+        "unit": "g",
+        "name": "Noix"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Noix de coco râpée"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Cannelle"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      }
+    ],
+    "instructions": "Préchauffe ton four à 160°C (chaleur tournante).\nDans un grand bol, mélange la compote, la purée de noisettes, le miel et la cannelle.\nAjoute ensuite les flocons d’avoine, le quinoa soufflé, la noix de coco râpée et les noix concassées.\nMélange bien pour que tout soit enrobé.\nÉtale la préparation sur une plaque recouverte de papier cuisson en une couche fine et uniforme. Tasse bien avec le dos d’une cuillère, c’est cela qui va permettre d’avoir des pépites.\nEnfourne 25 min. Si le granola colore trop vite, met une feuille de papier sulfurisé par dessus.\nLaisse refroidir complètement avant de le conserver dans un bocal hermétique.\nTu peux ajouter quelques pépites de chocolat après cuisson pour la version “gourmand du week-end”. Je les ajoute quand il est tiède, et laisse refroidir ensuite.\nTu peux sinon ajouter des fruits secs\nOu encore remplacer la compote par de la banane\nMais aussi les flocons d’avoine par des flocons de sarrasin ou épeautre..",
+    "source": "https://www.instagram.com/reel/DPeOLd9CLbD"
+  }
+}

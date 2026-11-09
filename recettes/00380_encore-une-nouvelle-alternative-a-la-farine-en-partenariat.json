@@ -1,0 +1,64 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "encore-une-nouvelle-alternative-a-la-farine-en-partenariat",
+  "recipe_id": "00380",
+  "file": "recettes/00380_encore-une-nouvelle-alternative-a-la-farine-en-partenariat.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Muffins au lait de coco en poudre",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00380_encore-une-nouvelle-alternative-a-la-farine-en-partenariat.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Lait de coco en poudre"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Pomme"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’agave"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Psyllium"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Chocolat"
+      }
+    ],
+    "instructions": "",
+    "source": "https://www.instagram.com/reel/DRzqSUFDCos"
+  }
+}

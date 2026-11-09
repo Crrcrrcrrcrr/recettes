@@ -1,0 +1,92 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cake-moelleux-frangipane-aux-pommes",
+  "recipe_id": "00409",
+  "file": "recettes/00409_cake-moelleux-frangipane-aux-pommes.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Cake moelleux frangipane aux pommes",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00409_cake-moelleux-frangipane-aux-pommes.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "150",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "130",
+        "unit": "g",
+        "name": "Mascarpone"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Amande"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Boeuf"
+      },
+      {
+        "quantity": null,
+        "unit": "goutte",
+        "name": "Extrait d'amande amère"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Pomme"
+      }
+    ],
+    "instructions": "Mélangez dans un saladier la farine avec la levure et le sucre.\nVersez le mascarpone, le beurre fondu et les œufs battus. Mélangez.\nVersez cette préparation dans votre moule à cake, n’oubliez pas de mettre du papier cuisson avant ou beurrez votre moule. Réservez.\n# Préparation de la frangipane :\nBattez au fouet électrique le beurre mou avec le sucre afin d’obtenir une mélange mousseux.\nAjoutez la poudre d’amandes, l’œuf et l’extrait d’amande amère.\nVersez ce mélange au-dessus de la première préparation. Etalez.\nÉpluchez les pommes, frottez-les avec du citron et coupez-les en fines lamelles, l’idéal c’est avec une mandoline. Mettez-les ensuite sur le dessus de la pâte.\nPréchauffez votre four à 180°C et faites cuire environ 40 minutes (vérifiez la cuisson selon le four).",
+    "source": "https://www.instagram.com/reel/C3BFzcVIUyB"
+  }
+}

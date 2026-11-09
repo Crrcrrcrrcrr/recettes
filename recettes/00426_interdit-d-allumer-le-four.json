@@ -1,0 +1,85 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "interdit-d-allumer-le-four",
+  "recipe_id": "00426",
+  "file": "recettes/00426_interdit-d-allumer-le-four.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Rouleaux de concombre marinés",
+    "categories": [
+      "Plats",
+      "Salade"
+    ],
+    "tags": [
+      "Froid",
+      "Végétarien"
+    ],
+    "servings": "Pour 2 personnes",
+    "image": "images/00426_interdit-d-allumer-le-four.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Concombre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sauce soja"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’agave"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Piment"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Graine de sésame"
+      },
+      {
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      }
+    ],
+    "instructions": "Laver le concombre et avec un économe faire de grandes lanières.\nSuperposés les lanières 5 par 5 environ et les rouler.\nDans une boîte hermétique pile poil de la bonne taille pour faire entrer les 4 rouleau de concombre verser de la sauce soja (tamari pour du sans gluten) jusque 1/4 de hauteur environ puis ajouter tous les autres ingrédients . Y déposer les concombres et amener le niveau des liquide à auteur en complétant avec de l’eau.",
+    "source": {
+      "type": "Mela",
+      "file": "10-interdit d’allumer le four.melarecipe",
+      "link": "https://www.instagram.com/reel/DaDYxj4tsfT",
+      "source_id": "instagram.com/reel/DaDYxj4tsfT"
+    }
+  }
+}

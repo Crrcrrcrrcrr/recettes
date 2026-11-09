@@ -1,0 +1,33 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "encore-une-recette-de-gateau-magique-sans-farine-ni-flocon",
+  "recipe_id": "00377",
+  "file": "recettes/00377_encore-une-recette-de-gateau-magique-sans-farine-ni-flocon.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Gâteau sans farine",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [
+      "Sans ingrédients"
+    ],
+    "servings": null,
+    "image": "images/00377_encore-une-recette-de-gateau-magique-sans-farine-ni-flocon.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "",
+    "source": "https://www.instagram.com/reel/DV_ip5nDFjS"
+  }
+}

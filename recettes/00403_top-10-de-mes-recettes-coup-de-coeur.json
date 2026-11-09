@@ -1,0 +1,77 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "top-10-de-mes-recettes-coup-de-coeur",
+  "recipe_id": "00403",
+  "file": "recettes/00403_top-10-de-mes-recettes-coup-de-coeur.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Feuilleté à la crème d’amande",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00403_top-10-de-mes-recettes-coup-de-coeur.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Pâte feuilletée"
+      },
+      {
+        "quantity": "125",
+        "unit": "g",
+        "name": "Poudre d’amande"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "70",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Extrait d'amande amère"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Amande effilée"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sucre glace"
+      }
+    ],
+    "instructions": "Pour la garniture, je mélange dans un saladier : beurre mou + sucre que je travaille à la spatule (le beurre ne doit pas être fondu si non ça sera trop liquide) ; j’y ajoute 1 œuf entier + 1 blanc (attention à garder le 2eme jaune d’œuf pour la dorure) puis la poudre d’amande et l’arôme.\nJe la dépose ensuite au centre de la pâte feuilletée, j’ajoute la fève (ici une amande) et je viens faire des lamelles au couteau de part à d’autre.\nJe les replie pour former la tresse.\nJe badigeonne avec le jaune d’œuf + amandes effilées sur le dessus.\nEt ça part au four préchauffé à 180 degrés pendant 30/35min (sans chaleur tournante ici).\nJ’attends 10/15min que ça tiédisse et je saupoudre de sucre glace",
+    "source": "https://www.instagram.com/reel/DQUZtoCDO2R"
+  }
+}

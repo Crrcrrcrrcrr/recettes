@@ -1,0 +1,39 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pates-a-la-creme-de-courgette",
+  "recipe_id": "00433",
+  "file": "recettes/00433_pates-a-la-creme-de-courgette.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Pâtes à la crème de courgette et lardons",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Pâtes"
+    ],
+    "tags": [
+      "Sans ingrédients"
+    ],
+    "servings": null,
+    "image": "images/00433_pates-a-la-creme-de-courgette.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "Pécho 2 courgettes et tranche les finement à la mandoline. Si t’as pas de mandoline j’imagine que t’as bien un couteau qui traîne? Bon bah voilà.\nEmince aussi un oignon et 2 gousses d’ail.\nFais griller 200gr de lardons ( fumés de préférence ça marche super bien avec la courgette ), réserve les en gardant bien le gras au fond de la poêle.\nFais dorer l’oignon d’abord puis ajoute les courgettes.\nAjoute une bonne pincée de sel et laisse cuire jusqu’à ce que la courgette ai rendue toute sa flotte et soit bien grillée.\nAjoute l’ail et laisse encore quelques minutes.\nPour l’assaisonnement j’ai mit poivre, persil, piment d’espelette et 1cas de sirop d’érable pour faire caraméliser.\nGarde une poignée de coté et balance le reste dans un blender ( mixeur plongeant sinon ça marche très bien ) avec 2cas de ricotta, 10cl de crème liquide entière, 1/2 jus de citron et du parmesan à ta convenance ( = beaucoup ).\nFais cuire des pâtes et réserve une bonne louche d’eau de cuisson.\nDans ta poêle pas rincée pas lavée surtout pas malheureux, balance la sauce avec les pâtes et l’eau de cuisson et laisse sur feu doux le temps que tout soit bien lié.\nSers tes pâtes avec les courgettes que t’as mit de côté par dessus, quelques petits lardons et encore du parmesan.\nQu’on vienne s’assoir à ma table en me disant que c’est pas bon les courgettes maintenant.\n#food #cuisine #recette #courgette #pâtes",
+    "source": {
+      "type": "Mela",
+      "file": "17-PÂTES À LA CRÈME DE COURGETTE.melarecipe",
+      "link": "https://www.instagram.com/reel/DacnUMLN1X8",
+      "source_id": "instagram.com/reel/DacnUMLN1X8"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "fish-chips-croustillant-a-la-feuille-de-riz",
+  "recipe_id": "00456",
+  "file": "recettes/00456_fish-chips-croustillant-a-la-feuille-de-riz.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Fish & Chips croustillant à la feuille de riz",
+    "categories": [
+      "Plats",
+      "Poisson"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00456_fish-chips-croustillant-a-la-feuille-de-riz.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Cabillaud"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Pomme de terre grenaille"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail en poudre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": "1",
+        "unit": "feuille",
+        "name": "Riz"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "30",
+        "unit": "g",
+        "name": "Fromage blanc"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Câpre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Persil"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Aneth frais"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Moutarde"
+      },
+      {
+        "quantity": "3",
+        "unit": "quartier",
+        "name": "Citron jaune"
+      }
+    ],
+    "instructions": "Coupez les pommes de terre en lune et enfournez pour 30-35 min à 200 degrés.\nPendant ce temps, préparez le poisson.\nPréparez la panure liquide en mélangeant l’œuf, un peu de sel, de l’ail en poudre, et du paprika. Fouettez jusqu’à obtenir un mélange homogène.\nTrempez rapidement la feuille de riz des deux côtés dans le mélange à base d’œuf, puis déposez-la sur une planche à découper.\nSéchez soigneusement le cabillaud avec du papier absorbant. Placez-le au centre de la feuille de riz, puis repliez celle-ci autour du poisson pour former un paquet bien fermé, en rabattant les côtés.\nFaites cuire au airfryer ou au four à 200°C pendant 12 à 15 minutes, selon le degré de croustillant souhaité.\nPendant ce temps, préparez la sauce tartare en mélangeant le fromage blanc, les câpres, le persil, l’aneth et la moutarde.\nServez le fish & chips croustillant avec la sauce tartare et les quartiers de citron.",
+    "source": {
+      "type": "Mela",
+      "file": "40-FISH & CHIPS CROUSTILLANT À LA FEUILLE DE RIZ.melarecipe",
+      "link": "https://www.instagram.com/reel/Dd4DEaEOitd",
+      "source_id": "instagram.com/reel/Dd4DEaEOitd"
+    }
+  }
+}

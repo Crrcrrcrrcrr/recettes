@@ -1,0 +1,92 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "spicy-tuna-burrito-pret-en-15-min",
+  "recipe_id": "00416",
+  "file": "recettes/00416_spicy-tuna-burrito-pret-en-15-min.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Burrito épicé au thon",
+    "categories": [
+      "Plats",
+      "Sandwich"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00416_spicy-tuna-burrito-pret-en-15-min.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Feuille de riz"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Feuille d'algue nori"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Riz cuit"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Pickles viet (đồ chua)"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Avocat"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Thon"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Mayonnaise Kewpie"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sauce piquante"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Chou rouge"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sauce saté"
+      }
+    ],
+    "instructions": "Tu roules, tu serres bien… et t’as un burrito version fusion Asie\nc’est optionnel, je l’ai poêlé très légèrement, pour un côté croustillant… et ça change tout",
+    "source": {
+      "type": "Mela",
+      "file": "0-SPICY TUNA BURRITO— prêt en 15 min.melarecipe",
+      "link": "https://www.instagram.com/reel/DWLlGlWgmDJ",
+      "source_id": "instagram.com/reel/DWLlGlWgmDJ"
+    }
+  }
+}

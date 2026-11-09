@@ -1,0 +1,79 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "oignons-caramelises-inratables",
+  "recipe_id": "00454",
+  "file": "recettes/00454_oignons-caramelises-inratables.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Oignons caramélisés inratables",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Assaisonnement"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00454_oignons-caramelises-inratables.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de cidre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cassonade"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "instructions": "Fais fondre tes oignons dans un mélange de beurre et d’huile, sans oublier une bonne pincée de sel pour les aider à rendre leur eau.\nAprès environ 25 min de cuisson, déglace avec le vinaigre de cidre, rajoute la cassonade et poursuis la cuisson pendant 15 min.\nDéglace ensuite avec la sauce soja et laisse cuire encore 5 min supplémentaire.\nIls se conservent une bonne semaine au frigo.",
+    "source": {
+      "type": "Mela",
+      "file": "38-OIGNONS CARAMÉLISÉS INRATABLES.melarecipe",
+      "link": "https://www.instagram.com/reel/DfB8nikxylQ",
+      "source_id": "instagram.com/reel/DfB8nikxylQ"
+    }
+  }
+}

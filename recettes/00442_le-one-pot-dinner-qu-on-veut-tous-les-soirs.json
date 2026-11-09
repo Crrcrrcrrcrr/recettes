@@ -1,0 +1,87 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "le-one-pot-dinner-qu-on-veut-tous-les-soirs",
+  "recipe_id": "00442",
+  "file": "recettes/00442_le-one-pot-dinner-qu-on-veut-tous-les-soirs.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Poulet crémeux aux tomates séchées et épinards",
+    "categories": [
+      "Plats",
+      "One-pot"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00442_le-one-pot-dinner-qu-on-veut-tous-les-soirs.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Blanc de poulet"
+      },
+      {
+        "quantity": "150",
+        "unit": "g",
+        "name": "Tomate séchée"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "quantity": "2",
+        "unit": "poignée",
+        "name": "Épinard"
+      },
+      {
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "quantity": "150",
+        "unit": "ml",
+        "name": "Bouillon de poulet"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Parmesan"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Basilic"
+      }
+    ],
+    "instructions": "Couper le poulet en morceaux et le saisir dans une grande poêle avec un peu d’huile des tomates séchées.\nAjouter l’oignon émincé et les tomates séchées coupées en morceaux, puis faire revenir quelques minutes.\nVerser le bouillon pour déglacer, ajouter la crème et les pousses d’épinards. Couvrir et laisser mijoter 10 min.\nAjouter le parmesan, saler, poivrer puis laisser réduire à feu doux encore 10 min en mélangeant régulièrement, jusqu’à obtenir une sauce bien crémeuse.\nTerminer avec quelques feuilles de basilic frais et servir avec l’accompagnement de votre choix : légumes, riz, pâtes, pommes de terre…",
+    "source": {
+      "type": "Mela",
+      "file": "26-Le one pot dinner qu’on veut tous les soirs !.melarecipe",
+      "link": "https://www.instagram.com/reel/DcL8DOWNwpW",
+      "source_id": "instagram.com/reel/DcL8DOWNwpW"
+    }
+  }
+}

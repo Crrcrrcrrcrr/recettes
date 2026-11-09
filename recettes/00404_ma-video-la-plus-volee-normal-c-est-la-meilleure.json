@@ -1,0 +1,62 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "ma-video-la-plus-volee-normal-c-est-la-meilleure",
+  "recipe_id": "00404",
+  "file": "recettes/00404_ma-video-la-plus-volee-normal-c-est-la-meilleure.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Gâteau au yaourt et pépites de chocolat",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00404_ma-video-la-plus-volee-normal-c-est-la-meilleure.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Yaourt nature"
+      },
+      {
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Bicarbonate"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’agave"
+      },
+      {
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Pépites de chocolat"
+      }
+    ],
+    "instructions": "",
+    "source": "https://www.instagram.com/reel/DKuXpZLoV67"
+  }
+}

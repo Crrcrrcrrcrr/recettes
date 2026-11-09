@@ -1,0 +1,117 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "marbre-facon-cinnamon-rolls",
+  "recipe_id": "00463",
+  "file": "recettes/00463_marbre-facon-cinnamon-rolls.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Marbré façon Cinnamon Rolls",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00463_marbre-facon-cinnamon-rolls.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "270",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "½",
+        "unit": "cuillère à café",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "½",
+        "unit": "cuillère à café",
+        "name": "Bicarbonate"
+      },
+      {
+        "quantity": "½",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "150",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Crème fraîche"
+      },
+      {
+        "quantity": "30",
+        "unit": "g",
+        "name": "Huile de tournesol"
+      },
+      {
+        "quantity": "½",
+        "unit": "cuillère à café",
+        "name": "Arôme de vanille"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cannelle"
+      },
+      {
+        "quantity": "25",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Fromage frais"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Arôme de vanille"
+      },
+      {
+        "quantity": "35",
+        "unit": "g",
+        "name": "Sucre glace"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Lait"
+      }
+    ],
+    "instructions": "Mélangez farine, levure, bicarbonate et sel. Réservez.\nFouettez le beurre mou et le sucre 5 min.\nAjoutez les œufs et fouettez.\nIncorporez les poudres en deux fois.\nAjoutez la crème fraîche et l’huile.\nDivisez la pâte : ⅔ vanille et ⅓ cannelle. Incorporez chaque arôme.\nDans un moule bien beurré, alternez les couches de pâte.\nEnfournez à 175 °C pendant environ 50 min (à ajuster selon la cuisson).\nLaissez refroidir, puis filmez pour conserver le moelleux.\nMélangez fromage frais, sucre glace, vanille et beurre fondu.\nAjoutez le lait petit à petit pour éviter un glaçage trop liquide.\nLaissez refroidir jusqu’à obtenir une texture onctueuse et épaisse.\nVersez en deux couches en laissant prendre la première.\nLaissez refroidir et régalez-vous !",
+    "source": {
+      "type": "Mela",
+      "file": "47-MARBRÉ FAÇON CINNAMON ROLLS.melarecipe",
+      "link": "https://www.instagram.com/reel/DfaCh2BMYtr",
+      "source_id": "instagram.com/reel/DfaCh2BMYtr"
+    }
+  }
+}

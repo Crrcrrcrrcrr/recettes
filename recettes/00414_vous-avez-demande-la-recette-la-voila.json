@@ -1,0 +1,33 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "vous-avez-demande-la-recette-la-voila",
+  "recipe_id": "00414",
+  "file": "recettes/00414_vous-avez-demande-la-recette-la-voila.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Croustillant wavy aux myrtilles",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [
+      "Sans ingrédients"
+    ],
+    "servings": null,
+    "image": "images/00414_vous-avez-demande-la-recette-la-voila.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "",
+    "source": "https://www.instagram.com/reel/DXFCQmFDAqO"
+  }
+}

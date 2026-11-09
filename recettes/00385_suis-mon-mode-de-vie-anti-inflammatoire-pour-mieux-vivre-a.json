@@ -1,0 +1,33 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "suis-mon-mode-de-vie-anti-inflammatoire-pour-mieux-vivre-a",
+  "recipe_id": "00385",
+  "file": "recettes/00385_suis-mon-mode-de-vie-anti-inflammatoire-pour-mieux-vivre-a.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Kéfir de fruits maison",
+    "categories": [
+      "Boissons",
+      "Kéfir / Kombucha"
+    ],
+    "tags": [
+      "Sans ingrédients"
+    ],
+    "servings": null,
+    "image": "images/00385_suis-mon-mode-de-vie-anti-inflammatoire-pour-mieux-vivre-a.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "J'active les grains de kéfir 24h dans 500ml d'eau et 30g de sucre à température ambiante\nJe filtre et je mets dans un bocal hermétique de 1L les grains de kéfir (environ 60g), 800 ml d'eau, 30 g de sucre, 1 figue et 1 tranche de citron. Et je laisse fermenter à température ambiante pendant 2 jours (la figues remonte quand c'est prêt).\nJe jette le citron et la figue, je récupère le liquide dans une bouteille en verre en filtrant les grains. Et je peux ajouter d'autres fruits pour le goût et je laisse au frigo jusqu'à 8 jours max.\nJe récupère les grains de kéfir et je reprends à l'étape 2.",
+    "source": "https://www.instagram.com/reel/DRAXCRyjCrn"
+  }
+}

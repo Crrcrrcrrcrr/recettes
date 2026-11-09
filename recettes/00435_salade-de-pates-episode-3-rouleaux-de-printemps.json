@@ -1,0 +1,125 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-de-pates-episode-3-rouleaux-de-printemps",
+  "recipe_id": "00435",
+  "file": "recettes/00435_salade-de-pates-episode-3-rouleaux-de-printemps.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Salade de vermicelles façon rouleaux de printemps",
+    "categories": [
+      "Plats",
+      "Salade"
+    ],
+    "tags": [
+      "Froid",
+      "Asiatique"
+    ],
+    "servings": null,
+    "image": "images/00435_salade-de-pates-episode-3-rouleaux-de-printemps.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "paquet",
+        "name": "Vermicelles de riz"
+      },
+      {
+        "quantity": "30",
+        "unit": "unité",
+        "name": "Crevette"
+      },
+      {
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": "1",
+        "unit": "morceau",
+        "name": "Gingembre frais"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Concombre"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Carotte"
+      },
+      {
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Cacahuète"
+      },
+      {
+        "quantity": "0.5",
+        "unit": "botte",
+        "name": "Cébette"
+      },
+      {
+        "quantity": "0.5",
+        "unit": "botte",
+        "name": "Coriandre"
+      },
+      {
+        "quantity": "0.5",
+        "unit": "botte",
+        "name": "Menthe"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "cuillère à soupe",
+        "name": "Miso"
+      },
+      {
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce poisson"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Chili crisp"
+      }
+    ],
+    "instructions": "Commence par cuire tes vermicelles comme indiqué sur le paquet : tu portes de l’eau salée à ébullition puis tu plonges tes vermicelles dedans, tu couvres, tu retires du feu et tu laisses 2mn avant de les égoutter et de les rincer pour les refroidir plus vite.\nPour les crevettes, celles que j’ai achetées étaient déjà cuites mais je les ai faites sautées avec de l’ail et du gingembre hachés ainsi que la partie blanche de mes cebettes.\nLes cacahuètes je les passe une bonne dizaine de minutes au four à 180°C. Puis je les concasse légèrement.",
+    "source": {
+      "type": "Mela",
+      "file": "19-Salade de pâtes épisode 3 : rouleaux de printemps.melarecipe",
+      "link": "https://www.instagram.com/reel/DbqJwlFt1RB",
+      "source_id": "instagram.com/reel/DbqJwlFt1RB"
+    }
+  }
+}

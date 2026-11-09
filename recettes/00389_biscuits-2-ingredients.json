@@ -1,0 +1,42 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "biscuits-2-ingredients",
+  "recipe_id": "00389",
+  "file": "recettes/00389_biscuits-2-ingredients.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Biscuits 2 ingrédients",
+    "categories": [
+      "Sucré",
+      "Biscuits"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00389_biscuits-2-ingredients.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "250",
+        "unit": "g",
+        "name": "Banane"
+      },
+      {
+        "quantity": "250",
+        "unit": "g",
+        "name": "Cacahuète"
+      }
+    ],
+    "instructions": "Mixer les bananes avec les cacahuètes jusqu’à l’obtention d’une pâte, puis forcer des petits tas sur un plaque recouverte de papier sulfurisé. 1 biscuit = 1 cac bombée de pâte. Je fais des formes de biscuits avec le bout de mes doigts mouillés. Je parsème de cacahuètes concassées et j’enfourne à four préchauffé pour 14 min à 175°C.",
+    "source": "https://www.instagram.com/reel/DFqHofrCJCd"
+  }
+}

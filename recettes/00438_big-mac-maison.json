@@ -1,0 +1,147 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "big-mac-maison",
+  "recipe_id": "00438",
+  "file": "recettes/00438_big-mac-maison.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Big Mac maison",
+    "categories": [
+      "Plats",
+      "Burger"
+    ],
+    "tags": [],
+    "servings": "pour 2 personnes",
+    "image": "images/00438_big-mac-maison.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Skyr"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "2",
+        "unit": "pincée",
+        "name": "Graine de sésame"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Jaune d'œuf"
+      },
+      {
+        "quantity": "4",
+        "unit": "tranche",
+        "name": "Bacon"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "quantity": "300",
+        "unit": "g",
+        "name": "Pomme de terre"
+      },
+      {
+        "quantity": "300",
+        "unit": "g",
+        "name": "Viande hachée"
+      },
+      {
+        "quantity": "4",
+        "unit": "tranche",
+        "name": "Cheddar"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Cornichon"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Salade"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Mayonnaise"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Ketchup"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Oignon en poudre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ciboulette"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Romarin"
+      }
+    ],
+    "instructions": "Prépare ton pain en mélangeant la farine, le skyr et la levure. Forme tes pains, badigeonne-les de jaune d’œuf, ajoute les graines de sésame et enfourne 25 min à 180°C.\nPendant ce temps, mets ton bacon entre deux plaques de cuisson et enfourne-le pour le rendre bien croustillant. Coupe ton oignon en fines lamelles.\nCoupe tes pommes de terre en frites, assaisonne avec paprika, sel, poivre, romarin et un filet d’huile d’olive puis fais-les cuire 20 min au airfryer.\nPrépare ta sauce avec le yaourt grec, la mayo, le ketchup, un peu de jus de cornichons, la ciboulette et du paprika.\nAssaisonne ta viande, forme des boules de 75 g puis smash-les dans une poêle bien chaude 3 min de chaque côté. Ajoute une tranche de cheddar sur chaque steak et laisse fondre.\nMonte ton Big Mac avec la sauce, la salade, l’oignon, les cornichons, le bacon et les steaks.",
+    "source": {
+      "type": "Mela",
+      "file": "22-Big Mac maison.melarecipe",
+      "link": "https://www.instagram.com/reel/DcBvE5oNOo2",
+      "source_id": "instagram.com/reel/DcBvE5oNOo2"
+    }
+  }
+}

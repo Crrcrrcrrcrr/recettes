@@ -1,0 +1,67 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "recette-2",
+  "recipe_id": "00410",
+  "file": "recettes/00410_recette-2.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Gâteau invisible aux poires",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00410_recette-2.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "3-4",
+        "unit": "unité",
+        "name": "Poire"
+      },
+      {
+        "quantity": "80",
+        "unit": "g",
+        "name": "Lait de soja"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "40",
+        "unit": "g",
+        "name": "Farine de blé T140"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Amande"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sucre de coco"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Vanille"
+      }
+    ],
+    "instructions": "Fouetter : oeufs, lait, vanille, sucre\nY ajouter farine et poudre d'amande\nEplucher, épépiner puis couper en fines lamelles les poires. Les incorporer délicatement au mélange précédent\nVerser dans un moule, lisser, tasser\nCuisson 45-50 min à 180°C",
+    "source": "https://www.instagram.com/reel/DQBRoQfiCAT"
+  }
+}

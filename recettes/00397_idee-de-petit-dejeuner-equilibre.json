@@ -1,0 +1,67 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "idee-de-petit-dejeuner-equilibre",
+  "recipe_id": "00397",
+  "file": "recettes/00397_idee-de-petit-dejeuner-equilibre.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Baked oats banane, chocolat et cacahuète",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00397_idee-de-petit-dejeuner-equilibre.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Flocons d’avoine"
+      },
+      {
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "quantity": "40",
+        "unit": "g",
+        "name": "Cassonade"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "quantity": "40",
+        "unit": "g",
+        "name": "Amande"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      }
+    ],
+    "instructions": "Écraser les flocons d’avoine, avec le sucre, les bananes mûres (important) et le beurre de cacahuètes. \nAjouter le lait et agrémenter d’une partie des amandes concassées et des pépites de chocolat.\nDéposer dans un moule chemisé et ajouter le reste des amandes et du chocolat.\nEnfourner pour 25 minutes à 180°C.\nLaisser refroidir avant de découper des parts et c’est prêt.\nPour un petit-déjeuner équilibré, je prends 1 ou 2 parts, avec du fromage blanc, un peu d’amandes et un fruit de saison.",
+    "source": "https://www.instagram.com/reel/DO2vunzArtk"
+  }
+}

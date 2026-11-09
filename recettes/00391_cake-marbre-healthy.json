@@ -1,0 +1,79 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cake-marbre-healthy",
+  "recipe_id": "00391",
+  "file": "recettes/00391_cake-marbre-healthy.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Cake marbré healthy",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [
+      "Healthy"
+    ],
+    "servings": null,
+    "image": "images/00391_cake-marbre-healthy.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "180",
+        "unit": "g",
+        "name": "Compote de pommes sans sucre ajouté"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Skyr"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Sirop d’agave"
+      },
+      {
+        "quantity": "180",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "40",
+        "unit": "g",
+        "name": "Amande"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "60",
+        "unit": "ml",
+        "name": "Eau"
+      }
+    ],
+    "instructions": "Mélange œufs + compote + skyr + agave puis ajoute les ingrédients secs\nSépare la pâte en deux, et dans une moitié ajoute cacao + eau\nDans un moule à cake alterné les couches pour qu’il soit bien marbré. Enfourne dans ton four préchauffé à 180° pour environ 40mn (la lame du couteau doit ressortir sèche)\nAstuce cuisson\nAu bout de 5 à 10 minutes, prends un couteau légèrement huilé et fais un trait au milieu du gâteau, ça permet une belle ouverture à la cuisson\n\nPetit point important :\nCette recette est vraiment peu sucrée (volontairement) alors si tu veux une version plus gourmande :\n1/ ajoute 20 à 30g de sirop d’agave en plus\n(et enlève environ 10g d’eau)\nOU BIEN \n2/ ajoute 20g de sucre au choix",
+    "source": "https://www.instagram.com/reel/DWUF5kuDWMA"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pumpkin-latte",
+  "recipe_id": "00386",
+  "file": "recettes/00386_pumpkin-latte.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Pumpkin latte",
+    "categories": [
+      "Boissons",
+      "Lait/Latte"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00386_pumpkin-latte.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "150",
+        "unit": "g",
+        "name": "Potimarron"
+      },
+      {
+        "quantity": "70",
+        "unit": "g",
+        "name": "Coco"
+      },
+      {
+        "quantity": "120",
+        "unit": "g",
+        "name": "Eau"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "cuillère à café",
+        "name": "Cannelle"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "cuillère à café",
+        "name": "Muscade"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Vanille"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "cuillère à café",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Cannelle"
+      },
+      {
+        "quantity": "150",
+        "unit": "g",
+        "name": "Butternut"
+      }
+    ],
+    "instructions": "1. Sirop de pumpkin\nCouper le potimarron en petits morceaux et le faire cuire dans de l’eau, à la vapeur ou au four (inutile d’éplucher le potimarron contrairement au butternut)\nUne fois cuit, le réduire en purée bien lisse\nVerser cette purée avec tous les ingrédients dans une casserole et porter à ébullition\nRéserver ce sirop dans un bocal en verre\n2. Latte\nFaire chauffer le lait\nVerser le sirop de courge et mélanger\nSaupoudrer avec de la cannelle",
+    "source": "https://www.instagram.com/reel/DB8MeQgs0vU"
+  }
+}

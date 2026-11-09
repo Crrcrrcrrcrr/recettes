@@ -1,0 +1,127 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "apple-cobbler",
+  "recipe_id": "00452",
+  "file": "recettes/00452_apple-cobbler.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Cobbler aux pommes",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00452_apple-cobbler.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "5",
+        "unit": "unité",
+        "name": "Pomme"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Beurre demi-sel"
+      },
+      {
+        "quantity": "80",
+        "unit": "g",
+        "name": "Cassonade"
+      },
+      {
+        "quantity": "150",
+        "unit": "ml",
+        "name": "Crème liquide entière"
+      },
+      {
+        "quantity": "50",
+        "unit": "ml",
+        "name": "Jus de pomme"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Vanille"
+      },
+      {
+        "quantity": "½",
+        "unit": "cuillère à café",
+        "name": "Cannelle"
+      },
+      {
+        "quantity": "½",
+        "unit": "cuillère à café",
+        "name": "Maïzena"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Fleur de sel"
+      },
+      {
+        "quantity": "160",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "80",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "8",
+        "unit": "g",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sel"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "80",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Lait entier"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Extrait de vanille"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Cassonade"
+      }
+    ],
+    "instructions": "Épluche et coupe les pommes en gros quartiers. Fais-les revenir dans le beurre et la cassonade à feu doux jusqu’à ce qu’elles commencent à bien caraméliser.\nDilue la Maïzena dans le jus de pomme pour éviter les grumeaux, puis ajoute le tout dans la poêle avec la crème, la vanille, la cannelle et une petite pincée de fleur de sel. Mélange bien et laisse épaissir légèrement la sauce.\nVerse les pommes et tout le caramel dans un plat allant au four.\nMélange le sucre avec l’œuf, puis ajoute la farine, la levure, le sel, le lait et la vanille. Termine par le beurre fondu et mélange jusqu’à avoir une pâte homogène.\nRépartis la pâte sur les pommes, saupoudre généreusement de cassonade et enfourne à 180°C pendant environ 30 minutes, jusqu’à ce que le dessus soit bien doré et cuit à cœur.",
+    "source": {
+      "type": "Mela",
+      "file": "36-APPLE COBBLER.melarecipe",
+      "link": "https://www.instagram.com/reel/DeT4q4AtgNE",
+      "source_id": "instagram.com/reel/DeT4q4AtgNE"
+    }
+  }
+}

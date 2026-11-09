@@ -1,0 +1,94 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "avec-ce-froid-tu-dois-absolument-te-preparer-ce-ragout-de-lentilles",
+  "recipe_id": "00462",
+  "file": "recettes/00462_avec-ce-froid-tu-dois-absolument-te-preparer-ce-ragout-de-lentilles.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Ragoût de lentilles",
+    "categories": [
+      "Plats",
+      "Curry / Dahl"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": "Pour 3-4 personnes",
+    "image": "images/00462_avec-ce-froid-tu-dois-absolument-te-preparer-ce-ragout-de-lentilles.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Potimarron"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Poireau"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "quantity": "30",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "1",
+        "unit": "filet",
+        "name": "Huile de tournesol"
+      },
+      {
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": "300",
+        "unit": "g",
+        "name": "Lentilles vertes"
+      },
+      {
+        "quantity": "1000",
+        "unit": "ml",
+        "name": "Bouillon"
+      },
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Pomme de terre"
+      },
+      {
+        "quantity": "1",
+        "unit": "bouquet",
+        "name": "Bouquet garni"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Tomates concassées"
+      }
+    ],
+    "instructions": "Dans une casserole, ajouter le morceau de beurre avec un filet d’huile, les oignons émincés, le potimarron coupé en gros morceaux (avec la peau), le poireau lavé et coupé en tronçon avec les verts. Faire saisir à feu fort 5 min. Ajouter l’ail, les lentilles rincées, verser le bouillon sans oublier le bouquet garni. Couvrir pour 15 min de cuisson.\nFaire rôtir une grosse patata douce coupée en morceaux au four avec un peu de soja sucré et un filet d’huile pendant 25 min à 210 degrés.\nRetirer les morceaux de potimarrons, les poireaux et le bouquet garni de la casserole et ajouter les pommes de terre pour 15 min de cuisson. Mixer le potimarron et les poireaux avec le concassé de tomates et un grand verre d’eau, verser la purée dans la casserole et bien mélanger. Ajouter du persil ciselé, 15cl de crème légère, le jus d’1 citron vert et les patates douces rôties.\nÀ servir avec du riz.",
+    "source": {
+      "type": "Mela",
+      "file": "46-Avec ce froid, tu dois absolument te préparer ce ragoût de lentilles.melarecipe",
+      "link": "https://www.instagram.com/reel/DfU8R0oM54h",
+      "source_id": "instagram.com/reel/DfU8R0oM54h"
+    }
+  }
+}

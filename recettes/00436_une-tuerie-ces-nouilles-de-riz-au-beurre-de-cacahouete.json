@@ -1,0 +1,96 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "une-tuerie-ces-nouilles-de-riz-au-beurre-de-cacahouete",
+  "recipe_id": "00436",
+  "file": "recettes/00436_une-tuerie-ces-nouilles-de-riz-au-beurre-de-cacahouete.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Nouilles de riz au beurre de cacahuète",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Nouilles asiatiques"
+    ],
+    "tags": [
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00436_une-tuerie-ces-nouilles-de-riz-au-beurre-de-cacahouete.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Cébette"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Graine de sésame"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "quantity": "2",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Huile de tournesol"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja salée"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja sucrée"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Nouilles de riz"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "20-Une tuerie ces nouilles de riz au beurre de cacahouète.melarecipe",
+      "link": "https://www.instagram.com/reel/Da-o6PTIMWy",
+      "source_id": "instagram.com/reel/Da-o6PTIMWy"
+    }
+  }
+}

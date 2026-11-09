@@ -1,0 +1,74 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "cake-healthy",
+  "recipe_id": "00398",
+  "file": "recettes/00398_cake-healthy.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Cake healthy",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [
+      "Healthy"
+    ],
+    "servings": null,
+    "image": "images/00398_cake-healthy.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Compote de pommes sans sucre ajouté"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "quantity": "170",
+        "unit": "g",
+        "name": "Farine de blé T80"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Cannelle"
+      },
+      {
+        "quantity": "40",
+        "unit": "g",
+        "name": "Noix de pécan"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Pépites de chocolat"
+      }
+    ],
+    "instructions": "On mélange tous les ingrédients, puis j’ai fais cuire à 180 degrés pendant environ 10-12 minutes.\nPour les toppings tu peux ajouter quelques pépites de chocolat, des noix et un peu de purée d’oléagineux.",
+    "source": "https://www.instagram.com/reel/DQe0POtAsm8"
+  }
+}

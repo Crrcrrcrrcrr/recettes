@@ -1,0 +1,87 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "les-choses-les-plus-simples-sont-les-meilleures",
+  "recipe_id": "00418",
+  "file": "recettes/00418_les-choses-les-plus-simples-sont-les-meilleures.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Gâteau au yaourt classique",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00418_les-choses-les-plus-simples-sont-les-meilleures.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1",
+        "unit": "pot",
+        "name": "Yaourt nature"
+      },
+      {
+        "quantity": "1",
+        "unit": "pot",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "2.5",
+        "unit": "pot",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "0.5",
+        "unit": "pot",
+        "name": "Huile de tournesol"
+      },
+      {
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Vanille en poudre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Fleur d'oranger"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Sucre vanillé"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Beurre"
+      }
+    ],
+    "instructions": "Préchauffez le four à 180°C.\nDans un saladier, mélangez le yaourt et le sucre.\nAjoutez les œufs puis fouettez. Incorporez progressivement la farine et la levure.\nVersez l’huile et la vanille. Mélangez jusqu’à obtenir une pâte lisse.\nBeurrez et farinez un moule, puis versez-y la préparation.\nEnfournez environ 35 à 40 minutes. À mi cuisson (la surface est juste prise mais le cœur encore liquide), sortez rapidement le moule et fendez le cake dans toute sa longueur avec un couteau: un coup franc et profond, au moins 1 cm. Saupoudrez généreusement le sucre vanillé directement DANS la fente et sur les bords. Pour une coque vraiment craquante, mélangez le sucre avec quelques gouttes de beurre fondu avant : il collera et caramélisera bien mieux qu’en surface. Remettez au four jusqu’à la fin de la cuisson, la fente va s’ouvrir et former une petite croûte dorée.\nLe cake montera joliment ensuite!\nVérifiez la cuisson en plantant la lame d’un couteau au centre : elle doit ressortir propre.\nLaissez refroidir avant de démouler… et ajoutez de la confiture ou de la pâte à tartiner dessus si vous voulez.",
+    "source": {
+      "type": "Mela",
+      "file": "2-Les choses les plus simples sont les meilleures.melarecipe",
+      "link": "https://www.instagram.com/reel/DYJukQRMKlq",
+      "source_id": "instagram.com/reel/DYJukQRMKlq"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "salade-thaie-rapide-sans-cuisson",
+  "recipe_id": "00434",
+  "file": "recettes/00434_salade-thaie-rapide-sans-cuisson.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Salade thaïe rapide sans cuisson",
+    "categories": [
+      "Plats",
+      "Salade"
+    ],
+    "tags": [
+      "Froid",
+      "Asiatique",
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00434_salade-thaie-rapide-sans-cuisson.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "18-️ Salade thaïe rapide sans cuisson.melarecipe",
+      "link": "https://www.instagram.com/reel/DbA-Ni0BnWZ",
+      "source_id": "instagram.com/reel/DbA-Ni0BnWZ"
+    }
+  }
+}

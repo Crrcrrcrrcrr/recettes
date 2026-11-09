@@ -1,0 +1,77 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "pov-tu-prepares-l-ete-mais-t-es-gourmand",
+  "recipe_id": "00392",
+  "file": "recettes/00392_pov-tu-prepares-l-ete-mais-t-es-gourmand.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Gâteau façon croissant aux amandes",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00392_pov-tu-prepares-l-ete-mais-t-es-gourmand.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Flocons d’avoine"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Amande"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Extrait de vanille"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "cuillère à café",
+        "name": "Extrait d'amande amère"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "cuillère à café",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "250",
+        "unit": "g",
+        "name": "Amande"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "quantity": "2",
+        "unit": "poignée",
+        "name": "Amande effilée"
+      }
+    ],
+    "instructions": "Cuisson : 40/45 mns à 180 degrés ou jusqu’à avoir une croûte croustillante et dorée 🤤",
+    "source": "https://www.instagram.com/reel/DVlEG0fjd7H"
+  }
+}

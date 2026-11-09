@@ -1,0 +1,207 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "4-marinades-express-pour-un-poulet-incroyable",
+  "recipe_id": "00372",
+  "file": "recettes/00372_4-marinades-express-pour-un-poulet-incroyable.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "4 marinades express pour un poulet incroyable",
+    "categories": [
+      "Sauces / Assaisonnements",
+      "Marinade"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00372_4-marinades-express-pour-un-poulet-incroyable.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Herbes fraîches"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Persil"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ciboulette"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Paprika fumé"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Safran"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Cumin"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Piment"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sauce soja"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sauce soja"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Miel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Gingembre en poudre"
+      },
+      {
+        "quantity": null,
+        "unit": "filet",
+        "name": "Purée de sésame"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Yaourt nature"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Herbes fraîches"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Yaourt grec"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Citron jaune"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Menthe"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Persil"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ciboulette"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "instructions": "Mettre les marinades en poches congélation et conserver au frigo pour les prochains jours ou au congélateur pour plus tard.\nPenser à sortir les marinades du congélateur quelques heures avant pour les laisser décongeler doucement et bien imprégner le poulet.",
+    "source": "https://www.instagram.com/reel/DY4wSIftlSB"
+  }
+}

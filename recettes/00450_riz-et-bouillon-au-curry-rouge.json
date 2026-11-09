@@ -1,0 +1,103 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "riz-et-bouillon-au-curry-rouge",
+  "recipe_id": "00450",
+  "file": "recettes/00450_riz-et-bouillon-au-curry-rouge.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Riz et bouillon au curry rouge",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Riz"
+    ],
+    "tags": [],
+    "servings": "pour 2 personnes",
+    "image": "images/00450_riz-et-bouillon-au-curry-rouge.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Haut de cuisse de poulet"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Maïzena"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Paprika"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Oignon"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ail"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Curry"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Bouillon"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Lait de coco"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Cébette"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Chili oil"
+      }
+    ],
+    "instructions": "# Etapes:\nDésosser les hauts de cuisse\nRecouvrir le poulet avec les épices\nFaire cuire dans une poêle\nRetirer de la poêle et ajouter les oignons et l’ail, déglacer\nLaisser cuire puis ajouter le curry rouge, le bouillon et la crème\nLaisser bien cuire à feu doux 10minutes\nDresser sur le riz et ajouter le poulet\nAjouter cebette, chili oil, citron vert….\nC’est prêt !",
+    "source": {
+      "type": "Mela",
+      "file": "34-Riz et bouillon au curry rouge.melarecipe",
+      "link": "https://www.instagram.com/reel/DePMUREMFRX",
+      "source_id": "instagram.com/reel/DePMUREMFRX"
+    }
+  }
+}

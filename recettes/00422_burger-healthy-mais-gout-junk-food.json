@@ -1,0 +1,109 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "burger-healthy-mais-gout-junk-food",
+  "recipe_id": "00422",
+  "file": "recettes/00422_burger-healthy-mais-gout-junk-food.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Burger maison healthy façon fast-food",
+    "categories": [
+      "Plats",
+      "Burger"
+    ],
+    "tags": [
+      "Healthy"
+    ],
+    "servings": null,
+    "image": "images/00422_burger-healthy-mais-gout-junk-food.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "183",
+        "unit": "g",
+        "name": "Carotte"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "40",
+        "unit": "g",
+        "name": "Mozzarella"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Viande hachée"
+      },
+      {
+        "quantity": "1",
+        "unit": "poignée",
+        "name": "Épinard"
+      },
+      {
+        "quantity": "34",
+        "unit": "g",
+        "name": "Oignon rouge"
+      },
+      {
+        "quantity": "30",
+        "unit": "g",
+        "name": "Cornichon"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Fromage blanc"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Moutarde"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à café",
+        "name": "Cornichon"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ail en poudre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "instructions": "Mélange les carottes + l’œuf + la mozzarella, forme 2 galettes et enfourne 20–25 min à 180°C.\nFais cuire le steak, prépare la sauce, puis monte le burger avec les épinards, l’oignon et le cornichon.",
+    "source": {
+      "type": "Mela",
+      "file": "6-Burger healthy (mais goût junk food.melarecipe",
+      "link": "https://www.instagram.com/reel/DWt51_yjO3n",
+      "source_id": "instagram.com/reel/DWt51_yjO3n"
+    }
+  }
+}

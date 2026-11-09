@@ -1,0 +1,77 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "le-cookie-qui-te-veut-du-bien",
+  "recipe_id": "00395",
+  "file": "recettes/00395_le-cookie-qui-te-veut-du-bien.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Le cookie qui te veut du bien",
+    "categories": [
+      "Sucré",
+      "Cookies"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00395_le-cookie-qui-te-veut-du-bien.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "150",
+        "unit": "g",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "quantity": "40",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Fructose"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Extrait de vanille"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Coco"
+      },
+      {
+        "quantity": "1/3",
+        "unit": "cuillère à café",
+        "name": "Bicarbonate"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Fleur de sel"
+      },
+      {
+        "quantity": "70",
+        "unit": "g",
+        "name": "Chocolat"
+      }
+    ],
+    "instructions": "Mélange le beurre de cacahuète, le beurre pommade (quelques secondes au micro-ondes si besoin) avec le sucrant et le sel, jusqu’à obtenir une texture homogène.\nIncorpore ensuite l’œuf et la vanille à la maryse, sans trop travailler la pâte.\nAjoute la farine de coco et le bicarbonate, puis mélange à nouveau.\nLaisse reposer la pâte 2 h au réfrigérateur, puis forme tes cookies.\nPlace-les ensuite au congélateur pendant quelques heures (ou conserve-les ainsi dans une boîte hermétique).\nEnfourne directement congelés, 8 min à 210 °C chaleur tournante.\n👉 Si tu les préfères ultra moelleux même sur les bords : 10 min à 200 °C chaleur statique.",
+    "source": "https://www.instagram.com/reel/DQ6SyQFiKyo"
+  }
+}

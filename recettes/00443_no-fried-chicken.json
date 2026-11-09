@@ -1,0 +1,77 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "no-fried-chicken",
+  "recipe_id": "00443",
+  "file": "recettes/00443_no-fried-chicken.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Poulet croustillant sans friture",
+    "categories": [
+      "Plats",
+      "Viande"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00443_no-fried-chicken.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1000",
+        "unit": "g",
+        "name": "Aiguillettes de poulet"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Yaourt grec"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Ail en poudre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Paprika"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Corn Flakes nature"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Paprika fumé"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Huile de tournesol"
+      }
+    ],
+    "instructions": "Faire mariner le poulet\nDéposez les aiguillettes de poulet dans un saladier.\nAjoutez le yaourt grec.\nAssaisonnez avec l’ail moulu, le paprika et les épices de votre choix.\nMélangez bien pour enrober le poulet.\nLaissez mariner au réfrigérateur.\nPréparer la panure\nMixez les cornflakes non sucrés jusqu’à obtenir une chapelure\nAjoutez un peu de paprika ou de paprika fumé\nPaner les aiguillettes\nÀ l’aide d’une pince, prenez chaque aiguillette marinée.\nDéposez-la dans les cornflakes mixés.\nEnrobez-la soigneusement de panure.\nDisposez les morceaux sur une plaque de cuisson légèrement huilée ou recouverte de papier sulfurisé puis vaporisez un peu d’huile dessus .\nCuisson\n* 10 minutes à 170 °C\nPuis 6 minutes à 180 °C\n* 15 minutes à 170 °C\nRetournez\nPuis 8 minutes à 180–190 °C\nL’objectif est de cuire le poulet à cœur sans le dessécher!!",
+    "source": {
+      "type": "Mela",
+      "file": "27-NO FRIED CHICKEN.melarecipe",
+      "link": "https://www.instagram.com/reel/DZIQUCpoZgs",
+      "source_id": "instagram.com/reel/DZIQUCpoZgs"
+    }
+  }
+}

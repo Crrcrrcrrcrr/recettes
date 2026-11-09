@@ -1,0 +1,57 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "brioche-de-daronne-qui-dechire",
+  "recipe_id": "00393",
+  "file": "recettes/00393_brioche-de-daronne-qui-dechire.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Brioche maison",
+    "categories": [
+      "Sucré",
+      "Brioche"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00393_brioche-de-daronne-qui-dechire.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "550",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Lait"
+      },
+      {
+        "quantity": "7",
+        "unit": "g",
+        "name": "Levure de boulanger fraîche"
+      },
+      {
+        "quantity": "3",
+        "unit": "cuillère à soupe",
+        "name": "Pomme"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Sucre"
+      }
+    ],
+    "instructions": "Dans un robot pétrir la farine avec le lait, la levure, le sucre et la compote jusqu’à ce que les parois de détache (10min)\nFaire pousser dans un endroit chaud (min.23 degrés max 30)\nDégazez divisez en 4 ou 6 pâtons, formez boules ou pâton roulé. Disposez dans votre moule laissez pousser 25min de nouveau. Jaune d’œuf pour la dorure & au four 30min à 180 degrés four préchauffé.\nLaissez bien refroidir et dégustez",
+    "source": "https://www.instagram.com/reel/DR7V1vlCMRd"
+  }
+}

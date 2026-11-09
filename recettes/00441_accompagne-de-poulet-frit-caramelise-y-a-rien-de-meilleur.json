@@ -1,0 +1,76 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "accompagne-de-poulet-frit-caramelise-y-a-rien-de-meilleur",
+  "recipe_id": "00441",
+  "file": "recettes/00441_accompagne-de-poulet-frit-caramelise-y-a-rien-de-meilleur.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Salade coréenne de concombre épicé (oi muchim)",
+    "categories": [
+      "Plats",
+      "Salade"
+    ],
+    "tags": [
+      "Froid",
+      "Asiatique",
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00441_accompagne-de-poulet-frit-caramelise-y-a-rien-de-meilleur.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Concombre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "1",
+        "unit": "pincée",
+        "name": "Gochujang"
+      },
+      {
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      }
+    ],
+    "instructions": "Laissez le concombre dégorger avec du sel pendant 1h. Presser le tout pour retirer l’excédent d’eau et ajouter les ingrédients ci-dessus. Laissez au frais une nuit pour plus de saveur ou sinon 2h suffiront.",
+    "source": {
+      "type": "Mela",
+      "file": "25-Accompagné de poulet frit caramélisé y’a rien de meilleur.melarecipe",
+      "link": "https://www.instagram.com/reel/DcI6HspqT-2",
+      "source_id": "instagram.com/reel/DcI6HspqT-2"
+    }
+  }
+}

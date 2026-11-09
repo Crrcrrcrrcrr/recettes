@@ -1,0 +1,113 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "boulettes-d-aubergines-feta",
+  "recipe_id": "00440",
+  "file": "recettes/00440_boulettes-d-aubergines-feta.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Boulettes d’aubergines & feta",
+    "categories": [
+      "Plats"
+    ],
+    "tags": [
+      "Végétarien"
+    ],
+    "servings": null,
+    "image": "images/00440_boulettes-d-aubergines-feta.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Aubergine"
+      },
+      {
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Origan"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": "130",
+        "unit": "g",
+        "name": "Feta"
+      },
+      {
+        "quantity": "30",
+        "unit": "g",
+        "name": "Chapelure"
+      },
+      {
+        "quantity": "50",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Menthe"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Yaourt grec"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Tahini"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Jus de citron"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Menthe"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Persil"
+      }
+    ],
+    "instructions": "Couper les aubergines en des. Les faire revenir dans l’huile d’olive avec 1 gousse d’ail du sel et de l’origan à couvert jusqu’à ce qu’elles soient fondantes. Laisser refroidir.\nPréparer la sauce. Mélanger dans un saladier les aubergines la chapelure l’œuf la farine le sel la fêta émiettée et la menthe hachée. Former des boulettes et les faire revenir sur toutes les faces dans une bonne huile d’olive cuire un peu à couvert pour cuire le centre. Puis servir dans une assiette sur la sauce étalée dans une assiette avec du pain pita et la salade de tomates.",
+    "source": {
+      "type": "Mela",
+      "file": "24-BOULETTES D’AUBERGINES & FÊTA.melarecipe",
+      "link": "https://www.instagram.com/reel/DcEMJ_To0D2",
+      "source_id": "instagram.com/reel/DcEMJ_To0D2"
+    }
+  }
+}

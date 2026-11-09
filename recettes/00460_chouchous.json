@@ -1,0 +1,51 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "chouchous",
+  "recipe_id": "00460",
+  "file": "recettes/00460_chouchous.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Chouchous",
+    "categories": [
+      "Sucré"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00460_chouchous.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "bol",
+        "name": "Amande"
+      },
+      {
+        "quantity": "1",
+        "unit": "bol",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "1",
+        "unit": "bol",
+        "name": "Eau"
+      }
+    ],
+    "instructions": "Mettre 2 doses d’amandes, 1 dose de sucre blanc et 1 dose d’eau dans une grande poêle.\nCuire à feu moyen jusqu’à obtenir un caramel\nContinuer jusqu’à que le caramel mousse, puis sable\nContinuer à feu doux ou moyen pour refaire fondre le sucre et faire disparaître la texture sableuse\nDébarrasser sur une plaque pour faire refroidir avant consommation",
+    "source": {
+      "type": "Mela",
+      "file": "44-Chouchous.melarecipe",
+      "link": "https://www.instagram.com/reel/DfNDtWqtAsp",
+      "source_id": "instagram.com/reel/DfNDtWqtAsp"
+    }
+  }
+}

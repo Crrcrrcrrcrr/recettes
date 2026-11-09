@@ -1,0 +1,47 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "c-est-un-lait-de-sorciere-ca",
+  "recipe_id": "00375",
+  "file": "recettes/00375_c-est-un-lait-de-sorciere-ca.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Lait végétal au sésame noir",
+    "categories": [
+      "Boissons",
+      "Lait/Latte"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00375_c-est-un-lait-de-sorciere-ca.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Sésame noir"
+      },
+      {
+        "quantity": "1000",
+        "unit": "ml",
+        "name": "Eau"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Sirop d’érable"
+      }
+    ],
+    "instructions": "Deux choix s’offrent à vous : soit vous faites tremper les graines dans une grande quantité d’eau froide la veille, puis vous égouttez et rincez avant d’ajouter dans votre mixeur les graines, 1l d’eau fraîche et le sucrant.\nSoit vous mixez tout directement :)\nDans tous les cas vous mixez 1 à 2 min jusqu’à obtenir un lait gris avec des tout petits points noirs, puis vous le filtrez à l’aide d’un sac à lait en pressant bien (ou, comme moi, un sac à vrac en coton acheté quelques centimes en magasin bio), et vous versez le lait obtenu dans une bouteille propre avant de conserver au frais maximum 2-3 jours.",
+    "source": "https://www.instagram.com/reel/DWRiKYbjO1C"
+  }
+}

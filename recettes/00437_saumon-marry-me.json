@@ -1,0 +1,109 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "saumon-marry-me",
+  "recipe_id": "00437",
+  "file": "recettes/00437_saumon-marry-me.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Saumon Marry Me",
+    "categories": [
+      "Plats",
+      "Poisson"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00437_saumon-marry-me.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "400",
+        "unit": "g",
+        "name": "Saumon"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Paprika"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail en poudre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Herbes de Provence"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Poivre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Sel"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Échalote"
+      },
+      {
+        "quantity": "3/4",
+        "unit": "unité",
+        "name": "Tomate séchée"
+      },
+      {
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": "100",
+        "unit": "ml",
+        "name": "Vin blanc"
+      },
+      {
+        "quantity": "250",
+        "unit": "ml",
+        "name": "Crème liquide"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Persil"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Beurre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Huile d’olive"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "21-Saumon Marry Me.melarecipe",
+      "link": "https://www.instagram.com/reel/DbGmbPas4ap",
+      "source_id": "instagram.com/reel/DbGmbPas4ap"
+    }
+  }
+}

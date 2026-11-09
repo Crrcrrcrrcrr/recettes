@@ -1,0 +1,87 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "si-tu-aimes-le-banana-bread",
+  "recipe_id": "00388",
+  "file": "recettes/00388_si-tu-aimes-le-banana-bread.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Banana bread",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00388_si-tu-aimes-le-banana-bread.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "125",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "4",
+        "unit": "unité",
+        "name": "Banane"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Sucre de canne"
+      },
+      {
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "125",
+        "unit": "g",
+        "name": "Beurre"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Rhum"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Citron vert"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Sucre"
+      },
+      {
+        "quantity": "20",
+        "unit": "g",
+        "name": "Eau"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "gousse",
+        "name": "Vanille"
+      }
+    ],
+    "instructions": "Épluchez 4 bananes et découpez les en fines lanières dans la longueur puis réservez les. \nPour réaliser le caramel : dans une casserole à fond épais, versez le sucre, la 1/2 gousse de vanille grattée et l’eau. \nFaites chauffez à feu moyen/fort en remuant de temps en temps. \nDès que la couleur devient ambrée, arrêtez le feu et versez directement dans votre moule. \nDisposez tout de suite vos lanières de bananes dans le fond du moule avant que le caramel ne fige.\nDans deux saladiers différents, séparez les blancs des jaunes d’œuf. \nAux jaunes, ajoutez le beurre pommade et le sucre roux puis fouettez jusqu’à obtenir un mélange crémeux. \nAjoutez les dernières bananes mixées, la farine puis la levure. Mélangez puis ajoutez le rhum le jus du citron vert.\nPréchauffez votre four à 210°C. \nMontez les blanc en neige avec une pincée de sel puis à l’aide d’une maryse, incorporez-les délicatement dans l’autre saladier. La pâte doit rester bien mousseuse.\nVersez la pâte dans le moule puis enfournez pour 10 min. Prolongez ensuite la cuisson 35 à 40 minutes à 160°C puis démoulez directement à la sortie du four. \nBon appétit !",
+    "source": "https://www.instagram.com/reel/DI_IPpYzJni"
+  }
+}

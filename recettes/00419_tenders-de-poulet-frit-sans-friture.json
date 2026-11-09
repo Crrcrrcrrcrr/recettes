@@ -1,0 +1,119 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "tenders-de-poulet-frit-sans-friture",
+  "recipe_id": "00419",
+  "file": "recettes/00419_tenders-de-poulet-frit-sans-friture.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Tenders de poulet frit (sans friture)",
+    "categories": [
+      "Plats",
+      "Viande"
+    ],
+    "tags": [
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00419_tenders-de-poulet-frit-sans-friture.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "2",
+        "unit": "filet",
+        "name": "Poulet"
+      },
+      {
+        "quantity": "200",
+        "unit": "g",
+        "name": "Farine de blé T45"
+      },
+      {
+        "quantity": "2",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "300",
+        "unit": "g",
+        "name": "Flocons d’avoine"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Huile d’olive"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Paprika fumé"
+      },
+      {
+        "quantity": "150",
+        "unit": "g",
+        "name": "Yaourt grec"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Mayonnaise"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Ail en poudre"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "unité",
+        "name": "Citron jaune"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "botte",
+        "name": "Aneth frais"
+      },
+      {
+        "quantity": "1/2",
+        "unit": "botte",
+        "name": "Ciboulette"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "3-Tenders de poulet frit (sans friture).melarecipe",
+      "link": "https://www.instagram.com/reel/DZw1u5jtj9r",
+      "source_id": "instagram.com/reel/DZw1u5jtj9r"
+    }
+  }
+}

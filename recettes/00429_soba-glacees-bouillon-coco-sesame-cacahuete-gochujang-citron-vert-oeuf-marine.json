@@ -1,0 +1,131 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "soba-glacees-bouillon-coco-sesame-cacahuete-gochujang-citron-vert-oeuf-marine",
+  "recipe_id": "00429",
+  "file": "recettes/00429_soba-glacees-bouillon-coco-sesame-cacahuete-gochujang-citron-vert-oeuf-marine.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Soba froides au bouillon coco, sésame et cacahuète",
+    "categories": [
+      "Plats",
+      "Riz et pâtes",
+      "Nouilles asiatiques"
+    ],
+    "tags": [
+      "Végétarien",
+      "Sans instructions"
+    ],
+    "servings": null,
+    "image": "images/00429_soba-glacees-bouillon-coco-sesame-cacahuete-gochujang-citron-vert-oeuf-marine.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "200",
+        "unit": "ml",
+        "name": "Lait de coco"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Purée de sésame"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Beurre de cacahuète"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Gochujang"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Sauce soja"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Vinaigre de riz"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Huile de sésame"
+      },
+      {
+        "quantity": "1",
+        "unit": "gousse",
+        "name": "Ail"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Gingembre frais"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Citron vert"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre blanc"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Nouilles soba"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Concombre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Cébette"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Chili oil"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Coriandre"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Graine de sésame"
+      },
+      {
+        "quantity": "1",
+        "unit": "unité",
+        "name": "Œuf mariné"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "13-SOBA GLACÉES, « BOUILLON » COCO SÉSAME CACAHUÈTE GOCHUJANG & CITRON VERT, OEUF MARINÉ.melarecipe",
+      "link": "https://www.instagram.com/reel/DaieuaZID_i",
+      "source_id": "instagram.com/reel/DaieuaZID_i"
+    }
+  }
+}

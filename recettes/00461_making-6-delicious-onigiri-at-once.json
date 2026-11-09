@@ -1,0 +1,38 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "making-6-delicious-onigiri-at-once",
+  "recipe_id": "00461",
+  "file": "recettes/00461_making-6-delicious-onigiri-at-once.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Six onigiri maison",
+    "categories": [
+      "Plats",
+      "Rouleaux de printemps / Maki"
+    ],
+    "tags": [
+      "Asiatique"
+    ],
+    "servings": null,
+    "image": "images/00461_making-6-delicious-onigiri-at-once.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "Cook 1 cup of dry sushi rice according to the package instructions.\nBake the salmon at 200°C (400°F) for approximately 25 minutes, or until fully cooked.\nFlake the cooked salmon with a fork and mix with the yogurt until combined.\nSlice or mash the avocado.\nCut the nori sheets in half.\nLine a round pan with plastic wrap.\nSpread approximately half of the cooked rice evenly over the bottom of the pan.\nAdd an even layer of the salmon mixture.\nAdd a layer of sliced or mashed avocado.\nSpread the remaining rice evenly on top.\nCover with another layer of plastic wrap and gently press down to compact the layers. Place a plate over the pan, hold it firmly, and carefully flip the pan upside down. Remove the pan and plastic wrap.\nCut into 6 triangles, as shown in the video.\nWrap each triangle with a piece of nori.",
+    "source": {
+      "type": "Mela",
+      "file": "45-Making 6 delicious onigiri at once.melarecipe",
+      "link": "https://www.instagram.com/reel/DfRndv8M0By",
+      "source_id": "instagram.com/reel/DfRndv8M0By"
+    }
+  }
+}

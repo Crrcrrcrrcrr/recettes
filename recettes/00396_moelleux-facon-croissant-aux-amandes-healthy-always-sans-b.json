@@ -1,0 +1,77 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "moelleux-facon-croissant-aux-amandes-healthy-always-sans-b",
+  "recipe_id": "00396",
+  "file": "recettes/00396_moelleux-facon-croissant-aux-amandes-healthy-always-sans-b.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Moelleux façon croissant aux amandes",
+    "categories": [
+      "Sucré",
+      "Gâteau"
+    ],
+    "tags": [],
+    "servings": null,
+    "image": "images/00396_moelleux-facon-croissant-aux-amandes-healthy-always-sans-b.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "180",
+        "unit": "g",
+        "name": "Amande"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Flocons d’avoine"
+      },
+      {
+        "quantity": "3",
+        "unit": "unité",
+        "name": "Œuf"
+      },
+      {
+        "quantity": "120",
+        "unit": "g",
+        "name": "Skyr"
+      },
+      {
+        "quantity": "60",
+        "unit": "g",
+        "name": "Sirop d’agave"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Extrait d'amande amère"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à café",
+        "name": "Vanille"
+      },
+      {
+        "quantity": "1",
+        "unit": "sachet",
+        "name": "Levure chimique"
+      },
+      {
+        "quantity": "30",
+        "unit": "g",
+        "name": "Amande effilée"
+      }
+    ],
+    "instructions": "Préparation :\nPréchauffe le four à 180°C.\nMélange : œufs + skyr + sucrant + vanille\nTu ajoutes par la suite tous les ingrédients secs : poudre d’amande, farine d’avoine, levure\nVerse dans un moule\nDépose les amandes effilées sur le dessus.\nEnfourne 35-40min si ton moule est petit et s’il est plus grand 25-30 min à 180°\nLaisse refroidir avant de déguster",
+    "source": "https://www.instagram.com/reel/DRiKF2vDfnV"
+  }
+}

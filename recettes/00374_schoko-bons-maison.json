@@ -1,0 +1,32 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "schoko-bons-maison",
+  "recipe_id": "00374",
+  "file": "recettes/00374_schoko-bons-maison.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Schokobons maison",
+    "categories": [
+      "Sucré"
+    ],
+    "tags": [
+      "Sans ingrédients"
+    ],
+    "servings": null,
+    "image": "images/00374_schoko-bons-maison.jpg",
+    "ingredient_items_cleaned": [],
+    "instructions": "Mélangez 50g de beurre jusqu’à l’obtention d’une texture pommade puis ajoutez 40g de sucre glace. Mélangez puis versez 60g de chocolat blanc fondu puis 50g de pralin.\nPlacez la préparation au congélateur pendant 15 minutes. Prenez des petits morceaux de pâte puis formez les schoko-bons entre vos mains. Déposez-les sur une feuille de papier cuisson t direction le congélateur 40 minutes. Faites fondre 200g de chocolat au lait puis trempez les schokobons dans le chocolat fondu. Déposez-les à nouveau sur une feuille de papier cuisson et placez au frigo pour que le chocolat durcisse. Attention ils sont à conserver toujours au frais !",
+    "source": "https://www.instagram.com/reel/DWWMw9cjNFt"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema": "recette_fiche",
+  "schema_version": 1,
+  "id": "brekkie-meal-preps-proteines-english-muffin-cheddar-egg-salad",
+  "recipe_id": "00458",
+  "file": "recettes/00458_brekkie-meal-preps-proteines-english-muffin-cheddar-egg-salad.json",
+  "draft": false,
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  },
+  "recipe": {
+    "title": "Muffin anglais aux œufs et cheddar",
+    "categories": [
+      "Petit-déjeuner",
+      "Protéiné"
+    ],
+    "tags": [
+      "Healthy"
+    ],
+    "servings": "pour 4 muffins",
+    "image": "images/00458_brekkie-meal-preps-proteines-english-muffin-cheddar-egg-salad.jpg",
+    "ingredient_items_cleaned": [
+      {
+        "quantity": "4",
+        "unit": "tranche",
+        "name": "Cheddar"
+      },
+      {
+        "quantity": "100",
+        "unit": "g",
+        "name": "Skyr"
+      },
+      {
+        "quantity": "1",
+        "unit": "cuillère à soupe",
+        "name": "Moutarde"
+      },
+      {
+        "quantity": "2",
+        "unit": "cuillère à soupe",
+        "name": "Fromage frais"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Basilic séché"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Sel"
+      },
+      {
+        "quantity": null,
+        "unit": "unité",
+        "name": "Poivre"
+      }
+    ],
+    "instructions": "",
+    "source": {
+      "type": "Mela",
+      "file": "42-Brekkie Meal Preps Protéinés : English muffin, cheddar & egg salad.melarecipe",
+      "link": "https://www.instagram.com/reel/DeL9Z5poUao",
+      "source_id": "instagram.com/reel/DeL9Z5poUao"
+    }
+  }
+}
