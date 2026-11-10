@@ -1,0 +1,84 @@
+{
+  "recipe_id": "00465",
+  "id": "egg-muffins-au-bacon-et-cheddar",
+  "file": "recettes/00465_egg-muffins-au-bacon-et-cheddar.json",
+  "title": "Egg muffins au bacon et cheddar",
+  "categories": [
+    "Petit-déjeuner",
+    "Protéiné"
+  ],
+  "tags": [
+    "Healthy"
+  ],
+  "ingredient_items_cleaned": [
+    {
+      "name": "Muffin anglais",
+      "quantity": 5,
+      "unit": "unité"
+    },
+    {
+      "name": "Cheddar",
+      "quantity": 10,
+      "unit": "tranche"
+    },
+    {
+      "name": "Bacon",
+      "quantity": 10,
+      "unit": "tranche"
+    },
+    {
+      "name": "Tranche de poulet",
+      "quantity": 5,
+      "unit": "tranche"
+    },
+    {
+      "name": "Œuf",
+      "quantity": 4,
+      "unit": "unité"
+    },
+    {
+      "name": "Cottage cheese",
+      "quantity": 220,
+      "unit": "g"
+    },
+    {
+      "name": "Avocat",
+      "quantity": 1,
+      "unit": "unité"
+    },
+    {
+      "name": "Chou rouge",
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Ciboulette",
+      "quantity": 8,
+      "unit": "g"
+    },
+    {
+      "name": "Mayonnaise",
+      "quantity": 1,
+      "unit": "cuillère à soupe"
+    },
+    {
+      "name": "Moutarde",
+      "quantity": null,
+      "unit": null
+    }
+  ],
+  "servings": 5,
+  "instructions": "1. Couper les muffins anglais en deux. Déposer une tranche de cheddar sur chaque moitié et faire griller au four pendant 7 minutes à 190 °C.\n2. Faire cuire les œufs durs pendant 8 minutes. Les couper en morceaux, puis les mélanger avec le cottage cheese, le chou rouge, l’avocat, la ciboulette ciselée et la mayonnaise.\n3. Garnir chaque muffin d’une tranche de poulet, d’un peu de moutarde et de la préparation aux œufs. Ajouter deux tranches de bacon bien grillées, puis refermer.\n4. Emballer individuellement les sandwichs dans du papier cuisson, puis les placer dans un sac de congélation. Selon la source, conserver jusqu’à 3 jours au réfrigérateur ou 2 mois au congélateur, en indiquant la date.\n5. La source indique un réchauffage au four ou à l’Air Fryer pendant 20 minutes à 190 °C, sans retirer le papier cuisson.",
+  "image": "00465_egg-muffins-au-bacon-et-cheddar.jpg",
+  "source": "https://www.instagram.com/reel/DcOgS5mM-kI/",
+  "validation": {
+    "title_validated": true,
+    "categories_validated": true,
+    "ingredients_validated": true,
+    "units_validated": true,
+    "quantities_validated": true,
+    "portions_validated": true,
+    "instructions_validated": true,
+    "image_validated": true
+  }
+}
